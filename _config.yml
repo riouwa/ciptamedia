@@ -10,7 +10,7 @@ collections:
     output: true
 description: Jack's blog,use Jekyll and github pages.
 keywords: Jack,Jalpc,blog,Jekyll,github,gh-pages
-baseurl: /ciptamedia
+baseurl: "/ciptamedia"
 url: https://riosatria.github.io
 author:
   name: Jack
