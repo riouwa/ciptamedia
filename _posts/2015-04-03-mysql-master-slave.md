@@ -1,11 +1,14 @@
 ---
+title: MySQL主备模式配置
+date: 2015-04-03 00:00:00 Z
+categories:
+- Database
+tags:
+- MySQL
+- 主从
 layout: post
-title:  "MySQL主备模式配置"
-date:   2015-04-03
-desc: "MySQL主备模式配置"
-keywords: "linux,mysql,master,slave,主备"
-categories: [Database]
-tags: [MySQL, 主从]
+desc: MySQL主备模式配置
+keywords: linux,mysql,master,slave,主备
 icon: fa-database
 ---
 

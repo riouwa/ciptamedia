@@ -1,11 +1,15 @@
 ---
+title: Django的权限机制
+date: 2016-02-06 00:00:00 Z
+categories:
+- Python
+tags:
+- django
+- permission
+- 权限
 layout: post
-title:  "Django的权限机制"
-date:   2016-02-06
-desc: "django权限机制"
-keywords: "Python,django,permission"
-categories: [Python]
-tags: [django,permission,权限]
+desc: django权限机制
+keywords: Python,django,permission
 icon: icon-python
 ---
 

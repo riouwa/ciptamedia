@@ -1,14 +1,16 @@
 ---
+title: 关于git的ssh-key:解决本地多个ssh-key的问题
+date: 2016-01-03 00:00:00 Z
+categories:
+- Linux
+tags:
+- ssh
+- key
 layout: post
-title:  "关于git的ssh-key:解决本地多个ssh-key的问题"
-date:   2016-01-03
-desc: "关于git的ssh-key:解决本地多个ssh-key的问题"
-keywords: "git,ssh,key"
-categories: [Linux]
-tags: [ssh,key]
+desc: 关于git的ssh-key:解决本地多个ssh-key的问题
+keywords: git,ssh,key
 icon: fa-linux
 ---
-
 
 在设置github的时候，官方的说明文档要求备份当前的id_rsa，然后生成一份新的私钥用于github的登陆。如果真这样做，那么新的私钥是无法再继续登陆之前的机器的。这种方法有点暴力…
 还好ssh可以让我们通过不同的私钥来登陆不同的域。

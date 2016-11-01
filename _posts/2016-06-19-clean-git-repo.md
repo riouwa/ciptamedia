@@ -1,11 +1,13 @@
 ---
+title: 清洗 Git Repo 代码仓库
+date: 2016-06-19 00:00:00 Z
+categories:
+- Linux
+tags:
+- Git
 layout: post
-title:  "清洗 Git Repo 代码仓库"
-date:   2016-06-19
-desc: "清洗 Git Repo 代码仓库"
-keywords: "git,repo,clean,清洗"
-categories: [Linux]
-tags: [Git]
+desc: 清洗 Git Repo 代码仓库
+keywords: git,repo,clean,清洗
 icon: fa-git
 ---
 

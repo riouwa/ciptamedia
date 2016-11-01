@@ -1,11 +1,14 @@
 ---
+title: tomcat配置优化参数
+date: 2015-09-12 00:00:00 Z
+categories:
+- Linux
+tags:
+- tomcat
+- 优化
 layout: post
-title:  "tomcat配置优化参数"
-date:   2015-9-12
-desc: "tomcat配置优化参数"
-keywords: "linux,tomcat,optimize,优化"
-categories: [Linux]
-tags: [tomcat, 优化]
+desc: tomcat配置优化参数
+keywords: linux,tomcat,optimize,优化
 icon: icon-tomcat
 ---
 

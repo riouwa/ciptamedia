@@ -1,11 +1,14 @@
 ---
+title: hadoop初识（从安装到查询)
+date: 2015-10-16 00:00:00 Z
+categories:
+- Database
+tags:
+- hadoop
+- ambari
 layout: post
-title:  "hadoop初识（从安装到查询)"
-date:   2015-10-16
-desc: "hadoop初识,使用ambari安装Hadoop"
-keywords: "Linux,Hadoop,ambari"
-categories: [Database]
-tags: [hadoop, ambari]
+desc: hadoop初识,使用ambari安装Hadoop
+keywords: Linux,Hadoop,ambari
 icon: fa-linux
 ---
 

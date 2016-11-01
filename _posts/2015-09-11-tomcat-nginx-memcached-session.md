@@ -1,15 +1,18 @@
 ---
+title: tomcat + memcached + nginx 实现session共享
+date: 2015-09-11 00:00:00 Z
+categories:
+- Linux
+tags:
+- tomcat
+- memcached
+- nginx
+- session
 layout: post
-title:  "tomcat + memcached + nginx 实现session共享"
-date:   2015-09-11
-desc: "tomcat + memcached + nginx 实现session共享"
-keywords: "linux,tomcat,memcached,nginx,session,share"
-categories: [Linux]
-tags: [tomcat, memcached, nginx, session]
+desc: tomcat + memcached + nginx 实现session共享
+keywords: linux,tomcat,memcached,nginx,session,share
 icon: fa-linux
 ---
-
-
 
 这里重点强调如何实现linux服务器上 服务器session共享，软件安装不再赘述。
 

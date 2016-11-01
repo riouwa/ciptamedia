@@ -1,11 +1,13 @@
 ---
+title: Mac下给SD卡安装Raspbian系统并配置WiFi
+date: 2016-06-09 00:00:00 Z
+categories:
+- Linux
+tags:
+- Raspbian
 layout: post
-title:  "Mac下给SD卡安装Raspbian系统并配置WiFi"
-date:   2016-06-09
-desc: "install Raspbian to micro-sd on mac and config WiFi"
-keywords: "mac,install,raspbian,micro-sd,wifi"
-categories: [Linux]
-tags: [Raspbian]
+desc: install Raspbian to micro-sd on mac and config WiFi
+keywords: mac,install,raspbian,micro-sd,wifi
 icon: icon-raspberrypi
 ---
 

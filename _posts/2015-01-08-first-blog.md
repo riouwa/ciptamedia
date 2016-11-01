@@ -1,11 +1,13 @@
 ---
+title: 我的第一篇博客
+date: 2015-01-08 00:00:00 Z
+categories:
+- Life
+tags:
+- blog
 layout: post
-title:  "我的第一篇博客"
-desc: "我的第一篇jekyll博客"
-keywords: "jekyll,blog,first"
-date: 2015-01-08
-categories: [Life]
-tags: [blog]
+desc: 我的第一篇jekyll博客
+keywords: jekyll,blog,first
 icon: fa-bookmark-o
 ---
 

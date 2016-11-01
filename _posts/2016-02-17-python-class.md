@@ -1,11 +1,13 @@
 ---
+title: Python 元类
+date: 2016-02-17 00:00:00 Z
+categories:
+- Python
+tags:
+- metaclass
 layout: post
-title:  "Python 元类"
-date:   2016-02-17
-desc: "Python元类"
-keywords: "Python,metaclass"
-categories: [Python]
-tags: [metaclass]
+desc: Python元类
+keywords: Python,metaclass
 icon: icon-python
 ---
 

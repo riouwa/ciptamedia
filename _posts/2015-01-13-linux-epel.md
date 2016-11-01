@@ -1,11 +1,13 @@
 ---
+title: RHEL的EPEL源地址及安装
+date: 2015-01-13 00:00:00 Z
+categories:
+- Linux
+tags:
+- epel
 layout: post
-title:  "RHEL的EPEL源地址及安装"
-date:   2015-01-13
-desc: "RHEL的EPEL源地址及安装"
-keywords: "rhel,epel,rpm,linux"
-categories: [Linux]
-tags: [epel]
+desc: RHEL的EPEL源地址及安装
+keywords: rhel,epel,rpm,linux
 icon: icon-centos
 ---
 

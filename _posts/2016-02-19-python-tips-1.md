@@ -1,11 +1,13 @@
 ---
+title: Python代码优化Tips(一)
+date: 2016-02-19 00:00:00 Z
+categories:
+- Python
+tags:
+- 优化
 layout: post
-title:  "Python代码优化Tips(一)"
-date:   2016-02-19
-desc: "Python代码优化"
-keywords: "Python,tips,优化"
-categories: [Python]
-tags: [优化]
+desc: Python代码优化
+keywords: Python,tips,优化
 icon: icon-python
 ---
 

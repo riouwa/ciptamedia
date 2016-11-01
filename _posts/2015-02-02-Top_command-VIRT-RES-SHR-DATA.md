@@ -1,11 +1,13 @@
 ---
+title: Top命令VIRT,RES,SHR,DATA的含义
+date: 2015-02-02 00:00:00 Z
+categories:
+- Linux
+tags:
+- top
 layout: post
-title:  "Top命令VIRT,RES,SHR,DATA的含义"
-date:   2015-02-02
-desc: "Linux Top命令VIRT,RES,SHR,DATA的含义"
-keywords: "top,linux,virt,res,shr,data"
-categories: [Linux]
-tags: [top]
+desc: Linux Top命令VIRT,RES,SHR,DATA的含义
+keywords: top,linux,virt,res,shr,data
 icon: fa-linux
 ---
 

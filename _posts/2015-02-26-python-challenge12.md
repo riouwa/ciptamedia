@@ -1,11 +1,14 @@
 ---
+title: Python challenge 12
+date: 2015-02-26 00:00:00 Z
+categories:
+- Python
+tags:
+- Python
+- Challenge
 layout: post
-title:  "Python challenge 12"
-date:   2015-02-26
-desc: "Python challenge"
-keywords: "Python,challenge"
-categories: [Python]
-tags: [Python,Challenge]
+desc: Python challenge
+keywords: Python,challenge
 icon: fa-code
 ---
 

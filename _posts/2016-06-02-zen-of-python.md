@@ -1,11 +1,14 @@
 ---
+title: 神奇的Python
+date: 2016-06-02 00:00:00 Z
+categories:
+- Python
+- Life
+tags:
+- Python
 layout: post
-title:  "神奇的Python"
-desc: "Zen of Python"
-keywords: "zen,python,this,Python之禅"
-date:   2016-06-02
-categories: [Python, Life]
-tags: [Python]
+desc: Zen of Python
+keywords: zen,python,this,Python之禅
 icon: icon-python
 ---
 

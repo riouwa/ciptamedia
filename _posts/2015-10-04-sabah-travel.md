@@ -1,11 +1,13 @@
 ---
+title: 我们在沙巴
+date: 2015-10-04 00:00:00 Z
+categories:
+- Life
+tags:
+- Life
 layout: post
-title:  "我们在沙巴"
-desc: "沙巴之旅"
-keywords: "Malaysia,马来西亚,旅行,沙巴,Sabah"
-date:   2015-10-04
-categories: [Life]
-tags: [Life]
+desc: 沙巴之旅
+keywords: Malaysia,马来西亚,旅行,沙巴,Sabah
 icon: fa-bookmark-o
 ---
 

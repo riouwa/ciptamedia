@@ -1,11 +1,14 @@
 ---
+title: 用jPages为Jekyll增加分页
+date: 2016-06-04 00:00:00 Z
+categories:
+- HTML
+tags:
+- pagination
+- jekyll
 layout: post
-title:  "用jPages为Jekyll增加分页"
-desc: "Jekyll自带的分页功能总不是那么全，为了达到更好的分页效果，在不同类别的文章下进行分页，就要用别的方法来实现了。"
-keywords: "Jekyll,pagination,jPages,javascript"
-date:   2016-06-04
-categories: [HTML]
-tags: [pagination,jekyll]
+desc: Jekyll自带的分页功能总不是那么全，为了达到更好的分页效果，在不同类别的文章下进行分页，就要用别的方法来实现了。
+keywords: Jekyll,pagination,jPages,javascript
 icon: icon-html
 ---
 

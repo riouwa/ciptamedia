@@ -1,11 +1,14 @@
 ---
+title: Django多环境配置settings
+date: 2015-12-21 00:00:00 Z
+categories:
+- Python
+tags:
+- django
+- settings
 layout: post
-title:  "Django多环境配置settings"
-date:   2015-12-21
-desc: "Django多环境配置settings"
-keywords: "python,django,settings"
-categories: [Python]
-tags: [django,settings]
+desc: Django多环境配置settings
+keywords: python,django,settings
 icon: icon-python
 ---
 

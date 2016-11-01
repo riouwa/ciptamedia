@@ -1,11 +1,13 @@
 ---
+title: Ionic应用图标和启动页面的配置
+date: 2016-08-08 00:00:00 Z
+categories:
+- HTML
+tags:
+- Ionic
 layout: post
-title:  "Ionic应用图标和启动页面的配置"
-date:   2016-08-08
-desc: "Ionic应用图标和启动页面的配置"
-keywords: "Ionic,icon,splash"
-categories: [HTML]
-tags: [Ionic]
+desc: Ionic应用图标和启动页面的配置
+keywords: Ionic,icon,splash
 icon: icon-phone-gap
 ---
 
