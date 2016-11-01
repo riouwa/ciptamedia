@@ -1,9 +1,10 @@
 ---
+title: Dummy Post 3
+date: 2015-04-18 08:43:59 Z
+categories:
+- Dummy
 layout: post
-title:  "Dummy Post 3"
-date:   2015-04-18 08:43:59
 author: Ben Centra
-categories: Dummy
 ---
 
 This is just a dummy post. Lorem ipsum and all the rest.
