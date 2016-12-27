@@ -41,7 +41,7 @@
     toggleSearch(true);
   });
 
-  $.getJSON("ciptamedia/search/cb-search.json")
+  $.getJSON("/ciptamedia/search/cb-search.json")
     .done(function (data) {
       if (data.code == 0) {
         $("#search-content").typeahead({
