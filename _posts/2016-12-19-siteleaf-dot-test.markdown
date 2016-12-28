@@ -11,4 +11,4 @@ tags:
 Test menulis di siteleaf
 
 test masukin image:
-![Peningkatan_cipta_media.png](/uploads/Peningkatan_cipta_media.png)
+![Peningkatan_cipta_media.png](/uploads/Peningkatan_cipta_media.png){: .img-responsive .center-block }
