@@ -1,2 +1,17 @@
 - name: Blog
   href: '/blog/'
+
+- name: BlogCMS
+  href: '/blogcms/'
+
+- name: BlogCMB
+  href: '/blogcmb/'
+
+- name: Kajian
+  href: '/kajian/'
+
+- name: Berita
+  href: '/berita/'
+
+- name: Teladan
+  href: '/teladan/'
