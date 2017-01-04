@@ -1,2 +1,32 @@
 - name: Blog
   href: '/blog/'
+
+- name: BlogCMS
+  href: '/blogcms/'
+ 
+ - name: BlogCMB
+  href: '/blogcmb/'
+
+- name: Berita
+  href: '/blog/'
+
+- name: Inspirasi
+  href: '/blog/'
+
+- name: Kajian
+  href: '/blog/'
+
+- name: Gagasan
+  href: '/blog/'
+
+- name: Inovasi
+  href: '/blog/'
+
+- name: Tutorial
+  href: '/blog/'
+  
+- name: Teladan
+  href: '/blog/'
+  
+- name: Acara
+  href: '/blog/'
