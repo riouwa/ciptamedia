@@ -10,7 +10,7 @@ collections:
     output: true
 description: Arsip Cipta Media Seluler,menggunakan Jekyll dan github pages.
 keywords: Cipta Media Seluler,CMS,blog,arsip,Jekyll,github,gh-pages
-author:
+authors:
   cms:
     name: Cipta Media Seluler
     desc: Media interaksi dan pembelajaran bersama tentang pemanfaatan teknologi seluler
