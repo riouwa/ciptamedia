@@ -19,7 +19,7 @@ Panitia berharap dari pemohon hibah yang masuk ada yang benar benar mengerti men
 
 Panitia Cipta Media Bersama menetapkan Lentera Timur beserta lima pemohon hibah lainnya sebagai “teladan” pada tanggal 25 Agustus 2011 yang berartinya permintaan hibahnya dijadikan contoh bagi pemohon hibah lainnya yang belum memasukkan permohonannya. Seperti penerima hibah lainnya, Lentera Timur pun melalui proses penajaman proposal dan evaluasi anggaran, setelah proposal lengkap dan anggaran rinci masuk, permintaan menjadi 300 juta rupiah.
 
-> Paham sentralisme dalam ruang-ruang redaksi media massa memunculkan wacana publik yang melulu menyangkut "Jakarta" dan memberikan definisi cacat atas apa-apa yang penting dan layak untuk disampaikan ke publik. Peristiwa dan dinamika lokal hanya dapat menjadi wacana publik yang luas ketika ditimbang dalam perspektif Jakarta dengan kerusuhan dan hiruk-pikuk yang pada gilirannya membentuk opini bahwa luar Jakarta adalah kawasan tak berkembang, inferior.
+> *Paham sentralisme dalam ruang-ruang redaksi media massa memunculkan wacana publik yang melulu menyangkut "Jakarta" dan memberikan definisi cacat atas apa-apa yang penting dan layak untuk disampaikan ke publik. Peristiwa dan dinamika lokal hanya dapat menjadi wacana publik yang luas ketika ditimbang dalam perspektif Jakarta dengan kerusuhan dan hiruk-pikuk yang pada gilirannya membentuk opini bahwa luar Jakarta adalah kawasan tak berkembang, inferior.*
 
 LenteraTimur.com mempertimbangkan bahwa apa yang penting dan layak dipublikasikan dan didiskusikan sepatutnya ditentukan oleh masyarakat itu sendiri, baik secara internal maupun dalam perjumpaannya dengan masyarakat lain.
 
