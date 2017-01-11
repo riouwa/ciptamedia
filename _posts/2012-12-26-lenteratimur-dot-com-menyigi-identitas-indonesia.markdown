@@ -8,6 +8,7 @@ tags:
 - LenteraTimur
 - Indonesia
 - Penulis
+author: admincmb
 ---
 
 ![Lentera-Timur-e1349545842661.jpg](/uploads/Lentera-Timur-e1349545842661.jpg){: .img-responsive .center-block }
