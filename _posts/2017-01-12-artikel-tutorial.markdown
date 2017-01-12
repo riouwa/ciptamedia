@@ -43,7 +43,7 @@ memasukan video youtube:
 
 Responsif
 <div class="embed-responsive">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hxJ9coOc7XY" frameborder="0" allowfullscreen></iframe>
+<iframe class="embed-responsive-item" width="560" height="315" src="https://www.youtube.com/embed/hxJ9coOc7XY" frameborder="0" allowfullscreen></iframe>
 </div>
 
 Tidak responsif
