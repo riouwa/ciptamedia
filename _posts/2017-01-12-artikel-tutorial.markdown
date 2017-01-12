@@ -31,6 +31,6 @@ author: admincmb
 
 Memasukan link dapat ditulis seperti ini: [Google](https://www.google.com)
 
-Contoh gambar: [favicon.ico](/uploads/favicon.ico "Logo PKT")
+Contoh gambar: ![favicon.ico](/uploads/favicon.ico "Logo PKT")
 
-Gambar responsif: [favicon.ico](/uploads/favicon.ico "Logo PKT"){: .img-responsive .center-block }
+Gambar responsif: ![favicon.ico](/uploads/favicon.ico "Logo PKT"){: .img-responsive .center-block }
