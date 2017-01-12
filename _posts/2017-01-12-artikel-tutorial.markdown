@@ -35,4 +35,4 @@ Contoh gambar: ![favicon.ico](/uploads/favicon.ico "Logo PKT")
 
 Gambar responsif: ![favicon.ico](/uploads/favicon.ico "Logo PKT"){: .img-responsive .center-block }
 
-> menulis quote dengan menambahkan simbol '>' di depan sebuah paragraf. dengan demikian seluruh paragraf akan berubah menjadi quote. untuk mengakhiri sebuah quote, anda cukup menekan 'enter' dua kali dan memulai baris baru
+> menulis quote dengan menambahkan simbol `>` di depan sebuah paragraf. dengan demikian seluruh paragraf akan berubah menjadi quote. untuk mengakhiri sebuah quote, anda cukup menekan `enter` dua kali dan memulai baris baru
