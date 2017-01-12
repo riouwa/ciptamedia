@@ -6,6 +6,7 @@ categories:
 - Tutorial
 tags:
 - Tutorial
+author: admincmb
 ---
 
 ## Menulis di Siteleaf
@@ -24,8 +25,12 @@ tags:
    1. sub poin ketiga dengan urutan
    2. sub poin
 4. Poin ke empat    
-    penjelasan poin ke empat ditulis dengan menggunakan tiga kali spasi  
+    penjelasan poin ke empat ditulis dengan menggunakan empat kali spasi  
     penjelasan ini dapat ditulis berbaris-baris
 5. Poin ke lima
 
 Memasukan link dapat ditulis seperti ini: [Google](https://www.google.com)
+
+Contoh gambar: [favicon.ico](/uploads/favicon.ico "Logo PKT")
+
+Gambar responsif: [favicon.ico](/uploads/favicon.ico "Logo PKT"){: .img-responsive .center-block }
