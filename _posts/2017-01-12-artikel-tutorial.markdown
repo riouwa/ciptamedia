@@ -25,4 +25,7 @@ tags:
    2. sub poin
 4. Poin ke empat    
     penjelasan poin ke empat ditulis dengan menggunakan tiga kali spasi  
+    penjelasan ini dapat ditulis berbaris-baris
 5. Poin ke lima
+
+Memasukan link dapat ditulis seperti ini: [Google](https://www.google.com)
