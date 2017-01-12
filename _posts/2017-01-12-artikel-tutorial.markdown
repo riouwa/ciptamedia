@@ -9,3 +9,5 @@ tags:
 ---
 
 ## Menulis di Siteleaf
+
+*menulis teks miring* atau _menulis teks miring_
