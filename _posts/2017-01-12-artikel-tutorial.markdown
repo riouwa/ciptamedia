@@ -21,7 +21,7 @@ tags:
   * sub poin kedua
   * sub poin kedua
 3. Poin ke tiga
-  1. sub poin ketiga dengan urutan
-  2. sub poin
+   1. sub poin ketiga dengan urutan
+   2. sub poin
 4. Poin ke empat
-   penjelasan poin ke empat ditulis dengan menggunakan tiga kali spasi
+    penjelasan poin ke empat ditulis dengan menggunakan tiga kali spasi
