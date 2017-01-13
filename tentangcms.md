@@ -1,6 +1,6 @@
 ---
 title: Tentang CMS
-layout: blog
+layout: info
 ---
 
 <div class="embed-responsive">
