@@ -9,7 +9,7 @@ tags:
 author: hillun
 ---
 
-
+![168-Situs-Laporan-Warga-Tanah-Papua-Berbasis-SMS-350x350.jpg](/uploads/168-Situs-Laporan-Warga-Tanah-Papua-Berbasis-SMS-350x350.jpg){: .img-responsive .center-block }
 
 Dengan mengacu pada tahun terakhir periode sebelum hibah (Agustus 2013–April 2014) sebagai perbandingan, laporan yang masuk pada periode hibah sampai dengan pelaporan tahap I (Agustus 2014–April 2015) meningkat secara signifikan, yakni 53 laporan berbanding 660 laporan.
 
