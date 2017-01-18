@@ -10,6 +10,8 @@ tags:
 - AMAN
 ---
 
+![800px-Juni_03_2015_MWH_Pertemuan_AMAN_dengan_Dinas_Kehutanan_Haltim.jpg](/uploads/800px-Juni_03_2015_MWH_Pertemuan_AMAN_dengan_Dinas_Kehutanan_Haltim.jpg){: .img-responsive .center-block }
+
 Tujuan: Hearing Dengan Pemkab Haltim
 
 Lokasi: Hotel Buli Karya
