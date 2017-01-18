@@ -4,6 +4,7 @@ layout: info
 ---
 
 |nomor|'1'|
+|---|---|
 |nama|Jani Sanjaya|
 |lokasi:|Tasikmalaya, Jawa Barat|
 |organisasi:|pribadi|
