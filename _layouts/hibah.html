@@ -35,8 +35,18 @@
     </div
 
   <div class="row">
-      <div class="col-md-12">
+      <div class="col-md-8">
         {{ content }}
+      </div>
+      <div class="col-md-4">
+        <h1>Perkembangan Proyek</h1>
+        {% for post in site.categories['Berita'] %}
+            <a href="{{ post.url }}" class="btn-link">
+                <h2>
+                    {{ post.title }}
+                </h2>
+            </a>
+        {% endfor %}
       </div>
   </div>
 
