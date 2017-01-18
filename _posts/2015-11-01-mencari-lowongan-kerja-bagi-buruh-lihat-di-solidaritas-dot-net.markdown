@@ -10,6 +10,8 @@ tags:
 author: hillun
 ---
 
+![124-Solidaritas.net-Media-Center-350x350.jpg](/uploads/124-Solidaritas.net-Media-Center-350x350.jpg){: .img-responsive .center-block }
+
 Salah satu program dari Solidaritas.net Media Center (SMC) adalah menyediakan informasi lowongan kerja untuk buruh yang bisa diakses di [http://solidaritas.net](http://solidaritas.net/). Informasi ini didapatkan dari grup-grup lowongan kerja di Facebook.
 
 Ke depannya kami berharap buruh mengirimkannya sendiri ke kami. Untuk permulaan, kami harus aktif mencari informasinya. Bukan hal yang mudah karena informasi lowongan kerja harus diverifikasi (bebas dari calo), ungkap [Sarinah](http://ciptamedia.org/team/sarinah/), pemimpin proyek SMC.
