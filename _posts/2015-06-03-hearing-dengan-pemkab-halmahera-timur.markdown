@@ -17,7 +17,8 @@ Lokasi: Hotel Buli Karya
 Alamat: Buli, Halmahera Timur
 
 Hadir:
-*  Pemkab Haltim
+
+* Pemkab Haltim
 * Kadis Kehutanan Haltim
 * 2 Orang Staf
 * AMAN
