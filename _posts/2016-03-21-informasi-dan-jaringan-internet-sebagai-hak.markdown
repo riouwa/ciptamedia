@@ -1,6 +1,6 @@
 ---
 title: Informasi dan Jaringan Internet sebagai hak
-date: 2017-03-21 16:49:00 +07:00
+date: 2016-03-21 16:49:00 +07:00
 categories:
 - CMS
 - Kajian
