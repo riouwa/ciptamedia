@@ -17,7 +17,7 @@ layout: info
 {% for hibah in site.data.hibah %}
     <div class="col-md-6">
     <a href="{{ hibah.pranala }}"><h1>{{ hibah.judul }}</h1></a>
-    Deskripsi: {{ hibah.deskripsi }}
+    Deskripsi: {{ hibah.deskripsi | truncate:100 }}
     </div>
 {% endfor %}
 
