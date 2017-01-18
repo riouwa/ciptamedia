@@ -10,7 +10,7 @@ tags:
 author: hillun
 ---
 
-![124-Solidaritas.net-Media-Center-400x400.jpg](/uploads/124-Solidaritas.net-Media-Center-400x400.jpg)
+![124-Solidaritas.net-Media-Center-400x400.jpg](/uploads/124-Solidaritas.net-Media-Center-400x400.jpg){: .img-responsive .center-block }
 
 Selama mendapatkan hibah CMS, ada beberapa perubahan lingkup organisasi yang dialami Solidaritas.net Media Center (SMC). Berikut penjelasan dari [Sarinah](http://ciptamedia.org/team/sarinah/) sebagai ketua SMC.
 
