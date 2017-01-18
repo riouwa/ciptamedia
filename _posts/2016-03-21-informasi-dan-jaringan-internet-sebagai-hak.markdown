@@ -22,7 +22,8 @@ Ada beberapa solusi yang bisa diterapkan untuk mengatasi masalah akses jaringan 
 
 Sayang teknologi ini masih asing dan kurang mendapatkan dukungan baik dari pemerintah maupun para aktivis sosial. Padahal akses komunikasi yang mudah dan murah semestinya menjadi hak dasar. Secara umum teknologi OpenBTS merupakan sebuah komputer dan radio yang memiliki dimensi 25 cm x 30 cm x 5 cm.
 
-![800px-Februari_25_2015_OBTS_Pelatihan_OpenBTS_7.jpg](/uploads/800px-Februari_25_2015_OBTS_Pelatihan_OpenBTS_7.jpg){: .img-responsive .center-block } 
+![800px-Februari_25_2015_OBTS_Pelatihan_OpenBTS_7.jpg](/uploads/800px-Februari_25_2015_OBTS_Pelatihan_OpenBTS_7.jpg){: .img-responsive .center-block }
+Pelatihan OpenBTS, tampak alatnya dengan antena disebelah komputer 
 
 Menurut Handri Santoso, dosen Informatika Universitas Surya, menjelaskan ada dua versi untuk OpenBTS. Pertama, versi non-komersil (seharga 1.340 USD) memiliki jangkauan 7 meter sehingga butuh penguat sinyal jika ingin menjangkau wilayah yang lebih luas. Kedua, versi komersil (300 juta rupiah) memiliki jangkauan hingga 30 kilometer. Jadi alatnya bisa disesuaikan dengan kebutuhan oleh masyarakat dari wilayah tak terjangkau jaringan seluler. Tidak harus sangat mahal, tapi bisa memenuhi kebutuhan dasar akses informasi yang mudah dan murah.
 
