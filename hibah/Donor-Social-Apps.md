@@ -4,7 +4,7 @@ nohibah: '001'
 layout: hibah
 ---
 
-![001](/static/img/hibah/001.png){: .img-responsive } { width: 200px; }
+![001](/static/img/hibah/001.png){: .img-responsive }{: width="350" }
 
 ## {{ page.nohibah }} - {{ page.title }}
 
