@@ -44,8 +44,8 @@ Lho ya tentu saja. Makanya cari tahu dulu soal isu buruh dan tuntutan buruh. Ada
 
 Lho ya sepakat. Saya juga minta anda untuk adil. Kalau ada buruh yang demo pake ninja, ia tidak merepresentasikan 1.678.364 buruh di seluruh Indonesia. Kenapa gak fokus ke buruh yang naik bus, naik truk, atau bahkan jalan kaki untuk demonstrasi? Kenapa fokus pada Buruh pemilik ninja?
 
-Ini misalnya ada buruh yang long march jalan kaki. Kenapa kalian fokus pada yang naik ninja? Bisahkah bersimpati pada buruh yang jalan kaki dari [Cileungsi karena dipecat setelah 4 bulan bekerja tanpa gaji](http://news.liputan6.com/read/2371272/long-march-bandung-jakarta-pembalut-wanita-solusi-kaki-buruh). Anda bisa bekerja 4 bulan tanpa gaji? [Ada pula buruh yang jalan kaki dari lampung](http://www.kspi.or.id/longmarch-buruh-lampung-jakarta-bergerak-menuju-tangerang.html) untuk menunjukan solidaritas terhadap mogok nasional.
-
+Ini misalnya ada buruh yang long march jalan kaki. Kenapa kalian fokus pada yang naik ninja? Bisahkah bersimpati pada buruh yang jalan kaki dari [Cileungsi karena dipecat setelah 4 bulan bekerja tanpa gaji](http://news.liputan6.com/read/2371272/long-march-bandung-jakarta-pembalut-wanita-solusi-kaki-buruh). Anda bisa bekerja 4 bulan tanpa gaji? [Ada pula buruh yang jalan kaki dari lampung](http://www.kspi.or.id/longmarch-buruh-lampung-jakarta-bergerak-menuju-tangerang.html) untuk menunjukan solidaritas terhadap mogok nasional.  
+  
 2. **Gaji gue aja 2,5 kok buruh minta 3,5. Gak tau diri.**
 
 Jadi gini jika anda perlu membaca pasal 90 ayat 1 UU No. 13/2003. Undang undang itu menyatakan pengusaha dilarang membayar lebih rendah dari ketentuan upah minimum yang telah ditetapkan pemerintah setempat. Nah dalam penentuan upah minimum untuk buruh, pemerintah memiliki apa yang disebut dengan Komponen Hidup Layak. Yaitu standar kebutuhan yang harus dipenuhi oleh seorang pekerja/buruh lajang untuk dapat hidup layak baik secara fisik, non fisik dan sosial, untuk kebutuhan 1 (satu) bulan.
