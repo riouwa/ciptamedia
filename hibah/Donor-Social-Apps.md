@@ -8,7 +8,7 @@ layout: hibah
 
 ## {{ page.nohibah }} - {{ page.title }}
 
-Nomor Urut: {{ page.nohibah }}
+|Nomor Urut|{{ page.nohibah }}|
 
 ---
 
