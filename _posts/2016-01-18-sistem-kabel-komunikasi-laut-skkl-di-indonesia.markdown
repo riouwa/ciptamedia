@@ -1,6 +1,11 @@
 ---
 title: Sistem Kabel Komunikasi Laut (SKKL) di Indonesia
 date: 2016-01-18 11:42:00 +07:00
+categories:
+- CMS
+- Kajian
+tags:
+- komunikasi laut
 author: reza
 ---
 
