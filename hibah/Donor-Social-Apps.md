@@ -9,14 +9,8 @@ layout: hibah
 ## {{ page.nohibah }} - {{ page.title }}
 
 |Nomor Urut|{{ page.nohibah }}|
-
----
-
-Nama Lengkap Inisiator: Jani Sanjaya
-
----
-
-Lokasi: Tasikmalaya, Jawa Barat
+|Nama Lengkap Inisiator|Jani Sanjaya|
+|Lokasi|Tasikmalaya, Jawa Barat|
 
 ---
 
