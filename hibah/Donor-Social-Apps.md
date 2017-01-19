@@ -4,7 +4,8 @@ nohibah: '001'
 layout: hibah
 ---
 
-![001](/static/img/hibah/001.png){: .img-responsive .center-block })
+![001](/static/img/hibah/001.png){: .img-responsive .center-block .width="350"}
+
 ## {{ page.nohibah }}{{ page.title }}
 
 Nomor Urut: {{ page.nohibah }}
