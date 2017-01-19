@@ -9,7 +9,7 @@ tags:
 author: reza
 ---
 
-![Kabel-Laut-Indonesia.png](/uploads/Kabel-Laut-Indonesia.png)
+![Kabel-Laut-Indonesia.png](/uploads/Kabel-Laut-Indonesia.png){: .img-responsive .center-block }
 
 Infografis di atas disusun sebagai salah satu upaya menginformasikan pada publik berbagai sistem komunikasi kabel laut (SKKL) yang dimiliki operator telekomunikasi di Indonesia. Dalam upaya menyusun data untuk infografis di atas, penulis memperoleh data tentang operator telekomunikasi mana yang mendapatkan hak labuh dari siaran pers di [situs Kementerian Komunikasi dan Informasi ](http://www.postel.go.id/info_view_c_26_p_1688.htm)(Kemkominfo).
 
