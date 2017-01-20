@@ -47,8 +47,8 @@ layout: default
 		    </div>
 		    <div id="collapse1" class="panel-collapse collapse in">
 		      <div class="panel-body">
-			      {% for post in site.categories['Berita'] %}
-			      	<a href="{{ post.url }}" class="btn-link"><h2>{{ post.title }}</h2></a>
+			      {% for post in site.categories['Berita'] limit:5 %}
+			      	<a href="{{ post.url }}" class="btn-link"><h3>{{ post.title }}</h3></a>
 				<p>{{ post.content | strip_html | truncate:100 }}</p>
 			        <hr>
 			      {% endfor %}
