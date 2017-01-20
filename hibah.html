@@ -34,7 +34,7 @@ layout: info
     	<br/>
 	<ul id="pag-itemContainer" style="list-style:none;">
 	{% assign counter = 0 %}
-        {% for hibah[tipe.konten] in site.data.hibah %}
+        {% for hibah in site.data.hibah[tipe.konten] %}
 	{% assign counter = counter | plus: 1 %}
         <li>
     	<div class="col-md-4">
