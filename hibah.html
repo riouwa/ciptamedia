@@ -35,6 +35,7 @@ layout: info
 	<ul id="pag-itemContainer" style="list-style:none;">
 	{% assign counter = 0 %}
         {% for hibah in site.data.hibah %}
+	{% if hibah.tipe == 'konten' %}
 	{% assign counter = counter | plus: 1 %}
         <li>
     	<div class="col-md-4">
@@ -47,6 +48,7 @@ layout: info
 		<i class="fa fa-map-marker" aria-hidden="true"></i> {{ hibah.lokasi }}
               </div>
     	</div>
+	{% endif %}
         {% endfor %}
 	</div>
 	</li>
