@@ -21,6 +21,11 @@ sections:
   name: Penerima Hibah
   tpl: proyek.html
   css: project
+- id: hibah
+  i18n: ''
+  name: Daftar Permintaan Hibah
+  tpl: hibah.html
+  css: ''
 - id: blog
   i18n: nav.blog
   name: Blog
