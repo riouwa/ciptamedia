@@ -25,6 +25,7 @@ layout: info
 	<div class="row">
     	<br/>
 	{% for hibah in site.data.hibah %}
+	{% assign loopindex = forloop.index | modulo: 3 %}
     	<div class="col-md-4">
              <div class="col-md-12 well well-lg">
 		<a href="{{ hibah.link }}"><img class="img-responsive center-block" src="{{ hibah.gambar }}"></a>
@@ -35,7 +36,7 @@ layout: info
 		<i class="fa fa-map-marker" aria-hidden="true"></i> {{ hibah.lokasi }}
               </div>
     	</div>
-	{% if forloop.index == 3 %}
+	{% if loopindex == 0 %}
 		<div class="clearfix visible-lg"></div>
 	{% endif %}
 	{% endfor %}
