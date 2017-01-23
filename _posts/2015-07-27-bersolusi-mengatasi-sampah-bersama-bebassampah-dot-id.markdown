@@ -13,7 +13,7 @@ Kota Bandung memiliki [masalah yang kritis](https://www.youtube.com/watch?t=73&v
 
 Jika dibiarkan, tragedi sampah yang longsor pada tahun 2005 bisa saja terulang dan Bandung kembali mendapat julukan “Bandung Lautan Sampah”. Menanggapi masalah ini, [Bebassampah.id](http://bebassampah.id/) menawarkan solusi untuk pengelolaan sampah. Seperti apa solusinya? Mari lihat video berikut.
 
-<div class="video-container"<iframe width="560" height="315" src="https://www.youtube.com/embed/mXYJI1A9e5w" frameborder="0" allowfullscreen></iframe></div
+<div class="video-container"<iframe width="560" height="315" src="https://www.youtube.com/embed/mXYJI1A9e5w" frameborder="0" allowfullscreen></iframe></div>
 
 Bebassampah.id adalah portal informasi terkait pengelolaan sampah kota yang partisipatif (melibatkan seluruh aktor: masyarakat, swasta dan pemerintah), Saat ini masih fokus menangani pengelolaan sampah di Bandung. Namun, tidak menutup kemungkinan akan diperluas ke kota-kota lainnya.
 
