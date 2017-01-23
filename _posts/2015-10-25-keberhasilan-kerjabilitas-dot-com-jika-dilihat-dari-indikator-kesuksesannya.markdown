@@ -3,7 +3,7 @@ title: Keberhasilan Kerjabilitas.com Jika Dilihat dari Indikator Kesuksesannya
 date: 2015-10-25 15:43:00 +07:00
 categories:
 - CMS
-- Inspirasi
+- Berita
 tags:
 - kerjabilitas
 author: hillun
