@@ -4,7 +4,7 @@ layout: info
 ---
 
   <!-- jPages -->
-  <script src= "/static/js/jPages.js"></script>
+  <script src= "/static/js/jpages_hibah.js"></script>
   <script src= "/static/js/js.js"></script>
   <!--<script id= "dsq-count-scr" src="//jalpc.disqus.com/count.js" async></script>-->
   <script>
@@ -12,6 +12,14 @@ layout: info
           /* initiate the plugin */
           $("div.pag-holder").jPages({
               containerID  : "pag-itemContainer",
+              perPage      : 5,  /* num of items per page */
+              startPage    : 1,
+              startRange   : 1,
+              midRange     : 3,
+              endRange     : 1
+          });
+          $("div.pag-holder-cont").jPages({
+              containerID  : "pag-itemContainer-cont",
               perPage      : 5,  /* num of items per page */
               startPage    : 1,
               startRange   : 1,
@@ -125,7 +133,7 @@ layout: info
 	<div id="konten" class="tab-pane fade">
 	<div class="row">
     	<br/>
-	<ul id="pag-itemContainer" style="list-style:none;">
+	<ul id="pag-itemContainer-cont" style="list-style:none;">
 	{% assign counter = 0 %}
         {% for hibah in site.data.hibah %}
 	{% if hibah.tipe == 'konten' %}
@@ -146,7 +154,7 @@ layout: info
 	</div>
 	</li>
 	</ul>
-	{% include pagination.html %}
+	{% include pagination-cont.html %}
 	</div>
 </div>
 
