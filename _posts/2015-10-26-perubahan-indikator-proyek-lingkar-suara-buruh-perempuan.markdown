@@ -3,7 +3,7 @@ title: Perubahan Indikator Proyek Lingkar Suara Buruh Perempuan
 date: 2015-10-26 15:41:00 +07:00
 categories:
 - CMS
-- Inspirasi
+- Berita
 tags:
 - buruh perempuan
 author: hillun
