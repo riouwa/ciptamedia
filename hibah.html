@@ -20,6 +20,45 @@ layout: info
           });
       });
   </script>
+  <script>
+        $(function(){
+          /* initiate the plugin */
+          $("div.pag-holder").jPages({
+              containerID  : "pag-itemContainer_hard",
+              perPage      : 5,  /* num of items per page */
+              startPage    : 1,
+              startRange   : 1,
+              midRange     : 3,
+              endRange     : 1
+          });
+      });
+  </script>
+  <script>
+        $(function(){
+          /* initiate the plugin */
+          $("div.pag-holder").jPages({
+              containerID  : "pag-itemContainer_soft",
+              perPage      : 5,  /* num of items per page */
+              startPage    : 1,
+              startRange   : 1,
+              midRange     : 3,
+              endRange     : 1
+          });
+      });
+  </script>
+  <script>
+        $(function(){
+          /* initiate the plugin */
+          $("div.pag-holder").jPages({
+              containerID  : "pag-itemContainer_cont",
+              perPage      : 5,  /* num of items per page */
+              startPage    : 1,
+              startRange   : 1,
+              midRange     : 3,
+              endRange     : 1
+          });
+      });
+  </script>
   <!-- jPages -->
 
 <div class="container">
@@ -69,7 +108,7 @@ layout: info
 	<div id="hardware" class="tab-pane fade">
 	<div class="row">
     	<br/>
-	<ul id="pag-itemContainer" style="list-style:none;">
+	<ul id="pag-itemContainer_hard" style="list-style:none;">
 	{% assign counter = 0 %}
         {% for hibah in site.data.hibah %}
 	{% if hibah.tipe == 'hardware' %}
@@ -97,7 +136,7 @@ layout: info
 	<div id="software" class="tab-pane fade">
 	<div class="row">
     	<br/>
-	<ul id="pag-itemContainer" style="list-style:none;">
+	<ul id="pag-itemContainer_soft" style="list-style:none;">
 	{% assign counter = 0 %}
         {% for hibah in site.data.hibah %}
 	{% if hibah.tipe == 'software' %}
@@ -125,7 +164,7 @@ layout: info
 	<div id="konten" class="tab-pane fade">
 	<div class="row">
     	<br/>
-	<ul id="pag-itemContainer" style="list-style:none;">
+	<ul id="pag-itemContainer_cont" style="list-style:none;">
 	{% assign counter = 0 %}
         {% for hibah in site.data.hibah %}
 	{% if hibah.tipe == 'konten' %}
