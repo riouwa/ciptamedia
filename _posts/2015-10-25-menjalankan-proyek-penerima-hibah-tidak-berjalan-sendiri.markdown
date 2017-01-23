@@ -3,7 +3,7 @@ title: Menjalankan Proyek, Penerima Hibah Tidak Berjalan Sendiri
 date: 2015-10-25 15:45:00 +07:00
 categories:
 - CMS
-- Inspirasi
+- Berita
 tags:
 - hibah
 author: hillun
