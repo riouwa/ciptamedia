@@ -3,7 +3,7 @@ title: Proyek Berakhir, Apa yang Sudah Diperoleh Sempugi?
 date: 2015-10-24 15:48:00 +07:00
 categories:
 - CMS
-- Inspirasi
+- Berita
 tags:
 - sempugi
 author: hillun
