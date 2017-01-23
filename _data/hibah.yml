@@ -5,7 +5,7 @@
   lokasi: Tasikmalaya, Jawa Barat
   tipe: software
   gambar: /static/img/hibah/001.png
-  link: /hibah/Donor-Social-Apps
+  link: /hibah/001
 
 - nomor: 002
   judul: Penggunaan Telepon Seluler di Taman bacaan Sebagai Media Pembelajaran
@@ -31,5 +31,14 @@
       Pembuatan media promosi kesehatan oleh santri pondok pesantren dengan harapan media mampu meng intervensi santri ponpes yang selama ini kurang dalam kesadaran ber prilaku hidup bersih dan sehat.
   lokasi: Gresik, Jawa Timur
   tipe: konten
+  gambar:
+  link:
+
+- nomor: 005
+  judul: Aplikasi dan sistem untuk membantu meningkatkan penjualan pedagang pasar melalui ecommerce
+  deskripsi: |
+      Pasarminggu.co adalah layanan pesan antar bahan-bahan segar yang bekerja sama dengan pedagang pasar untuk memenuhi pesanan pelanggan. Melalui layanan kami, memungkinkan pedagang pasar mendapatkan channel penjualan tambahan yaitu online, walaupun mereka tidak punya akses internet and tidak punya kapasitas untuk melayani pelanggan online. Dari sisi pelanggan, pasarminggu.co mirip seperti toko online yang lain, mereka tinggal meng-klik item yang diinginkan. Pelanggan dengan mudah berbelanja dari beberapa pedagang pasar sekaligus yang menjual berbagai jenis dagangan. Kami akan memproses pesanan tersebut dari berbagai pedagang pasar yang berbeda. Mitra pedagang kami mencakup penjual sayur-mayur, berbagai macam lauk-pauk termasuk daging dan ikan asin, bumbu dapur serta penjual jajanan pasar. Pasarminggu.co tidak hanya menyiapkan situs ecommerce yang bisa diakses pelanggan, namun juga menyiapkan dukungan operasional logistik, customer service serta dukungan operasional terkait lainnya. Untuk saat ini, layanan ini baru menjangkau wilayah Jakarta, kami berusaha agar kedepannya dapat juga menjangkau daerah-daerah lainnya.
+  lokasi: Jakarta
+  tipe: software
   gambar:
   link:
