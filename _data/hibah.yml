@@ -42,3 +42,68 @@
   tipe: software
   gambar:
   link:
+
+- nomor: 006
+  judul: SMS Tani
+  deskripsi: |
+      Petani di daerah terpencil di Kabupaten Kupang terus menerus mengalami gagal tanam maupun gagal panen karena ketidakmampuan memprediksi kondisi cuaca. Ditambah lagi dengan buruknya kondisi sarana dan prasarana transportasi di daerah tersebut yang menyebabkan para petani kesulitan memperoleh informasi dari luar daerahnya. Sulitnya akses ini menyebabkan lambatnya daerah terpencil menerima perkembangan-perkembangan baru yang sudah terjadi di daerah maju.
+      Satu-satunya teknologi yang mereka gunakan adalah telepon seluler biasa dengan fitur dasar untuk menelepon dan mengirim pesan singkat. Karenanya, penyebarluasan serta pertukaran informasi dengan memanfaatkan SMS paling memungkinkan untuk dipakai secara optimal oleh para petani.
+      Konten yang paling dibutuhkan para petani terutama adalah informasi seperti kondisi klimatik terkait proyeksi kapan akan terjadi hujan, kapan waktu yang baik dan tepat untuk mulai menanam, dan tanaman apa yang cocok bagi kondisi klimat tertentu, diversifikasi panen, juga saran-saran untuk berbagai masalah pertanian. Informasi seperti ini akan mampu meningkatkan produktivitas petani dan meminimalisasi resiko sehingga kerugian dapat dihindari. Selain itu, teknologi sederhana ini juga dapat dimanfaatkan untuk menghubungkan petani dengan petani, serta petani dengan instansi-instansi pemerintah maupun swasta sehingga terjadi upaya-upaya pendampingan dan usaha untuk memperbaiki sistem tani yang berkelanjutan.
+  lokasi: Kupang, Nusa Tenggara Timur
+  tipe: konten
+  gambar:
+  link:
+
+- nomor: 007
+  judul: Hijauku.com - Inspirasi Hijau di Ponsel Anda
+  deskripsi: |
+      Mengembangkan lebih lanjut fitur dan aplikasi seluler Hijaukudotcom untuk berbagai format guna memermudah masyarakat mendapatkan informasi dan inspirasi hijau dan ramah lingkungan. Informasi ini terkait informasi hasil penelitian, informasi komunitas, teknologi, berita dan program lingkungan yang inspiratif di masyarakat yang bisa dijadikan inspirasi menuju penerapan pola pembangunan yang berkelanjutan.
+  lokasi: Depok, Jawa Barat
+  tipe: konten
+  gambar:
+  link:
+
+- nomor: 008
+  judul: MMS Untuk Nelayan
+  deskripsi: |
+      MMS untuk nelayan adalah program penyebaran informasi melalui MMS (Multimedia Messaging Service). Informasi yang disebarkan kepada nelayan berupa informasi Peta Tinggi Gelombang Laut dan Peta Potensi Hujan (Qualitative rainfall estimate). Sumber informasi MMS untuk nelayan berasal dari BMKG sehingga kerjasama dengan BMKG penting untuk dijalin.
+  lokasi: Majene, Sulawesi Barat
+  tipe: konten
+  gambar:
+  link:
+
+- nomor: 009
+  judul: Merubah layanan SMS (text) pengirim menjadi Voice (suara) ke penerima dan sebaliknya dengan harga yang sama /sms
+  deskripsi: |
+      Merubah layanan SMS (text) pengirim menjadi Voice (suara) ke penerima dan sebaliknya.
+  lokasi: Jakarta Barat
+  tipe: software
+  gambar:
+  link:
+
+- nomor: 010
+  judul: Sistem Informasi Laporan Non-Darurat dan Media Sosial Masyarakat Lokal Indonesia
+  deskripsi: |
+      Proyek ini akan menghasilkan sebuah sistem yang memanfaatkan media seluler untuk ‘mengawasi dan melaporkan’ kejadian sehari-hari yang berhubungan dengan public service yang sifatnya non-emergency issue sehingga dapat dijadikan media oleh pemerintah setempat untuk melakukan perbaikan dari hari ke hari secara bertahap berdasarkan keterlibatan komunitas lokal setempat. Contoh sistem serupa yang telah berjalan di USA: http://seeclickfix.com/ Namun, sistem yang saya rancang ini akan lebih memanfaatkan telepon seluler untuk kolaborasi informasinya. Selain bermanfaat untuk pelaporan, sistem ini juga akan berjalan sebagai sistem media social dan media komunikasi untuk menghubungkan komunitas masing-masing masyarakat lokal setempat (antar tetangga, RT/RW, kelurahan, dst.)
+  lokasi: Bandung, Jawa Barat
+  tipe: konten
+  gambar:
+  link:
+
+- nomor: 011
+  judul: Si Transpa (Aplikasi Transparansi)
+  deskripsi: |
+      Si Transpa adalah sebuah program berbasis internet yang bertujuan untuk mendorong keterbukaan publik dalam pembangunan di era desentralisasi. Program ini dibuat dengan melalui beberapa tahapan, diantaranya penelitian yang mengidentifikasi persoalan di sektor publik, permasalahan kelembagaan di tingkat negara, dan kebutuhan masyarakat akan informasi mengenai haknya. Produk dari program ini adalah aplikasi smartphone (Android dan Blackberry) yang bisa digunakan untuk mengakses berbagai informasi di negara pada tingkat pemerintahan daerah, seperti jumlah APBD, alokasi APBD, dan masalah-masalah yang dihadapi oleh mesyarakat untuk mengakses sarana umum, sarana kesehatan, birokrasi, dan sarana pendidikan. Selain itu, aplikasi ini akan dilengkapi dengan peta wilayah (hingga tingkat kecamatan/kelurahan) sehingga setiap pengguna dapat mengetahui dengan mudah, persoalan apa yang ada pada setiap wilayah. Aplikasi ini juga memuat konten forum warga yang bermanfaat untuk mengontrol pemerintahan daerah. Penggunaan aplikasi ini akan dibatasi pada orang yang menggunakan kartu tanda penduduk daerah tertentu.
+  lokasi: Jakarta Timur
+  tipe: software
+  gambar:
+  link:
+
+- nomor: 012
+  judul: Realtime monitoring curah hujan bogor
+  deskripsi: |
+      Alat ini akan mensesnor tinggi curah hujan setiap saat dan akan dilaporkan ke web. agar semnua pihak bisa melihat dan melakukan tindakan yang diperlukan. bisa dilengkapi dengan email alarm. apabila curah hujan tinggi, akan mengirimkan email ke berbagai pihak terkait.
+  lokasi: Bogor, Jawa Barat
+  tipe: hardware
+  gambar:
+  link:
