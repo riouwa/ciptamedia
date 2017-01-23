@@ -1,4 +1,4 @@
-- nomor: 001
+- nomor: '001'
   judul: Donor Social Apps
   deskripsi: |
       Mempertemukan antara para Pendonor ( yang tersedia ) dengan para Pencari Donor melalui perangkat seluler, kategori Donor sendiri untuk sementara dibagi kedalam 3 kategori besar, yaitu : Darah, Organ dan Jaringan.
@@ -7,7 +7,7 @@
   gambar: /static/img/hibah/001.png
   link: /hibah/001
 
-- nomor: 002
+- nomor: '002'
   judul: Penggunaan Telepon Seluler di Taman bacaan Sebagai Media Pembelajaran
   deskripsi: |
       Telepon seluler khususnya yang berbasis android memiliki beragam konten bernilai edukasi. Hal ini dapat dimanfaatkan sebagai media dalam pembelajaran bagi anak-anak di taman bacaan. Kami ambil contoh ada aplikasi untuk belajar iqro, belajar baca tulis, belajar shalat, Aplikasi baca Alquran, belajar bahasa inggris dan lain-lain. Semua itu bisa di download secara gratis. Nantinya itu kami manfaatkan untuk proses belajar mengajar di taman bacaan yang bisa di selingi dengan permainan supaya anak -anak tidak merasa bosan.
@@ -16,7 +16,7 @@
   gambar:
   link:
 
-- nomor: 003
+- nomor: '003'
   judul: Sosial Media berbasis Pendidikan
   deskripsi: |
       Dalam upaya meningkatkan pembelajaran elektronis maka digital content sangat diperlukan dalam kelancarannya, oleh karena itu teknologi sosial media berbasis pendidikan yang akan dikembangkan ini sangat cocok dengan kebutuhan pendidikan mengaplikasi teknologi dan memeratakan kualitas pendidikan dalam konsep yang lebih menyenangkan dan lebih dinamis.
@@ -24,8 +24,8 @@
   tipe: software
   gambar:
   link:
-  
-- nomor: 004
+
+- nomor: '004'
   judul: Media Promosi Kesehatan Pesantren
   deskripsi: |
       Pembuatan media promosi kesehatan oleh santri pondok pesantren dengan harapan media mampu meng intervensi santri ponpes yang selama ini kurang dalam kesadaran ber prilaku hidup bersih dan sehat.
@@ -34,7 +34,7 @@
   gambar:
   link:
 
-- nomor: 005
+- nomor: '005'
   judul: Aplikasi dan sistem untuk membantu meningkatkan penjualan pedagang pasar melalui ecommerce
   deskripsi: |
       Pasarminggu.co adalah layanan pesan antar bahan-bahan segar yang bekerja sama dengan pedagang pasar untuk memenuhi pesanan pelanggan. Melalui layanan kami, memungkinkan pedagang pasar mendapatkan channel penjualan tambahan yaitu online, walaupun mereka tidak punya akses internet and tidak punya kapasitas untuk melayani pelanggan online. Dari sisi pelanggan, pasarminggu.co mirip seperti toko online yang lain, mereka tinggal meng-klik item yang diinginkan. Pelanggan dengan mudah berbelanja dari beberapa pedagang pasar sekaligus yang menjual berbagai jenis dagangan. Kami akan memproses pesanan tersebut dari berbagai pedagang pasar yang berbeda. Mitra pedagang kami mencakup penjual sayur-mayur, berbagai macam lauk-pauk termasuk daging dan ikan asin, bumbu dapur serta penjual jajanan pasar. Pasarminggu.co tidak hanya menyiapkan situs ecommerce yang bisa diakses pelanggan, namun juga menyiapkan dukungan operasional logistik, customer service serta dukungan operasional terkait lainnya. Untuk saat ini, layanan ini baru menjangkau wilayah Jakarta, kami berusaha agar kedepannya dapat juga menjangkau daerah-daerah lainnya.
@@ -43,7 +43,7 @@
   gambar:
   link:
 
-- nomor: 006
+- nomor: '006'
   judul: SMS Tani
   deskripsi: |
       Petani di daerah terpencil di Kabupaten Kupang terus menerus mengalami gagal tanam maupun gagal panen karena ketidakmampuan memprediksi kondisi cuaca. Ditambah lagi dengan buruknya kondisi sarana dan prasarana transportasi di daerah tersebut yang menyebabkan para petani kesulitan memperoleh informasi dari luar daerahnya. Sulitnya akses ini menyebabkan lambatnya daerah terpencil menerima perkembangan-perkembangan baru yang sudah terjadi di daerah maju.
@@ -54,7 +54,7 @@
   gambar:
   link:
 
-- nomor: 007
+- nomor: '007'
   judul: Hijauku.com - Inspirasi Hijau di Ponsel Anda
   deskripsi: |
       Mengembangkan lebih lanjut fitur dan aplikasi seluler Hijaukudotcom untuk berbagai format guna memermudah masyarakat mendapatkan informasi dan inspirasi hijau dan ramah lingkungan. Informasi ini terkait informasi hasil penelitian, informasi komunitas, teknologi, berita dan program lingkungan yang inspiratif di masyarakat yang bisa dijadikan inspirasi menuju penerapan pola pembangunan yang berkelanjutan.
@@ -63,7 +63,7 @@
   gambar:
   link:
 
-- nomor: 008
+- nomor: '008'
   judul: MMS Untuk Nelayan
   deskripsi: |
       MMS untuk nelayan adalah program penyebaran informasi melalui MMS (Multimedia Messaging Service). Informasi yang disebarkan kepada nelayan berupa informasi Peta Tinggi Gelombang Laut dan Peta Potensi Hujan (Qualitative rainfall estimate). Sumber informasi MMS untuk nelayan berasal dari BMKG sehingga kerjasama dengan BMKG penting untuk dijalin.
@@ -72,7 +72,7 @@
   gambar:
   link:
 
-- nomor: 009
+- nomor: '009'
   judul: Merubah layanan SMS (text) pengirim menjadi Voice (suara) ke penerima dan sebaliknya dengan harga yang sama /sms
   deskripsi: |
       Merubah layanan SMS (text) pengirim menjadi Voice (suara) ke penerima dan sebaliknya.
@@ -81,7 +81,7 @@
   gambar:
   link:
 
-- nomor: 010
+- nomor: '010'
   judul: Sistem Informasi Laporan Non-Darurat dan Media Sosial Masyarakat Lokal Indonesia
   deskripsi: |
       Proyek ini akan menghasilkan sebuah sistem yang memanfaatkan media seluler untuk ‘mengawasi dan melaporkan’ kejadian sehari-hari yang berhubungan dengan public service yang sifatnya non-emergency issue sehingga dapat dijadikan media oleh pemerintah setempat untuk melakukan perbaikan dari hari ke hari secara bertahap berdasarkan keterlibatan komunitas lokal setempat. Contoh sistem serupa yang telah berjalan di USA: http://seeclickfix.com/ Namun, sistem yang saya rancang ini akan lebih memanfaatkan telepon seluler untuk kolaborasi informasinya. Selain bermanfaat untuk pelaporan, sistem ini juga akan berjalan sebagai sistem media social dan media komunikasi untuk menghubungkan komunitas masing-masing masyarakat lokal setempat (antar tetangga, RT/RW, kelurahan, dst.)
@@ -90,7 +90,7 @@
   gambar:
   link:
 
-- nomor: 011
+- nomor: '011'
   judul: Si Transpa (Aplikasi Transparansi)
   deskripsi: |
       Si Transpa adalah sebuah program berbasis internet yang bertujuan untuk mendorong keterbukaan publik dalam pembangunan di era desentralisasi. Program ini dibuat dengan melalui beberapa tahapan, diantaranya penelitian yang mengidentifikasi persoalan di sektor publik, permasalahan kelembagaan di tingkat negara, dan kebutuhan masyarakat akan informasi mengenai haknya. Produk dari program ini adalah aplikasi smartphone (Android dan Blackberry) yang bisa digunakan untuk mengakses berbagai informasi di negara pada tingkat pemerintahan daerah, seperti jumlah APBD, alokasi APBD, dan masalah-masalah yang dihadapi oleh mesyarakat untuk mengakses sarana umum, sarana kesehatan, birokrasi, dan sarana pendidikan. Selain itu, aplikasi ini akan dilengkapi dengan peta wilayah (hingga tingkat kecamatan/kelurahan) sehingga setiap pengguna dapat mengetahui dengan mudah, persoalan apa yang ada pada setiap wilayah. Aplikasi ini juga memuat konten forum warga yang bermanfaat untuk mengontrol pemerintahan daerah. Penggunaan aplikasi ini akan dibatasi pada orang yang menggunakan kartu tanda penduduk daerah tertentu.
@@ -99,7 +99,7 @@
   gambar:
   link:
 
-- nomor: 012
+- nomor: '012'
   judul: Realtime monitoring curah hujan bogor
   deskripsi: |
       Alat ini akan mensesnor tinggi curah hujan setiap saat dan akan dilaporkan ke web. agar semnua pihak bisa melihat dan melakukan tindakan yang diperlukan. bisa dilengkapi dengan email alarm. apabila curah hujan tinggi, akan mengirimkan email ke berbagai pihak terkait.
