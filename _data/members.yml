@@ -50,9 +50,9 @@
 
 - name: Siska Doviana
   desc: Siska Doviana menjabat sebagai Ketua Umum Wikimedia Indonesia terpilih sejak 2010 dan merupakan salah satu pendirinya di tahun 2008. Sebelumnya, sarjana komunikasi Universitas Mercu Buana ini juga menangani pengelolaan hibah terbuka untuk perbaikan media di tahun 2011 “Cipta Media Bersama”.
-  posisi:
-    selwal
-    sekre
+  posisi: 
+    - selwal
+    - sekre
   head_img: 
   email: 
   facebook: 
