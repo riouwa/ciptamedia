@@ -40,9 +40,7 @@
   
 - name: Heidi Arbuckle
   desc: Heidi Arbuckle adalah Program Officer Ford Foundation Indonesia di bidang media. Pada tahun 2011 ia mengawali program Cipta Media Bersama sebagai usaha untuk membuka proses pemberian hibah yang lebih transparan dan terbuka dengan menerapkan semangat digital sebagai platfonnya. Heidi memegang gelar S3 dari University of Melbourne di bidang studi gender dan sejarah. Lahir di Australia, ia sudah tinggal lama di Indonesia dan sekarang menjadi orang Batak dengan marga Gultom.
-  posisi:
-    - selwal
-    - selkir
+  posisi: 'selwal','selkir'
   head_img: 
   email: 
   facebook: 
