@@ -10,7 +10,7 @@ tags:
 author: hillun
 ---
 
-![Ada-apa-dengan-Undang-Undang-Kehutanan-400x266.jpg](/uploads/Ada-apa-dengan-Undang-Undang-Kehutanan-400x266.jpg)
+![Ada-apa-dengan-Undang-Undang-Kehutanan-400x266.jpg](/uploads/Ada-apa-dengan-Undang-Undang-Kehutanan-400x266.jpg){: .img-responsive .center-block }
 
 Menurut [Munadi Kilkoda](http://ciptamedia.org/munadi-kilkoda/) dari Aliansi Masyarakat Adat Nusantara (AMAN), Undang-Undang Nomor 41 Tahun 1999 tentang Kehutanan menjadi sumber masalah dan konflik agraria yang selama ini merugikan masyarakat adat. Mereka tidak bisa menggunakan haknya dengan bebas. Hal ini terlihat dari wilayah adat yang oleh Undang-Undang Kehutanan disebut sebagai hutan negara justru diberikan izin Hutan Tanaman Industri (HTI), Hak Pengusahaan Hutan (HPH) dan tambang. Keadaan ini membuat masyarakat adat berada pada posisi yang lemah karena negara tidak memberikan perlindungan dan pengakuan kepada mereka serta hak-haknya.
 
