@@ -143,3 +143,39 @@
   tipe: konten
   gambar: /static/img/hibah/016.jpg
   link: /hibah/016
+
+- nomor: '017'
+judul: 
+deskripsi: |
+
+lokasi: 
+tipe: 
+gambar: /static/img/hibah/017.jpg
+link: /hibah/017
+
+- nomor: '018'
+judul: 
+deskripsi: |
+
+lokasi: 
+tipe: 
+gambar: /static/img/hibah/018.jpg
+link: /hibah/018
+
+- nomor: '019'
+judul: 
+deskripsi: |
+
+lokasi: 
+tipe: 
+gambar: /static/img/hibah/019.jpg
+link: /hibah/019
+
+- nomor: '020'
+judul: 
+deskripsi: |
+
+lokasi: 
+tipe: 
+gambar: /static/img/hibah/020.jpg
+link: /hibah/020
