@@ -179,3 +179,93 @@
   tipe: software
   gambar: /static/img/hibah/020.jpg
   link: /hibah/020
+
+- nomor: '021'
+  judul: 
+  deskripsi: |
+       
+  lokasi: 
+  tipe: 
+  gambar: /static/img/hibah/021.jpg
+  link: /hibah/021
+  
+- nomor: '022'
+  judul: 
+  deskripsi: |
+       
+  lokasi: 
+  tipe: 
+  gambar: /static/img/hibah/022.jpg
+  link: /hibah/022
+  
+- nomor: '023'
+  judul: 
+  deskripsi: |
+       
+  lokasi: 
+  tipe: 
+  gambar: /static/img/hibah/023.jpg
+  link: /hibah/023
+  
+- nomor: '024'
+  judul: 
+  deskripsi: |
+       
+  lokasi: 
+  tipe: 
+  gambar: /static/img/hibah/024.jpg
+  link: /hibah/024
+  
+- nomor: '025'
+  judul: 
+  deskripsi: |
+       
+  lokasi: 
+  tipe: 
+  gambar: /static/img/hibah/025.jpg
+  link: /hibah/025
+  
+- nomor: '026'
+  judul: 
+  deskripsi: |
+       
+  lokasi: 
+  tipe: 
+  gambar: /static/img/hibah/026.jpg
+  link: /hibah/026
+  
+- nomor: '027'
+  judul: 
+  deskripsi: |
+       
+  lokasi: 
+  tipe: 
+  gambar: /static/img/hibah/027.jpg
+  link: /hibah/027
+  
+ - nomor: '028'
+  judul: 
+  deskripsi: |
+       
+  lokasi: 
+  tipe: 
+  gambar: /static/img/hibah/028.jpg
+  link: /hibah/028
+  
+- nomor: '029'
+  judul: 
+  deskripsi: |
+       
+  lokasi: 
+  tipe: 
+  gambar: /static/img/hibah/029.jpg
+  link: /hibah/029
+  
+- nomor: '030'
+  judul: 
+  deskripsi: |
+       
+  lokasi: 
+  tipe: 
+  gambar: /static/img/hibah/030.jpg
+  link: /hibah/030
