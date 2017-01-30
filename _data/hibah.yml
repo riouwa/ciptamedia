@@ -269,3 +269,93 @@
   tipe: hardware
   gambar: /static/img/hibah/030.jpg
   link: /hibah/030
+
+- nomor: '031'
+  judul: 
+  deskripsi: |
+       
+  lokasi: 
+  tipe:
+  gambar: /static/img/hibah/031.jpg
+  link: /hibah/031
+  
+- nomor: '032'
+  judul: 
+  deskripsi: |
+       
+  lokasi: 
+  tipe:
+  gambar: /static/img/hibah/032.jpg
+  link: /hibah/032
+  
+ - nomor: '033'
+  judul: 
+  deskripsi: |
+       
+  lokasi: 
+  tipe:
+  gambar: /static/img/hibah/033.jpg
+  link: /hibah/033
+  
+- nomor: '034'
+  judul: 
+  deskripsi: |
+       
+  lokasi: 
+  tipe:
+  gambar: /static/img/hibah/034.jpg
+  link: /hibah/034
+  
+- nomor: '035'
+  judul: 
+  deskripsi: |
+       
+  lokasi: 
+  tipe:
+  gambar: /static/img/hibah/035.jpg
+  link: /hibah/035
+  
+- nomor: '036'
+  judul: 
+  deskripsi: |
+       
+  lokasi: 
+  tipe:
+  gambar: /static/img/hibah/036.jpg
+  link: /hibah/036
+  
+- nomor: '037'
+  judul: 
+  deskripsi: |
+       
+  lokasi: 
+  tipe:
+  gambar: /static/img/hibah/037.jpg
+  link: /hibah/037
+  
+- nomor: '038'
+  judul: 
+  deskripsi: |
+       
+  lokasi: 
+  tipe:
+  gambar: /static/img/hibah/038.jpg
+  link: /hibah/038
+  
+- nomor: '039'
+  judul: 
+  deskripsi: |
+       
+  lokasi: 
+  tipe:
+  gambar: /static/img/hibah/039.jpg
+  link: /hibah/039
+  
+- nomor: '040'
+  judul: 
+  deskripsi: |
+       
+  lokasi: 
+  tipe:
+  gambar: /static/img/hibah/040.jpg
+  link: /hibah/040
