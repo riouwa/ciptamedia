@@ -243,7 +243,7 @@
   gambar: /static/img/hibah/027.jpg
   link: /hibah/027
   
- - nomor: '028'
+- nomor: '028'
   judul: Males Mogok
   deskripsi: |
        Sebuah aplikasi seluler dan website yang membantu pengendara kendaraan bermotor (roda dua&roda empat) untuk mencari solusi dan referensi permasalahan mesin untuk kerusakan dan informasinya. Selain itu Aplikasi ini juga akan membantu para pengendara untuk menghindari adanya penipuan pihak bengkel untuk permasalahan yang mereka hadapi karena bisa melakukan cross check, juga membantu memantau jadwal pergantian oli, juga alarm yang terkoneksi dengan aplikasi teman yang didaftarkan ketika mereka menghadapi bahaya atau membutuhkan bantuan.
