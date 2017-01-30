@@ -145,37 +145,37 @@
   link: /hibah/016
 
 - nomor: '017'
-  judul: 
+  judul: Darurat
   deskripsi: |
-
-  lokasi: 
-  tipe: 
+       mobile apps di platform iOS, Android, dan BlackBerry yang berguna sebagai emergency reporter dan emergency responder. Jadi dengan mobile apps ini, user dapat melaporkan keadaan emergency mereka, misalkan saja mereka kecelakaan, mereka hanya perlu membuka aplikasi ini dan meminta bantuan, dengan koordinat gps dan data-data user yang tercatat nantinya laporan akan dibuat, kemudian user lain pada radius tertentu dari pelapor akan menerima push notification untuk membantu atau melaporkan kepada pihak selanjutnya. 
+  lokasi: Jakarta Barat
+  tipe: software
   gambar: /static/img/hibah/017.jpg
   link: /hibah/017
 
 - nomor: '018'
-  judul: 
+  judul: Pospol
   deskripsi: |
-
-  lokasi: 
-  tipe: 
+       Proyek ini berusaha menghubungkan para pengguna internet mobile di suatu daerah kota/kabupaten, untuk saling terhubung, baik secara horinsontal (sesama warga untuk berbagi informasi) dan secara vertikal (dengan legislator yang mewakili daerahnya, dengan pemerintah daerah untuk mendorong keterbukaan). Kami akan menggawali dengan di daerah pemilihan Jateng V di Kabupaten Banyumas.
+  lokasi: Bantul, Yogyakarta
+  tipe: konten
   gambar: /static/img/hibah/018.jpg
   link: /hibah/018
 
 - nomor: '019'
-  judul: 
+  judul: Mommy Story
   deskripsi: |
-
-  lokasi: 
-  tipe: 
+       The mommy story is the hub between mommy, health care service providers and the product & service market. The mommy will have the one-stop-answer to all their need in their having-kids journey.
+  lokasi: Jakarta Barat
+  tipe: software
   gambar: /static/img/hibah/019.jpg
   link: /hibah/019
 
 - nomor: '020'
-  judul: 
+  judul: Iderakyat
   deskripsi: |
-
-  lokasi: 
-  tipe: 
+       Sebuah society-driven location-based platform yang dapat digunakan sebagai wadah interaksi antara Masyarakat, Perusahaan dan Pemerintah. Platform ini dapat digunakan sebagai wadah "feedback" dan "ide" dari masyarakat terhadap pemerintah dan perusahaan di kota tersebut.
+  lokasi: Semarang, Jawa Tengah
+  tipe: software
   gambar: /static/img/hibah/020.jpg
   link: /hibah/020
