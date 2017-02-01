@@ -380,29 +380,29 @@
   link: /hibah/042
 
 - nomor: '043'
-  judul: 
+  judul: Segitiga Formulasi
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Segitiga Formulasi (Forum Multimedia-Edukasi) adalah program peningkatan mutu output generasi muda dalam hal ini peserta didik jenjang SD yang melibatkan tri partit yakni orang tua, peserta didik dan pendidik dengan berbasis multimedia (Seluler, website, MPI). Proyek ini mengambil setting di Kabupaten Semarang dengan subyek pendidikan meliputi peserta didik yang berkaitan dengan keluh-kesah terhadap faktor-faktor penghambat pembelajaran di rumah dan sekolah, orang tua (wali murid) yang peduli terhadap perkembangan pendidikan anak di rumah, sekolah dan masyarakat, serta peran pendidik sebagai inspirator, motivator dan akselerator terhadap orang tua dan peserta didiknya. 
+  lokasi: Semarang, Jawa Tengah
+  tipe: konten
   gambar: /static/img/hibah/043.jpg
   link: /hibah/043
 
 - nomor: '044'
-  judul: 
+  judul: Pengembangan Aplikasi Jurnalisme Warga Berbasis Ponsel
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Proyek ini bertujuan untuk membuat aplikasi yang bisa mempermudah warga memproduksi informasi ala jurnalisme warga melalui telepon seluler. Selain melalui ponsel, aplikasi ini juga berbasis web sehingga bisa ditampilkan di website tapi hanya bisa diakses dan diproduksi di ponsel.
+  lokasi: Denpasar, Bali
+  tipe: software
   gambar: /static/img/hibah/044.jpg
   link: /hibah/044
 
 - nomor: '045'
-  judul: 
+  judul: Jembatan Jurang Kesenjangan Teknologi Informasi Di Indonesia
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Tim akan datang ke pedesaan di NTB dan NTT untuk memfasilitasi komunitas yang dipilih, untuk membuat video dengan pendekatan partisipatif. Artinya, masyarakat pedesaan menggali pengalamannya, membuat storyboard, dan menjadi kamerawan/wati untuk mewujudkan video mereka sendiri.
+  lokasi: Sleman, Yogyakarta
+  tipe: konten
   gambar: /static/img/hibah/045.jpg
   link: /hibah/045
 
