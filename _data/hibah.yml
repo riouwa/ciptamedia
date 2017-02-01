@@ -452,38 +452,42 @@
   link: /hibah/050
 
 - nomor: '051'
-  judul: 
+  judul: Bahasa Jawa untuk Dunia
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Disini saya akan membuat aplikasi yang bertujuan untuk mengenalkan serta mengembangkan bahasa jawa agar bisa dikenal oleh masyarakat lebih luas dan bisa berguna oleh seluruh gender dan usia masyarakat. diantaranya adalah kamus android bahasa Inggris - Jawa krama - Jawa ngoko -indonesia. mengapa bahasa Jawa?
+  lokasi: Semarang, Jawa Tengah
+  tipe: software
   gambar: /static/img/hibah/051.jpg
   link: /hibah/051
 
 - nomor: '052'
-  judul: 
+  judul: Implementasi 150 unit eFishery untuk petani di Jawa Tengah dan Sumatera Selatan
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       eFishery adalah alat pemberi pakan ikan dan udang otomatis. Alat ini dapat memberikan pakan sesuai dengan jadwal dan nafsu makan ikan, sehingga pemberian pakan lebih efisien dan profitabilitas lebih tinggi. 
+  lokasi: Bekasi, Jawa Barat
+  tipe: hardware
   gambar: /static/img/hibah/052.jpg
   link: /hibah/052
 
 - nomor: '053'
-  judul: 
+  judul: Dongeng Anak Nusantara
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Dongeng adalah media komunikasi efektif untuk menyampaikan pengetahuan kepada anak. Project dongeng anak nusantara adalah program edukasi yang bersifat edutainment live interactive yang dapat digunakan pada perangkat komunikasi atau gadget dongeng anak nusantara dapat menjadi media campaign untuk menyampaikan pesan sosial pada anak.
+  lokasi: Bogor, Jawa Barat
+  tipe: konten
   gambar: /static/img/hibah/053.jpg
   link: /hibah/053
 
 - nomor: '054'
-  judul: 
+  judul: Aplikasi pembelajaran mandiri
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Tujuan dari aplikasi ini adalah :
+       1. Mengembangkan keinginan belajar mandiri siswa.
+       2. Membantu siswa untuk belajar mandiri.
+       Dengan menggunakan media video, audio ataupun dokumen, siswa diharapkan dapat belajar sendiri, dengan dipandu oleh pendidik.
+       3. Melakukan evaluasi hasil belajar siswa.
+  lokasi: Jakarta
+  tipe: konte 
   gambar: /static/img/hibah/054.jpg
   link: /hibah/054
 
