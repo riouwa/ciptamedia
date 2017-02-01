@@ -3143,9 +3143,9 @@
   link: /hibah/348
   
 - nomor: '349'
-  judul: RONAULI: Aplikasi Pendamping Ibu dan Anak
+  judul: RONAULI Aplikasi Pendamping Ibu dan Anak
   deskripsi: |
-       RONAULI: Aplikasi Pendamping Ibu dan Anak merupakan sebuah sistem yang terdiri dari aplikasi berbasis web dan aplikasi mobile (untuk seluler) 
+       RONAULI Aplikasi Pendamping Ibu dan Anak merupakan sebuah sistem yang terdiri dari aplikasi berbasis web dan aplikasi mobile (untuk seluler) 
   lokasi: Sitoluama Laguboti, Sumatera Utara
   tipe: software
   gambar: /static/img/hibah/349.jpg
@@ -3296,7 +3296,7 @@
   lokasi: Manado, Sulawesi Utara
   tipe: software
   gambar: /static/img/hibah/365.jpg
-
+  link: /hibah/365
   
 - nomor: '366'
   judul: Bukuku: Pasar Buku Untuk Semua
