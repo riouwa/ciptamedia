@@ -299,65 +299,65 @@
   link: /hibah/033
   
 - nomor: '034'
-  judul: 
+  judul: Smart Parking
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Smart Parking System merupakan sistem pengelolaan perparkiran yang menggabungkan teknologi komputasi awan, basis data, dan perangkat bergerak dalam sistem perparkiran. Sistem yang dibuat bukan sekedar sistem operasional untuk pengelolaan lahan parkir, melainkan juga penyimpanan informasi serta akses informasi terkini mengenai kondisi lahan parkir. 
+  lokasi: Malang, Jawa Timur
+  tipe: software
   gambar: /static/img/hibah/034.jpg
   link: /hibah/034
   
 - nomor: '035'
-  judul: 
+  judul: Peta Muda
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Web database komunitas anak muda berbasis geo-mapping
+  lokasi: Jakarta
+  tipe: konten
   gambar: /static/img/hibah/035.jpg
   link: /hibah/035
   
 - nomor: '036'
-  judul: 
+  judul: SMS gateway dan ITKP
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       SMS gateway dan ITKP (internet telepon untuk keperluan publik) sebagai media komunikasi dalam upaya PENGURANGAN RESIKO BENCANA (PRB) dan sebagai sistem komunikasi pada posko tanggap darurat. 
+  lokasi: Manokwari, Papua Barat
+  tipe: konten
   gambar: /static/img/hibah/036.jpg
   link: /hibah/036
   
 - nomor: '037'
-  judul: 
+  judul: Smart Node Network (Communication of Things) Untuk Indonesia Yang Lebih Baik
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Membangun jaringan komunikasi nirkabel untuk implementasi Rumah Cerdas (Smart House),dengan adanya perangkat ini maka rumah akan berperan sebagai node-network sehingga bisa berkomunikasi satu sama lain atau seemless communication (Isitilah redaksi Communication of Things)
+  lokasi: Depok, Jawa Barat
+  tipe: hardware
   gambar: /static/img/hibah/037.jpg
   link: /hibah/037
   
 - nomor: '038'
-  judul: 
+  judul: Mendisain Kurikulum Digital Berbasis Kearifan Lokal dan Keunggulan Lokal
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Ada pameo : GANTI MENTERI, GANTI KURIKULUM, akibatnya waktu mengajar guru dan waktu luang orang tua tersita untuk mempelajari kurikulum baru ini. Oleh karena itu, saya berinisiatif meluncurkan Disain Kurikulum Digital berbasis Kearifan Lokal dan Keunggulan Lokal sehingga para siswa tidak tercerabut dari akar budayanya tapi tetap mampu bersaing di forum internasional.
+  lokasi: Jakarta Pusat
+  tipe: konten
   gambar: /static/img/hibah/038.jpg
   link: /hibah/038
   
 - nomor: '039'
-  judul: 
+  judul: Where is it? (Social & Location Media)
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Sebuah aplikasi yang dapat mengetahui lokasi teman dan objek loaksi disekitarnya (Rumah makan, Pom bensin, Pusat pemerintahan, dan lain-lain) dalam suatu Peta GPS. Dan sebuah objek lokasi tersebut mempunyai sebuah detail informasi yang spesifik, Memungkinkan untuk mempermudah orang-orang dalam berpergian dan mencari informasi sebuah objek lokasi, tidak hanya itu kita juga dapat mengetahui lokasi teman-teman kita atau orang lain yang berada di sekitar dan mendapatkan informasi yang di bagikan oleh orang di sekitarnya secara up-to-date.
+  lokasi: Tangerang, Banten
+  tipe: konten
   gambar: /static/img/hibah/039.jpg
   link: /hibah/039
   
 - nomor: '040'
-  judul: 
+  judul: Pasar Ternak
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Aplikasi ini bermananfaat bagi para produsen dan konsumen yang ingin membeli dan memasarkan secara langsung serta tepat sasaran, khususnya untuk aplikasi ini adalah pemasaran ternak dan nelayan. Dalam aplikasi ini juga terdapat tips, serta pemecahan masalah yang pernah atau kemungkinan terjadi dalam kegiatan peternakan, sehingga antar pelaku ternak bisa saling share/berbagi jika menemukan permasalahan.
+  lokasi: Tangerang, Banten
+  tipe: software
   gambar: /static/img/hibah/040.jpg
   link: /hibah/040
 
