@@ -640,38 +640,38 @@
   link: /hibah/070
 
 - nomor: '071'
-  judul: 
+  judul: Klip Keselamatan dan Kesehatan Kerja
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Media informasi terkait masalah K3 di Indonesia masih sangat minim. Sementara setiap hari terjadi kecelakaan kerja dan berkembang penyakit akibat kerja karena ketidaktahuan dan kurangnya kesadaran. Video klip merupakan salah satu media yang cocok untuk menyebarluaskan pengetahuan tentang K3 kepada masyarakat luas khususnya kepada masyarakat pekerja dimanapun berada, bisa diakses kapan saja melalui perangkat seluler.
+  lokasi: Bogor, Jawa Barat
+  tipe: konten
   gambar: /static/img/hibah/071.jpg
   link: /hibah/071
 
 - nomor: '072'
-  judul: 
+  judul: Open School
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Proyek ini bertujuan untuk mengembangkan sekolah dengan menggunakan open source. Selain hanya menggunakan sekolah juga diajarkan cara penanganan serta memodifikasi open source agar sesuai dengan kebutuhan mereka (dibutuhkan beberapa orang muda untuk terlibat menjadi admin dan pengengembang). Hal yang akan diajarkan dalam proyek ini bermacam-macam, mulai dari e-learning, sistem penyimpanan bahan pengajaran, dan lain-lain. Salah satu tujuan dari proyek ini adalah mengenalkan sekolah dengan teknologi yang ada
+  lokasi: Malang, Jawa Timur
+  tipe: software
   gambar: /static/img/hibah/072.jpg
   link: /hibah/072
 
 - nomor: '073'
-  judul: 
+  judul: Wowter
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Proyek kami adalah pembuatan game edukasi, Game yang ditujukan bagi usia muda(usia sekolah dasar). Game wowter adalah game yang menceritakan petualangan setetes air melalui siklus air yang dilakukannya. Dalam permainan game ini kami mencoba mengajak si pemain game (player) menjadi setetes air dan mengalami siklus air serta berjuang untuk membersihkan kotoran, sampah dan limbah yang mencemarinya. Dengan memainkan game ini kami berharap sejak usia dini anak-anak kita dapat memahami fungsi dan siklus air sehingga mereka sadar akan pentingnya air bagi kehidupan.
+  lokasi: Jakarta Utara
+  tipe: konten
   gambar: /static/img/hibah/073.jpg
   link: /hibah/073
 
 - nomor: '074'
-  judul: 
+  judul: Trafizap, Sistem Pemantau Kemacetan Berbasis Sosial  
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+        Trafizap adalah solusi pemantauan lalu lintas jalan raya online berbasis teknologi crowd source data intelligence, dimana sistem kami akan membaca apa yg dibicarakan orang tentang situasi lalu lintas di media sosial online (facebook,twitter,BBM,Whatsapp dll) maupun masukan langsung berbasis teks (SMS, masukan lewat aplikasi dll), lalu mengkalkulasi dan mekonversinya menjadi peta kemacetan visual realtime
+  lokasi: Sidoarjo, Jawa Timur
+  tipe: software
   gambar: /static/img/hibah/074.jpg
   link: /hibah/074
 
