@@ -362,20 +362,20 @@
   link: /hibah/040
 
 - nomor: '041'
-  judul: 
+  judul: Pasar Tani
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Upaya membantu para petani di Indonesia agar dapat meningkatkan kualitas, baik dari SDA ataupun SDM petani itu sendiri. Membantu Produsen (Petani) dan Konsumen (Individual atau Pengusaha) untuk dapat bertransaksi secara langsung tanpa melalui perantara (tengkulak), sehingga harga yang didapat produsen dan yang dikeluarkan konsumen tidak melonjak tinggi seperti sekarang.
+  lokasi: Tangerang, Banten
+  tipe: software
   gambar: /static/img/hibah/041.jpg
   link: /hibah/041
 
 - nomor: '042'
-  judul: 
+  judul: Ringtone & Wallpaper Seni Budaya Sulawesi
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       proyek pembuatan nada dering dan nada sambung pribadi untuk lagu-lagu tradisional Sulawesi Selatan dan Sulawesi Barat. Hal ini dimaksudkan untuk mengenalkan nilai-nilai kearifan lokal kepada generasi muda melalui nada dering dan nada sambung pribadi. Selain itu, proyek ini juga membuat wallpaper yang berisi petuah, kearifan lokal, gambar atraksi budaya, tempat wisata dan upacara adat dari etnis yang berada di Sulawesi Selatan dan Sulawesi Barat.
+  lokasi: Sulawesi Selatan
+  tipe: konten
   gambar: /static/img/hibah/042.jpg
   link: /hibah/042
 
