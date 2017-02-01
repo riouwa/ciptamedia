@@ -551,45 +551,45 @@
 - nomor: '061'
   judul: Mitra Kerja Penyandang Disabilitas
   deskripsi: |
-       sistem informasi berbasis piranti lunak seluler yang menjadi penghubung antara penyandang disabilitas pencari kerja dan pemberi kerja. Dengan sistem informasi ini penyandang disabilitas bisa menempatkan profil mereka sebagai pencari kerja dan mengakses informasi tentang kesempatan kerja yang tersedia untuk mereka.
+       Sistem informasi berbasis piranti lunak seluler yang menjadi penghubung antara penyandang disabilitas pencari kerja dan pemberi kerja. Dengan sistem informasi ini penyandang disabilitas bisa menempatkan profil mereka sebagai pencari kerja dan mengakses informasi tentang kesempatan kerja yang tersedia untuk mereka.
   lokasi: Surabaya, Jawa Timur
   tipe: software
   gambar: /static/img/hibah/061.jpg
   link: /hibah/061
 
 - nomor: '062'
-  judul: 
+  judul: Menanam Online
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Dengan kondisi bumi yang semakin lama semakin mengkhawatirkan, pemanasan global terus meningkat dan fungsi hutan yang terus di alihkan oleh para orang-orang yang tidak bertanggung jawab maka kita harus melakukan hal yang dapat mencegah dampak buruk semua hal di atas. Dengan memanfaatkan teknologi khususnya seluler kita bisa membuat sebuah terobosan baru dalam melakukan reboisasi atau tanam sejuta pohon. Terobosan yang di maksudkan adalah kita membuat sebuah aplikasi seluler yang memiliki fitur untuk menanam pohon secara online.
+  lokasi: Probolinggo, Jawa Timur
+  tipe: software
   gambar: /static/img/hibah/062.jpg
   link: /hibah/062
 
 - nomor: '063'
-  judul: 
+  judul: Gateway Estafet Angkutan Hasil Bumi
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Sebuah usaha penciptaan GERBANG INFORMASI para pengemudi / pelaku usaha angkutan muatan barang dan hasil bumi, yang bertujuan khusus mempersingkat waktu kerja para pengemudi, memperdekat jarak tempuh para pengemudi, dan kepastian mendapatkan muatan balik saat kembali ke daerah asalnya.
+  lokasi: Wonosobo, Jawa Tengah
+  tipe: konten
   gambar: /static/img/hibah/063.jpg
   link: /hibah/063
 
 - nomor: '064'
-  judul: 
+  judul: Gerbang Info Komoditi Pasar
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Program ini bermaterikan utama penyampaian harga standard sebuah pasar tradisional. Gerbang Elektronik ini dapat ditampilkan melalui TV Layar Lebar di depan sebuah pasar, SMS dan juga Aplikasi Mobile
+  lokasi:  Madiun, Jawa Timur
+  tipe: konten
   gambar: /static/img/hibah/064.jpg
   link: /hibah/064
 
 - nomor: '065'
-  judul: 
+  judul: GamaBox Edu
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Implementasi Model tecknologi GamaBox (Cloud Box on the single box) pada perangkat seluler. Proyek ini akan menyediakan perangkat keras berbasis seluler untuk dapat mengakses server content GamaBox yang sudah tersedia di beberapa lokasi sekolah dasar secara mandiri tanpa bergantung pada konektivitas internet.
+  lokasi: Yogyakarta
+  tipe: hardware
   gambar: /static/img/hibah/065.jpg
   link: /hibah/065
 
