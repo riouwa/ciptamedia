@@ -3287,29 +3287,29 @@
   link: /hibah/364
   
 - nomor: '365'
-  judul: 
+  judul: Monitoring konsumsi BBM dan Tingkat Polutan Kendaraan Angkutan kota di Manado
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Dalam proyek ini kami akan mengembangkan suatu sistem pemantauan berbasis web dan mobile dgn platform android,.dimana akan dibangun suatu suatu.web server yg akan menumpulkan data tiap angkot dimana data tersebit di kirim melalui perangkat selular,
+  lokasi: Manado, Sulawesi Utara
+  tipe: software
   gambar: /static/img/hibah/365.jpg
   link: /hibah/365
   
 - nomor: '366'
-  judul: 
+  judul: Bukuku: Pasar Buku Untuk Semua
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Aplikasi mobile yang menjadi platform penerbitan buku sendiri (self publishing*). dan juga menjadi "pasar" buku yang dapat diakses oleh semua orang dengan device mobilenya. setiap orang dapat mengirimkan hasil tulisannya yang akan menjadi buku, kemudian melalui serangkaian penyaringan dan editorial layaknya sebuah penerbitan buku, buku tersebut akan diterbitkan di "pasar" buku yang selanjutnya dapat diakses oleh orang lain yang ingin membeli buku tersebut secara elektronik
+  lokasi: Jakarta Timur
+  tipe: software
   gambar: /static/img/hibah/366.jpg
   link: /hibah/366
   
 - nomor: '367'
-  judul: 
+  judul: BIMKES app, Aplikasi Mobile BIMKES (Berkala Ilmiah Mahasiswa Kesehatan Indonesia)
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       BIMKES app merupakan aplikasi mobile satu-satunya jurnal (berkala) ilmiah mahasiswa kesehatan, yang menaungi hingga 7 program studi ilmu kesehatan (www.bimkes.org)
+  lokasi: Bekasi Timur
+  tipe: software
   gambar: /static/img/hibah/367.jpg
   link: /hibah/367
   
