@@ -594,47 +594,48 @@
   link: /hibah/065
 
 - nomor: '066'
-  judul: 
+  judul: Rumah Petani Nusantara
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Melalui program Rumah Petani Nusantara (RPN) inilah kendala petani mengenai pemberantasan hama terpadu, cuaca, dan pengaturan pengairan dapat diatasi. Dengan SMS pula petani dapat mengetahui hama yang sedang menjangkiti tanaman pada suatu darah tertentu. Selain itu melalui sms pula, petani dapat memperoleh informasi debit air persawahan. Tentunya kedua hal tersebut harus di integrasikan dengan informasi cuaca.
+  lokasi: Sidoarjo, Jawa Timur
+  tipe: konten
   gambar: /static/img/hibah/066.jpg
   link: /hibah/066
 
 - nomor: '067'
-  judul: 
+  judul: Sistem Peringatan Dini untuk Pengurangan Resiko Bencana
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Sistem peringatan dini berfungsi untuk penyebaran informasi dan pengumpulan data terkait kebencanaan di Indonesia, sumber informasi resmi diperoleh dari lembaga-lembaga yang menangani kebencanaan seperti BMKG dan USGS. Namun masyarakat Indonesia sebagai subyek juga dapat menginformasikan kejadian, kondisi atau informasi lainnya terkait bencana yang diketahuinya, sehingga terjadi pertukaran informasi antar masyarakat yang tidak hanya mendapatkan informasi dari lembaga resmi yang menangani kebencanaan.
+  lokasi: Jakarta Selatan
+  tipe: software
   gambar: /static/img/hibah/067.jpg
   link: /hibah/067
 
 - nomor: '068'
-  judul: 
+  judul: E-learning tentang hardware komputer dan jaringan komputer
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Projek ini berisikan tentang pengetahuan komputer dan komponen-komponen yang ada dalam komputer. serta solusi-solusi dari kerusakan komputer.menggunakan animasi agar memudahkan seseorang untuk memahaminya. Selain itu e-learning ini juga memaparkan cara membangun
+       suatu jaringan komputer.
+  lokasi: Bandung, Jawa Barat 
+  tipe: konten
   gambar: /static/img/hibah/068.jpg
   link: /hibah/068
 
 - nomor: '069'
-  judul: 
+  judul: Informasi Perubahan Iklim dengan SMS Gateway
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Mekanisme kerja sms Gateway menggunaka soft ware yang bernama Air Front Line (Arus Informasi Rakyat) soft ware di buat oleh LPS-AIR sesuai kebutuhan kampanye untuk mitigasi dan adaptasi terhadap perubahan iklim.
+  lokasi: Pontianak, Kalimantan Barat
+  tipe: konten
   gambar: /static/img/hibah/069.jpg
   link: /hibah/069
 
 - nomor: '070'
-  judul: 
+  judul: Peningkatan Peran Handphone Sebagai Media Pendidikan Sosial untuk Menekan Angka Kekerasan Berbasis Agama dan Gender 
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Tingkat kekerasan berbasis agama dan gender pada perkembangan nya mengalami peningkatan yang cenderung naik, dan yang cukup memprihatinkan, adalah dilibatkan nya para pemuda dalam aksi-aksi perusakan dan tindakan-tindakan yang berlawanan dengan hukum dan sangat merugikan pihak-pihak korban. Handphone dan para pemuda sudah cukup familiar dalam kesehariannya, peran handphone ini akan sangat efektif untuk dijadikan sebagai Media Pendidikan Sosial untuk melakukan kerja-kerja Pengorganisasian pemuda dalam menekan angka kekerasan berbasis Agama dan Gender, dengan sasaran para pelajar SLTP, SLTA dan Perguruan Tinggi, serangkaian peristiwa bullying yang terjadi ditingkatan pelajar merupakan wujud kekerasan awal yang dapat berujung pada tindakan-tindakan kekerasan sosial pada saat dewasa nantinya.
+  lokasi: Sidoarjo, Jawa Timur
+  tipe: konten
   gambar: /static/img/hibah/070jpg
   link: /hibah/070
 
