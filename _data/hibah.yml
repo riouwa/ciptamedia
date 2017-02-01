@@ -407,47 +407,47 @@
   link: /hibah/045
 
 - nomor: '046'
-  judul: 
+  judul: Pengembangan dan Sosialisasi Aplikasi Mobile Pengadaan.net
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Pengadaan.net adalah situs non-pemerintah yang menyediakan layanan notifikasi atau pemberitahuan ke email tentang informasi pengadaan barang dan jasa dari seluruh Indonesia. Dengan adanya layanan ini, masyarakat yang membutuhkan informasi bisa dengan mudah dan lebih cepat mendapatkan informasi pengadaan.
+  lokasi: Nganjuk, Jawa Timur
+  tipe: software
   gambar: /static/img/hibah/046.jpg
   link: /hibah/046
 
 - nomor: '047'
-  judul: 
+  judul: Media Petani Pintar (MPP)
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Informasi yang masih minim di dapatkan oleh para petani banyak mengakibatkan memburuknya produktifitas hasil tani ditambah minimnya forum konsultasi yang diberikan pemerintah bagi petani. Maka dengan program Media Petani Pintar (MPP) , semua petani diharapkan dapat lebih baik dalam mengelola pertaniannya.
+  lokasi: Sumatera Utara
+  tipe: konten
   gambar: /static/img/hibah/047.jpg
   link: /hibah/047
 
 - nomor: '048'
-  judul: 
+  judul: Aplikasi Berbagi Tips Tanaman Obat Berbasis Android
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Aplikasi ini dibuat untuk memanfaatkan secara maksimal tanaman obat yang tersedia di Indonesia sehingga dapat membantu masyarakat mendapatkan obat yang murah, tepat, dengan efek sampingan minimal dan pada gilirannya dapat melestarikan kekayaan alam Indonesia.
+  lokasi: Bogor, Jawa Barat 
+  tipe: konten
   gambar: /static/img/hibah/048.jpg
   link: /hibah/048
 
 - nomor: '049'
-  judul: 
+  judul: Pembentukan Komunitas dan Konten Eco Camp dan Komunitas Taman Hutan Raya Djuanda
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Selama ini banyak pemerhati atas gerakan merawat bumi dan berguru kepada bumi yang sudah dilakukan di Taman Hutan Raya Djuanda bersama dengan Eco Learning Camp, belum tercatat dalam database sehingga setiap kali satu kegiatan selesai, tidak ditindaklanjuti untuk diskusi lebih lanjut kepada para peserta kegiatan dan tidak ada tindak lanjut pembentukan komunitas dan tidak ada update kepada para pemerhati kegiatan ini melalui info yang disebarkan melalui sms dan platform.
+  lokasi: Jakarta Timur
+  tipe: konten
   gambar: /static/img/hibah/049.jpg
   link: /hibah/049
 
 - nomor: '050'
-  judul: 
+  judul: LiVe BTS
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       BTS ini akan ramah lingkungan. BTS ini juga akan mengintegrasikan alat komunikasi seluler tidak melalui jaringan GSM.
+  lokasi: Jakarta
+  tipe: hardware
   gambar: /static/img/hibah/050.jpg
   link: /hibah/050
 
