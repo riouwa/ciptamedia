@@ -3197,92 +3197,95 @@
   link: /hibah/354
   
 - nomor: '355'
-  judul: 
+  judul: ASI di Tangan Anda
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Saat ini, donor ASI bukanlah hal yang tabu lagi untuk diperbincangkan bahkan belakangan ini, kegiatan donor ASI semakin marak.
+       Aplikasi seluler ini bisa mempertemukan komunitas para Ibu ASI di seluruh Indonesia, baik dari para Ibu pendonor maupun para Ibu yang membutuhkan donor ASI bagi anak-anaknya. Namun aplikasi ini bukan hanya menjadi wadah untuk kegiatan donor ASI tapi juga menyediakan info-info yang dibutuhkan para ibu, baik sekitar info ASI tapi juga info sekitar kesehatan pada umumnya.
+  lokasi: Jakarta Selatan
+  tipe: software
   gambar: /static/img/hibah/355.jpg
   link: /hibah/355
   
 - nomor: '356'
-  judul: 
+  judul: “PANTAU ANAK, aplikasi pintar pemantau intensitas penggunaan gadget anak dan pelindung konten-konten tidak sesuai.”
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       PANTAU ANAK adalah sebuah aplikasi mobile yang melindungi anak-anak dari aktivitas (handphone dan tablet) yang berlebihan dan tidak tidak semestinya, seperti bermain game seharian, mengakses situs dan aplikasi yang mengandung unsur kekerasan, pornografi, mistis / supranatural, menelepon sembarangan, dan registrasi layanan sembarangan.
+  lokasi: Jakarta Timur
+  tipe: software
   gambar: /static/img/hibah/356.jpg
   link: /hibah/356
   
 - nomor: '357'
-  judul: 
+  judul: School Update Center, solusi cerdas komunikasi antara sekolah dan orang tua murid
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       School Update Center adalah sebuah aplikasi mobile yang digunakan oleh sekolah untuk memberikan informasi terbaru yang dibutuhkan orang tua murid. Informasi tersebut antara lain jadwal kegiatan di sekolah, jadwal pelajaran murid, jadwal ujian murid, absensi murid, dan pengumuman-pengumuman dari sekolah.
+  lokasi: Jakarta Barat
+  tipe: software
   gambar: /static/img/hibah/357.jpg
   link: /hibah/357
   
 - nomor: '358'
-  judul: 
+  judul: Mino - Asisten Orang Tua
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Asisten orang tua merupakan aplikasi parental kontrol berbasis lokal yang platformnya adalah smartphone (android,ios dan windows phon
+  lokasi: Bandung, Jawa Barat
+  tipe: software
   gambar: /static/img/hibah/358.jpg
   link: /hibah/358
   
 - nomor: '359'
-  judul: 
+  judul:  Aplikasi Revitalisasi Posyandu
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Prinsip dasar yang dibangun dalam proyek ini adalah memperkuat dan memudahkan layanan Posyandu untuk memantau kesehatan Ibu, Bayi, dan Anak Indonesia, atau merivitalisasi Posyandu Indonesia. Peran dan fungsi Posyandu sebenarnya sangat vital bagi sebagian besar masyarakat Indonesia. Posyandu yang dikelola oleh masyarakat sendiri dan dibina oleh Puskesmas setempat adalah ujung tombak yang sangat efektif dalam membumikan kesadaran dan peningkatan kesehatan bagi Ibu, Bayi, dan Anak Indonesia.
+  lokasi: Bandung, Jawa Barat
+  tipe: software
   gambar: /static/img/hibah/359.jpg
   link: /hibah/359
   
 - nomor: '360'
-  judul: 
+  judul: Pemanfaatan SMS menjadi Media Penyampaian dan  Penyebarluasan Informasi di Daerah dengan Satu Provider
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Tujuan :
+       a. Mampu memfasilitasi penyampaian dan pertukaran informasi yang ada di desa yang menjadi dampingan Air Hidup.
+       b. Mampu memaksimalkan SMS untuk pertukaran informasi dengan memanfaatkan satu-satunya provider yang ada.
+  lokasi: Bekasi, Jawa Barat
+  tipe: konten
   gambar: /static/img/hibah/360.jpg
   link: /hibah/360
   
 - nomor: '361'
-  judul: 
+  judul: Desa Kita
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       DesaKita merupakan sebuah sistem berbasis multimedia platform yang bertujuan untuk memudahkan pengelolaan desa/kelurahan dalam bidang kesehatan, pendidikan, pengelolaan sampah, infrastruktur dan wirausaha, dengan melibatkan komunikasi aktif dua arah antara masyarakat dan pemerintah.
+  lokasi: Bogor, Jawa Barat
+  tipe: konten
   gambar: /static/img/hibah/361.jpg
   link: /hibah/361
   
 - nomor: '362'
-  judul: 
+  judul: Sekolah Petani
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Solusi yang ditawarkan untuk untuk menciptakan generasi muda yang unggul dan berjiwa wirausaha sehingga dapat mengatasi permasalahan-permasalahan di bidang pertanian dan membawa masyarakat Indonesia pada kemajuan dan kesejahteraan.
+  lokasi: Kudus, Jawa Tengah
+  tipe: konten
   gambar: /static/img/hibah/362.jpg
   link: /hibah/362
   
 - nomor: '363'
-  judul: 
+  judul: Resonansi Kota - Kita bisa membuat kota menjadi lebih baik!
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Resonansi Kota adalah Sebuah Dokumenter Interaktif soal permasalahan yang terjadi di kota. Kami mencoba menginspirasi lahirnya kepedulian melalui beberapa cerita dari sudut pandang terkait Konsep Kebahagian, Tekanan (Stress), Kelangkaan Solidaritas, Rapuhnya Ruang Publik, Isolasi, Pencemaran dan Pengabaian Seni yang seringkali terjadi di kota, dalam bentuk produksi dokumenter interaktif.
+  lokasi: Jakarta Selatan
+  tipe: software
   gambar: /static/img/hibah/363.jpg
   link: /hibah/363
   
 - nomor: '364'
-  judul: 
+  judul: Aplikasi Mobile : Plaza Sehat
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Sistem informasi berbasis mobile dan web tentang keberadaan layanan kesehatan dari tingkat Puskesmas, Klinik, Bidan, Apotik,Layanan Kesehatan Umum hingga Rumah Sakit Daerah-Pusat.
+  lokasi: Sawangan, Depok
+  tipe: software
   gambar: /static/img/hibah/364.jpg
   link: /hibah/364
   
