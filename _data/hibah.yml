@@ -492,65 +492,68 @@
   link: /hibah/054
 
 - nomor: '055'
-  judul: 
+  judul: Desa Terintegrasi Teknologi
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Dalam upaya peningkatan dan pemanfaatan teknologi informasi yang sudah di rasakan sebagian besar oleh masyarakat perkotaan, tentunya masyarakat desa punya banyak potensi yang perlu dikembangkan dan didukung oleh teknologi. Project ini bertujuan mensosialisasikan, memanfaatkan dan memeratakan perkembangan teknologi informasi untuk peningkatan kualitas hidup dan ekonomi di desa-desa
+  lokasi: Bogor, Jawa Barata
+  tipe: hardware
   gambar: /static/img/hibah/055.jpg
   link: /hibah/055
 
 - nomor: '056'
-  judul: 
+  judul: SIMPADU - Sistem Informasi Manajemen PAUD Terpadu
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       SIMPADU adalah sistem aplikasi yang akan dikembangkan berbasis WEB dan Mobile untuk mendukung manajemen pengelolaan dan pembelajaran PAUD di Indonesia meliputi :
+       - Buku Komunikasi Orang tua dan Guru (Buku Penghubung)
+       - Laporan hasil pembelajaran tiap semester (rapor siswa)
+       - Penyusunan kurikulum pembelajaran terpadu
+  lokasi: Semarang, Jawa Tengah
+  tipe: software
   gambar: /static/img/hibah/056.jpg
   link: /hibah/056
 
 - nomor: '057'
-  judul: 
+  judul: Sistem Informasi Keuangan Nasional
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Saya harap saya bisa mendorong keterbukaan akuntansi publik (government accounting) dengan menyediakan aplikasi yang dapat running melalui mobile device, maupun diakses melalui web.
+  lokasi: Kebumen, Jawa Tengah
+  tipe: software
   gambar: /static/img/hibah/057.jpg
   link: /hibah/057
 
 - nomor: '058'
-  judul: 
+  judul: Ancer-ancer
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Proyek ini ingin menampilkan konten teks dipadu foto mengenai informasi suatu letak lokasi kepada pengguna internet mobile, terkhusus nama jalan di suatu kota atau kabupaten. Kami akan memulai dengan kota Yogyakarta dengan 14 kecamatan.
+  lokasi: Yogyakarta
+  tipe: konten
   gambar: /static/img/hibah/058.jpg
   link: /hibah/058
 
 - nomor: '059'
-  judul: 
+  judul: Televisi Online Berbasis Google Hangouts On Air dan Youtube
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Jogja Hangouts TV adalah Televisi Online yang disiarkan live streaming melalui youtube dengan menggunakan fitur social media Google Plus yang didalamnya ada fasilitas Google Hangouts On Air yang terhubung dengan Youtube. Content yang dibuat Jogja Hangouts TV berisi tentang pendidikan, sosial, hiburan, dan gaya hidup masyarakat.
+  lokasi: Yogyakarta
+  tipe: konten
   gambar: /static/img/hibah/059.jpg
   link: /hibah/059
 
 - nomor: '060'
-  judul: 
+  judul: Sibarelang: Sahabat Ibu Mencetak Generasi Cemerlang
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Sistem perangkat lunak berbasis SMS sebagai media edukasi bagi ibu-ibu, terutama ibu hamil, mengenai pentingnya peran ibu dalam menjaga tumbuh kembang anak semenjak masih dalam kandungan.
+  lokasi: Batam, Riau
+  tipe: software
   gambar: /static/img/hibah/060.jpg
   link: /hibah/060
 
 - nomor: '061'
-  judul: 
+  judul: Mitra Kerja Penyandang Disabilitas
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       sistem informasi berbasis piranti lunak seluler yang menjadi penghubung antara penyandang disabilitas pencari kerja dan pemberi kerja. Dengan sistem informasi ini penyandang disabilitas bisa menempatkan profil mereka sebagai pencari kerja dan mengakses informasi tentang kesempatan kerja yang tersedia untuk mereka.
+  lokasi: Surabaya, Jawa Timur
+  tipe: software
   gambar: /static/img/hibah/061.jpg
   link: /hibah/061
 
