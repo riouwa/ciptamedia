@@ -3039,7 +3039,7 @@
   judul: Aplikasi pengalih jalur lalu lintas menggunakan intelligent agent 
   deskripsi: |
        Aplikasi ini digunakan untuk mengalihkan jalur lalintas saat terjadi kemacetan, dan aplikasi ini memberikan informasi kepada pengguna bahwa jalan yang akan dilewati sedang padat, dan memberikan jalur alternatif lainnya, dan juga dengant agent dapat berkomunikasi satu dengan lainnya
-  lokasi: -
+  lokasi: 
   tipe: software
   gambar: /static/img/hibah/336.jpg
   link: /hibah/336
