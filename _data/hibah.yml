@@ -2665,101 +2665,106 @@
   link: /hibah/294
   
 - nomor: '295'
-  judul: 
+  judul: Eductory, Membangun Institusi Pendidikan Secara Adil dan Merata
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Eductory adalah aplikasi seluler yang menyediakan konten direktori dan informasi mengenai institusi-institusi pendidikan yang ada di seluruh Indonesia. Eductory dapat menjadi sarana khusus bagi masyarakat untuk mengenal berbagai institusi pendidikan yang ada di seluruh Indonesia baik daerah perkotaan maupun pedesaan, dari sekolah, universitas, SLB, hingga tempat kursus. Eductory juga menyediakan media komunikasi 2 arah sehingga setiap elemen masyarakat dapat berkomunikasi dengan setiap institusi pendidikan yang ada.Selain itu, Eductory juga menyajikan konten artikel, review, dan berita yang bertemakan pendidikan ataupun hal-hal positif lainnya yang bermanfaat bagi masyarakat.
+  lokasi: Jakarta
+  tipe: konten
   gambar: /static/img/hibah/295.jpg
   link: /hibah/295
   
 - nomor: '296'
-  judul: 
+  judul: Toko Virtual: Meningkatkan Kompetensi Usaha Kecil di Indonesia Melalui Teknologi Digital dan Seluler
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Toko Virtual merupakan sebuah gerakan yang memiliki misi membantu usaha-usaha kecil di Indonesia dengan cara menjadi media penghubung antara pedagang dan konsumen guna meningkatkan daya kompetensi usaha-usaha kecil melalui teknologi digital dan seluler. Toko virtual ini berbentuk web responsif yang dapat diakses melalui perangkat seluler yang menyediakan platform tersebut.
+  lokasi: Jakarta Timur
+  tipe: konten
   gambar: /static/img/hibah/296.jpg
   link: /hibah/296
   
 - nomor: '297'
-  judul: 
+  judul: E-commerce Hasil Bumi Paradigma Baru Bagi Rumah Tangga Tani Indonesia
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Momentum proses transformasi diatas serta didasari atas pengalaman kami di dunia internet maka membangun proyek e-commerce hasil bumi adalah bagian dari proses percepatan produktifitas petani Indonesia kedepan,kehadirannya akan membentuk skema perlindungan harga hasil bumi dengan berbiaya rendah serta mendorong petani untuk mengelola resiko hasil buminya dengan orientasi pasar yang efektif dan produktif.
+  lokasi: Bogor, Jawa Barat
+  tipe: software
   gambar: /static/img/hibah/297.jpg
   link: /hibah/297
   
 - nomor: '298'
-  judul: 
+  judul: Sistem Informasi Peringatan Dini Bajir Bandang di Kota Manado dengan Teknologi Seluler.
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Pasca banjir bandang di Kota Manado pada tanggal 15 Januari 2014 yang berakibat korban jiwa dan harta benda terjadi begitu cepat. Warga kota Manado tidak menyangka bahwa debit air yang mengalir dari hulu sungai (daerah pegunungan) tiba-tiba sangat tinggi. Agar debit air dibagian hulu dapat diketahui sebelum sampai di daerah padat penduduk, maka perlu dibuatkan sistem yang dapat mendeteksi debit air dan mengirim informasi ke masyarakat dengan teknologi selular. Dengan demikian penduduk kota dapat mengantisipasi sehingga korban jiwa maupun harta dapat dihindari.
+  lokasi: Manado, Sulawesi Utara
+  tipe: software
   gambar: /static/img/hibah/298.jpg
   link: /hibah/298
   
 - nomor: '299'
-  judul: 
+  judul: HistoriApps: Pembuatan Scribble Games Serta Storytelling Kronik Sejarah Dalam Bentuk Apps Android
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       HistoriApps adalah upaya untuk membuat sejarah menjadi entertaining. HistoriApps adalah konten digital yang mendasarkan pada persebaran informasi sejarah bangsa dalam bentuk aplikasi. Aplikasi itu akan berupa game dan story telling.
+  lokasi: Madura, Jawa Timur
+  tipe: konten
   gambar: /static/img/hibah/299.jpg
   link: /hibah/299
   
 - nomor: '300'
-  judul: 
+  judul: Aplikasi Perpajakan Kendaraan Bermotor Berbasis Android
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Memberikan layanan informasi kepada masyarakat pengguna perangkat android tentang rincian pajak dan denda yang harus dibayar.
+  lokasi: Manado, Sulawesi Utara
+  tipe: software
   gambar: /static/img/hibah/300.jpg
   link: /hibah/300
   
 - nomor: '301'
-  judul: 
+  judul: RuaiSMS memperkuat Komunitas Masyarakat Akar Rumput
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       RuaiSMS adalah sebuah layanan berita dengan format teks sms dari masyarakat/ CJ kampung bahkan di kota sekalipun.
+       Masyarakat/ CJ dilatih mengerti dasar-dasar jurnalistik, agar melaporkan fakta yang objektif dan akurat. Dan akan melatih kembali CJ-CJ di daerah yang masih berkonflik dengan perkebunan kelapa sawit dan masalah sosial lainnya.
+  lokasi: Kapuas Hulu, Kalimantan Barat
+  tipe: konten
   gambar: /static/img/hibah/301.jpg
   link: /hibah/301
   
 - nomor: '302'
-  judul: 
+  judul: Meningkatkan Pelayanan Publik Via Mobil Phone di Distrik Demta, Kabupaten Jayapura
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       -Proyek ini akan membantu menghubungkan antara masyarakat dengan pemerintah di tingkat distrik dan Kabupaten berkaitan dengan pelayanan publik melalui penggunaan mobile phone.
+       -Masyarakat dibekali ketrampilan untuk dapat melaporkan berbagai persoalan pelayanan publik via SMS, Video phone atau foto ke SMS Center.
+       -SMS Center akan mem follow up informasi tersebut ke pejabat publik yang berwenang.
+       - SMS Center juga akan melakukan monitoring kembali ke masyarakat apakah persoalan sudah ditindaklanjuti atau belum.
+       - Bila pihak berwenang belum juga memberikan tanggapan maka SMS Center akan bekerjama dengan divisi advokasi AlDP dan jaringan AlDP lainnya untuk mem follow up laporan tersebut.
+  lokasi: Jayapura
+  tipe: konten
   gambar: /static/img/hibah/302.jpg
   link: /hibah/302
   
 - nomor: '303'
-  judul: 
+  judul: KEPO (Kumbang E-Learning Project)
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       KEPO (Kumbang E-Learning Project) adalah sebuah proyek untuk membuat bahan ajar ke dalam bentuk digital difokuskan kepada mobile learning. Dengan kegiatan Mobile Learning dimungkinkan berkembangnya fleksibilitas belajar yang tinggi. Artinya, peserta didik dapat mengaskses bahan-bahan belajar setiap saat dan berulang-ulang. Dengan kondisi yang demikian ini, peserta didik dapat lebih memantapkan penguasaannya terhadap materi pembelajaran.
+  lokasi: Cilacap, Jawa Tengah 
+  tipe: konten
   gambar: /static/img/hibah/303.jpg
   link: /hibah/303
   
 - nomor: '304'
-  judul: 
+  judul: Aplikasi Open Content Data Desa untuk Mendukung Perencanaan Pembangunan Desa yang Partisipatif dan Berkualitas
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Proyek ini bertujuan membangun Aplikasi Open Content Data Desa yang memungkinkan banyak orang untuk berkontribusi dalam pengisian data di suatu desa tertentu, dengan menggunakan alat telepon seluler khususnya smartphone sederhana. Dalam hal ini, data yang dikirimkan dari kontributor akan dimasukkan ke dalam platform berbasis peta digital yang ada dalam Aplikasi Perencanaan Pembangunan Desa (yang sudah selesai kami bangun). Sistem yang dibangun ini menggunakan pendekatan Open Content dan memungkinkan dibangunnya data desa secara kolaboratif dan terbuka (seperti pada Wikipedia atau OpenStreetMap) dari banyak sumber (crowd-sourcing).
+  lokasi: Cibeunying Kaler, Jawa Barat 
+  tipe: software
   gambar: /static/img/hibah/304.jpg
   link: /hibah/304
   
 - nomor: '305'
-  judul: 
+  judul: Red Ribbon Mobile (RRM)
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Red Ribbon Mobile (RRM) adalah kegiatan penginformasian tentang HIV dan AIDS melalui perangkat dan aplikasi multiplatform dan website yang bisa diakses melalui perangkat selular/mobile & komputer. Di program RRM masyarakat dapat mengakses berbagai informasi pengetahuan tentang HIVdan AIDS, forum diskusi, diagnosa dan konsultasi. Sumber informasi tentang HIV dan AIDS diperoleh dari lembaga-lembaga yang menangani HIV dan AIDS seperti Komisi Penanggulangan Aids & Dinas Kesehatan. Sedangkan untuk konsultasi akan bekerja sama dengan dokter yang menangani persoalan HIV dan AIDS
+  lokasi: Kubu Raya, Kalimantan Barat 
+  tipe: konten
   gambar: /static/img/hibah/305.jpg
   link: /hibah/305
   
