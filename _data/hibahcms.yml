@@ -2226,9 +2226,9 @@
   judul: Try Out ONLine berbasis Web dan SMS
   deskripsi: |
        Sistem terdiri dari :
-      - Bank Soal meliputi SD, SMP, SMA/K lengkap dengan kunci jawaban yang diperoleh dari narasumber (Prof, Guru, Tenaga Ahli pendidikan, dan tim pembuat soal ujian sekolah)
-      - Kunci jawaban meliputi multiple choice dan essay (dilengkapi dengan deskripsi penyelesaian soal)
-      - hasil try out akan diumumkan melalui sms ke nomor pengguna login peserta try out online.
+         - Bank Soal meliputi SD, SMP, SMA/K lengkap dengan kunci jawaban yang diperoleh dari narasumber (Prof, Guru, Tenaga Ahli pendidikan, dan tim pembuat soal ujian sekolah)
+         - Kunci jawaban meliputi multiple choice dan essay (dilengkapi dengan deskripsi penyelesaian soal)
+         - hasil try out akan diumumkan melalui sms ke nomor pengguna login peserta try out online.
   lokasi: Asahan, Sumatra Utara 
   tipe: software
   gambar: /static/img/hibahcms/243.jpg
@@ -2346,7 +2346,7 @@
   link: /hibahcms/254
   
 - nomor: '255'
-  judul: Game Angkringan: Upaya Promosi Warung Angkringan melalui Game Berbasis Mobile
+  judul: Game Angkringan - Upaya Promosi Warung Angkringan melalui Game Berbasis Mobile
   deskripsi: |
        Game Angkringan adalah sebuah game yang menantang para pemainnya untuk menentukan strategi dalam berwirausaha warung angkringan. Dengan kata lain, game ini mencoba mengajak para pemain untuk belajar dalam posisi sebagai pelaku penjual yang bertugas memanage sebuah warung angkringan. Game ini bertujuan untuk mempromosikan salah satu kekayaan lokal yang sudah menjadi salah satu ciri khas negara indonesia. Selain itu, game ini juga bertujuan untuk menjadi media promosi bagi pelaku wirausaha warung angkringan.
   lokasi: Jepara, Jawa Timur
@@ -2367,7 +2367,7 @@
   judul: Trans-Traffic
   deskripsi: |
        Penggunaan lampu lalu lintas juga belum dianggap optimal dalam mengatasi kemacetan, untuk itu perlunya edukasi serta tindakan pemberian hukuman (sanksi) terhadap pengguna jalan yang “nakal” secara langsung atau memberikan peringatan awal bagi mereka yang melanggar.Tentunya pemerintah juga ambil alih dalam kegiatan ini. Proyek ini memberikan simulasi tiga dimensi yang memperagakan kendaraan yang sedang melewati jalan raya. Setiap simpang dan jalan akan dibuat semirip mungkin dengan jalan aslinya sehingga membuat simulasi lebih nyata. Mobil akan digantikan oleh robot line follower yang mengikuti jalur jalan yang akan dibuat sebagai miniature jalan raya. Robot line follower nantinya akan dapat di drive pada perangkat seluler, melalui komunikasi Bluetooth. User akan ‘berlatih’ mengendarai ‘mobil’ yang nantinya akan di atur oleh sistem lalu lintas. Ketika lampu hijau menyala maka mereka boleh melewati persimpangan untuk mengarahkan mobil mereka ke tujuan nya masing-masing. Namun ketika lampu merah , mereka wajib berhenti dibelakang garis dan dilarang melintas. Jika terdapat user yang melintas, sistem akan mengetahui nomor identitas kendaraan dan mengirimnya ke server, melalui data ini nantinya server mengetahui identitas user dan kemudian akan memberi peringatan awal berupa sms/toast mobile.
-  lokasi: -
+  lokasi: 
   tipe: hardware
   gambar: /static/img/hibahcms/257.jpg
   link: /hibahcms/257
