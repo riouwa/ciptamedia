@@ -2555,7 +2555,7 @@
   link: /hibah/281
   
 - nomor: '282'
-  judul: DARURAT! : "Ketika Tiap Detik Berharga"
+  judul: DARURAT! "Ketika Tiap Detik Berharga"
   deskripsi: |
        DARURAT! adalah sebuah sistem kegawatdaruratan yang akan memudahkan komunikasi antara masyarakat umum dan instansi-instansi penyedia layanan darurat seperti Polisi, Rumah Sakit, Pemadam Kebakaran, SAR, BPBD, dan lain-lain.
   lokasi: Magelang, Jawa Tengah
@@ -2901,7 +2901,7 @@
   judul: Greatnesia
   deskripsi: |
        Greatnesia adalah media provokasi, inspirasi, sumber informasi dan berita positif yang membuat masyarakat Indonesia semakin optimis untuk membangun Indonesia. Greatnesia juga dirancang untuk mengumpulkan dan menyebarluaskan informasi/berita baik mengenai masyarakat Indonesia, budaya Indonesia dan keindahan alam Indonesia. Greatnesia – Great Indonesia.
-  lokasi: Jakrta
+  lokasi: Jakarta
   tipe: software
   gambar: /static/img/hibah/319.jpg
   link: /hibah/319
