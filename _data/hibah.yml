@@ -1227,7 +1227,7 @@
   link: /hibah/134
 
 - nomor: '135'
-  judul: in3Donesia: Platform Rekonstruksi dan Visualisasi Objek 3D dengan Kamera Selular.
+  judul: in3Donesia Platform Rekonstruksi dan Visualisasi Objek 3D dengan Kamera Selular.
   deskripsi: |
        Proyek inovatif ini menawarkan satu metode yang mampu melakukan rekonstruksi 3D dengan menggunakan berbagai ragam kamera telepon seluler. Projek ini ditujukan untuk rekonstruksi model 3D dari berbagai macam objek, terutama situs arkeologis bernilai sejarah (candi, tempat ibadah kuno, monumen ...), bentang alam (lembah, ngarai, pegunungan, goa, luweng ...) maupun objek pariwisata dan situs-situs lainnya.
   lokasi: Temanggung, Jawa Tengah 
@@ -1281,182 +1281,193 @@
   link: /hibah/140
 
 - nomor: '141'
-  judul: 
+  judul: Suara Korban
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Program ini adalah upaya untuak memfasilitasi korban-korban kekerasan dan pelanggaran HAM untuk merancang dan memproduksi digital storytelling yang dapat diakses secara luas oleh publik melalui aplikasi internet dan ponsel (smartpohone).
+  lokasi: Jombang, Jawa Timur 
+  tipe: konten
   gambar: /static/img/hibah/141.jpg
   link: /hibah/141
 
 - nomor: '142'
-  judul: 
+  judul: GPS Ponsel sebagai Alat Bantu Penentuan Lokasi dan Jarak
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Aktivitas yang saya gunakan saat ini yaitu pemanfaatan fasilitas yang dimiliki oleh perangkat GPS pada sebuah ponsel. koordinat yang di kirim oleh ponsel kemudian disimpan kedalam database yang nantinya akan saya jadikan sebagai titik acuan untuk menentukan sebuah jarak terpendek menuju koordinat tujuan (lokasi yang tercatat pada database). Menurut saya fasilitas GPS belum di optimalkan sebaik mungkin, mungkin dengan adanya sebuah piranti perangkat lunak baru, mampu mengoptimalkan fasilitas yang ada pada ponsel.
+  lokasi: Gambir Baru Kisaran, Sumatra Utara 
+  tipe: software
   gambar: /static/img/hibah/142.jpg
   link: /hibah/142
 
 - nomor: '143'
-  judul: 
+  judul:  Tell Samahita
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       TELL SAMAHITA adalah aplikasi smartphone yang dibuat sebagai sarana untuk mereka para korban pelecehan seksual dan kekerasan mengungkapkan apa yang dialaminya. TELL SAMAHITA menjadi sangat penting bagi korban pelecehan seksual dan kekerasan, karena tidak semua korban berani untuk mengungkapkan apa yang dialaminya. cara kerja TELL SAMAHITA adalah dengan menyediakan sarana bercerita (tanpa perlu menyebutkan nama) dan sarana penguhubung bagi para korban dengan bantuan yang mereka butuhkan, baik itu berupa teman bercerita, bantuan hukum, dan pendampingan trauma.
+  lokasi: Bandung, Jawa Barat 
+  tipe: software
   gambar: /static/img/hibah/143.jpg
   link: /hibah/143
 
 - nomor: '144'
-  judul: 
+  judul: Market Tani
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Penyedia konten model pemasaran produk pertanian berbasis agribisnis
+  lokasi: Banjarmasin, Kalimantan Selatan 
+  tipe: konten
   gambar: /static/img/hibah/144.jpg
   link: /hibah/144
 
 - nomor: '145'
-  judul: 
+  judul: Political Education And Critical Empowerment for Women "PEACE for Women"
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Political Education And Critical Empowerment for Women "PEACE for Women" adalah sebuah program untuk meningkatkan daya kritis perempuan dan membuka akses politik perempuan berbasis komunitas di 3 kabupaten/kota di Solo Raya (Kota Solo, Kabupaten Sragen, dan Kabupaten Klaten). Melalui program ini, perempuan akan memperoleh edukasi melalui berbagai kegiatan berbasis Teknologi Informasi dan Komunikasi (TIK).Hal ini cukup penting karena berdasarkan penggalian tim di beberapa kelompok di lokasi yang diusulkan keterlibatan perempuan dalam perencanaan, penganggaran, dan pembuatan kebijakan di tingkat desa sangatlah minim, bahkan di beberapa tempat nyaris tidak ada. 
+  lokasi: Sukaharjo, Jawa Tengah 
+  tipe: konten
   gambar: /static/img/hibah/145.jpg
   link: /hibah/145
 
 - nomor: '146'
-  judul: 
+  judul: e-ISME (Indonesia Small Medium Enterprise)
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       e-ISME adalah bentuk komunikasi dan informasi antar sentra bahan baku dengan sentra produksi untuk masuk ke dalam sistem pemasaran online. Dua sentra ini dibangun dalam satu aplikasi ber-platform Android atau Blackberry. Sebagai pilot project akan dilakukan di 5 wilayah: Sentra Tenun Songket Batubara (Sumut), Sentra Rajut Binong Jati (Jabar), Pasar Komoditas Tanah Tinggi (Banten), Sentra Batu Martapura (Kalsel), Sentra Tenun Sengkang (SulSel).
+  lokasi: Parung-Bogor, Jawa Barat 
+  tipe: konten
   gambar: /static/img/hibah/146.jpg
   link: /hibah/146
 
 - nomor: '147'
-  judul: 
+  judul: Passion of Mahasiswa
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Sebuah aplikasi yang menerapkan sistem pakar dengan menggunakan algoritma dan konsep psikologi/kepribadian, yang disesuaikan untuk Mahasiswa/Pelajar sehingga dapat digunakan sebagai sarana untuk:
+       1. Menemukan potensi diri.
+       2. Memaksimalkan kemampuan meski tidak pada bidangnya (salah jurusan).
+       3. Memberikan motivasi dan langkah-langkah pengembangan diri.
+       4. Menggunakan bakat yang dimiliki, dsb.
+  lokasi: Medan, Sumatera Utara 
+  tipe: software
   gambar: /static/img/hibah/147.jpg
   link: /hibah/147
 
 - nomor: '148'
-  judul: 
+  judul: Getok Tular Jurnalism
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Sebagai rangkain citizen Jurnalism melalui sms dari warga untuk naik melalui web atau sebaliknya. sbg jalur informasi dan komunikasi untuk masyarakat di lereng Kelud (Area Kab.Makang mulai kec.Pujon-Ngantang) pasca erupsi sbg media informasi antisipasi lahar dingin,antisipasi longsor, dan juga media informasi Agro dan Ternak. untuk masyarakat yg lebih komunikatif dan berwawasan luas
+  lokasi: Malang, Jawa Timur 
+  tipe: konten
   gambar: /static/img/hibah/148.jpg
   link: /hibah/148
 
 - nomor: '149'
-  judul: 
+  judul: IMOLEMS - Indonesian Mobile Learning Management System
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       IMOLEMS adalah inisiatif untuk mengembangkan aplikasi Mobile Learning Management System dengan pendekatan nuansa Indonesia dengan keberagaman budaya dan bahasa. Pada tahap awal akan dikembangkan berbasis akses teknologi internet dan khusus untuk memenuhi kebutuhan pembelajaran jarak jauh SMA/K. Namun seiring dengan proyeksi perkembangan konvergensi teknologi internet dengan teknologi TV Digital maka proyeksi jangka panjang akan dikembangkan menggunakan akses teknologi Digital Broadcasting.
+  lokasi: Semarang, Jawa Tengah 
+  tipe: software
   gambar: /static/img/hibah/149.jpg
   link: /hibah/149
 
 - nomor: '150'
-  judul: 
+  judul: SIHIND
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       SIHIND adalah kependekan dari Sistem Informasi Hukum Internasional, Nasional, dan Daerah. Proyek yang digagas sejak tahun 2007 ini dirancang untuk menjadi mesin pencari yang dapat mengolah database peraturan perundang-undangan yang ada di seluruh wilayah Indonesia dan Internasional. Dalam perkembangan terakhir di tahun 2013, SIHIND sudah berhasil diterapkan dalam model SMS Gateway sederhana.
+  lokasi: Tasikmalaya, Jawa Barat 
+  tipe: software
   gambar: /static/img/hibah/150.jpg
   link: /hibah/150
 
 - nomor: '151'
-  judul: 
+  judul: Ingat Indonesia [ID]
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Kami ingin membuat mobile Apps yang berjalan di semua Platform khususnya Android, iOS, BlackBerry dan Windows Phone yang memberikan informasi tentang pengetahuan umum seputar kearifan local dan kebhinekaan INDONESIA, tidak berhenti di situ, INGAT INDONESIA juga akan mengeksplorasi ragam budaya dan Keanekaragaman Seni yang ada di Indonesia. Tentunya ada banyak materi yang akan di sampaikan sehingga INGAT INDONESIA akan di sampaikan per-episode. Misalkan INGAT INDONESIA episode Indonesia Ku, INGAT INONESIA akan mengupas pengetahuan umum tentang Indonesia, Sejarah Singkat, Propinsi, pusaka nasional, lagu nasional, dasar hukum, dll. INGAT INDONESIA episode BATIK, disini akan di jelaskan semua hal terkait Batik, mulai dari jenis, asal, bahan, cara pembuatan, dll. Begitu juga dengan INGAT INDONESIA edisi Adat Jawa, Adat Sunda, dll. Dikemas dengan konten yang menarik berisi teks, video, animasi, efek suara dan musik membuat INGAT INDONESIA mudah di pahami dan di mengerti oleh User.
+  lokasi: Rembang, Jawa Tengah 
+  tipe: konten
   gambar: /static/img/hibah/151.jpg
   link: /hibah/151
 
 - nomor: '152'
-  judul: 
+  judul: Keliling Sumatera Utara
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Kota Medan adalah ibu kota provinsi Sumatera Utara, Indonesia. Kota ini merupakan kota terbesar ketiga di Indonesia setelah Jakarta dan Surabaya. Walaupun kota terbesar ketiga di indonesia, tetapi medan memiliki tempat wisata yang nyaman dan kuliner yang lezat dan nikmat yang banyak di kunjungi . nah, bukan hanya di kota medan, tetapi di daerah daerah sumatera utara banyak memiliki wisata yang masih belum masyarakat pendatang tau. Untuk itu, saya berinisiatif untuk memberikan informasi tentang tempat-tempat wisata serta kuliner yang ada di Sumatera utara.
+  lokasi: Medan, Sumatra Utara 
+  tipe: konten
   gambar: /static/img/hibah/152.jpg
   link: /hibah/152
 
 - nomor: '153'
-  judul: 
+  judul: HOS (HIV Online System) Media Informasi,Forum Diskusi,Diagnosa & Konsultasi HIV/AIDS
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       HOS (HIV Online System) adalah media informasi yang berupa aplikasi multiplatform dan website yang bisa di akses pengguna melalui perangkat Selular/Mobile & Komputer, Produk dari program ini adalah mobile site smartphone (Android, Blackberry,Windows Phone & Ios) yang bisa digunakan untuk mengakses berbagai informasi pengetahuan tentang HIV/AIDS ,forum diskusi, diagnosa dan konsultasi. Sumber informasi resmi diperoleh dari lembaga-lembaga yang menangani HIV/AIDS Seperti Komisi Penanggulangan Aids & Dinas Kesehatan. Untuk Konsultasi kami akan bekerja sama dengan Dokter Spesialis HIV/AIDS. Untuk menjangkau wilayah pelosok yang minim infrastruktur dan telekomunikasi, Aplikasi ini juga dilengkapi dengan layanan SMS Gatewey.
+  lokasi: Mojokerto, Jawa Timur 
+  tipe: software
   gambar: /static/img/hibah/153.jpg
   link: /hibah/153
 
 - nomor: '154'
-  judul: 
+  judul: Pendidikan Internet Untuk Nelayan Tradisional
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Kegiatan ini dimaksudkan untuk mengajarkan betapa pentingnya manfaat internet bagi nelayan tradisional untuk meningkatkan produktivitas hasil perikanan baik perikanan tangkap maupun budidaya yang akhirnya bisa meningkatkan taraf hidup nelayan tersebut. Kegiatan ini dilakukan dengan memanfaatkan web seluler untuk bisa mengakses internet karena satu-satunya teknologi yang familiar untuk para nelayan tersebut adalah telepon seluler. Untuk menunjang kegiatan ini maka akan dilakukan pengadaan telepon seluler berbasis android yang akan dibagikan secara gratis kepada nelayan di 10 desa target. Proses pelaksanaannya, tim akan terjun langsung ke desa-desa target sehingga bisa lebih bersosialisasi dengan nelayan.
+  lokasi: Baubau, Sulawesi Tenggara 
+  tipe: konten
   gambar: /static/img/hibah/154.jpg
   link: /hibah/154
 
 - nomor: '155'
-  judul: 
+  judul: Diskonesia "Your Business Your Ponsel & Ponsel Amal"
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Dengan perangkat ponsel sms gateaway kami akan membuat server yang secara otomatis akan megakomodir program ini. Intinya akan ada namanya rekening Pulsa yang mana rekening pulsa ini dapat melakukan transaksi usaha yang dapat membantu UKM UKM di Indonesia dan beramal sdisini dapat menggunakan ponsel dengan diskon mulia.
+  lokasi: Paser, Kalimantan Timur
+  tipe: konten
   gambar: /static/img/hibah/155.jpg
   link: /hibah/155
 
 - nomor: '156'
-  judul: 
+  judul: SIAB ( Sistem Informasi Aman Bertransaksi )
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       SIAB adalah sebuah aplikasi yang dapat berjalan pada semua platform ponsel atau smartphone.
+       Konsep aplikasi dari SIABB ini secara umum adalah memberikan informasi kepada khalayak umum tentang lembaga-lembaga Bisnis tadi apakah lembaga tersebut legal atau ilegal atau apakah lembaga tersebut berindikasi penipuan atau tidak. Sumber penilaian akan didasarkan kepada internal tim SIABB dan para pengguna SIABB itu sendiri. Tampilan SIAB itu sendiri nanti akan seperti tampilan SEARCH ENGINE. Jadi user tinggal mengetikan nama dan keluar hasilnya berikut dengan informasi singkat dan catatan : Rekomendasi atau tidak rekomendasi
+  lokasi: Penggilingan Cakung, Jawa Timur 
+  tipe: konten
   gambar: /static/img/hibah/156.jpg
   link: /hibah/156
 
 - nomor: '157'
-  judul: 
+  judul: Mobile Worker Time Tracking
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Mobile Worker Time Tracking adalah suatu aplikasi yang berjalan pada berbagai jenis smartphone yang mempunyai fungsi secara khusus untuk management status pekerjaan dari pekerja. Aplikasi ini juga diharapkan memberikan info akurat dan compatible berupa hasil yang simultan dan tersinkronisasi antara atasan dengan pekerja, ataupun antara pekerja lepas dengan orang yang mempunyai pekerjaan (client) agar pekerja dapat memperoleh hak - haknya yang setimpal.
+  lokasi: Medan, Sumatra Utara 
+  tipe: software
   gambar: /static/img/hibah/157.jpg
   link: /hibah/157
 
 - nomor: '158'
-  judul: 
+  judul: Sistem Informasi Sekolah dengan Optimalisasi Penggunaan pada Perangkat Mobile
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Sistem Informasi sekolah yang terdiri dari:
+       - Manajemen internal sekolah berupa informasi akademik, Guru & Staff (PTK), Keuangan, Kehadiran hingga pelaporan.
+       - Informasi untuk orang tua berupa laporan nilai, kehadiran.
+       - Informasi yang dapat diakses oleh masyarakat umum tentang sekolah tersebut.
+       - Dan juga terintegrasi dengan sistem yang telah ada, yaitu Data Pokok Pendidikan (Dapodik) dan Paket Aplikasi Sekolah (PAS SMA &SMK) dari Kementerian Pendidikan dan Kebudayaan.
+       Satu sistem yang dapat mengelola TK, SD, SMP hingga SMA.
+  lokasi: Cimahi Tengah, Jawa Barat 
+  tipe: software
   gambar: /static/img/hibah/158.jpg
   link: /hibah/158
 
 - nomor: '159'
-  judul: 
+  judul: Menghubungkan Kampung Gambut pada Dunia
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Desa Muara Siran, Kecamatan Muara Kaman Kabupaten Kutai Kartanegara merupakan desa yang memiliki potensi perikanan luar biasa. Kawasan Desa Muara Siran juga sebagian besar merupakan kawasan gambut dalam. Pada beberapa wilayah, terdapat gambut berayun, yang merupakan ekosistem yang langka dan unik. Masyarakat Desa Muara Siran telah bersepakat untuk menjadikan kawasan gambut di desanya sebagai kawasan yang dilindungi, unutk kepentingan budaya dan perikanan, serta kehidupan mereka. Cerita-cerita Kerajaan Tertua di Kalimantan sangat berkaitan dengan kawasan ini.
+       Keterbatasan akses informasi, utamanya ketersediaan saluran komunikasi seluler dan internet, menjadi sebuah tantangan bagi warga desa. Saat ini sudah tersedia provider seluler di ibukota Kecamatan, yang berjarak 45 menit menggunakan perahu dari Desa. Warga desa yang memiliki satu SMA filial, satu SMP dan satu SD ini sangat ingin memperoleh jaringan komunikasi, terutama seluler dan internet. Saat ini baru terpasang antena seluler tambahan untuk kantor desa.
+  lokasi: Samarinda, Kalimantan Timur 
+  tipe: hardware
   gambar: /static/img/hibah/159.jpg
   link: /hibah/159
 
 - nomor: '160'
-  judul: 
+  judul: Where To Go
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Aplikasi berbasis mobile yang dapat memberikan informasi kemana kita harus pergi (wisata) sesuai dengan kriteria yang diinginkan , seperti Biaya , Lokasi , Selera ataupun hal lain sesuai dengan keinginan kita . Dapat berupa tempat makan , tempat berbelanja , tempat rekreasi dan tempat lainnya dalam kategori berwisata .Pada aplikasi ini juga terdapat menu komunitas sehingga pengguna dapat memberikan informasi tentang lokasi-lokasi lain kepada pengguna lainnya dan pengguna juga dapat menambah data ke aplikasi sehingga aplikasi ini terus berkembang .
+  lokasi: Medan, Sumatra Utara 
+  tipe: software
   gambar: /static/img/hibah/160.jpg
   link: /hibah/160
 
