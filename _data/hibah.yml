@@ -2764,92 +2764,96 @@
   link: /hibah/305
   
 - nomor: '306'
-  judul: 
+  judul: Monitoring Wilayah dan Hutan Suku Tobelo Dalam Dodaga dengan Teknologi Seluler
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Monitoring Wilayah Hutan Suku Tobelo Dalam Dodaga dengan Teknologi Seluler adalah sebuah proyek untuk membantu masyarakat dalam melakukan pengawasan hutan adat, meningkatkan kesadaran dan mendorong adanya pengakuan dari negara terhadap hak-hak masyarakat adat atas tanah, wilayah dan sumber daya alam. Pemantauan terhadap hutan adat mereka sendiri menjadi penting sebagai strategi pengawasan untuk menjaga kelestarian hutan adat.
+  lokasi: Maluku Utara
+  tipe: konten
   gambar: /static/img/hibah/306.jpg
   link: /hibah/306
   
 - nomor: '307'
-  judul: 
+  judul: Halal YUK!
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Halal YUK! merupakan sebuah aplikasi multi platform yang dapat diakses melalui browser, android, dan iOs. Halal YUK! menyediakan data-data tempat-tempat wisata yang dijamin Halal oleh MUI atau berdasarkan fakta lain. Mulai dari restaurant yang menyediakan makanan dan minuman yang halal, Spa/Pijat yang sesuai syariah, hingga hotel-hotel yang mempunyai standar kebersihan yang baik.
+  lokasi: Karawang, Jawa Barat
+  tipe: software
   gambar: /static/img/hibah/307.jpg
   link: /hibah/307
   
 - nomor: '308'
-  judul: 
+  judul: Leafcoder, Digital Leaf Color Chart
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Leafcoder adalah aplikasi seluler yang mengadopsi konsep Leaf Color Chart (Bagan Warna Daun) untuk memberikan rekomendasi kebutuhan pupuk nitrogen kepada petani padi sesuai dengan kebutuhan tanamannya.
+  lokasi: Tangerang 
+  tipe: software
   gambar: /static/img/hibah/308.jpg
   link: /hibah/308
   
 - nomor: '309'
-  judul: 
+  judul: Phiruntrophy & CharityLights 
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       CharityLights adalah sebuah inisiatif berbasis teknologi yang bertujuan untuk mengkolaborasikan tiga stakeholders penting yaitu donor (Pemerintah dan Swasta), beneficiaries (masyarakat dan organisasi non-profit), dan endorser (Developer). CharityLights bertujuan untuk membantu penyelesaian berbagai permasalahan sosial melalui distribusi bantuan finansial ke berbagai inisiatif sosial yang paling prioritas dengan mudah dan menyenangkan. CharityLights menyediakan API (Application Programming Interface) yang memungkinkan beragam aplikasi dapat diintegrasikan dengan sistem ini. Salah satu contoh aplikasinya yakni Phiruntrophy yang memungkinkan masyarakat dapat berolahraga sambil beramal melalui sistem CharityLights. 
+  lokasi: Bandung, Jawa Barat 
+  tipe: software
   gambar: /static/img/hibah/309.jpg
   link: /hibah/309
   
 - nomor: '310'
-  judul: 
+  judul: Riuji Tabutaku (Dering Uji Tanamkan Budaya Tepat Waktu)
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Game RIUJI TABUTAKU memanfaatkan "alarm HP" sebagai media utama
+       Akan disajikan agenda kegiatan sehari-hari dengan sistem alarm sebagai tolak ukur kesuksesan pemain.
+       Pemain dikatakan menang apabila bisa mematikan alarm sebelum tenggat waktu yang ditentukan.
+       Kemenangan atau kekalahan tiap agenda kegiatan diakumulasikan ke dalam bentuk poin untuk menciptakan rasa candu yang positif (melatih kedisiplinan).
+       Poin yang didapat akan digunakan sebagai alat bayar untuk melanjutkan ke level yang lebih tinggi dengan inovasi permianan yang lebih menarik
+  lokasi: Malang, Jawa Timur 
+  tipe: konten
   gambar: /static/img/hibah/310.jpg
   link: /hibah/310
   
 - nomor: '311'
-  judul: 
+  judul: Running Plus
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Dengan melihat antusias masyarakat saat ini yang peduli kesehatan dan maraknya kegiatan kesehatan khususnya lari, Kodemodo berencana untuk membuat aplikasi mobile yang dapat melakukan track akan kegiatan lari mereka, menampilkan history serta beberapa gimmick berupa badges yang dapat mereka dapatkan apabila telah melalui beberapa task yang di tentukan. Pada aplikasi ini user dapat menambahkan teman untuk lebih membuat semangat dalam melakukan exercise dengan adanya kompetisi yang sehat. Selain features diatas aplikasi ini dapat digunakan untuk para brand melakukan CSR dengan memasukkan task/tantangan bagi para pengguna untuk mengumpulkan donasi kepada yang membutuhkan.
+  lokasi: Jakarta Selatan
+  tipe: software
   gambar: /static/img/hibah/311.jpg
   link: /hibah/311
   
 - nomor: '312'
-  judul: 
+  judul: Locality Based Mobile Powered Weather Station 
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Proyek ini mengembangkan perangkat pengambilan data cuaca dan sistem perkiraan cuaca berbasis kolaborasi yang memberikan informasi tentang detail perkiraan dan kondisi cuaca pada sebuah tempat. Perangkat pengambilan data terdiri dari sebuah alat yang berisi berbagai sensor kondisi lingkungan (kelembapan udara, sensor hujan, suhu, kadar gas,dan sebagainya). Perangkat tersebut akan diletakkan di beberapa tempat, dan masing-masing akan mengirim data pengamatan kepada sistem perkiraan cuaca. Sistem perkiraan cuaca akan menerima informasi dari beberapa perangkat pengambilan data dan mengambil kesimpulan tentang kondisi cuaca sebuah daerah. 
+  lokasi: Jakarta Timur
+  tipe: hardware
   gambar: /static/img/hibah/312.jpg
   link: /hibah/312
   
 - nomor: '313'
-  judul: 
+  judul: Save TKI
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+        Banyak TKI yang berasal dari pedesaan, kurang informasi dan terdesak karena tuntutan ekonomi menjadi penunjang TKI untuk menerima informasi yang salah.Aplikasi ini akan memberikan ID kepada setiap calon TKI untuk digunakan dalam perangkat mobile yang kami buat dengan tujuan agar TKI kita mengetahui kewajiban dan haknya sebagai TKI guna mengurangi tingkat kriminalitas terhadap TKI. Didalam proyek kami membuat 2 jenis, yaitu: Mobile apps sebagai client yang akan digunakan oleh TKI dan deskop apps atau web sebagai server yang digunakan oleh pemerintah yang terkait.
+  lokasi: Langkat, Sumatra Utara
+  tipe: software
   gambar: /static/img/hibah/313.jpg
   link: /hibah/313
   
 - nomor: '314'
-  judul: 
+  judul: Aplikasi Sistem Pendukung Keputusan Penentuan Rumah Sakit Terbaik Berbasis Sistem Terdistribusi
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Sebuah aplikasi sistem pendukung keputusan yang membantu user untuk memperoleh pelayanan informasi terkait suatu rumah sakit berdasarkan kriteria-kriteria yang disediakan dalam aplikasi yang telah di tentukan user dimana aplikasi ini berbasis sistem terdistribusi yang memiliki kemampuan untuk mengakses data secara lebih cepat dan tepat.
+  lokasi: Sidoarjo, Jawa Timur
+  tipe: konten
   gambar: /static/img/hibah/314.jpg
   link: /hibah/314
   
 - nomor: '315'
-  judul: 
+  judul: e-JakBeut
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       e-JakBeut merupakan sebuah aplikasi yang dikembangkan untuk memudahkan pelaksanaan pengajian pada suatu daerah. Di mana sasaran utama dari aplikasi ini ialah para santri atau pelajar serta para guru. Aplikasi ini terdiri dari beberapa informasi mengenai pengjian seperti, waktu, tempat dan guru pengajian serta beberapa keterangan penting lainnya.
+  lokasi: Banda Aceh
+  tipe: software
   gambar: /static/img/hibah/315.jpg
   link: /hibah/315
   
