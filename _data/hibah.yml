@@ -2548,119 +2548,119 @@
   link: /hibah/281
   
 - nomor: '282'
-  judul: 
+  judul: DARURAT! : "Ketika Tiap Detik Berharga"
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       DARURAT! adalah sebuah sistem kegawatdaruratan yang akan memudahkan komunikasi antara masyarakat umum dan instansi-instansi penyedia layanan darurat seperti Polisi, Rumah Sakit, Pemadam Kebakaran, SAR, BPBD, dan lain-lain.
+  lokasi: Magelang, Jawa Tengah
+  tipe: software
   gambar: /static/img/hibah/282.jpg
   link: /hibah/282
   
 - nomor: '283'
-  judul: 
+  judul: Intelligent Traffic Monitoring System
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Proyek intelligent traffic monitoring system ini akan membangun perangkat video yang secara otomatis dapat melakukan perhitungan jumlah dan kecepatan kendaraan pada siang hari maupun pada malam hari. Beberapa teknik image processing akan digunakan dalam proyek ini untuk melakukan ekstraksi informasi citra kendaraan pada perangkat video yang kami buat. Hasil kuantifikasi berupa jumlah dan kecepatan kendaraan yang diperoleh dari perangkat video yang kami rancang akan dikirimkan kepada server untuk pengolahan informasi. Pengiriman informasi ini akan menggunakan teknologi selular 3G untuk dapat menyampaikan hasil ekstraksi video kepada server. Hasil pengolahan informasi akan menjadi prediksi informasi lalu lintas.
+  lokasi: Jakarta Selatan
+  tipe: hardware
   gambar: /static/img/hibah/283.jpg
   link: /hibah/283
   
 - nomor: '284'
-  judul: 
+  judul: AIDS Digital SMS Center: 1 juta SMS informasi HIV dan AIDS
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       IAC telah membangun sebuah aplikasi mobile AIDS Digital untuk menyebarkan informasi terkait HIV dan AIDS. Lahirnya aplikasi mobile ini didasari bahwa pengetahuan komprehensif di masyarakat terkait HIV dan AIDS masih rendah. Pengetahuan komprehensif sangat diperlukan untuk melindungi diri dari infeksi HIV, menjaga kesehatan diri jika terinfeksi HIV serta tidak melakukan perbuatan yang memberi stigma dan diskriminasi pada orang yang terinfeksi HIV.
+  lokasi: Jakarta Selatan
+  tipe: software
   gambar: /static/img/hibah/284.jpg
   link: /hibah/284
   
 - nomor: '285'
-  judul: 
+  judul: Aplikasi Mapping Wisata Indonesia
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Deskripsi dari sistem aplikasi ini adalah untuk memberikan kemudahan dalam mencari tempat wisata dan informasi tentang wisata yang dicari dan di bantu dengan sistem operasi Android yang sudah lumrah dikalangan masarakat baik para remaja maupun orang tua sistem sistem ini mampu memberikan di mana letak lokasi wisata beserta rute ke wisata dan informasi tentang wisata tersebut.
+  lokasi: Mojokerto, Jawa Timur
+  tipe: konten
   gambar: /static/img/hibah/285.jpg
   link: /hibah/285
   
 - nomor: '286'
-  judul: 
+  judul: Kark, Mobile Education
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Kark menyediakan aplikasi permainan berbasis edukasi sekaligus menyediakan jasa tenaga pengajar untuk memenuhi kebutuhan pendidikan anak yang mempunyai rentang usia 4 – 12 tahun. Games yang dibuat bukan sekedar permainan biasa yang membuat waktu belajar anak menjadi berkurang. Namun lebih dari pada itu, games yang akan dibuat akan mengutamakan tema-tema yang berhubungan dengan pendidikan untuk menambah ilmu pengetahuan anak. 
+  lokasi: Jakarta Barat
+  tipe: konten
   gambar: /static/img/hibah/286.jpg
   link: /hibah/286
   
 - nomor: '287'
-  judul: 
+  judul: Peningkatan Partisipasi Publik Dalam Pemantauan BPJS Menggunakan Teknologi Informasi Smart Phone
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Proyek ini merupakan upaya membangun partisipasi warga dalam melakukan pengawasan pelayanan BPJS bidang kesehatan secara langsung melalui penggunaan teknologi informasi smart phone yang terintegrasi dengan internet system. Partisipasi warga juga dibangun melalui pendidikan kritis di tingkat komunitas tentang jaminan kesehatan, membangun posko-posko pengaduan di tingkat kota, mengembangkan penelitian partisipatif dan kegiatan hearing dengan pemerintah untuk meningkatkan kinerja layanan BPJS dibidang kesehatan. Pada akhir program seluruh pengalaman dan hasil monitoring di dokumentasikan dalam buku dan dilaunching secara nasional.Tujuan akhir program adalah pemerintah semakin responsif terhadap pemenuhan hak warga dalam pelayanan BPJS di bidang kesehatan. Wilayah sasaran program adalah Banda Aceh NAD, DKI Jakarta, Jombang Jawa Timur, Salatiga Jawa Tengah, Buton Sulawesi Tenggara, Sumba Nusa Tenggara Timur dan Sorong Papua.
+  lokasi: Semarang, Jawa Tengah 
+  tipe: konten
   gambar: /static/img/hibah/287.jpg
   link: /hibah/287
   
 - nomor: '288'
-  judul: 
+  judul: Rukun Tetangga Online
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       RUKUN-TETANGGA ONLINE adalah sebuah Social Media yang akan membuat anda tidak lagi autis walaupun memiliki Smartphone. Karena konsep utama dari Rukun-Tetangga Online adalah Mendekatkan yang Dekat tanpa Menjauhkan yang Jauh. Sebuah media virtual dimana anda bisa berinteraksi dengan tetangga-tetangga anda sehingga ketika anda perlu bantuan, tetangga anda yang secara fisik ada di dekat anda bisa memberikan bantuannya dengan mudah.
+  lokasi: Tegalrejo, Yogyakarta 
+  tipe: software
   gambar: /static/img/hibah/288.jpg
   link: /hibah/288
   
 - nomor: '289'
-  judul: 
+  judul: Mata Air Tanpa Air Mata (TANAM)
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Program TANAM akan mengajak mahasiswa dan selulernya di Sulawesi dan Kalimantan, menjangkau pelajar di desa, untuk bersama bicara tentang air sehingga terus bisa selamanya menghidupi masyarakat. Kerja bersama membela alam oleh kaum muda ini selanjutnya akan menjadi semacam syiar alam bagi masyarakat luas Indonesia.
+  lokasi: Jakarta Barat
+  tipe: konten
   gambar: /static/img/hibah/289.jpg
   link: /hibah/289
   
 - nomor: '290'
-  judul: 
+  judul: Wallpaper dan Video Singkat Untuk Kampanye Toleransi dan Kebebasan Beragama di Kalangan Anak Muda
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Proyek ini akan memproduksi wallpaper dan video singkat untuk kampanye toleransi dan kebebasan beragama. Program ini adalah dari anak muda untuk anak muda. Kami akan mengundang secara terbuka anak-anak muda seluruh Indonesia untuk membuat wallpaper dan video singkat yang secara visual, gaya dan bahasanya mencerminkan anak muda. Kami akan memilih 25 wallpaper dan 10 video singkat terbaik yang berisi pesan toleransi dan kebebasan beragama, yang disampaikan oleh kiai, artis, agamawan, dan tokoh lainnya yang populer di kalangan anak muda dan meletakkannya dalam sebuah situs yang bisa diakses secara gratis oleh anak muda di manapun sebagai wallpaper telpon seluler mereka.
+  lokasi: Yogyakarta
+  tipe: konten
   gambar: /static/img/hibah/290.jpg
   link: /hibah/290
   
 - nomor: '291'
-  judul: 
+  judul: Pengembangan Situs Berita Suarapapua.com Berbasis SMS
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Proyek ini bertujuan mengembangkan situs suarapapua.com berbasis SMS, dengan melibatkan masyarakat Papua yang berada di berbagai kampung-kampung di tanah Papua. Proyek ini akan melatih masyarakat kampung untuk melaporkan sebuah peristiwa atau fakta secara baik dan benar. Wartawan dan pengelolah situs suarapapua.com menuliskannya menjadi sebuah laporan dan berita yang akan dipublikasikan di website, dan dibaca oleh kalangan luas. Fokus laporan masyarakat kampung selain sektor pendidikan dan kesehatan, juga sektor pembangunan dan HAM. Proyek ini juga akan memakai media sosial (Twitter dan Facebook) dalam penyebaran informasi yang telah dipublikasi pada website.
+  lokasi: Manokwari, Papua
+  tipe: konten
   gambar: /static/img/hibah/291.jpg
   link: /hibah/291
   
 - nomor: '292'
-  judul: 
+  judul: Smart Electricity planner ( Aplikasi Perencanaan Penggunaan Listrik )
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Electric Planner dibuat untuk memudahkan pengguna sebagai pelanggan listrik PLN secara khusus di Indonesia yang mana hampir seluruh masyarakat Indonesia adalah pengguna listrik PLN yaitu untuk mengelola tagihan listrik dan mendapatkan informasi tentang perencanaan penggunaan daya dan tagihan listrik.
+  lokasi: Banyuwangi, Jawa Timur 
+  tipe: software
   gambar: /static/img/hibah/292.jpg
   link: /hibah/292
   
 - nomor: '293'
-  judul: 
+  judul: Aplikasi Rekam Medis Kendaraan Bermotor Berbasis Mobile
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Project ini mengupayakan setiap kendaraan bermotor memiliki rekam medisnya masing-masing berisi informasi kendaraan secara fisik sehingga akan memudahkan dalam setiap penangan kerusakan ,dan cek berkala
+  lokasi: Tegal, Jawa Tengah
+  tipe: software
   gambar: /static/img/hibah/293.jpg
   link: /hibah/293
   
 - nomor: '294'
-  judul: 
+  judul: Portal Pendidikan Seksualitas Anak berbasis Mobile :Belajar Seksualitas
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Melalui portal pendidikan seksualitas berbasis mobile, diharapkan anak-anak usia TK-SMA dapat mendapatkan pengetahuan dasar seksualitas yang benar, edukatif dan sesuai dengan umur dan tingkat kedewasaan mereka . Materi pembelajar ini nantinya dapat diakses oleh anak-anak lewat smartphone mereka secara gratis dan tanpa batas serta halangan tabu sebab materi telah dikaji sebaik mungkin sesuai dengan umur anak. “Belajar Seksualitas” juga menyediakan sarana tanya jawab materi seksualitas dengan pakar psikologi anak secara privat, juga sarana pengaduan jika anak merasa mendapat perlakuan pelecehan seksual.
+  lokasi: Malang, Jawa Timur 
+  tipe: software
   gambar: /static/img/hibah/294.jpg
   link: /hibah/294
   
