@@ -1668,191 +1668,195 @@
   link: /hibah/181
   
 - nomor: '182'
-  judul: 
+  judul: Kuliah Dimana
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Aplikasi ini bertujuan untuk memudahkan calon mahasiswa memilih program studi yang sesuai dengan minat dan bakatnya sehingga terhindar dari salah pilih.
+  lokasi: Cilacap, Jawa Tengah
+  tipe: software
   gambar: /static/img/hibah/182.jpg
   link: /hibah/182
   
 - nomor: '183'
-  judul: 
+  judul: Komunitas @iloveaceh Social Media Goes to School
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Hampir setiap orang khususnya remaja kini memiliki gadget yang rata-rata bisa mengakses berbagai situs social media yang ada seperti layanan Facebook, Twitter, Instagram, Path, dan banyak lainnya. Menurut data StatCounter Global Statistic per Oktober 2013 menyebutkan pengguna social media dunia seperti Facebook (71,62%), diikuti dengan Twitter (7,51%), dan Pinterest (7,48%). Sementara di Indonesia sendiri, pertumbuhan pengguna social media terus meningkat yang diprediksi bakal tumbuh hingga 79,2% dari total penduduk.
+       Tak terkecuali siswa-siswi yang masih duduk di bangku sekolah saat ini mulai dari umur 15-18 tahun, mereka juga sudah merasakan kehadiran social media dalam kehidupan sehari-hari. Namun, kebanyakan dari mereka tidak tahu bahwa social media itu sendiri memiliki dampak positif bila bisa memanfaatkan dengan baik dan benar dan juga sebaliknya akan menjadi negatif jika tidak mampu mengetahuinya lebih lanjut. Menilik dari berbagai kasus yang ada, banyak tindak kriminal terjadi akibat penyalahgunaan social media yang berujung terjadinya sejumlah kasus seperti penculikan, pemerkosaan, perdagangan manusia, pencemaran nama baik, penyebaran info atau kabar bohong (HOAX), dan masih banyak lainnya.
+  lokasi: Bireuen, Aceh
+  tipe: konten
   gambar: /static/img/hibah/183.jpg
   link: /hibah/183
   
 - nomor: '184'
-  judul: 
+  judul: Kotak Bahasa
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Kotak Bahasa yaitu aplikasi berbasis web ataupun mobile yang berguna untuk memberikan pelajar bahasa yang ada di Indonesia(tidak menutup kemungkinan untuk semua bahasa). Konten aplikasi ini tidak hanya kata dan arti saja namun akan ada suara atau video percakapan dialog yang bisa dipelajari.
+  lokasi: Bogor, Jawa Barat
+  tipe: konten
   gambar: /static/img/hibah/184.jpg
   link: /hibah/184
   
 - nomor: '185'
-  judul: 
+  judul: Pemanfaatan Piranti Celluler untuk Membangun Database Difabel
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Secara singkat, proyek ini akan mengembangkan pemanfaatan celluler berbasis SMS sebagai alat untuk membangun, meng-update serta memperoleh database Difabel secara akurat. Fitur SMS akan terhubung ke sebuah server yang akan menerima dan mengolah serta menyimpan data ke dalam database. Sementara organizer Difabel di lapangan akan menjadi pensuply data entry yang sangat akurat karena berbasis di wilayah masing-masing. Pada tahap pengembangan, aplikasi ini akan dikembangkan di satu wilayah kecamatan di Yogyakarta.
+  lokasi: Sleman, Yogyakarta
+  tipe: software
   gambar: /static/img/hibah/185.jpg
   link: /hibah/185
   
 - nomor: '186'
-  judul: 
+  judul: Cyber Democracy
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Usulan ini merupakan upaya membangun makna celoteh netizen di dunia maya. Hasil riset kemudian didiseminasikan ke media massa, media sosial, dan diskusi dengan para pemangku kepentingan. Usulan ini merupakan upaya deliberasi dan channeling terhadap isu publik sebagai fondasi membangun cyber democracy.
+  lokasi: Jakarta Pusat
+  tipe: konten
   gambar: /static/img/hibah/186.jpg
   link: /hibah/186
   
 - nomor: '187'
-  judul: 
+  judul: Warta Warga Lereng Merapi
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Program ini tidak hanya mengupayakan agar warga mendapat informasi. Lebih dari itu, program ini juga memberikan kesempatan dan mengajak warga ikut aktif menyumbang informasi dan aspirasinya. Untuk itu, program ini akan mengembangkan website, mobile application untuk smartphone, dan SMS broadcast untuk handphone yang akan saling terintegrasi.
+  lokasi: Magelang, Jawa Tengah
+  tipe: konten
   gambar: /static/img/hibah/187.jpg
   link: /hibah/187
   
 - nomor: '188'
-  judul: 
+  judul: PPMDes - Pusat Pengaduan Masyarakat Desa
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       PPMDes adalah komunitas yang merupakan kelompok inisiatif masyarakat untuk melihat berbagai persoalan sosial dan ketidak adilan di desa, agar masyarakat bisa menyampaikan aspirasi dengan bebas, yang bertujuan untuk menyelesaikan persoalan yang ada dengan melihat prinsip musyawarah untuk mufakat, kebebasan menyampaikan pendapat dengan melihat kembali kearifan lokal masarakat
+  lokasi: Kupang, NTT
+  tipe: konten
   gambar: /static/img/hibah/188.jpg
   link: /hibah/188
   
 - nomor: '189'
-  judul: 
+  judul: Info Kuliah
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Data seluruh informasi yang terkait dengan universitas negeri maupun swasta dalam sebuah web dan aplikasi android dan bisa membandingkan antara universitas 1 dengan lainnya berdasarkan kualitas,biaya kuliah dll.
+  lokasi: Metro, Lampung
+  tipe: konten
   gambar: /static/img/hibah/189.jpg
   link: /hibah/189
   
 - nomor: '190'
-  judul: 
+  judul: Kahade : Filter SMS Penipuan dan Spam berbasis Kolaborasi
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Kahade adalah sebuah aplikasi mobile yang bertujuan untuk memberikan kewaspadaan bagi para penggunanya dari penyalahgunaan pesan singkat (SMS), seperti percobaan tindak penipuan melaui SMS atau telepon, dimana kondisi ini masih marak sampai sekarang, sebagai contoh SMS yang berbunyi ”transfer saja ke rekening sekian”, dsb. Melalui aplikasi ini maka para pengguna dapat terhindar dari jerat penipuan dan juga membantu mereka jika terjerat oleh tindak tersebut. Berbeda dengan aplikasi-aplikasi spam filter pada umumnya, penggunaan pendekatan kolaborasi dapat menghasilkan proses filter dan deteksi spam maupun indikasi tindak penipuan secara lebih akurat dan aktual. Selain itu juga sistem ini juga menciptakan interaksi sosial, dimana di dalam hal ini setiap pengguna saling membantu berbagi informasi untuk mencegah tindak penipuan dan juga gangguan dari spam.
+  lokasi: Bandung, Jawa Barat
+  tipe: software
   gambar: /static/img/hibah/190.jpg
   link: /hibah/190
   
 - nomor: '191'
-  judul: 
+  judul: Pesan Penyelamat Mata Air
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Program ini adalah optimalisasi penggunaan moda komunikasi dengan perangkat selular, terutama fasilitas Short Message Service (SMS) untuk mengkampanyekan pentingnya perlindungan mata air di dua belas desa yang tersebar di empat kabupaten yang termasuk dalam kawasan Pegunungan Kendeng Utara.
+  lokasi: Kediri, Jawa Timur
+  tipe: konten
   gambar: /static/img/hibah/191.jpg
   link: /hibah/191
   
 - nomor: '192'
-  judul: 
+  judul: Perancangan Sistem Analisa kemacetan sebagai Penentu Jalur Terlancar berbasis Android
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Jadi sistem kerja aplikasi ini ialah kamera di lampu merah -> upload server -> analisis (pengolahan citra untuk menentukan tingkat keramaian di suatu lampu merah).User buka aplikasi -> pilih lokasi salah satu jalan yg ingin ditempuh -> maka akan tampil foto kondisi jalan dan keterangannya untuk pengambilan foto oleh kamera dan diupload digunakan jenjang waktu yg bisa diatur, misal 30 menit sekali.
+  lokasi: Malang, Jawa Timur
+  tipe: software
   gambar: /static/img/hibah/192.jpg
   link: /hibah/192
   
 - nomor: '193'
-  judul: 
+  judul: Aplikasi Lasaka : Aplikasi pembaca dan penerjemah Aksara Tradisional Karo
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Minat terhadap Aksara Tradisional Karo mulai memudar di generasi muda suku Karo belakangan ini. Pembelajaran Aksara Karo selama ini tersedia hanya di buku-buku yang digunakan untuk mensuplemen pelajaran muatan lokal / bahasa daerah. Melalui aplikasi ini kami ingin mendekatkan material terkait Aksara Karo ke generasi muda melalui perangkat yang sering digunakan, smartphone. Dengan menggunakan desain aplikasi yang menarik dan interaktif, kami yakin bahasa Karo dan Aksara Karo akan semakin mudah dipelajari. Aplikasi ini juga dapat digunakan untuk mempromosikan kekayaan linguistik Karo kepada pemerhati budaya baik nasional maupun internasional.
+  lokasi: Kabupaten Karo, Sumatera Utara
+  tipe: software
   gambar: /static/img/hibah/193.jpg
   link: /hibah/193
   
 - nomor: '194'
-  judul: 
+  judul: Pesantren IT
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Pesantren merupakan asrama pendidikan ilmu agama, dimana siswa dan siswi tinggal di sebuah asrama dan belajar ilmu agama. di pesantren juga di ajarkan matematika, fisika, dll. sama seperti sekolah sederajat lainnya. namun halnya, di bidang Ilmu Komputer sangatlah kecil untuk di bahas di pesantren. saya memiliki sebuah ide "pesantren IT" , yang mana pesantren juga bisa menjadi wadah dunia dan akhirat yang luar biasa. mendapatkan ilmu agama dan juga bisa mengembangkan teknologi yang telah tersedia di dunia ini. Siswa-siswi juga bisa belajar bagaimana cara menggunakan teknologi tersebut dan para ustad/ustadzah juga bisa memanfaatkan komputer sebagai sarana pembelajaran.
+  lokasi: Medan, Sumatra Utara
+  tipe: software
   gambar: /static/img/hibah/194.jpg
   link: /hibah/194
   
 - nomor: '195'
-  judul: 
+  judul: M-SIGAM (Mobile System Informasi Gampoeng)
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Mobile Sistem informasi Gampoeng Aceh adalah sebuah sistem aplikasi komputer berbasis web dan seluler dengan memanfaatkan jaringan Internet sebagai media komunikasi dan teknologi perangkat seluler yang bertujuan mengetahui secara jelas data jumlah orang miskin, tingkat pendidikan, umur, dan berbagai kategori lainnya yang berkaitan dengan kependudukan mulai tingkatan gampoeng (Desa). Data dapat diinput dan diupdate langsung oleh operator perangkat Gampoeng ke dalam sistem melalui internet sehingga tingkat ke akuratan data dan informasi dapat diwujudkan, karena apapun peristiwa kependudukan yang terjadi di Gampong seperti kelahiran, kematian, perkawinan, cerai dan lainnya, data dapat diupdate langsung ke sistem.
+  lokasi: Pidie, Aceh
+  tipe: software
   gambar: /static/img/hibah/195.jpg
   link: /hibah/195
   
 - nomor: '196'
-  judul: 
+  judul: Alat Penjernih Suara untuk Penderita Bibir Sumbing
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Bibir sumbing sangat umum di jumpai di indonesia. Bahkan menurut riset 7 dari 1000 kelahiran adalah bibir sumbing. Dan bibir sumbing memiliki gangguan pada komunikasi verbal di mana vokal menjadi tidak jelas. Dan perlu 7 kali operasi untuk membuat seorang penderita bibir sumbing agar menjadi normal. Tentu dengan biaya yang tidak sedikit. Atas dasar itulah mengapa tidak membuat aplikasi untuk para penderita bibir sumbing ? selain pangsa pasar jelas, Media marketing akan mudah dan Omset ? jelas luas. Karna tak hanya pemasaran daerah bahkan hingga internasional sekalipun bisa dengan mudah digapai. Karna android berada dalam naungan google. Dimana kita tahu bahwa publikasi oleh google begitu mudah. Dan pricing harga bisa kita sesuaikan pas di kantong orang indonesia dan cocok untuk ukuran internasional.
+  lokasi: Malang, Jawa Timur
+  tipe: hardware
   gambar: /static/img/hibah/196.jpg
   link: /hibah/196
   
 - nomor: '197'
-  judul: 
+  judul: Aplikasi Daerah Rawan Bencana Sulawesi Utara
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Berkaitan dengan bencana yang baru terjadi di Manado, aplikasi ini dirancang untuk memberikan informasi wilayah yang rawan terjadi bencana kepada masyarakat. Informasi ditampilkan ke dalam maps dan disertai dengan koordinat lokasi wilayah dan koordinat user. Aplikasi ini dirancang berjalan pada perangkat mobile android dan bersifat online sehingga datanya terus terupdate
+  lokasi: Merauke, Papua
+  tipe: software
   gambar: /static/img/hibah/197.jpg
   link: /hibah/197
   
 - nomor: '198'
-  judul: 
+  judul: Phloemer | Jejaring Sosial Bisnis Lokal Berbasis Mobile App
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       • Phloemer hadir untuk membantu para pedagang, pemilik toko, warung, pedagang kaki lima, penjual bakso, tukang tambal ban (Bisnis Lokal), dalam memasarkan produknya ke internet baik itu via selular maupun media lainnya.
+       • Selain itu phloemer mempunyai tujuan sebagai mesin pencari tempat membeli suatu barang, sehingga memudahkan siapapun dalam mencari barang yang dinginkanya berdasarkan tempat terdekatnya, terutama dengan menggunakan selular. Orang yang menggunakan aplikasi ini akan mudah berinteraksi dengan pemilik bisnis lokal serta informasi peta keberadaan pemilik bisnis lokal tersebut.
+       • Dia juga aplikasi chating (phloemer massangger) untuk para pemilik bisnis lokal dan calon pembeli.
+  lokasi: Sukabumi, Jawa Barat
+  tipe: software
   gambar: /static/img/hibah/198.jpg
   link: /hibah/198
   
 - nomor: '199'
-  judul: 
+  judul: Kamila (Kawan Kehamilan Anda)
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Kamila adalah sebuah layanan berbasis mobile web yang akan membantu wanita hamil yang terkendala finansial/sulitnya menemukan dokter, untuk memonitor perkembangan kehamilan mereka melalui perangkat seluler.
+  lokasi: Cimahi Selatan, Jawa Barat
+  tipe: konten
   gambar: /static/img/hibah/199.jpg
   link: /hibah/199
   
 - nomor: '200'
-  judul: 
+  judul: Pembelajaran Komputer dan Internet Berbasis Open Source Untuk Anak-Anak Masyarakat Marjinal
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Proyek ini menawarkan solusi dalam memberikan pembelajaran komputer & internet bagi anak-anak masyarakat marjinal. Salah satu titik pemodelan yang kami gunakan adalah daerah pinggiran rel kereta api di Tanah Abang, yang penduduknya memiliki keterbatasan ekonomi & sumber daya. Anak-anak disini selain mengenyam pendidikan formal, juga belajar secara informal secara rutin dalam komunitas kecil di sebuah rumah singgah. Pengajar dan anak-anak didik memiliki ketertarikan besar untuk belajar komputer dan internet. Sayangnya, mereka mengalami keterbatasan untuk bisa melakukan aktivitas ini.
+       Perkembangan perangkat lunak & perangkat keras akhir-akhir ini memungkinkan dibangunnya workstation untuk diterapkan di kawasan-kawasan marjinal. Teknologi berdaya hemat & murah biaya yang digunakan dalam proyek ini adalah Raspberry Pi, aplikasi edukasi open source, hingga internet cepat nirkabel dengan teknologi seluler.
+  lokasi: Kediri, Jatim
+  tipe: hardware
   gambar: /static/img/hibah/200.jpg
   link: /hibah/200
   
 - nomor: '201'
-  judul: 
+  judul: CONQ Application for OSX & Android
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Sebuah aplikasi (app) untuk smartphone (baik OSX maupun Android) yang bisa digunakan oleh komunitas LGBT di Indonesia maupun di dunia. Aplikasi ini merangkum keseluruhan isi blog CONQ (http://www.conq.me) dan CONQ Youtube Channel (http://www.youtube.com/user/conqwebseries). CONQ adalah wadah komunal bagi kaum LGBT Indonesia untuk mengekspresikan diri mereka lewat berbagai media (blog dan video), yang sudah berdiri sejak tahun 2012. Lewat aplikasi ini, pengguna bisa membaca artikel-artikel terbaru yang berkaitan dengan issue LGBT, baik nasional maupun internasional. Mereka juga bisa menonton video2 original yang dibuat oleh tim CONQ, yaitu CONQ Web Series dan CONQ Inspiration (mengenai orang2 LGBT Indonesia yang inspiring). Di aplikasi ini juga akan ada listings, yang merangkum seluruh organisasi LGBT yang ada di Indonesia (dari organisasi, tempat klinik pemeriksaan HIV yang LGBT friendly, sampai tempat hiburan yang LGBT friendly di Indonesia). Kami juga ingin membuat fitur chat, dimana kaum LGBT bisa berbicara dengan call center kami mengenai issue-issue penting seperti HIV / AIDS.
+  lokasi: Jakarta Selatan
+  tipe: software
   gambar: /static/img/hibah/201.jpg
   link: /hibah/201
   
 - nomor: '202'
-  judul: 
+  judul: Waroeng Kupi Kampus Aceh
   deskripsi: |
-       
-  lokasi: 
-  tipe:
+       Projek ini difokuskan kepada pentingnya pendidikan kewirausahaan muda, penggunaan teknology IT yang sehat, dan pengurangan penganguran masyarakat. Tujuan proyek ini adalah memaksimalkan budaya duduk di warung kopi yang ada di provinsi Aceh menjadi wahana pengembangan masyarakat berbasis kemandirian masyarakat. Metode proyek ini adalah pengembangan teknologi informasi di warung kopi yang memuat informasi peluang usaha bersama, pengunaan teknologi ramah lingkungan dan kesehatan, dan peluang berusaha dan berkarya bagi masyarakat.
+  lokasi:  Banda Aceh
+  tipe: konten
   gambar: /static/img/hibah/202.jpg
   link: /hibah/202
   
