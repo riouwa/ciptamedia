@@ -1,7 +1,7 @@
 ---
 title: Aldepe.com Membangun Advokasi Hak Azasi Manusia (HAM) di Papua Via Media Online
   dan SMS
-date: 2017-02-06 12:17:00 +07:00
+date: 2012-12-31 12:17:00 +07:00
 categories:
 - CMB
 - Acara
@@ -10,7 +10,7 @@ tags:
 - aldepe
 - papua
 - ham
-author: admin
+author: admincmb
 ---
 
 ![ALDP-Papua-1024x524.png](/uploads/ALDP-Papua-1024x524.png){: .img-responsive .center-block }
