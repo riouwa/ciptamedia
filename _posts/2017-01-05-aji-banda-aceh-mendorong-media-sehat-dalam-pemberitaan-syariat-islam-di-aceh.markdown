@@ -8,7 +8,7 @@ categories:
 tags:
 - Aceh
 - Media
-author: admin
+author: admincmb
 ---
 
 ![AJI-Banda-Web-2e0878.png](/uploads/AJI-Banda-Web-2e0878.png){: .img-responsive .center-block }
