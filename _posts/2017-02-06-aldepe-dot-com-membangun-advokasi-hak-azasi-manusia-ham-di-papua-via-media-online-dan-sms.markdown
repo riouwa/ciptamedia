@@ -10,6 +10,7 @@ tags:
 - aldepe
 - papua
 - ham
+author: admin
 ---
 
 ![ALDP-Papua-1024x524.png](/uploads/ALDP-Papua-1024x524.png){: .img-responsive .center-block }
