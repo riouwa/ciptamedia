@@ -4,6 +4,7 @@ date: 2012-12-26 16:32:00 +07:00
 categories:
 - CMB
 - Acara
+- Teladan
 tags:
 - LenteraTimur
 - Indonesia
