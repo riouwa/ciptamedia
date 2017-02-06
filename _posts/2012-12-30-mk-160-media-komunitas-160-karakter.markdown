@@ -1,6 +1,6 @@
 ---
 title: 'MK-160: Media Komunitas 160 Karakter'
-date: 2017-02-06 12:47:00 +07:00
+date: 2012-12-30 12:47:00 +07:00
 categories:
 - CMB
 - Acara
@@ -9,7 +9,7 @@ tags:
 - sms gateway
 - Media
 - komunitas
-author: admin
+author: admincmb
 ---
 
 ![MK160Angkringan.jpg](/uploads/MK160Angkringan.jpg){: .img-responsive .center-block }
