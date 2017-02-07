@@ -1,6 +1,6 @@
 ---
 title: Peluncuran HPku Teman Belajarku di Kediri
-date: 2017-02-07 13:22:00 +07:00
+date: 2012-02-01 13:22:00 +07:00
 categories:
 - CMB
 - Acara
