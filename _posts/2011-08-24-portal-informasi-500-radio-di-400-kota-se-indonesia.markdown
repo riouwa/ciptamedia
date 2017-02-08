@@ -1,6 +1,6 @@
 ---
 title: Portal informasi 500 Radio di 400 kota se-Indonesia
-date: 2017-02-08 12:15:00 +07:00
+date: 2011-08-24 12:15:00 +07:00
 categories:
 - CMB
 - Teladan
