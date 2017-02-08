@@ -1,7 +1,7 @@
 ---
 title: "Benor\x9D, Radio komunitas sebagai Media Belajar dan alat perjuangan hak dasar
   Orang Rimba"
-date: 2017-02-08 12:23:00 +07:00
+date: 2011-08-24 12:23:00 +07:00
 categories:
 - CMB
 - Teladan
