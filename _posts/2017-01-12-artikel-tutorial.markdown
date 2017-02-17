@@ -46,7 +46,7 @@ Gambar rata kiri:
 
 <figure class="figure">
   <img style="float: left;" src="/uploads/favicon.ico" class="img-responsive" width="100">
-  <figcaption class="figure-caption text-center">caption</figcaption>
+  <figcaption style="float: left;" class="figure-caption text-center">caption</figcaption>
 </figure>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tincidunt dui ut nisl accumsan tincidunt. Maecenas turpis mi, auctor nec sollicitudin a, euismod id mauris. Quisque laoreet, nisl auctor ornare ultricies, quam lorem pellentesque nisi, et varius elit ligula in arcu. Maecenas dolor metus, placerat in volutpat sed, pharetra id elit. In vel molestie lorem, a fringilla arcu. Nullam consectetur rhoncus urna at interdum. Pellentesque at interdum massa. Praesent sodales nulla sem, id finibus purus convallis eget. Donec auctor nulla sed dolor molestie, quis pulvinar tortor ullamcorper. Praesent id faucibus est, euismod hendrerit diam. Morbi cursus in quam nec aliquet. Cras sit amet scelerisque lacus. Sed tincidunt pellentesque nisi, quis fermentum metus pharetra at. In eget nunc id neque rhoncus scelerisque.
 
