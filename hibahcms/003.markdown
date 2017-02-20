@@ -9,7 +9,6 @@ target:
 keberhasilan: 
 tipe: 
 strategi: 
-Field name: 
 dana: 
 deskripsi: 
 masalah: 
