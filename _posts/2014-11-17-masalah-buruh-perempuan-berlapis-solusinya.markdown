@@ -7,6 +7,7 @@ categories:
 tags:
 - buruh perempuan
 - buruh
+- radio marsinah
 author: hillun
 ---
 
