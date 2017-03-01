@@ -6,6 +6,7 @@ categories:
 - Berita
 tags:
 - buruh perempuan
+- buruh
 author: hillun
 ---
 
