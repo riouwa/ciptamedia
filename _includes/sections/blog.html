@@ -13,10 +13,8 @@
 		<div class="col-md-6">
 			<div class="row">
 				<div class="col-md-3">
-					<img style="float: left;" src="{{ post.img }}" class="img-responsive img-small">
+					<img src="{{ post.img }}" class="img-responsive img-small">
 				</div>
-			</div>
-			<div class="row">
 				<div class="col-md-9">
 					<a href="{{ post.url | prepend: site.baseurl }}"><h3>{{ post.title }}</h3></a>
 					<i class="fa fa-clock-o"></i> <a>{{ post.date | date: "%-d %b %Y" }}</a>
