@@ -18,7 +18,6 @@
 			</div>
 			<div class="row">
 				<div class="col-md-9">
-					<img style="float: left;" src="{{ post.img }}" class="img-responsive img-small">
 					<a href="{{ post.url | prepend: site.baseurl }}"><h3>{{ post.title }}</h3></a>
 					<i class="fa fa-clock-o"></i> <a>{{ post.date | date: "%-d %b %Y" }}</a>
 					<p>{{ post.content | strip_html | truncatewords:20 }}</p>
