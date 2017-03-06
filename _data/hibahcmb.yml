@@ -26,6 +26,15 @@
   gambar: /static/img/hibahcmb/003.png
   link: /hibahcmb/003
  
+- nomor: '004'
+  judul: Multimedia untuk Belajar
+  deskripsi: |
+      Proyek pembuatan informasi dan materi pelajaran untuk sekolah melalui media interaktif menggunakan multimedia, animasi, dan internet  
+  lokasi: Losari, Brebes, Jawa Tengah
+  tipe: adil
+  gambar: /static/img/hibahcmb/004.png
+  link: /hibahcmb/004
+ 
 - nomor: '169'
   judul: Lets Sign for Indonesia
   deskripsi: |
