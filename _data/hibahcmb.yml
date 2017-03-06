@@ -1,13 +1,49 @@
 # tipe: retas, adil, bebas, pantau
-- nomor: '001'
+- nomor: '000'
   judul: 
   deskripsi: |
       
   lokasi: 
   tipe: 
-  gambar: /static/img/hibahcmb/001.png
-  link: /hibahcmb/001
-
+  gambar: /static/img/hibahcmb/000.png
+  link: /hibahcmb/000
+ 
+- nomor: '002'
+  judul: School Live Streaming
+  deskripsi: |
+      Pengguna dapat mengikuti pelajaran langsung melalui “live streaming” dua arah (interaktif) antara pengajar dan pengguna
+  lokasi: DKI Jakarta
+  tipe: retas
+  gambar: /static/img/hibahcmb/002.png
+  link: /hibahcmb/002
+  
+  - nomor: '000'
+  judul: 
+  deskripsi: |
+      
+  lokasi: 
+  tipe: 
+  gambar: /static/img/hibahcmb/000.png
+  link: /hibahcmb/000
+ 
+  - nomor: '000'
+  judul: 
+  deskripsi: |
+      
+  lokasi: 
+  tipe: 
+  gambar: /static/img/hibahcmb/000.png
+  link: /hibahcmb/000
+ 
+  - nomor: '000'
+  judul: 
+  deskripsi: |
+      
+  lokasi: 
+  tipe: 
+  gambar: /static/img/hibahcmb/000.png
+  link: /hibahcmb/000
+ 
 - nomor: '169'
   judul: Lets Sign for Indonesia
   deskripsi: |
