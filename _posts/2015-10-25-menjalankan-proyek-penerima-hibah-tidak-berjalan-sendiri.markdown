@@ -8,6 +8,8 @@ tags:
 - hibah
 - CMS
 author: hillun
+comment: true
+img: 
 ---
 
 ![buruh-400x379-cac7e8.jpg](/uploads/buruh-400x379-cac7e8.jpg){: .img-responsive .center-block }
