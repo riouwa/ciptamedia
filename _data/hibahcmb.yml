@@ -1,10 +1,10 @@
 # tipe: retas, adil, bebas, pantau
 - nomor: '001'
-  judul: 
+  judul:   Tangerang Direkpedia
   deskripsi: |
-      
-  lokasi: 
-  tipe: 
+      Situs yang berisi direktori dan ensiklopedia tentang Tangerang
+  lokasi: Tangerang
+  tipe: adil
   gambar: /static/img/hibahcmb/001.png
   link: /hibahcmb/001
  
