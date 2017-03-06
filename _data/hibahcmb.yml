@@ -1,12 +1,12 @@
 # tipe: retas, adil, bebas, pantau
-- nomor: '000'
+- nomor: '001'
   judul: 
   deskripsi: |
       
   lokasi: 
   tipe: 
-  gambar: /static/img/hibahcmb/000.png
-  link: /hibahcmb/000
+  gambar: /static/img/hibahcmb/001.png
+  link: /hibahcmb/001
  
 - nomor: '002'
   judul: School Live Streaming
@@ -17,32 +17,32 @@
   gambar: /static/img/hibahcmb/002.png
   link: /hibahcmb/002
   
-  - nomor: '000'
+  - nomor: '003'
   judul: 
   deskripsi: |
       
   lokasi: 
   tipe: 
-  gambar: /static/img/hibahcmb/000.png
-  link: /hibahcmb/000
+  gambar: /static/img/hibahcmb/003.png
+  link: /hibahcmb/003
  
-  - nomor: '000'
+  - nomor: '004'
   judul: 
   deskripsi: |
       
   lokasi: 
   tipe: 
-  gambar: /static/img/hibahcmb/000.png
-  link: /hibahcmb/000
+  gambar: /static/img/hibahcmb/004.png
+  link: /hibahcmb/004
  
-  - nomor: '000'
+  - nomor: '005'
   judul: 
   deskripsi: |
       
   lokasi: 
   tipe: 
-  gambar: /static/img/hibahcmb/000.png
-  link: /hibahcmb/000
+  gambar: /static/img/hibahcmb/005.png
+  link: /hibahcmb/005
  
 - nomor: '169'
   judul: Lets Sign for Indonesia
