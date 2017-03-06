@@ -9,7 +9,7 @@ tags:
 - MAVC
 author: 
 comment: true
-img: 
+img: "/static/img/landing/cms-placeholder.jpg"
 layout: post
 ---
 
