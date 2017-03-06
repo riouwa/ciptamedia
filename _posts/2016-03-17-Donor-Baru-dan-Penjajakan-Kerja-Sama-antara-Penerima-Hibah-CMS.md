@@ -8,7 +8,7 @@ tags:
 - CMS
 - MAVC
 author: 
-comment: true
+comments: true
 img: "/static/img/landing/cms-placeholder.jpg"
 layout: post
 ---
