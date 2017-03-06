@@ -9,7 +9,7 @@ tags:
 - bandung
 - peta persampahan bandung
 author: hillun
-comment: true
+comments: true
 img: 
 ---
 
