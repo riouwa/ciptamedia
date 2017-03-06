@@ -9,7 +9,7 @@ tags:
 - Jogja
 - Open Data
 author: 
-comment: true
+comments: true
 img: 
 layout: post
 ---
