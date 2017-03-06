@@ -10,7 +10,7 @@ tags:
 - Open Data
 author: 
 comments: true
-img: 
+img: "/static/img/landing/cms-placeholder.jpg"
 layout: post
 ---
 
