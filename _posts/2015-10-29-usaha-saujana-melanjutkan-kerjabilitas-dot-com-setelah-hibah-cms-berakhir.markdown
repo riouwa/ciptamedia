@@ -10,7 +10,7 @@ tags:
 - disabilitas
 - difabel
 author: hillun
-comment: true
+comments: true
 img: "/static/img/landing/cms-placeholder.jpg"
 ---
 
