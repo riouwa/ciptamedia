@@ -34,6 +34,42 @@
   tipe: adil
   gambar: /static/img/hibahcmb/004.png
   link: /hibahcmb/004
+  
+- nomor: '005'
+  judul: Net Box
+  deskripsi: |
+      Awal 2012 sampai waktu tertentu
+  lokasi: Banjarmasin, Kalimantan Selatan
+  tipe: adil
+  gambar: /static/img/hibahcmb/005.png
+  link: /hibahcmb/005
+  
+- nomor: '006'
+  judul: Doa (Festival Menyanyi)
+  deskripsi: |
+      Konser atau festival menyanyi di Jakarta
+  lokasi: DKI Jakarta Utara
+  tipe: bebas
+  gambar: /static/img/hibahcmb/006.png
+  link: /hibahcmb/006
+  
+- nomor: '007'
+  judul: SeeBogor.com Pusat Informasi Online Wisata Bogor
+  deskripsi: |
+      Pembuatan situs web informasi wisata daerah Bogor, Jawa Barat dwibahasa Inggris-Indonesia
+  lokasi: Bogor, Jawa Barat
+  tipe: retas
+  gambar: /static/img/hibahcmb/007.png
+  link: /hibahcmb/007
+    
+- nomor: '008'
+  judul: Link Internet Murah
+  deskripsi: |
+      Pembangunan internet murah untuk pemuda, pelajar, dan mahasiswa di Kota Palu dengan membangun link-link wi fii antar kos-net
+  lokasi: Sulawesi Tengah
+  tipe: adil
+  gambar: /static/img/hibahcmb/008.png
+  link: /hibahcmb/008
  
 - nomor: '169'
   judul: Lets Sign for Indonesia
