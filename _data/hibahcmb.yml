@@ -1154,6 +1154,188 @@
   tipe: adil
   gambar: /static/img/hibahcmb/240.png
   link: /hibahcmb/240
+       
+- nomor: '241'
+  judul:   Situs Pemantau Situs
+  deskripsi: |
+      Situs pemantau situs adalah project pencatatan, pengkategorian, pengumpulan info dan analisis, penyajian data serta pemantauan (ombudsman) situs web yang pernah ada atau tengah dikelola anak negeri sebagai sebuah dokumentasi terbuka secara online dan realtime. Situs ini juga secara berkala akan memuat update semacam berita dan artikel terkait dengan perkembangan media online, penggunaan teknologi web, fenomena dunia maya, wawancara dengan pengelola situs tertentu, dan analisis kecenderungan berbagai situs yang ada di Indonesia baik dari gejala masa lalu maupun di masa depan
+  lokasi: Bandung
+  tipe: pantau
+  gambar: /static/img/hibahcmb/241.png
+  link: /hibahcmb/241
+      
+- nomor: '242'
+  judul:   Made In Bali : Keadilan dan kesetaraan akses media
+  deskripsi: |
+      Guna menunjang dan mendorong visi “Bali Creative Destination”, situs ini akan menjadi media terlengkap yang akan menyajikan informasi dan database kreatif di Bali di samping menjadi forum dan media komunikasi dengan stakeholders (pemerintah, pemodal, media, akademisi, masyarakat, dll). Informasi ini selain data akurat dan aktual juga akan mengundang interaksi langsung dengan setiap individu atau talenta yang diperlukan baik untuk keperluan bisnis maupun lainnya.
+  lokasi: Bali
+  tipe: adil
+  gambar: /static/img/hibahcmb/242.png
+  link: /hibahcmb/242
+      
+- nomor: '243'
+  judul:   Mading Rakyat
+  deskripsi: |
+      Mading Rakyat merupakan sebuah papan informasi yang berisi berita lokal, nasional, dan internasional secara proporsional dengan tujuan memotivasi minat baca terhadap berbagai masalah yang terjadi dalam masyarakat, khususnya di tingkat lokal. Mading Rakyat, yang berupa papan informasi, akan ditempatkan di setiap tempat yang strategis serta didesain semenarik mungkin sesuai dengan minat dan kultur masyarakat Sumbawa
+  lokasi: Sumbawa, NTB
+  tipe: adil
+  gambar: /static/img/hibahcmb/243.png
+  link: /hibahcmb/243  
+       
+- nomor: '244'
+  judul:   Mendongkrak Popularitas Mainan Tradisional
+  deskripsi: |
+      Sebuah proyek pengenalan kembali mainan tradisional kepada anak-anak Indonesia saat ini. Mainan tradisional yang pertama kali kami angkat adalah angkrek. Menurut saya, mainan angkrek walaupun sederhana, tetapi cukup unik dan energik. Supaya angkrek dapat menyenangkan dimainkan oleh anak-anak zaman sekarang, kami akan mengajak anak-anak berkreasi dengan media mainan angkrek ini. Untuk itu, kami ingin membuat komunitas dan website bagi pecinta angkrek dan mainan tradisional Indonesia lainnya
+  lokasi: Tangerang Selatan
+  tipe: retas
+  gambar: /static/img/hibahcmb/244.png
+  link: /hibahcmb/244
+       
+- nomor: '245'
+  judul:   Teknologi Open Source untuk Pendidikan di 9 Kabupaten/Kota di Maluku Utara Melalui Roadshow Open Source serta Pembangunan Lab Komputer
+  deskripsi: |
+      Propinsi Maluku Utara dengan 9 Kabupaten/Kota memiliki beragam kendala, baik infrastruktur maupun non-infrastrukur, bagi masyarakatnya (terutama dibidang pendidikan) untuk bisa mempelajari dan memanfaatkan teknologi informasi secara baik. Roadshow yang disertai dengan demo serta praktik lapangan ini akan dilakukan di 9 Kabupaten/Kota. Masyarakat akan dikenalkan dengan Teknologi Open Source serta Teknologi Wireless 2.4GHz untuk mendukung setiap aktifitas mereka. Dengan adanya Lab Komputer yang terbuka untuk umum, penerima manfaat dari proyek (beneficiaries) dapat terus belajar serta meningkatkan keahlian mereka. Lab ini dijuga dapat menjadi tempat revitalisasi komputer-komputer layak pakai, untuk distribusikan kepada sekolah/panti asuhan yang belum memiliki perangkat komputer
+  lokasi: Ternate, Maluku Utara
+  tipe: adil
+  gambar: /static/img/hibahcmb/245.png
+  link: /hibahcmb/245
+       
+- nomor: '246'
+  judul:   Wiramedia
+  deskripsi: |
+      Sebuah proyek pembuatan tabloid gratis yang mengangkat tentang UMKM yang ada di Jogjakarta dan sekitarnya. Pemberitaannya mengenai profil UMKM lebih mendalam. Tabloid ini akan disebar di tempat-tempat umum di empat kota (Jogjakarta, Jakarta, Semarang, Surabaya). Tabloid ini akan bisa bertahan karena adanya iklan yang masuk
+  lokasi: DI Yogyakarta
+  tipe: adil
+  gambar: /static/img/hibahcmb/246.png
+  link: /hibahcmb/246  
+       
+- nomor: '247'
+  judul:   Cibulan the Trully of Kuningan
+  deskripsi: |
+      Pengembangan aset wisata alam aset Desa ODTW Cibulan (kolam renang alami dengan aliran air 1.000 lt/detik, keindahan alam, ikan dewa, sumur 7) untuk mendapat bantuan pemagaran sekelilngnya guna peningkatan pendapatan (proyek sudah berjalan)
+  lokasi: Kuningan, Jawa Barat
+  tipe: retas
+  gambar: /static/img/hibahcmb/247.png
+  link: /hibahcmb/247  
+       
+- nomor: '248'
+  judul:   NGOMIK.COM – Membangkitkan Komik Indonesia
+  deskripsi: |
+      Proyek menghidupkan industri komik lokal Indonesia dengan cara mendorong para komikus baru untuk berkarya dan mereproduksi kembalik komik-komik lama yang hampir punah dengan cara memberikan royalti seperti layaknya penerbit. Komik-komik tersebut kemudian dipublikasikan secara digital melalui ngomik.com. Untuk menjaga kelangsungan proyek ini dalam jangka panjang, nanti setiap komik yang akan didanai, ada dua versi yaitu gratis dan berbayar. Versi gratis untuk memperkenalkan komik kepada publik dan komik berbayar untuk menjaga keberlangsungan proses pembuatan komik oleh para komikus
+  lokasi: Bandung, Jawa Barat
+  tipe: retas
+  gambar: /static/img/hibahcmb/248.png
+  link: /hibahcmb/248 
+       
+- nomor: '249'
+  judul:   Pengembangan Multimedia Untuk Pemuda
+  deskripsi: |
+      Proyek ini bertujuan untuk menampung para pemuda berpotensi (yang sudah ada data-datanya) untuk membentuk sebuah komunitas yang lebih fokus untuk menghasilkan karya-karya pemuda. Beberapa poin utama yang akan difokuskan adalah Media Online, Desain Grafis, Video Editing, Penerbitan, Media Suara (musik, radio), juga pemberdayaan anak-anak muda jalanan, dan komunitas underground seperti anak-anak punk, homeless, dancer, dan sebagainya. Proses pembinaan disini lebih mengarah pada mentoring dan training. Dengan harapan kelak mereka bisa menjadi tokoh perubahan atau paling tidak mereka akan lebih menghargai kehidupan dengan lingkungan sosial
+  lokasi: Magetan
+  tipe: adil
+  gambar: /static/img/hibahcmb/249.png
+  link: /hibahcmb/249  
+       
+- nomor: '250'
+  judul:   Gerakan Indonesia Gemar Membaca
+  deskripsi: |
+      Membaca membuka hati, membaca segarkan jiwa, yang membuka cakrawala ketidaktahuan kita. Buku bagai setetes air yang jatuh di padang pasir, puaskan dahaga kita, tembusi cakrawala. Dengan makin maraknya tontonan yg tidak pantas di televisi dan media lain, otomatis minat baca di Indonesia makin berkurang. Ini juga dipicu dengan sangat kurangnya fasilitas buku-buku bacaan bagi masyarakat di tempat2 terpencil
+  lokasi: Bandung, Jawa Barat
+  tipe: adil
+  gambar: /static/img/hibahcmb/250.png
+  link: /hibahcmb/250   
+       
+- nomor: '251'
+  judul:   Ibu-Ibu Doyan Nulis
+  deskripsi: |
+      Profesi menulis yang dianggap hanya orang yang ‘berbakat’ yang bisa menjalankannya akan dikampanyekan sebagai satu profesi yang semua bisa melakukannya, termasuk IBU-IBU RUMAH TANGGA. Malah, justru dilatarbelakangi oleh aktifitas ibu-ibu yang hanya sumur-dapur-kasur, aktifitas menulis akan menjadi satu bagian keseharian yang kelak akan menghasilkan lebih dari sekadar karya. Ibu-ibu yang akhirnya memilih jalur menulis sebagai aktifitas keseharian tanpa meninggalkan rumah, akan mengalami lonjakan PRODUKTIFITAS baik secara ilmu, karya, maupun materi. Hadirnya grup ibu-ibu doyan nulis akhirnya dilatarbelakangi niat untuk meningkatkan produktifitas para ibu di berbagai hal
+  lokasi: Bandung, Jawa Barat
+  tipe: adil
+  gambar: /static/img/hibahcmb/251.png
+  link: /hibahcmb/251   
+        
+- nomor: '252'
+  judul:   Ibu Rumah Tangga Cerdas Media
+  deskripsi: |
+      Ibu rumah tangga relatif memiliki lebih banyak waktu di rumah. Jika diberdayakan dengan baik, mereka akan mampu menjadi garda terdepan dalam pemanfaatan media yang baik, sekaligus filter propaganda negatif media
+  lokasi: Surakarta, Jawa Tengah
+  tipe: pantau
+  gambar: /static/img/hibahcmb/252.png
+  link: /hibahcmb/252  
+         
+- nomor: '253'
+  judul:   Saung Lontara: Tempat Berbagi dan Berdaya Kawula Makassar
+  deskripsi: |
+      Saung Lontara adalah tempat berkumpul, berbagi, dan berdaya anak muda di Makassar sehingga dapat menumbuhkan kreativitas, mencipta inovasi, dan memupuk kepekaan sosial. Kegiatan Saung Lontara menekankan perhatian pada pengembangan kapasitas pengetahuan (pendidikan, kepenulisan, seni budaya, kewirausahaan, kepekaan sosial, dll) dan penguatan karakter anak muda Makassar. Melalui hal tersebut, Saung Lontara akan melahirkan anak-anak muda yang memiliki ide, karya dan kepedulian sosial. Saung Lontara pun menjadi ruang bagi siapa pun untuk mengakses informasi, khususnya untuk kebutuhan pengembangan kepribadian anak muda di Makassar. Oleh karenanya, Saung Lontara akan memiliki fasilitas perpustakaan mini, akses internet, forum diskusi, dan ruang kreasi. Untuk menunjang fungsi penyebaran informasi, Saung Lontara pun akan menyediakan basis data event-event yang dapat mengembangankan kreativitas dan inovasi anak muda di Makassar, misalnya: data base lomba, forum diskusi, bakti social, kesenian, dll
+  lokasi: Makassar, Sulawesi Selatan
+  tipe: adil
+  gambar: /static/img/hibahcmb/253.png
+  link: /hibahcmb/253 
+          
+- nomor: '254'
+  judul:   Ratanika Graphic Novel / Comic
+  deskripsi: |
+      Sebuah novel grafis setebal 200 halaman berwarna dengan konten yang cerdas, berwawasan dengan bumbu kritik sosial, kemajemukan individu, dan konspirasi hal kemanusiaan
+  lokasi: Jakarta
+  tipe: pantau
+  gambar: /static/img/hibahcmb/254.png
+  link: /hibahcmb/254  
+           
+- nomor: '255'
+  judul:   laporkan.or.id
+  deskripsi: |
+      Proyek pembuatan portal dan aplikasi pendukung untuk melaporkan berbagai pungli, penyalahgunaan wewenang, dan kejadian di lingkungan melalui hp berperekam video atau audio, serta melaksanakan kegiatan kampanye sosialisasi portal ini
+  lokasi: Serpong, Banten
+  tipe: pantau
+  gambar: /static/img/hibahcmb/255.png
+  link: /hibahcmb/255 
+           
+- nomor: '256'
+  judul:   Preservasi Bahasa Nusantara
+  deskripsi: |
+      Pengembangan situs kamus bahasa nusantara
+  lokasi: Serpong, Banten
+  tipe: retas
+  gambar: /static/img/hibahcmb/256.png
+  link: /hibahcmb/256
+           
+- nomor: '257'
+  judul:   Membangun Jaringan Pengelola Jurnalisme Warga Indonesia
+  deskripsi: |
+      Program ini akan mendorong terwujudnya sebuah jaringan antar-penggiat jurnalisme warga di Indonesia. Jaringan ini tidak bersifat formal dan mengikat, seperti aliansi atau asosiasi, namun lebih bersifat informal dan cair. Karena itu lebih tepat disebut jaringan atau forum. Dengan demikian setiap pengelola ataupun media jurnalisme warga tersebut akan tetap otonom dan independen. Tujuan program ini adalah terbentuknya jaringan antar-penggiat jurnalisme warga Indonesia yang diwakili oleh para pengelola media jurnalisme warga di berbagai kota, seperti Denpasar, Makassar, Solo, Depok, Jakarta, Medan, dan kota-kota lainnya di mana terdapat media jurnalisme warga. Media jurnalisme warga ini tidak termasuk pada media jurnalisme warga yang menjadi bagian dari media arus utama, seperti Kompasiana (Kompas), IMO (The Jakarta Post), dan semacamnya.
+      Agar jaringan tersebut bisa terwujud, maka akan dilakukan kegiatan-kegiatan sebagai berikut: (1) Penjajakan dilakukan untuk mengetahui peta, kekuatan, serta antusiasme para penggiat untuk berjejaring. (2) Diskusi terfokus akan dilakukan selain untuk memperkuat hasil asessment juga sebagai forum bertemunya penggiat jurnalisme warga di Indonesia. (3) Membangun mekanisme komunikasi jaringan melalui penggunaan blog, maupun jejaring sosial, seperti mailing list, Facebook, maupun Twitter. (4) Pengembangan jaringan melalui kegiatan-kegiatan di tingkat lokal ataupun secara nasional.
+      Output program ini adalah terlaksananya kegiatan-kegiatan di atas. Adapun outcome program berupa adanya peta media jurnalisme warga Indonesia, jaringan pengelola jurnalisme warga, serta pertukaran informasi secara intensif sesama penggiat jurnalisme warga
+  lokasi: Denpasar, Bali
+  tipe: adil
+  gambar: /static/img/hibahcmb/257.png
+  link: /hibahcmb/257
+           
+- nomor: '258'
+  judul:   Situs Berita Kabupaten Bantul
+  deskripsi: |
+      Sebuah situs yang bertujuan memberikan informasi kepada warga Bantul pada khususnya tentang peristiwa, situasi, dan perkembangan yang terjadi di sekitar mereka mengingat besarnya potensi daerah tersebut (ekonomi, sosiologi, sejarah, budaya, sumber daya alam/manusia, pertanian, olahraga, kesehatan, dan kerajinan). Berita yang disajikan WartaBantul.Com ditentukan dengan mempertimbangkan fungsi dan kebutuhan informasi yang diinginkan pembaca. Berdasarkan fungsinya, berita dalam WartaBantul.Com berusaha memenuhi fungsi informatif, edukatif, inspiratif, dan menghibur. Beberapa kategori beritanya antara lain, headline news, bisnis, wisata, pendidikan, kesehatan, pertanian, sosial/budaya, dan sebagainya. Selain berita lokal laporan reporter WartaBantul.Com, kami juga menyajikan feature yang menambah wawasan warga dan feature yang diharapkan semakin memperkenalkan Bantul.
+  lokasi: Bantul, Yogyakarta
+  tipe: retas
+  gambar: /static/img/hibahcmb/258.png
+  link: /hibahcmb/258
+           
+- nomor: '259'
+  judul:   Pemanfaatan Teknologi Server SMS
+  deskripsi: |
+      Sebuah proyek pemanfaatan teknologi server sms untuk melakukan pelaporan-pelaporan / informasi berita yang terjadi di lingkungan kita tanpa mengenal waktu dan jarak
+  lokasi: Jawa Tengah
+  tipe: pantau
+  gambar: /static/img/hibahcmb/259.png
+  link: /hibahcmb/259
+           
+- nomor: '260'
+  judul:   Membangun Model Sistem e-University untuk Mewujudkan Good University Governance dalam Menjalankan Tridharmanya
+  deskripsi: |
+      e-University merupakan sistem yang ditujukan untuk membantu perguran tinggi dalam mengelola kegiatan tridharmanya (pengajaran, penelitian, dan pengabdian masyarakat). Sistem ini tidak hanya mengelola proses internal perguran tinggi, namun menjadi sarana pembelajaran dan kolaborasi antara perguran tinggi dengan mahasiswa, masyarakat, dan industri. Proyek pengembangan e-University ini diharapkan dijadikan model yang diterapkan oleh perguran tinggi di seluruh Indonesia atau dapat dijadikan sebagai sistem saas dengan memanfaatkan teknologi cloud. Diharapkan dengan adanya sistem ini, perguran tinggi dapat mengubah nature-nya ke arah yang lebih responsif dan partisifatif
+  lokasi: Bandung, Jawa Barat
+  tipe: retas
+  gambar: /static/img/hibahcmb/260.png
+  link: /hibahcmb/260
   
 - nomor: '713'
   judul: Report2DewanPers untuk Media Siber Indonesia
