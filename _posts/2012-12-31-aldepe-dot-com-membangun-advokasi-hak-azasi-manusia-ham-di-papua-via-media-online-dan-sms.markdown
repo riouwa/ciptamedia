@@ -11,6 +11,8 @@ tags:
 - papua
 - ham
 author: admincmb
+comments: true
+img: "/static/img/landing/cms-placeholder.jpg"
 ---
 
 ![ALDP-Papua-1024x524.png](/uploads/ALDP-Papua-1024x524.png){: .img-responsive .center-block }
