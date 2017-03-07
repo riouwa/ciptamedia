@@ -11,7 +11,7 @@ tags:
 - MK-160
 author: admincmb
 comments: true
-img: "/static/img/landing/cms-placeholder.jpg"
+img: "/uploads/MK160Angkringan.jpg"
 ---
 
 ![MK160Angkringan.jpg](/uploads/MK160Angkringan.jpg){: .img-responsive .center-block }
