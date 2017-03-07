@@ -1875,6 +1875,26 @@
   tipe: bebas
   gambar: /static/img/hibahcmb/318.png
   link: /hibahcmb/318 
+     
+- nomor: '319
+  judul:   WikiWarta
+  deskripsi: |
+      WikiWarta adalah proyek membangun medium berita yang mengedepankan kecepatan, kolektivitas, reliabilitas, dan interaktivitas semua pengguna internet. WikiWarta adalah jejaring sosial berita berbasis lokasi (LBS), yang mendorong setiap pengguna internet di seluruh Indonesia untuk turut aktif memberitakan berbagai informasi di daerah sekitar tempat tinggal mereka, baik melalui aplikasi ponsel, tablet, maupun komputer yang terhubung internet. Update berita berbasis lokasi ini, akan mempermudah penggunanya memantau berita di sekitar lokasi mereka check-in, sehingga mereka pun bisa turut aktif menindaklanjuti berita itu, memverifikasi, atau sekadar mengomentarinya. Dengan demikian, berita-berita lokal di daerah bisa mendapat porsi publisitas yang cukup besar, mengandalkan peran aktif masyarakat sekitar. Untuk mengundang peran aktif pengguna, dibuat sistem kredibilitas badge seperti tahapan dan jenjang seorang jurnalis profesional, dengan mempertimbangkan kualitas berita dan rating dari pembaca. Selain itu setiap berita yang memenuhi kualifikasi berpeluang untuk mendapatkan insentif sesuai bagi hasil dari pemasukan dari iklan. Dengan sistem semacam ini,
+      diharapkan keterbukaan informasi di daerah-daerah bisa ditingkatkan
+  lokasi: DKI Jakarta
+  tipe: retas
+  gambar: /static/img/hibahcmb/319.png
+  link: /hibahcmb/319
+     
+- nomor: '320'
+  judul:   Parlemen Anak dan Komunitas Pencinta Buku untuk Anak
+  deskripsi: |
+      Parlemen Anak merupakan proyek pengembangan pengetahuan dan ketrampilan anak sejak dini mengenai kebebasan berpendapat, etika penyampaian pendapat dan pelaksanaan keputusan.
+      Komunitas Pecinta Buku Anak merupakan upaya untuk mendorong dan mendampingi anak untuk aktif membaca dan menulis kreatif sesuai dengan etika
+  lokasi: Sleman, Yogyakarta
+  tipe: bebas
+  gambar: /static/img/hibahcmb/320.png
+  link: /hibahcmb/320
 
 - nomor: '713'
   judul: Report2DewanPers untuk Media Siber Indonesia
