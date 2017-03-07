@@ -41,7 +41,7 @@ layout: blog
 
 {% for section in site.sections %}
   {% assign loopindex = forloop.index | modulo: 2 %}
-  <section id="{{ section.id }}" class="features {% if loopindex != 1 %} gray-section {% endif %} {{ section.css }}" style="margin-top: 0px;">
+  <section id="{{ section.id }}" class="features {% if loopindex != 1 %} gray-section {% endif %} {{ section.css }}" style="margin-top: {% if forloop.index == 1 %} 20px {% else %} 0px {% endif %};">
     {% include sections/{{section.tpl}} %}
   </section>
 {% endfor %}
