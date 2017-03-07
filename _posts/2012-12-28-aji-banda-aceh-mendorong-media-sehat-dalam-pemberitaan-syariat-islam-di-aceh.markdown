@@ -10,6 +10,8 @@ tags:
 - Media
 - AJI Banda Aceh
 author: admincmb
+comments: true
+img: "/static/img/landing/Logo_Cipta_Media_Bersama.jpg"
 ---
 
 ![AJI-Banda-Web-2e0878.png](/uploads/AJI-Banda-Web-2e0878.png){: .img-responsive .center-block }
