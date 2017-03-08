@@ -30,21 +30,22 @@
             </div>
         </nav>
 </div>
-<div id="inSlider" class="carousel carousel-fade" data-ride="carousel">
-    <div class="carousel-inner" role="listbox">
-        <div class="item active">
-            <div class="container-fluid">
-                <div class="carousel-image wow zoomIn">
-                    <!-- <img src="static/img/landing/kontak-header.jpg" alt="header"/> -->
-                </div>
-            </div>
-            <div class="header-back one"></div>
-        </div>
+  
+<div class="container">
+  <div class="row m-b-lg">
+    <div class="col-sm-4">
+      <h1><a href="/tentangcms.html">Tentang CMS</a></h1>
+      <h1><a href="#">Penerima Hibah</a></h1>
+      <h1><a href="/hibahcms-semua.html">Pendaftar Hibah</a></h1>
+      <h1><a href="/blog/blogcms.html">Blog</a></h1>
+      <h1><a href="/timkami.html">Tim CMS</a></h1>
     </div>
+    <div class="col-sm-8">
+      {{ content }}
+    </div>
+  </div>
 </div>
-
-{{ content }}
-
+  
 {% include footer.html %}
 {% include footer_content.html %}
 
