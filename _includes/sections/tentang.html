@@ -20,21 +20,21 @@
                     <button class="btn btn-danger" data-toggle="collapse" data-target="#cms">Penerima Hibah</button>
                     <a href="#" class="btn btn-danger">Pendaftar Hibah</a> 
                     <a href="#" class="btn btn-danger">Blog</a>
-                </div>
-                <div class="row">
-                    <div id="cms" class="collapse">
-                        {% for project in site.data.projects %}
-                        {% assign loopindex = forloop.index | modulo: 4 %}
-                        <div class="col-xs-3">
-                            <a href="{{ project.url | prepend: 'http://wiki.ciptamedia.org/wiki' }}" target="blank"><button class="btn btn-white btn-xs" type="button">{{ project.name }}</button></a>
-                            <br/>
+                    <div class="row">
+                        <div id="cms" class="collapse">
+                            {% for project in site.data.projects %}
+                            {% assign loopindex = forloop.index | modulo: 4 %}
+                            <div class="col-xs-3">
+                                <a href="{{ project.url | prepend: 'http://wiki.ciptamedia.org/wiki' }}" target="blank"><button class="btn btn-white btn-xs" type="button">{{ project.name }}</button></a>
+                                <br/>
+                            </div>
+                            {% if loopindex == 0 %}
+                            <div class="clearfix visible-md visible-lg"></div>
+                            {% endif %}
+                            {% endfor %}
                         </div>
-                        {% if loopindex == 0 %}
-                        <div class="clearfix visible-md visible-lg"></div>
-                        {% endif %}
-                        {% endfor %}
                     </div>
-                </div>    
+                </div>
             </div>
         </div>
     </div>
