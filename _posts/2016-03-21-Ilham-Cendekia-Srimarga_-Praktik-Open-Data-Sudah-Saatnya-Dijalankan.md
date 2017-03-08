@@ -1,8 +1,17 @@
 ---
-layout: post
 title: Ilham Cendekia Srimarga - Praktik Open Data Sudah Saatnya Dijalankan
-category: [CMS, Berita]
-tags: [CMS, Jogja]
+date: 2016-03-21 07:00:00 +07:00
+categories:
+- CMS
+- Berita
+tags:
+- CMS
+- Jogja
+- Open Data
+author: 
+comments: true
+img: "/static/img/landing/cms-placeholder.jpg"
+layout: post
 ---
 
 **Yogyakarta** – Ilham Cendekia Srimarga, salah satu mentor CMS, memberikan penjelasan mengenai Revolusi Data dalam acara CMS Berbagi pada 27 Februari 2016. Menurutnya, data yang ada (data yang dipublikasikan pemerintah) belum memberikan ruang bagi masyarakat untuk berpartisipasi dalam menghimpun suatu data.

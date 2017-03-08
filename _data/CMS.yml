@@ -1,0 +1,17 @@
+- name: Kajian
+  href: '/kajian/'
+
+- name: Berita
+  href: '/berita/'
+
+- name: Inspirasi
+  href: '/inspirasi/'
+
+- name: Gagasan
+  href: '/gagasan/'
+
+- name: Inovasi
+  href: '/inovasi/'
+
+- name: Tutorial
+  href: '/tutorial/'

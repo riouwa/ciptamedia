@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+  
+<body id="page-top" class="landing-page">
+<div class="navbar-wrapper">
+        <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+            <div class="container">
+                <div class="navbar-header page-scroll">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a href="/index.html" id="i18_title"><span data-i18n="website.title"><img src="\static\img\landing\logociptamedia.png" width="200" class="img-responsive" alt=""></span></a>
+                </div>
+                <div id="navbar" class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav navbar-right">
+                        <li><a href="/blog/blog.html">Blog</a></li>
+                        <li class="dropdown">
+                          <a class="dropdown-toggle" data-toggle="dropdown" href="#">Daftar Permintaan Hibah<span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                              <li class="active"><a class="page-scroll" href="/hibah.html">Cipta Media Seluler</a></li>
+                              <li><a class="page-scroll" href="#">Cipta Media Bersama</a></li>
+                            </ul>
+                        </li> 
+                    </ul>
+                </div>
+            </div>
+        </nav>
+</div>
+
+<div class="container article">
+
+  <div class="row m-b-lg">
+        <div class="col-lg-12 text-center">
+            <div class="navy-line"></div>
+        </div>
+  </div>
+
+  <div class="row m-b-lg">
+      <div class="col-md-8">
+        <h1>{{ page.title }}</h1>
+        {{ content }}
+        <!--data-data-->
+         <div class="row">
+            <div class="col-lg-3">Nomor:</div><div class="col-lg-9">{{ page.nohibah }}</div>
+         </div>
+        <hr>
+         <div class="row">
+            <div class="col-lg-3">Nama Lengkap Inisiator:</div><div class="col-lg-9">{{ page.nama }}</div>
+         </div>
+        <hr>
+         <div class="row">
+            <div class="col-lg-3">Lokasi:</div><div class="col-lg-9">{{ page.lokasi }}</div>
+         </div>
+        <hr>
+        {% if page.organisasi != 'NA' %}
+        <div class="row">
+            <div class="col-lg-3">Organisasi:</div><div class="col-lg-9">{{ page.organisasi }}</div>
+         </div>
+        <hr>
+        {% endif %}
+         <div class="row">
+            <div class="col-lg-3">Judul Proyek:</div><div class="col-lg-9">{{ page.judul }}</div>
+         </div>
+        <hr>
+        {% if page.lama != 'NA' %}
+         <div class="row">
+            <div class="col-lg-3">Lama Aktivitas:</div><div class="col-lg-9">{{ page.lama }}</div>
+         </div>
+        <hr>
+        {% endif %}
+         <div class="row">
+            <div class="col-lg-3">Target Pengguna / Penerima Manfaat:</div><div class="col-lg-9">{{ page.target | newline_to_br }}</div>
+         </div>
+        <hr>
+         <div class="row">
+            <div class="col-lg-3">Ukuran Keberhasilan:</div><div class="col-lg-9">{{ page.keberhasilan | newline_to_br }}</div>
+         </div>
+        <hr>
+         <div class="row">
+            <div class="col-lg-3">Tipe Konten:</div><div class="col-lg-9">{{ page.tipe | newline_to_br }}</div>
+         </div>
+        <hr>
+        <div class="row">
+            <div class="col-lg-3">Strategi Distribusi:</div><div class="col-lg-9">{{ page.strategi | newline_to_br }}</div>
+         </div>
+        <hr>
+        {% if page.kuantitas != 'NA' %}
+        <div class="row">
+            <div class="col-lg-3">Kuantitas Output Konten:</div><div class="col-lg-9">{{ page.kuantitas }}</div>
+         </div>
+        <hr>
+        {% endif %}
+        <div class="row">
+            <div class="col-lg-3">Dana yang Diminta:</div><div class="col-lg-9">{{ page.dana }}</div>
+         </div>
+        <hr>
+        <div class="row">
+            <div class="col-lg-3">Deskripsi Proyek:</div><div class="col-lg-9">{{ page.deskripsi | newline_to_br }}</div>
+         </div>
+        <hr>
+         <div class="row">
+            <div class="col-lg-3">Definisi Masalah:</div><div class="col-lg-9">{{ page.masalah | newline_to_br }}</div>
+         </div>
+        <hr>
+         <div class="row">
+            <div class="col-lg-3">Cara Mengatasi:</div><div class="col-lg-9">{{ page.solusi | newline_to_br }}</div>
+         </div>
+      <!--end-->  
+      </div>
+      <div class="col-md-4">
+        <h1>Perkembangan Proyek</h1>
+        <!--
+        {% for post in site.categories['Berita'] %}
+            <a href="{{ post.url }}" class="btn-link">
+                <h4>
+                    {{ post.title }}
+                </h4>
+            </a>
+        {% endfor %}
+        -->
+      </div>
+  </div>
+
+</div>
+
+{% include footer.html %}
+{% include footer_content.html %}
+
+</body>
+</html>

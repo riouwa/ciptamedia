@@ -8,7 +8,7 @@
 </div>
 
 <div style="position: fixed; right: 16px; bottom: 20px; z-index: 9999;">
-    <img src="/search/img/cb-search.png"  id="search-btn"  title="Double click Ctrl"/>
+    <img src="/search/img/cb-search.png"  id="search-btn"  title="Search"/>
 </div>
 
 <div class="navbar-wrapper">
@@ -21,40 +21,47 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" href="/">{{ site.title }}</a>
+                    <a href="/index.html" id="i18_title"><span data-i18n="website.title"><img src="\static\img\landing\logociptamedia.png" width="200" class="img-responsive" alt=""></span></a>
                 </div>
                 <div id="navbar" class="navbar-collapse collapse">
                     <ul class="nav navbar-nav navbar-right">
-                        <li><a class="page-scroll" href="/blogcms/"> Blog CMS </a></li>
                         <li class="dropdown">
-                            <a class="dropdown-toggle" data-toggle="dropdown" href="#">Proyek Terdahulu
+                            <a class="dropdown-toggle" data-toggle="dropdown" href="#">Cipta Media Seluler
                             <span class="caret"></span></a>
                             <ul class="dropdown-menu">
-                            	{% for project in site.data.projects %}
-                            		{% if page.title == project.name %}
-                            			<li class="active">
-                            		{% else %}
-                            			<li>
-                            		{% endif %}
-                            		<a class="page-scroll" href="{{ project.url | prepend: 'http://wiki.ciptamedia.org/wiki' }}">{{ project.name }}</a></li>
-                        		{% endfor %}
+                            	{% for tag in site.data.CMS %}
+                                    {% if page.title == tag.name %}
+                                          <li class="active">
+                                    {% else %}
+                                          <li>
+                                    {% endif %}
+                                    <a class="page-scroll" href="{{ tag.href }}">{{ tag.name }}</a></li>
+                              {% endfor %}
+                            </ul>
+                      	</li>  
+                        <li class="dropdown">
+                            <a class="dropdown-toggle" data-toggle="dropdown" href="#">Cipta Media Bersama
+                            <span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                            	{% for tag in site.data.CMB %}
+                                    {% if page.title == tag.name %}
+                                          <li class="active">
+                                    {% else %}
+                                          <li>
+                                    {% endif %}
+                                    <a class="page-scroll" href="{{ tag.href }}">{{ tag.name }}</a></li>
+                              {% endfor %}
                             </ul>
                       	</li>
-                        
+                        <li class="dropdown">
+                              <a class="dropdown-toggle" data-toggle="dropdown" href="#">Daftar Permintaan Hibah<span class="caret"></span></a>
+                              <ul class="dropdown-menu">
+                                    <li class="active"><a class="page-scroll" href="/hibahcms-semua.html">Cipta Media Seluler</a></li>
+                                    <li><a class="page-scroll" href="#">Cipta Media Bersama</a></li>
+                              </ul>
+                        </li>    
                     </ul>
                 </div>
             </div>
         </nav>
-</div>
-<div id="inSlider" class="carousel carousel-fade" data-ride="carousel">
-    <div class="carousel-inner" role="listbox">
-        <div class="item active">
-            <div class="container">
-                <div class="carousel-image wow zoomIn">
-                    <!-- <img src="static/img/landing/kontak-header.jpg" alt="header"/> -->
-                </div>
-            </div>
-            <div class="header-back one"></div>
-        </div>
-    </div>
 </div>
