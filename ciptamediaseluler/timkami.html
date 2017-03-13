@@ -28,10 +28,10 @@ layout: info
                         </div>
                         
                         <div class="card-content" style="height:140px;">
-                            <a href="{{ member.halaman }}"><h3>{{ member.name }}</h3></a>
+                            <a href="{{ member.halaman }}"><h2>{{ member.name }}</h2></a>
                             <br/>
                             {% for member in member.posisi %}
-                                <p>{{ member }}</p>
+                                <h4>{{ member }}</h4>
                             {% endfor %}
                         </div>
                     </div>
