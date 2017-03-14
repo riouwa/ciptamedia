@@ -14,20 +14,46 @@ layout: blog
 
 	<div class="row m-b-lg">
 		<div class="col-sm-3 col-sm-push-9">
-			<h3>Blog Cipta Media Seluler</h3>
-			<ul style="list-style:none;">
-				<li><a href="/berita/"><button class="btn btn-white btn-xs" type="button">Berita</button></a></li>
-				<li><a href="/inspirasi/"><button class="btn btn-white btn-xs" type="button">Inspirasi</button></a></li>
-				<li><a href="/kajian/"><button class="btn btn-white btn-xs" type="button">Kajian</button></a></li>
-				<li><a href="/gagasan/"><button class="btn btn-white btn-xs" type="button">Gagasan</button></a></li>
-				<li><a href="/inovasi/"><button class="btn btn-white btn-xs" type="button">Inovasi</button></a></li>
-				<li><a href="/tutorial/"><button class="btn btn-white btn-xs" type="button">Tutorial</button></a></li>
-			</ul>
-			<h3>Blog Cipta Media Bersama</h3>
-			<ul style="list-style:none;">
-				<li><a href="/acara/"><button class="btn btn-white btn-xs" type="button">Acara</button></a></li>
-				<li><a href="/teladan/"><button class="btn btn-white btn-xs" type="button">Teladan</button></a></li>
-			</ul>
+			
+			<div class="panel-group" id="accordion">
+				<div class="panel panel-default">
+					<div class="panel-heading">
+						<h4 class="panel-title">
+						<a data-toggle="collapse" data-parent="#accordion" href="#collapse1">
+						Blog Cipta Media Seluler</a>
+						</h4>
+					</div>
+					<div id="collapse1" class="panel-collapse collapse in">
+						<div class="panel-body">
+							<ul style="list-style:none;">
+								<li><a href="/berita/"><button class="btn btn-white btn-xs" type="button">Berita</button></a></li><br/>
+								<li><a href="/inspirasi/"><button class="btn btn-white btn-xs" type="button">Inspirasi</button></a></li><br/>
+								<li><a href="/kajian/"><button class="btn btn-white btn-xs" type="button">Kajian</button></a></li><br/>
+								<li><a href="/gagasan/"><button class="btn btn-white btn-xs" type="button">Gagasan</button></a></li><br/>
+								<li><a href="/inovasi/"><button class="btn btn-white btn-xs" type="button">Inovasi</button></a></li><br/>
+								<li><a href="/tutorial/"><button class="btn btn-white btn-xs" type="button">Tutorial</button></a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+				<div class="panel panel-default">
+					<div class="panel-heading">
+						<h4 class="panel-title">
+						<a data-toggle="collapse" data-parent="#accordion" href="#collapse2">
+						Blog Cipta Media Bersama</a>
+						</h4>
+					</div>
+					<div id="collapse2" class="panel-collapse collapse in">
+						<div class="panel-body">
+							<ul style="list-style:none;">
+								<li><a href="/acara/"><button class="btn btn-white btn-xs" type="button">Acara</button></a></li><br/>
+								<li><a href="/teladan/"><button class="btn btn-white btn-xs" type="button">Teladan</button></a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+
 		</div>
 		<div class="col-sm-9 col-sm-pull-3">
 			{% for post in site.posts limit:10 %}
