@@ -13,20 +13,23 @@ layout: blog
 	</div>
 
 	<div class="row m-b-lg">
-	    <div class="col-lg-2 text-center"></div>
-	    <div class="col-lg-4 text-center m-b-lg">
-		<img src="/static/img/landing/cms-placeholder.jpg" width="200" class="img-responsive center-block" alt=""><br/>
-		<a class="btn btn-lg btn-default btn-rounded btn-outline wow bounceIn" href= "blogcms.html">Blog Cipta Media Seluler</a>
-	    </div>
-	    <div class="col-lg-4 text-center m-b-lg">
-		<img src="/static/img/landing/Logo_Cipta_Media_Bersama.jpg" width="200" class="img-responsive center-block" alt=""><br/>
-		<a class="btn btn-lg btn-default btn-rounded btn-outline wow bounceIn" href= "blogcmb.html">Blog Cipta Media Bersama</a>
-	    </div>
-	    <div class="col-lg-2 text-center"></div>
-	</div>
-
-	<div class="row m-b-lg">
-		<div class="col-md-9">
+		<div class="col-sm-3 col-sm-push-9">
+			<h4>Blog Cipta Media Seluler</h4>
+			<ul>
+				<li><a href="/berita/">Berita</a></li>
+				<li><a href="/inspirasi/">Inspirasi</a></li>
+				<li><a href="/kajian/">Kajian</a></li>
+				<li><a href="/gagasan/">Gagasan</a></li>
+				<li><a href="/inovasi/">Inovasi</a></li>
+				<li><a href="/tutorial/">Tutorial</a></li>
+			</ul>
+			<h4>Blog Cipta Media Bersama</h4>
+			<ul>
+				<li><a href="/acara/">Acara</a></li>
+				<li><a href="/teladan/">Teladan</a></li>
+			</ul>
+		</div>
+		<div class="col-sm-9 col-sm-pull-3">
 			{% for post in site.posts limit:10 %}
 			<div class="col-md-12">
 				<div class="row">
@@ -49,26 +52,6 @@ layout: blog
 				<hr>
 			</div>
 			{% endfor %}
-		</div>
-		<div class="col-md-3">
-			<div class="dropdown">
-				<a href="#" class="dropdown-toggle" data-toggle="dropdown"><h4>Blog Cipta Media Seluler</h4></a>
-				<ul class="dropdown-menu">
-					<li><a href="/berita/">Berita</a></li>
-					<li><a href="/inspirasi/">Inspirasi</a></li>
-					<li><a href="/kajian/">Kajian</a></li>
-					<li><a href="/gagasan/">Gagasan</a></li>
-					<li><a href="/inovasi/">Inovasi</a></li>
-					<li><a href="/tutorial/">Tutorial</a></li>
-				</ul>
-			</div>
-						<div class="dropdown">
-				<a href="#" class="dropdown-toggle" data-toggle="dropdown"><h4>Blog Cipta Media Bersama</h4></a>
-				<ul class="dropdown-menu">
-					<li><a href="/acara/">Acara</a></li>
-					<li><a href="/teladan/">Teladan</a></li>
-				</ul>
-			</div>
 		</div>
 	</div>
 
