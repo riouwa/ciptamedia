@@ -26,21 +26,50 @@ layout: blog
 	</div>
 
 	<div class="row m-b-lg">
-		{% for post in site.posts limit:10 %}
-		<div class="col-md-12">
-			<div class="row">
-				<div class="col-xs-4">
-					<img src="{{ post.img }}" class="img-responsive center-block" style="max-height:120px">
+		<div class="col-md-9">
+			{% for post in site.posts limit:10 %}
+			<div class="col-md-12">
+				<div class="row">
+					<div class="col-sm-4">
+						<img src="{{ post.img }}" class="img-responsive center-block" style="max-height:120px">
+					</div>
+					<div class="col-sm-8">
+						<a href="{{ post.url | prepend: site.baseurl }}"><h3>{{ post.title }}</h3></a>
+						<i class="fa fa-clock-o"></i> <a>{{ post.date | date: "%-d %b %Y" }}</a>
+						<p>{{ post.content | strip_html | truncatewords:20 }}</p>
+					</div>
 				</div>
-				<div class="col-xs-8">
-					<a href="{{ post.url | prepend: site.baseurl }}"><h3>{{ post.title }}</h3></a>
-					<i class="fa fa-clock-o"></i> <a>{{ post.date | date: "%-d %b %Y" }}</a>
-					<p>{{ post.content | strip_html | truncatewords:20 }}</p>
+				<div class="row">
+					<div class="col-sm-12">
+					{% for tag in post.tags %}
+					    <button class="btn btn-white btn-xs" type="button">{{ tag }}</button>
+					{% endfor %}
+					</div>
 				</div>
+				<hr>
 			</div>
-			<hr>
+			{% endfor %}
 		</div>
-		{% endfor %}
+		<div class="col-md-3">
+			<div class="dropdown">
+				<a href="#" class="dropdown-toggle" data-toggle="dropdown"><h4>Blog Cipta Media Seluler</h4> <span class="caret"></span></a>
+				<ul class="dropdown-menu">
+					<li><a href="/berita/">Berita</a></li>
+					<li><a href="/inspirasi/">Inspirasi</a></li>
+					<li><a href="/kajian/">Kajian</a></li>
+					<li><a href="/gagasan/">Gagasan</a></li>
+					<li><a href="/inovasi/">Inovasi</a></li>
+					<li><a href="/tutorial/">Tutorial</a></li>
+				</ul>
+			</div>
+						<div class="dropdown">
+				<a href="#" class="dropdown-toggle" data-toggle="dropdown"><h4>Blog Cipta Media Bersama</h4> <span class="caret"></span></a>
+				<ul class="dropdown-menu">
+					<li><a href="/acara/">Acara</a></li>
+					<li><a href="/teladan/">Teladan</a></li>
+				</ul>
+			</div>
+		</div>
 	</div>
 
 </div>
