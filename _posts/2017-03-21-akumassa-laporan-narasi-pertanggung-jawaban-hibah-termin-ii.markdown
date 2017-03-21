@@ -29,3 +29,10 @@ Silahkan tuliskan pembelajaran, acara-acara yang anda buat/ alami yang dapat mem
 * Pelajaran yang menarik dari aktivitas pemantauan ini adalah bagaimana mendorong komunitas lokal secara ‘sukarela’ untuk melaporkan pemantauan media. Meski terasa mudah (karena sebagian besar komunitas yang terlibat dalam kegiatan pemantauan adalah komunitas jaringan AKUMASSA) namun, di beberapa daerah kami mengalami kesulitan, karena intensitas pemantau yang kurang maksimal. Dalam hal ini, perlu sebuah usaha yang lebih intens dari Tim AKUMASSA, untuk meyakinkan pentingnya program pemantauan media lokal ini.
 
 * Adanya sisa dana yang diajukan dalam program hibah ini membuat kami berinisiatif untuk menerbitkan buku hasil penelitian selama masa kerja 12 bulan tersebut. Buku hasil penelitian Rekam Media-AKUMASSA merupakan output dari Program Rekam Media, yang berisikan temuan dan hasil analisa data. Buku hasil penelitian ini adalah salah satu bentuk usaha AKUMASSA untuk membaca fenomena media massa lokal di Indonesia.
+
+**2. Aktivitas/ Isu yang Anda usung dan mencoba atasi**
+Berikut adalah aktivitas dan isu-isu yang anda masukkan pada permohonan hibah anda
+
+1. Stimulasi komunitas yang selama ini menjadi produser/distritbutor informasi di tingkat lokal menjadi jauh lebih aktif. Dengan peningkatan sumber daya untuk mendorong peningkatan produksi informasi dan peningkatan kunjungan dan pembaca website ini.
+
+2. Aksi pemantauan bermedia oleh masyarakat di luar jaringan dengan mendengar, dan menuliskan bagaimana media massa saat ini bekerja di daerah mereka sendiri, lalu diinformasikan ke masyarakat luas sebagai bagian dari mekanisme Pengenalan demokrasi ‘bermedia’ dengan etika, aturan dan tobjektifitas. Untuk menjadikan hidup berdemokrasi yang lebih baik, pemantauan yang diprakarsai oleh masyarakat sangat perlu dilakukan.
