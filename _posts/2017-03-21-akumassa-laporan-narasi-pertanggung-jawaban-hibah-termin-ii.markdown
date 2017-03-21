@@ -72,3 +72,11 @@ Silahkan anda jelaskan apa yang telah anda berhasil peroleh dengan hibah ini yan
 3. Meningkatkan kemampuan bermedia dalam memproduksi konten lokal para kontributor/penulis dari komunitas, serta mendorong mereka untuk menjadikan potensi tersebut dalam merekam/me-monitoring terhadap media massa (terutama media cetak/elektronik yang terjangkau di wilayahnya masing-masing) dengan acuan pada objektifitas informasi, independensi, etika/moral, dan aturan hukum yang berlaku serta budaya masyarakat setempat.
 4. Menjadikan www.akumassa.org ruang informasi dan pengetahuan yang terbuka (Open Source), dapat didistribusikan ulang semua lapisan masyarakat, diharapkan muncul inisiatif oleh komunitas, kelompok, dan masyarakat, untuk mereplikasi dan memodifikasi aktifitas ini, untuk Indonesia bermedia yang lebih baik.
 5. Melakukan proyek AKUMASSA.ORG dengan pelaporan yang baik, transparasi penggunaan dana ke publik dan sistem administrasi profesional terpusat.
+
+Tujuan yang berhasil dicapai hingga saat ini:
+* Perbaikan tampilan www.akumassa.org sudah tercapai. Penambahan server sudah dilakukan. Penambahan aplikasi konten juga sudah dilakukan (radio akumassa dan pemantauan media). Hingga saat ini pengunjung akumassa menjacapai 1500 pengunjung per hari yang sebelumnya 1000 pengunjung.
+* Sudah terjadi peningkatan jumlah penulis. Yang sebelumnya ada 131 penulis bertambah 20 penulis aktif baru.
+* Banyak produksi konten dari berbagai daerah. Dan juga terjadi pelaporan pemantauan secara reguler ditambah dengan laporan mingguan dari 10 lokasi pemantauan.
+* Di beberapa lokasi, komunitas mulai mengembangkan media mereka sendiri berupa blog, dan membangun kerjasama dengan berbagai pihak dalam pengembangan bermedia yang sehat. Di beberapa daerah, seperti daerah Pemenang Lombok Utara, Komunitas Pasir Putih bahkan mendapat dukungan dari pemerintah daerah untuk membangun media center. Begitu juga yang terjadi di Padang Panjang.
+* Pelaporan yang transparan sedang dilakukan oleh AKUMASSA.ORG. Ini dapat dilihat posting dan dokumentasi kegiatan di wikimedia
+* Buku hasil penelitian telah diterbitkan, diluncurkan beserta acara diskusi dan didistribusikan ke komunitas lokal akumassa.
