@@ -124,3 +124,13 @@ Silahkan ditulis perubahan perubahan yang berpengaruh dalam keberagaman (contohn
 **7. Laporan keuangan**
 Silahkan masukkan pranala laporan keuangan anda disini:
 http://ciptamedia.org/wiki/Akumassa.org/Laporan_Penggunaan_Dana
+
+**8. Pengesahan**
+Saya, sebagai penandatangan, menyatakan bahwa saya adalah individu yang berwenang untuk menyerahkan laporan ini atas nama komunitas/ organisasi saya sesuai dengan persyaratan yang dicantumkan pada Perjanjian Hibah Cipta Media Bersama yang telah ditandatangani sebelumnya dan seluruh dana yang dibelanjakan telah dibelanjakan sesuai dengan tujuan-tujuan yang tercantum dalam permohonan hibah.
+
+Tertanda: Lokasi dan tanggal:
+
+Jakarta, 29 Juni 2012
+
+
+Otty Widasari
