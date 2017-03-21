@@ -67,7 +67,6 @@ date: 2017-03-21 15:16:00 +07:00
     Proyek ini dilakukan untuk menjamin Kebhinekaan Bermedia sebagai salah satu gambaran yang paling kongkrit tentang arti demokrasi. Namun, arti demokrasi bukanlah ‘bermedia’ yang tanpa etika, tanpa aturan dan tanpa objektifitas. Untuk menjadikan hidup berdemokrasi yang lebih baik, pemantauan yang diprakarsai oleh masyarakat sangat perlu dilakukan.
 
 * C. Keterkaitan pada kategori: Aksi, Strategi Kreatif
-
     **Aksi**
 
     Mengajak para profesional di bidang media (online) untuk melakukan revitalisasi terhadap website www.akumassa.org melalui peningkatan kapasitas tenaga pengelola, kerjasama teknis, dan pelatihan pengetahuan bermedia yang baik dan benar.
