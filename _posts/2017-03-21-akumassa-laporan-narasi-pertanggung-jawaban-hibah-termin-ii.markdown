@@ -20,6 +20,7 @@ Periode Laporan	:	1 Agustus 2012 hingga 28 Mei 2013
 Proyek	        :	Peningkatan Kapasitas Jurnal Online Berbasis Komunitas AKUMASSA.ORG dan Pengembangan Kerja Komunitas Pemantauan Media Oleh Komunitas di Tingkat Lokal
 
 **1. Pembelajaran**
+
 Silahkan tuliskan pembelajaran, acara-acara yang anda buat/ alami yang dapat membuat perubahan dalam satu tahun kedepan sebagai hasil dari upaya upaya yang anda buat dibawah hibah yang anda terima, perubahan-perubahan yang anda percaya dapat membatu organisasi/ komunitas anda mencapai tujuan-tujuannya dan/ atau kesulitan dan tantangan yang tidak anda perkirakan yang anda temukan dalam periode pelaporan hibah ini.
 
 * Selama 12 bulan aktivitas Peningkatan Kapasitas Jurnal Online AKUMASSA.ORG dan Pemantauan Media oleh Komunitas Tingkat Lokal secara organisasi AKUMASSA.ORG (Forum Lenteng) mendapatkan pengalaman tentang bagaimana melakukan pemantauan media di tingkat lokal. Dalam hal ini aktivitas-aktivitas pemantauan oleh ‘perwakilan’ komunitas cukup memberikan gambaran secara umum bagaimana media-media lokal mengemas informasi dengan berbagai isu-isu lokal/nasional di dalamnya. Seperti yang dilakukan pada 6 bulan pertama apa yang ditemukan dari pemantauan ini memang sebagian besar masih ‘berpusat’.
@@ -31,6 +32,7 @@ Silahkan tuliskan pembelajaran, acara-acara yang anda buat/ alami yang dapat mem
 * Adanya sisa dana yang diajukan dalam program hibah ini membuat kami berinisiatif untuk menerbitkan buku hasil penelitian selama masa kerja 12 bulan tersebut. Buku hasil penelitian Rekam Media-AKUMASSA merupakan output dari Program Rekam Media, yang berisikan temuan dan hasil analisa data. Buku hasil penelitian ini adalah salah satu bentuk usaha AKUMASSA untuk membaca fenomena media massa lokal di Indonesia.
 
 **2. Aktivitas/ Isu yang Anda usung dan mencoba atasi**
+
 Berikut adalah aktivitas dan isu-isu yang anda masukkan pada permohonan hibah anda
 
 1. Stimulasi komunitas yang selama ini menjadi produser/distritbutor informasi di tingkat lokal menjadi jauh lebih aktif. Dengan peningkatan sumber daya untuk mendorong peningkatan produksi informasi dan peningkatan kunjungan dan pembaca website ini.
@@ -45,6 +47,7 @@ Aktifitas dan isu yang anda atasi:
 * Peluncuran buku hasil penelitian Rekam Media-AKUMASSA ini memiliki tujuan untuk mempresentasikan hasil penelitian ke hadapan publik serta untuk mendapatkan tanggapan kritis, baik dari publik mapun dari kalangan ahli yang memiliki perhatian yang sama dengan AKUMASSA, yakni pemberdayaan masyarakat dan media. Hasil dari kegiatan ini ialah munculnya tanggapan publik, khususnya dari pihak ahli atau aktivis yang memiliki perhatian terhadap isu media, secara positif. Diskusi yang berlangsung selama acara peluncuran buku terlaksana secara sehat, dan muncul banyak saran dan kritik yang membangun, baik bagi AKUMASSA maupun bagi keberlanjutan program pemberdayaan media ke depannya.
 
 **3. Indikator sukses anda dalam permohonan hibah**
+
 Munculnya inisiatif-inisiatif dari kelompok masyarakat di berbagai daerah dalam memproduksi informasi (pengetahuan) dan mendistribusikannya secara terbuka sebagai bagian dari pembelajaran bersama tentang persoalan-persoalan lokal.
 
 1. Terjadi peningkatan jumlah pengunjung dan pembaca jurnal www.akumassa.org yang selama ini 700 pengunjung per hari menjadi lebih dari 1500 pengunjung per hari.
@@ -65,6 +68,7 @@ Hasil aktual hingga laporan ini dibuat:
 * Setelah penyelenggaraan acara peluncuran buku tersebut, AKUMASSA kemudian mendistribusikan buku hasil penelitian Rekam Media-AKUMASSA ke beberapa jaringan AKUMASSA, yakni Komunitas Saidjah Forum di Lebak, Banten, Komunitas Djuanda di Ciputat, Tangerang Selatan, Suburbia di Depok, Jawa Barat, Komunitas Kinetik di Surabaya, Jawa Timur, Komunitas Pasir Putih di Pemenang, Lombok Utara, Nusa Tenggara Barat, Maina Sari di Aceh Besar, NAD, da Komunitas Tikungan di Jember, Jawa Timur. Distribusi buku ini akan terus diperluas seiring dengan agenda Forum Lenteng terkait dengan program distribusi buku pada program Buku Untuk Semua. Catatan dokumentasi dari kegiatan peluncuran buku hasil penelitian Rekam Media-AKUMASSA ditulis oleh Lulus Gita Samudra, dan dimuat di website AKUMASSA, akumassa.org, dengan tautan sebagai berikut: http://akumassa.org/kontribusi/dki-jakarta/peluncuran-buku-hasil-penelitain-rekam-media/, tanggal 30 April 2013.
 
 **4. Tujuan dan Sasaran**
+
 Silahkan anda jelaskan apa yang telah anda berhasil peroleh dengan hibah ini yang berkaitan dengan tujuan yang lebih besar yang anda harapkan dapat anda capai Sasaran-sasaran yang diharapkan dapat dicapai:
 
 1. Meningkatkan fasilitas pelayanan www.akumassa.org berupa perbaikan tampilan, penambahan kapasitas server (hosting), penambahan aplikasi konten, dan website system, sehingga diharapkan terjadi peningkatan jumlah pembaca (saat ini www.akumassa.org dibaca oleh 700 pembaca per hari dilihat dari catatan unique visitor website www.akumassa.org) hingga mencapai 1500 pembaca per hari.
@@ -82,6 +86,7 @@ Tujuan yang berhasil dicapai hingga saat ini:
 * Buku hasil penelitian telah diterbitkan, diluncurkan beserta acara diskusi dan didistribusikan ke komunitas lokal akumassa.
 
 **5. Tantangan/ masalah organisasi/ pengelolaan yang dihadapi**
+
 Tolong jabarkan perubahan perubahan signifikan yang organisasi anda dapatkan yang memiliki dampak pada pekerjaan anda pada periode pelaporan yang anda lakukan untuk saat ini. Masukkan secara deskriptif bagaimana anda menangani perubahan perubahan tersebut dan bagaimana perencanaan anda berubah sebagai hasilnya.
 
   Tidak ada perubahan signifikan dari pekerjaan yang kami lakukan, karena secara organisasi Forum Lenteng telah menyiapkan program ini jauh-jauh hari.
@@ -91,15 +96,18 @@ Isu-isu manajemen atau organisasi apakah yang anda hadapi pada saat anda menulis
   Tidak ada perubahan komposisi tim kerja AKUMASSA.ORG
 
 **6. Keberagaman**
+
 Silahkan ditulis perubahan perubahan yang berpengaruh dalam keberagaman (contohnya apabila anggota komunitas, dewan, atau komposisi staf anda mulai beragam dari sisi jenis kelaminnya, suku, pendidikan, umur, budaya, agama, latar belakang asal lokasinya, bahasanya, dan lain sebagainya) dalam periode pelaporan ini. Apabila organisasi/ komunitas anda mengalami tantangan keberagaman, silahkan tuliskan juga pendapat anda:
 
   Tidak ada perubahan. Komposisi gender adalah 60 % pria dan 40% wanita.
 
 **7. Laporan keuangan**
+
 Silahkan masukkan pranala laporan keuangan anda disini:
 http://ciptamedia.org/wiki/Templat:Akumassa-Termin2%7CLaporan
 
 **8. Pengesahan**
+
 Saya, sebagai penandatangan, menyatakan bahwa saya adalah individu yang berwenang untuk menyerahkan laporan ini atas nama komunitas/ organisasi saya sesuai dengan persyaratan yang dicantumkan pada Perjanjian Hibah Cipta Media Bersama yang telah ditandatangani sebelumnya dan seluruh dana yang dibelanjakan telah dibelanjakan sesuai dengan tujuan-tujuan yang tercantum dalam permohonan hibah.
 
 Tertanda: Lokasi dan tanggal:
