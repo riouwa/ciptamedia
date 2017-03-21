@@ -80,3 +80,31 @@ Tujuan yang berhasil dicapai hingga saat ini:
 * Di beberapa lokasi, komunitas mulai mengembangkan media mereka sendiri berupa blog, dan membangun kerjasama dengan berbagai pihak dalam pengembangan bermedia yang sehat. Di beberapa daerah, seperti daerah Pemenang Lombok Utara, Komunitas Pasir Putih bahkan mendapat dukungan dari pemerintah daerah untuk membangun media center. Begitu juga yang terjadi di Padang Panjang.
 * Pelaporan yang transparan sedang dilakukan oleh AKUMASSA.ORG. Ini dapat dilihat posting dan dokumentasi kegiatan di wikimedia
 * Buku hasil penelitian telah diterbitkan, diluncurkan beserta acara diskusi dan didistribusikan ke komunitas lokal akumassa.
+
+**5. Tantangan/ masalah organisasi/ pengelolaan yang dihadapi**
+Tolong jabarkan perubahan perubahan signifikan yang organisasi anda dapatkan yang memiliki dampak pada pekerjaan anda pada periode pelaporan yang anda lakukan untuk saat ini. Masukkan secara deskriptif bagaimana anda menangani perubahan perubahan tersebut dan bagaimana perencanaan anda berubah sebagai hasilnya.
+
+  Tidak ada perubahan signifikan dari pekerjaan yang kami lakukan, karena secara organisasi Forum Lenteng telah menyiapkan program ini jauh-jauh hari.
+
+Isu-isu manajemen atau organisasi apakah yang anda hadapi pada saat anda menuliskan laporan ini (apakah ada perubahan signifikan pada komposisi staf/ dewan atau anggota tim anda. Apakah ada faktor-faktor lain yang dapat membatasi kemampuan organisasi/ komunitas anda untuk mengumpulkan data dan menerjemahkan data data keuangan atau aktifitas yang terkait dengan program dalam tujuan awal). Bila mungkin juga tuliskan dan tekankan kebutuhan yang belum terpenuhi/ teridentifikasi sebelumnya dalam menangani penguatan organisasi/ komunitas anda:
+
+  Tidak ada perubahan komposisi tim kerja AKUMASSA.ORG
+
+**6. Keberagaman**
+Silahkan ditulis perubahan perubahan yang berpengaruh dalam keberagaman (contohnya apabila anggota komunitas, dewan, atau komposisi staf anda mulai beragam dari sisi jenis kelaminnya, suku, pendidikan, umur, budaya, agama, latar belakang asal lokasinya, bahasanya, dan lain sebagainya) dalam periode pelaporan ini. Apabila organisasi/ komunitas anda mengalami tantangan keberagaman, silahkan tuliskan juga pendapat anda:
+
+  Tidak ada perubahan. Komposisi gender adalah 60 % pria dan 40% wanita.
+
+**7. Laporan keuangan**
+Silahkan masukkan pranala laporan keuangan anda disini:
+http://ciptamedia.org/wiki/Templat:Akumassa-Termin2%7CLaporan
+
+**8. Pengesahan**
+Saya, sebagai penandatangan, menyatakan bahwa saya adalah individu yang berwenang untuk menyerahkan laporan ini atas nama komunitas/ organisasi saya sesuai dengan persyaratan yang dicantumkan pada Perjanjian Hibah Cipta Media Bersama yang telah ditandatangani sebelumnya dan seluruh dana yang dibelanjakan telah dibelanjakan sesuai dengan tujuan-tujuan yang tercantum dalam permohonan hibah.
+
+Tertanda: Lokasi dan tanggal:
+
+Jakarta, 28 Mei 2013
+
+
+Otty Widasari
