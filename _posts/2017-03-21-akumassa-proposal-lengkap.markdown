@@ -151,3 +151,20 @@ Terjadinya sebuah keadaan bermedia yang sehat dan terbuka dengan peran aktif mas
 
   Keadilan sosial
   Sebagai sebuah inisiatif komunitas untuk distribusi pengetahuan media, AKUMASSA.ORG membuka secara lebar (open sourse/public) untuk menggunakan semua konten yang ada di dalam website www.akumassa.org untuk kepentingan masyarakat. Jurnal ini juga membuka kritik dan saran dalam mengembangkan media berbasis komunitas ini untuk memberikan peluang check and balance dalam bermedia. Sebagai inisiator, Forum Lenteng membuka secara lebar keikutsertaan komunitas/organisasi/lembaga/individu dalam Jaringan Kerja AKUMASSA dalam usaha untuk mengembangankan media berbasis komunitas ini.
+
+* I. Durasi waktu aktifitas dilaksanakan:
+
+  Januari 2012 – Desember 2012 (berkelanjutan)
+
+* J. Total kebutuhan dana untuk melakukan aktifitas:
+  
+  **Rp 423.500.000**
+
+* K. Dana yang diminta dari Cipta Media Bersama:
+  
+  Terlampir
+
+* L. Sumber dana lainnya:
+
+  Forum Lenteng Jakarta Rp 20.000.000,-
+  Sumbangan Anggota Forum Lenteng Rp. 3.500.000,-
