@@ -132,12 +132,12 @@ date: 2017-03-21 15:16:00 +07:00
 Terjadinya sebuah keadaan bermedia yang sehat dan terbuka dengan peran aktif masyarakat dalam aktifitas bermedia tersebut, sekaligus menjadi filter objektif terhadap arus informasi dari berbagai media massa saat ini.
 
   Indikator keberhasilan:
-* Terjadi peningkatan jumlah pengunjung dan pembaca jurnal www.akumassa.org yang selama ini 700 pengunjung per hari menjadi lebih dari 1500 pengunjung per hari. Terjadi peningkatan jumlah konten-konten lokal yang didistribusikan di www.akumassa.org dengan variasi dan sumber informasi yang meningkat pula.
+  * Terjadi peningkatan jumlah pengunjung dan pembaca jurnal www.akumassa.org yang selama ini 700 pengunjung per hari menjadi lebih dari 1500 pengunjung per hari. Terjadi peningkatan jumlah konten-konten lokal yang didistribusikan di www.akumassa.org dengan variasi dan sumber informasi yang meningkat pula.
 
-* Bertambahnya jumlah para kontributor www.akumassa.org dengan jangkauan daerah yang lebih luas, baik dari komunitas yang selama ini bekerjasama dengan AKUMASSA.ORG maupun diluar itu.
+  * Bertambahnya jumlah para kontributor www.akumassa.org dengan jangkauan daerah yang lebih luas, baik dari komunitas yang selama ini bekerjasama dengan AKUMASSA.ORG maupun diluar itu.
 
-* Terkumpulnya berbagai informasi tentang aktifitas ‘bermedia’ di tingkat lokal yang merupakan bagian dari kerja pemantauan media yang dilakukan komunitas dan didistribusikan ke publik melalui www.akumassa.org.
+  * Terkumpulnya berbagai informasi tentang aktifitas ‘bermedia’ di tingkat lokal yang merupakan bagian dari kerja pemantauan media yang dilakukan komunitas dan didistribusikan ke publik melalui www.akumassa.org.
 
-* Makin banyak individu/kelompok/komunitas/masyarakat yang berinisiatif untuk memproduksi informasi di tingkat lokal dan mendistribusikan secara mandiri melalui media online dan media lainnya.
+  * Makin banyak individu/kelompok/komunitas/masyarakat yang berinisiatif untuk memproduksi informasi di tingkat lokal dan mendistribusikan secara mandiri melalui media online dan media lainnya.
 
-* Terjadinya sebuah kerjasama media komunitas dalam bertukar informasi tentang persoalan-persoalan lokal.
+  * Terjadinya sebuah kerjasama media komunitas dalam bertukar informasi tentang persoalan-persoalan lokal.
