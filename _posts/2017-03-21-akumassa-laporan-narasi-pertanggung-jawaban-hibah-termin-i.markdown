@@ -34,3 +34,18 @@ Silahkan tuliskan pembelajaran, acara-acara yang anda buat/ alami yang dapat mem
 * Pelajaran yang menarik dari aktifitas pemantauan ini adalah bagaimana mendorong komunitas lokal secara ‘sukarela’ untuk melaporkan pemantauan media. Meski terasa mudah (karena sebagian besar komunitas yang terlibat dalam kegiatan pemantauan adalah komunitas jaringan AKUMASSA) namun, di beberapa daerah kami mengalami kesulitan, karena intensitas pemantau yang kurang maksimal. Dalam hal ini, perlu sebuah usaha yang lebih intens dari Tim AKUMASSA, untuk meyakinkan pentingnya program pemantauan media lokal ini.
 
 * Untuk program Peningkatan Kapasitas Jurnal Online AKUMASSA, kerja re-desain dari website AKUMASSA telah selesai. Tampilan yang sederhana dan dan lebih fokus sangat tergambar dari wajah baru jurnal online ini. Sejak perubahan disain tampilan, peningkatan jumlah pembaca cukup signifikan; sebelum re-desain dilakukan jumlah rata-rata pengunjung adalah 700 pengunjug (unique visitor), setelah re-desain jumlah pengunjung mencapai rata-rata 1000 pengunjung. Ada beberapa tanggapan dari pembaca, yang sebagian besar puas dengan tampilan baru www.akumassa.org. Jumlah para penulis baru mencapai 20 penulis baru (termasuk para pemantau). Sejak www.akumassa.org terbit pata 2008, hingga jumlah penulis yang berpartisipasi dalam menulis konten jurnal online berjumlah 131 orang penulis.
+
+**2. Aktivitas/ Isu yang Anda usung dan mencoba atasi**
+
+Berikut adalah aktivitas dan isu-isu yang anda masukkan pada permohonan hibah anda:
+
+1. Stimulasi komunitas yang selama ini menjadi produser/distritbutor informasi di tingkat lokal menjadi jauh lebih aktif. Dengan peningkatan sumber daya untuk mendorong peningkatan produksi informasi dan peningkatan kunjungan dan pembaca website ini.
+
+2. Aksi pemantauan bermedia oleh masyarakat di luar jaringan dengan mendengar, dan menuliskan bagaimana media massa saat ini bekerja di daerah mereka sendiri, lalu diinformasikan ke masyarakat luas sebagai bagian dari mekanisme Pengenalan demokrasi ‘bermedia’ dengan etika, aturan dan tobjektifitas. Untuk menjadikan hidup berdemokrasi yang lebih baik, pemantauan yang diprakarsai oleh masyarakat sangat perlu dilakukan.
+
+Aktifitas dan isu yang anda atasi:
+* Dalam mendorong peningkatan jumlah penulis tingkat lokal, telah terjadi peningkatan yang cukup signifikan. Jumlah posting tulisan baru pada jurnal AKUMASSA adalah setiap satu tulsan setiap 3 hati yang sebelumnya setiap 5 hari.
+
+* Selain itu muncul beberapa penulis dari daerah-daerah yang sebelumnya bukan bagian dari program AKUMASSA, seperti Solok – Sumatera Barat, Sukabumi, Serpong, Yogyakarta, Aceh dan Jember. Penulis-penulis ini adalah para penulis yang sebelumnya aktif menulis di blog dan punya aktifitas ‘media’ di daerahnya. Sebagian besar punya minat yang sangat besar untuk menjadi bagian dari AKUMASSA.ORG.
+
+* Dalam kegiatan pemantauan, para partispan (pemantau) menjadi lebih tahu bagaimana media lokal bekerja yang sebelumnya hanya membaca secara sekilas. Perhatian terhadap keberadaan media lokal menjadi jauh lebih intens. Pada beberapa kasus, pemantau menjadi sadar; ada beberapa media lokal yang terbit tergantung pada kepentingan pemilik media itu sendiri. Ada pula media yang tidak secara konsisten terbit karena alasan-alasan yang tidak masuk akal; seperti ada sebuah media lokal tidak terbit karena Pimpinan Redaksinya ada hajatan kawinan. Yang paling menarik adalah dari kegiatan pemantauan, menjadi jelas bagaimana peran pemilik media, kepentingan, dan peran situasi sosial politik sangat mempengaruhi bagaimana berita-berita tingkat lokal dikemas dalam sebuah media lokal.
