@@ -75,3 +75,13 @@ date: 2017-03-21 15:16:00 +07:00
   Mendorong para kontributor dari komunitas yang selama ini aktif untuk mengajak masyarakat (terutama generasi muda) dalam aktifitas kerja merekam, menulis dan mendistribusikan informasi di tingkat lokal melalui jurnal online ini dengan aktifitas workshop dan pelatihan.
 
   Melakukan pelatihan/workshop tentang pemantauan media oleh komunitas dengan mengundang perwakilan masing-masing komunitas (10 perwakilan), yang melibatkan para profesional di bidang media massa, organisasi kewartawanan dan pelaku pemantauan media untuk peningkatan kapasitas, serta dapat merumuskan mekanisme pemantauan media tersebut sesuai dengan kondisi wilayah mereka masing-masing.
+
+**Strategi kreatif**
+
+  Melakukan kerjasama dengan lembaga/kelompok/individu profesional di bidang media massa untuk membagi pengalaman dan membantu peningkatan kapasitas AKUMASSA.ORG dengan paradigma keterbukaan, nirlaba, dan saling berbagi pengetahuan.
+
+  Menciptakan suasana bermedia yang menyenangkan dalam memproduksi konten di tingkat lokal, membangun kebanggaan pada hasil-hasil kerja mereka yang merupakan bagian dari aktualisasi diri, aktualisasi komunitas dan aktualisasi masyarakat mereka sendiri, yang selama ini luput dari media-media arus besar.
+
+  Meramu mekanisme pemantauan media oleh komunitas yang tepat guna dan objektif, dengan memperhatikan dinamika masyarakat di daerahnya, serta menjadikan aktifitas pemantauan media itu sebagai bagian aktifitas jurnalisme warga untuk kepentingan masyarakat itu sendiri. Dengan mekanisme ini, diharapkan tercapai individu / kelompok / komunitas / masyarakat yang sadar pada pentingnya menjadi bagian dari partisipasi publik dalam aktifitas bermedia.
+
+* D. Aktifitas dan keterkaitan pada sasaran
