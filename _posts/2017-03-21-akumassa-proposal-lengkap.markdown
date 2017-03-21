@@ -3,6 +3,8 @@ title: Akumassa - Proposal Lengkap
 date: 2017-03-21 15:16:00 +07:00
 ---
 
+![250px-Akumassa.jpg](/uploads/250px-Akumassa.jpg){: .img-responsive .center-block }
+
 **Organisasi**
 
   Forum Lenteng adalah organisasi yang berbentuk perhimpunan dengan anggota individu yang didirikan oleh pekerja seni, peneliti budaya, mahasiswa komunikasi/jurnalistik pada tahun 2003, yang bekerja mengembangkan pengetahuan media melalui pendidikan alternatif berbasis komunitas. Forum ini bertujuan menjadikan pengetahuan media bagi masyarakat untuk hidup yang lebih baik, terbangunnya kesadaran bermedia, munculnya inisatif, produksi pengetahuan, dan terdistribusikannya pengetahuan tersebut secara luas.
