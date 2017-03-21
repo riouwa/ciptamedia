@@ -167,6 +167,7 @@ Terjadinya sebuah keadaan bermedia yang sehat dan terbuka dengan peran aktif mas
 * L. Sumber dana lainnya:
 
   Forum Lenteng Jakarta Rp 20.000.000,-
+  
   Sumbangan Anggota Forum Lenteng Rp. 3.500.000,-
 
 * M. Kontribusi organisasi:
