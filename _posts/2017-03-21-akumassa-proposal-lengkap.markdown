@@ -85,3 +85,28 @@ date: 2017-03-21 15:16:00 +07:00
     Meramu mekanisme pemantauan media oleh komunitas yang tepat guna dan objektif, dengan memperhatikan dinamika masyarakat di daerahnya, serta menjadikan aktifitas pemantauan media itu sebagai bagian aktifitas jurnalisme warga untuk kepentingan masyarakat itu sendiri. Dengan mekanisme ini, diharapkan tercapai individu / kelompok / komunitas / masyarakat yang sadar pada pentingnya menjadi bagian dari partisipasi publik dalam aktifitas bermedia.
 
 * D. Aktifitas dan keterkaitan pada sasaran
+
+    * Kontribusi untuk sasaran A – Meningkatkan fasilitas pelayanan www.akumassa.org berupa perbaikan tampilan, penambahan kapasitas server (hosting), penambahan aplikasi konten, dan website system, sehingga diharapkan terjadi peningkatan jumlah pembaca (saat ini www.akumassa.org dibaca oleh 700 pembaca per hari dilihat dari catatan unique visitor website www.akumassa.org) hingga mencapai 1500 pembaca per hari.
+
+    Aktivitas:
+    Melakukan re-desain tampilan visual www.akumassa.org, menambah beberapa fasilitas konten/rubrikasi/kategorisasi (salah satunya konten streaming radio online), menambah kapasitas server (hosting), melengkapi perangkat kerja dalam menunjang aktifitas AKUMASSA.ORG.
+
+    * Kontribusi untuk sasaran B – Meningkatkan jumlah penulis dan pelaku bermedia yang aktif di komunitas (dari 9 lokasi program dan 13 lokasi diluar program) menjadi dua kali lipat jumlahnya (kontributor/penulis) saat program ini berjalan.
+
+    Aktivitas:
+    Melakukan rekrutmen para relawan yang ingin menjadi kontributor www.akumassa.org dengan cara mempublikasikannya secara luas melalu jurnal ini, media sosial dan menginformasikan kepada kelompok/komunitas/lembaga/ individu tentang www.akumassa.org bisa menjadi ruang distribusi informasi/pengetahuan tingkat lokal. Melakukan pelatihan/workshop bagi para calon kontributor tersebut yang dilakukan di masing-masing komunitas yang selama ini menjadi bagian dari AKUMASSA.ORG.
+
+    * Kontribusi untuk sasaran C - Meningkatkan kemampuan bermedia dalam memproduksi konten lokal para kontributor/penulis dari komunitas, serta mendorong mereka untuk menjadikan potensi tersebut dalam merekam/me-monitoring terhadap media massa (terutama media cetak/elektronik yang terjangkau di wilayahnya masing-masing) dengan acuan pada objektifitas informasi, independensi, etika/moral, dan aturan hukum yang berlaku serta budaya masyarakat setempat.
+
+    Aktivitas:
+    Melakukan pelatihan/workshop tentang bermedia yang sehat, objektif, independen, etika/moral, potensi muatan lokal dalam bermedia dan pengetahuan tentang aturan ‘bermedia’. Dari pelatihan/workshop ini diharapkan muncul inisiatif mekanisme pemantauan media berbasis lokal berupa rekaman/monitoring tentang konten-konten yang berhubungan dengan persoalan mereka sendiri. AKUMASSA.ORG akan memberikan fasilitas berupa hibah kepada masing-masing perwakilan komunitas dalam melakukan aktifitas tersebut, berupa 1 unit peralatan komputer (E-Book) dan akses internet untuk kelancaran kerja mereka. Semua produksi konten lokal (berupa tulisan/rekaman ‘bermedia’) akan dipublikasikan di www.akumassa.org dan pada akhir program akan dibuat laporan hasil kerja berupa buku rekaman informasi konten lokal/aktifitas bermedia di tingkat lokal (pemantauan) yang didistribusikan secara gratis (online: format PDF dan offline: format buku).
+
+    * Kontribusi untuk sasaran D - Menjadikan www.akumassa.org ruang informasi dan pengetahuan yang terbuka (Open Source), dapat didistribusikan ulang semua lapisan masyarakat, diharapkan muncul inisiatif oleh komunitas, kelompok, dan masyarakat, untuk mereplikasi dan memodifikasi aktifitas ini, untuk Indonesia bermedia yang lebih baik.
+
+    Aktivitas:
+    Melakukan sosialisasi melalui berbagai presentasi, lokakarya, diskusi di berbagai tempat (komunitas, organisasi lembaga-lembaga yang punya kepedulian tentang persoalan lokal, sekolah, kampus, pemerintah lokal dan masyarakat umum) tentang AKUMASSA.ORG adalah sumber informasi terbuka dan dapat direplikasi dan dimodifikasi di berbagai tempat di Indonesia. Membuka seluas-luasnya akses informasi konten lokal tersebut dengan cara menginformasikan kepada masyarakat luas melalui media sosial dan akses media lainnya.
+
+    * Kontribusi untuk sasaran E - Melakukan proyek AKUMASSA.ORG dengan pelaporan yang baik dan transparasi penggunaan dana secara transparan ke publik.
+
+    Aktivitas:
+    Melakukan sistem pelaporan kegiatan yang rutin dari berbagai aktifitas yang dilakukan secara tertulis dan membuat mekanisme kontrol yang ketat dan sehat terhadap penggunaan dana hibah. Melakukan audit keuangan oleh auditor independen pada akhir program. Adminitrasi pusat AKUMASSA.ORG.
