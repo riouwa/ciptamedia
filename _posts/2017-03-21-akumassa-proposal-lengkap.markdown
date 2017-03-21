@@ -119,3 +119,25 @@ date: 2017-03-21 15:16:00 +07:00
 
   Pelaku Proyek
   Pekerja lainnya dengan latar belakang jurnalistik, periklanan, seni, dan mahasiswa kriminologi dari sebuah perguruan tinggi negeri di Jakarta. Total berjumlah lima orang dengan umur 23 – 30 tahun.
+
+* F. Demografik kelompok target
+
+  Generasi muda (umur 19 tahun ke atas) dari berbagai latar belakang pendidikan dan kelas (kelas menengah dan masyarakat biasa). Aktif dalam komunitas/kelompok/ organisasi di tingkat lokal, memiliki kemampuan berorganisasi, dan punya ketertarikan pada media.
+
+* G. Hasil yang diharapkan dan indikator keberhasilan
+
+  Jurnal komunitas www.akumassa.org menjadi bagian dari perubahan sosial, politik dan budaya di tingkat lokal yang menempatkan peran besar generasi muda sebagai pelaku-pelaku perubahan tersebut.
+
+  Munculnya inisiatif-inisiatif dari kelompok masyarakat di berbagai daerah dalam memproduksi informasi (pengetahuan) dan mendistribusikannya secara terbuka sebagai bagian dari pembelajaran bersama tentang persoalan-persoalan lokal.
+Terjadinya sebuah keadaan bermedia yang sehat dan terbuka dengan peran aktif masyarakat dalam aktifitas bermedia tersebut, sekaligus menjadi filter objektif terhadap arus informasi dari berbagai media massa saat ini.
+
+  Indikator keberhasilan:
+* Terjadi peningkatan jumlah pengunjung dan pembaca jurnal www.akumassa.org yang selama ini 700 pengunjung per hari menjadi lebih dari 1500 pengunjung per hari. Terjadi peningkatan jumlah konten-konten lokal yang didistribusikan di www.akumassa.org dengan variasi dan sumber informasi yang meningkat pula.
+
+* Bertambahnya jumlah para kontributor www.akumassa.org dengan jangkauan daerah yang lebih luas, baik dari komunitas yang selama ini bekerjasama dengan AKUMASSA.ORG maupun diluar itu.
+
+* Terkumpulnya berbagai informasi tentang aktifitas ‘bermedia’ di tingkat lokal yang merupakan bagian dari kerja pemantauan media yang dilakukan komunitas dan didistribusikan ke publik melalui www.akumassa.org.
+
+* Makin banyak individu/kelompok/komunitas/masyarakat yang berinisiatif untuk memproduksi informasi di tingkat lokal dan mendistribusikan secara mandiri melalui media online dan media lainnya.
+
+* Terjadinya sebuah kerjasama media komunitas dalam bertukar informasi tentang persoalan-persoalan lokal.
