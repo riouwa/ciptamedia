@@ -118,6 +118,7 @@ date: 2017-03-21 15:16:00 +07:00
   Proyek ini dipimpin oleh perempuan dengan pengalaman berorganisasi selama 8 tahun, dan di bidang media lebih dari 10 tahun. Latar pendidikan jurnalistik. Berumur 38 tahun, dari kelas menengah.
 
   Pelaku Proyek
+
   Pekerja lainnya dengan latar belakang jurnalistik, periklanan, seni, dan mahasiswa kriminologi dari sebuah perguruan tinggi negeri di Jakarta. Total berjumlah lima orang dengan umur 23 – 30 tahun.
 
 * F. Demografik kelompok target
@@ -141,3 +142,12 @@ Terjadinya sebuah keadaan bermedia yang sehat dan terbuka dengan peran aktif mas
   * Makin banyak individu/kelompok/komunitas/masyarakat yang berinisiatif untuk memproduksi informasi di tingkat lokal dan mendistribusikan secara mandiri melalui media online dan media lainnya.
 
   * Terjadinya sebuah kerjasama media komunitas dalam bertukar informasi tentang persoalan-persoalan lokal.
+
+* H. Keterkaitan proyek dengan perbaikan media dan keadilan sosial
+
+  Perbaikan media
+
+  Dengan Program Peningkatan Kapasitas Jurnal Online Berbasis Komunitas, AKUMASSA dan Pengembangan Kerja Komunitas untuk Pemantauan Media oleh Komunitas di Tingkat Lokal diharapkan terjadi perbaikan kualitas konten yang ada di www.akumassa.org dan naiknya kuantitas kunjungan/pembaca jurnal komunitas ini. Selain itu, jurnal ini diharapkan dapat jadi bagian dari partisipasi masyarakat dalam bermedia dan menjadi sumber informasi bagi pemangku kepentingan/kebijakan dalam mengeluarkan aturan-aturan yang terkait dengan kepentingan masyakat terhadap akses informasi. Partisipasi masyarakat inilah yang menjadikan media massa jauh lebih baik yang akan memperhatikan kepentingan-kepentingan yang berpihak kepada masyarakat itu sendiri.
+
+  Keadilan sosial
+  Sebagai sebuah inisiatif komunitas untuk distribusi pengetahuan media, AKUMASSA.ORG membuka secara lebar (open sourse/public) untuk menggunakan semua konten yang ada di dalam website www.akumassa.org untuk kepentingan masyarakat. Jurnal ini juga membuka kritik dan saran dalam mengembangkan media berbasis komunitas ini untuk memberikan peluang check and balance dalam bermedia. Sebagai inisiator, Forum Lenteng membuka secara lebar keikutsertaan komunitas/organisasi/lembaga/individu dalam Jaringan Kerja AKUMASSA dalam usaha untuk mengembangankan media berbasis komunitas ini.
