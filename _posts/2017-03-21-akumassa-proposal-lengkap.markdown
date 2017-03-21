@@ -168,3 +168,21 @@ Terjadinya sebuah keadaan bermedia yang sehat dan terbuka dengan peran aktif mas
 
   Forum Lenteng Jakarta Rp 20.000.000,-
   Sumbangan Anggota Forum Lenteng Rp. 3.500.000,-
+
+* M. Kontribusi organisasi:
+
+  Forum Lenteng menyediakan fasilitas tempat kerja dan dukungan peralatan secara gratis yang selama ini dipakai oleh AKUMASSA.ORG
+
+* N. Kontribusi dari kelompok target:
+
+1. Setiap komunitas yang masuk dalam program AKUMASSA.ORG (9 lokasi) dengan sukarela menjadi relawan jurnalis warga/pemantau media di wilayahnya masing-masing.
+
+2. Setiap komunitas yang masuk program AKUMASSA.ORG (9 lokasi) memberikan fasilitas perlatan yang digunakan untuk produksi konten-konten di www.akumassa.org
+
+3. Dukungan dari Pemerintah Lokal seperti; a) Pemerintah Kota Padang Panjang—Sumatera Barat; b) Pemerintah Daerah Kabupaten Lebak—Banten; c) Pemerintah Daerah Kabupaten Lombok Utara—NTB; dan d) Camat Randublatung, Blora—Jawa Tengah.
+
+4. Dukungan dari berbagai lembaga yang peduli pada perkembangan komunitas dan bermedia; Yayasan Ruangrupa, Yayasan Kampung Halaman, Combine Resource, Kunci Kultural Studies, Yayasan Desantara, Yayasan Interseksi, Yayasan Konfiden, Kineforum DKJ dan Jaringan Kerja AKUMASSA.
+
+5. AKUMASSA.ORG jadi bagian dari gerakan pemberdayaan melalui media di tingkat internasional dengan diundangnya ke even-even internasional; a) Presentasi Filem DONGENG RANGKAS (hasil kerja program AKUMASSA) di DMZ Korean Intenational Documentary Film Festival 2011 dan Masuk Nominasi dalam sesi International Competition CPH-DOX Copenhagen Documentary Film Festival 2011; b) Presentasi di Free Gallery Toronto Canada (2011); c) Presentasi dan Kuliah Terbuka program AKUMASSA dan pemberdayaan Komunitas di ARTSONJE Center, Seoul Korea Selatan (2010); d) AKUMASSA.ORG presentasi/ pameran ID-Contemporary di Kuntstraum, Berlin, Jerman (2010); dan lain-lain. Semua aktifitas itu diikuti oleh partisipan AKUMASSA.
+
+6. Liputan media massa nasional, salah satunya terpilihnya Forum Lenteng dengan Program AKUMASSA, sebagai Ikon Kebudayaan 2010 versi Majalah GATRA.
