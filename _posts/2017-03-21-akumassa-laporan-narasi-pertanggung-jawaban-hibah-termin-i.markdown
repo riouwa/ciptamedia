@@ -91,3 +91,21 @@ Silahkan anda jelaskan apa yang telah anda berhasil peroleh dengan hibah ini yan
 4. Menjadikan www.akumassa.org ruang informasi dan pengetahuan yang terbuka (Open Source), dapat didistribusikan ulang semua lapisan masyarakat, diharapkan muncul inisiatif oleh komunitas, kelompok, dan masyarakat, untuk mereplikasi dan memodifikasi aktifitas ini, untuk Indonesia bermedia yang lebih baik.
 
 5. Melakukan proyek AKUMASSA.ORG dengan pelaporan yang baik, transparasi penggunaan dana ke publik dan sistem administrasi profesional terpusat.
+
+Tujuan yang berhasil dicapai hingga saat ini:
+* Perbaikan tampilan www.akumassa.org sudah tercapai. Penambahan server sudah dilakukan. Penambahan aplikasi konten juga sudah dilakukan (radio akumassa dan pemantauan media). Hingga saat ini pengunjung akumassa menjacapai 1000 pengunjung per hari yang sebelumnya 700 pengunjung.
+
+* Sudah terjadi peningkatan jumlah penulis. Yang sebelumnya ada 131 penulis bertambah 20 penulis aktif baru.
+
+* Sudah terjadi. Indikatornya banyak produksi konten dari berbagai daerah. Dan juga terjadi pelaporan pemantauan secara reguler ditambah dengan laporan mingguan dari 10 lokasi pemantauan.
+
+* Sedang dilakukan. Di beberapa lokasi, komunitas mulai mengembangkan media mereka sendiri berupa blog, dan membangun kerjasama dengan berbagai pihak dalam pengembangan bermedia yang sehat. Di beberapa daerah, seperti daerah Pemenang Lombok Utara, Komunitas Pasir Putih bahkan mendapat dukungan dari pemerintah daerah untuk membangun media center. Begitu juga yang terjadi di Padang Panjang.
+
+* Pelaporan yang transparan sedang dilakukan oleh AKUMASSA.ORG. Ini dapat dilihat posting dan dokumentasi kegiatan di wikimedia
+
+* Perubahan Lingkup Organisasi/ Lingkungan Sekitar
+
+Tolong jabarkan perubahan perubahan signifikan yang organisasi anda dapatkan yang memiliki dampak pada pekerjaan anda pada periode pelaporan yang anda lakukan untuk saat ini. Masukkan secara deskriptif bagaimana anda menangani perubahan perubahan tersebut dan bagaimana perencanaan anda berubah sebagai hasilnya.
+
+* Tidak ada perubahan signifikan dari pekerjaan yang kami lakukan, karena secara organisasi Forum Lenteng telah menyiapkan program ini jauh-jauh hari.
+
