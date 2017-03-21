@@ -77,3 +77,17 @@ Hasil aktual hingga laporan ini dibuat:
 * Ada inisiatif dari beberapa komunitas yang membangun medianya sendiri.
 
 * Antar komunitas saling tukar informasi tentang aktifitas bermedia. Terjadi kerjasama antar komunitas; seperti melakukan sharing inforamasi; memuat berbagai konten lokal di media masing-masing. Seperti Komunitas Djuanda memuat informasi dan konten dari Komunitas Kinetik di Surabaya di www.galeritangsel.com. Juga terjadi kerjasma aktivitas di berbagai komunitas, seperti melakukan presentasi media audiovisual di masing-masing lokasi dengan konten dari berbagai jaringan AKUMASSA.
+
+**4. Tujuan dan Sasaran**
+
+Silahkan anda jelaskan apa yang telah anda berhasil peroleh dengan hibah ini yang berkaitan dengan tujuan yang lebih besar yang anda harapkan dapat anda capai Sasaran-sasaran yang diharapkan dapat dicapai:
+
+1. Meningkatkan fasilitas pelayanan www.akumassa.org berupa perbaikan tampilan, penambahan kapasitas server (hosting), penambahan aplikasi konten, dan website system, sehingga diharapkan terjadi peningkatan jumlah pembaca (saat ini www.akumassa.org dibaca oleh 700 pembaca per hari dilihat dari catatan unique visitor website www.akumassa.org) hingga mencapai 1500 pembaca per hari.
+
+2. Meningkatkan jumlah penulis dan pelaku bermedia yang aktif di komunitas (dari 9 lokasi program dan 13 lokasi diluar program) menjadi dua kali lipat jumlahnya (kontributor/penulis) saat program ini berjalan.
+
+3. Meningkatkan kemampuan bermedia dalam memproduksi konten lokal para kontributor/penulis dari komunitas, serta mendorong mereka untuk menjadikan potensi tersebut dalam merekam/me-monitoring terhadap media massa (terutama media cetak/elektronik yang terjangkau di wilayahnya masing-masing) dengan acuan pada objektifitas informasi, independensi, etika/moral, dan aturan hukum yang berlaku serta budaya masyarakat setempat.
+
+4. Menjadikan www.akumassa.org ruang informasi dan pengetahuan yang terbuka (Open Source), dapat didistribusikan ulang semua lapisan masyarakat, diharapkan muncul inisiatif oleh komunitas, kelompok, dan masyarakat, untuk mereplikasi dan memodifikasi aktifitas ini, untuk Indonesia bermedia yang lebih baik.
+
+5. Melakukan proyek AKUMASSA.ORG dengan pelaporan yang baik, transparasi penggunaan dana ke publik dan sistem administrasi profesional terpusat.
