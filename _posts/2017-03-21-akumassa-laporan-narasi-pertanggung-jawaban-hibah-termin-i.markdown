@@ -109,3 +109,18 @@ Tolong jabarkan perubahan perubahan signifikan yang organisasi anda dapatkan yan
 
 * Tidak ada perubahan signifikan dari pekerjaan yang kami lakukan, karena secara organisasi Forum Lenteng telah menyiapkan program ini jauh-jauh hari.
 
+**5. Tantangan/ masalah organisasi/ pengelolaan yang dihadapi**
+
+Isu-isu manajemen atau organisasi apakah yang anda hadapi pada saat anda menuliskan laporan ini (apakah ada perubahan signifikan pada komposisi staf/ dewan atau anggota tim anda. Apakah ada faktor-faktor lain yang dapat membatasi kemampuan organisasi/ komunitas anda untuk mengumpulkan data dan menerjemahkan data data keuangan atau aktifitas yang terkait dengan program dalam tujuan awal). Bila mungkin juga tuliskan dan tekankan kebutuhan yang belum terpenuhi/ teridentifikasi sebelumnya dalam menangani penguatan organisasi/ komunitas anda:
+
+* Tidak ada perubahan komposisi tim kerja AKUMASSA.ORG
+
+**6. Keberagaman**
+
+Silahkan ditulis perubahan perubahan yang berpengaruh dalam keberagaman (contohnya apabila anggota komunitas, dewan, atau komposisi staf anda mulai beragam dari sisi jenis kelaminnya, suku, pendidikan, umur, budaya, agama, latar belakang asal lokasinya, bahasanya, dan lain sebagainya) dalam periode pelaporan ini. Apabila organisasi/ komunitas anda mengalami tantangan keberagaman, silahkan tuliskan juga pendapat anda:
+
+* Tidak ada perubahan. Komposisi gender adalah 60 % pria dan 40% wanita.
+
+**7. Laporan keuangan**
+Silahkan masukkan pranala laporan keuangan anda disini:
+http://ciptamedia.org/wiki/Akumassa.org/Laporan_Penggunaan_Dana
