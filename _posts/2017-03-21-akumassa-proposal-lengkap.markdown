@@ -110,3 +110,12 @@ date: 2017-03-21 15:16:00 +07:00
 
     Aktivitas:
     Melakukan sistem pelaporan kegiatan yang rutin dari berbagai aktifitas yang dilakukan secara tertulis dan membuat mekanisme kontrol yang ketat dan sehat terhadap penggunaan dana hibah. Melakukan audit keuangan oleh auditor independen pada akhir program. Adminitrasi pusat AKUMASSA.ORG.
+
+* E. Latar belakang dan demografi pelaku proyek
+
+  Pemimpin proyek
+
+  Proyek ini dipimpin oleh perempuan dengan pengalaman berorganisasi selama 8 tahun, dan di bidang media lebih dari 10 tahun. Latar pendidikan jurnalistik. Berumur 38 tahun, dari kelas menengah.
+
+  Pelaku Proyek
+  Pekerja lainnya dengan latar belakang jurnalistik, periklanan, seni, dan mahasiswa kriminologi dari sebuah perguruan tinggi negeri di Jakarta. Total berjumlah lima orang dengan umur 23 – 30 tahun.
