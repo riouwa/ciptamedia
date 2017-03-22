@@ -164,3 +164,13 @@ Rp 943,300,000 ( $110,976,47)
 * Beberapa jaringan kerja/network ALDP memberikan waktunya untuk menyumbang tulisan di www.aldepe.com
 * Masyarakat Papua khususnya yang berada di perkampungan atau pedalaman selain dapat menikmati informasi langsung dari mobile phone (HP) juga dapat memberikan informasi mengenai peristiwa melalui mobile phone.
 * Beberapa lembaga /jaringan kerja HAM yang ada di nasional dan internasional memberikan sumbang pikiran dan membantu me-link/promosi www.aldepe.com ke berbagai pihak yang menaruh minat soal Papua.
+
+**M. Keberlanjutan proyek:**
+
+  Mengingat bahwa ketersedian dana pada proyek ini terbatas,maka untuk menjaga keberlanjutan proyek, khususnya untuk media mobile phone,maka dilakuakn langkah antisipasi melalui program financial sustainibility dalam berbagai bentuk:
+* Mengembangkan konsep sms berantai, khususnya bagi daerah – daerah yang sedang dilakukan advokasi HAM oleh ALDP. Penerima sms dan kelompoknya berkepentingan untuk menyebarkan berita advokasi HAM yang terjadi di wilayahnya.
+* Menerapkan model pengiriman sms gratis via internet.
+* Menerapkan kegiatan donasi pulsa Rp.20.000/bulan melalui nomor mobile phone tertentu
+* Menyediakan kolom pemasangan iklan
+* Menawarkan donasi umum bagi pembaca dengan mencantumkan nomor rekening
+* Mengadakan program membership bagi lembaga-lembaga asing. Sebagai member diwajibkan membayar dan disediakan akses untuk mendapatkan data ALDP,misalnya hasil kegiatan, produk perundangan,laporan BPK,data BPS, data pelanggaran HAM serta menjual kliping koran elektronik.
