@@ -111,10 +111,12 @@ dapat dipasang/ digunakan karena script sms Frontline hingga kini belum dikirimk
 * 4.10 Pada persidangan Forkours dkk, aksi intimidatif terhadap pengunjung sidang dapat diminimalisir setelah AlDP meyampaikan keberatan seara lisan dan tertulis kepada kapolda Papua dan pihak Pengadilan mengenai kewajiban mengisi daftar hadir bagi pengunjung sidang dan aksi pengusiran terhadap wartawan oleh pihak keamanan.
 * 4.11 Advokasi berbasis media yang dilakukan oleh AlDP mendapatkan respon dari berbagai pihak (impact). 
     Pada kasus Kimanus Wenda : 
+
     1. Pemerintah mengijinkan Kimanus Wenda berobat ke Jayapura
     2. Kunjungan Dirjen HAM dan Direktur HAM Departemen luar negeri ke Kimanus Wenda di LP Abepura pada tanggal 16 April 2012
     3. Meluasnya dukungan untuk pengobatan Kimanus karena tidak ditanggung oleh negara.    
 * 4.12 Pada advokasi masyarakat Tablasupa terkait kehadiran PT Tablasupa Nikel Mining (TNM): 
+
     1. Pendampingan dan negosiasi terhadap 3 (tiga)warga masyarakat yang sempat ditahan dan kemudian ditangguhkan penahanannya
     2. Memfasilitasi pertemuan antara masyarakat dengan pimpinan perusahaan, sebelumnya pimpinan perusahaan tidak mau bertemu dengan masyarakat
     3. Meminimalisir intimidasi aparat keamanan (TNI dan POLRI) melalui lisan dan tertulis kepada pihak keamanan, pemerintah daerah dan perusahaan
