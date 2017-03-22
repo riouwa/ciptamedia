@@ -1,10 +1,11 @@
 ---
-title: 'Kartunet: Media Online Sosialisasi dan Pengembangan Komunitas Pemuda dengan
-  Disabilitas'
+title: Kartunet - Proposal Lengkap
 date: 2017-03-22 12:52:00 +07:00
 ---
 
-![250px-Kartunet.gif](/uploads/250px-Kartunet.gif){: .img-responsive .center-block }
+![Berkas-Kartunet.gif](/uploads/Berkas-Kartunet.gif){: .img-responsive .center-block }
+
+**Kartunet: Media Online Sosialisasi dan Pengembangan Komunitas Pemuda dengan Disabilitas**
 
 **Organisasi**
 
