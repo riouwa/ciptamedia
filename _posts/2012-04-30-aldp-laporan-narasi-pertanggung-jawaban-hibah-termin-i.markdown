@@ -142,6 +142,7 @@ tersebut. Pelaksanaan pembangunan setidaknya mulai dari tingkat distrik hingga d
 
 
 **Hambatan**
+
 * 6.1 Tekhnologi terkait untuk menyiapkan fasilitas on line dan mengoperasikan media online.
 * 6.2 Keterbatasan jaringan komunikasi seperti internet,telepon dan listrik pada wilayah tertentu. Terutama keterbatasan akses internet yang sudah mulai dialami meskipun masih berada di ibukota kabupaten.
 * 6.3 Ketersediaan dan kemampuan jurnalis yang berprespektif HAM(Sipol dan Ecosob) masih terbatas.
@@ -151,6 +152,7 @@ tersebut. Pelaksanaan pembangunan setidaknya mulai dari tingkat distrik hingga d
 * 6.7 Keterbatasan perangkat komunikasi yang diperlukan pada wilayah tertentu seperti hp satelit. 
 
 **Prakiraan**
+
 Aktivitas yang akan dilaksanakan pada periode (Mei- Agustus 2012) selanjutnya adalah :
 
 * 7.1 Peliputan Harian 
