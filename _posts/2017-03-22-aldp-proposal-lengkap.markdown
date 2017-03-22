@@ -130,3 +130,13 @@ Indikator keberhasilan:
 * Adanya perhatian yang serius dari berbagai kelompok strategis (masyarakat,pemerintah dan aparat) mengenai suatu peristiwa HAM yang diberitakan dalam aldepe.com
 * Adanya sanksi bagi aparatur sipil dan TNI/Polri akibat peristiwa atau tindakan yang bertentangan dengan prinsip-prinsip HAM sebagaimana diberitakan dalam aldepe.com.
 * Digunakannya informasi atau laporan hasil liputan aldepe.com untuk acuan perubahan kebijakan dan atau menetapkan sanksi bagi pelaku suatu peristiwa.
+
+**H. Keterkaitan proyek dengan perbaikan media dan keadilan sosial**
+
+**Perbaikan media**
+
+Proyek aldepe.com: Advokasi Hak Asasi Manusia (HAM) di Papua Via Media Online, Mobile Phone dan Social Media diharapkan sebagai media yang dapat memberikan informasi HAM secara adil, jujur dan berimbang sebagai alternatif dari informasi HAM berbasis media lainnya dengan tetap mengedepankan jurnalisme damai. Selain itu proyek ini memperluas media informasi dalam bentuk media sosial dan hand phone sehingga informasi HAM berbasis media dapat menyebar lebih luas.
+
+**Keadilan sosial**
+
+Sebagai media online altenatif maka setiap orang dapat mengakses dan menggunakan referensi dari media ini untuk kepentingan perimbangan informasi. Selain itu memberikan kesempatan atau peluang seluas-luasnya bagi masyarakat terutama masyarakat kampung untuk memberikan kritik dan saran konstruktif terkait isi dari media online. Hal ini merupakan salah satu cara untuk mengembangkan media yang berbasis komunitas dan menjadi milik semua orang,baik yang ada di perkotaan kota mau pun di perkampungan/pedalaman.
