@@ -18,7 +18,7 @@ Penerima hibah	:	Latifah Anum Siregar untuk Aliansi Demokrasi untuk Papua(AlDP)
 
 Periode Laporan	:	Januari- April 2012
 
-Proyek	        :	** Aldepe.com: Advokasi Hak Asasi Manusia (HAM) di Papua Via Media Online, Telpon Seluler dan Sosial Media**
+Proyek	        : **Aldepe.com: Advokasi Hak Asasi Manusia (HAM) di Papua Via Media Online, Telpon Seluler dan Sosial Media**
 
 **Konteks**
 
