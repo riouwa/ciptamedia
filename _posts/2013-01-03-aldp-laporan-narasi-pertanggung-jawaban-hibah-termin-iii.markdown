@@ -218,19 +218,17 @@ pemerintahan pada wilayah administrasi yang sudah ada.
     Hal ini menjadi paradoks sebab di daerah tersebut justru pemerintah diperlukan, banyak uang
     beredar, ada bangunan phisik yang megah tapi tidak ada pelayanan publik.
 
-6.7 Akibat dari banyaknya konflik di Papua,maka pihak-pihak tertentu terutama di daerah 
-    terpencil sangat sensitif dengan peliputan yang dilakukan oleh AlDP,biasanya pihak pemerintahan 
-    distrik dan pihak keamanan(TNI/Polri). Sehingga sebagai jurnalis di wilayah-wilayah
-    terpencil membutuhkan mekanisme perlindungan sebagai human right defenders/jurnalist defenders. 
+6.7 Akibat dari banyaknya konflik di Papua,maka pihak-pihak tertentu terutama di daerah terpencil sangat sensitif dengan peliputan yang dilakukan oleh AlDP,biasanya pihak pemerintahan 
+distrik dan pihak keamanan(TNI/Polri). Sehingga sebagai jurnalis di wilayah-wilayah terpencil membutuhkan mekanisme perlindungan sebagai human right defenders/jurnalist defenders. 
 
 **Prakiraan**
 
 Aktivitas yang akan dilaksanakan pada periode selanjutnya(sisa waktu program) adalah :
-7.1 Peliputan Harian 
-7.2 Peliputan Daerah, antara lain: Distrik Arso dan Distrik Bonggo
-7.3 Liputan Khusus terkait: Proses hukum para narapidana politik dan Kampanye untuk Dialog Jakarta Papua.
-7.4 Penyusunan  dan Launching buku dari berita di Website
-7.5 Monitoring dan evaluasi.
+* 7.1 Peliputan Harian 
+* 7.2 Peliputan Daerah, antara lain: Distrik Arso dan Distrik Bonggo
+* 7.3 Liputan Khusus terkait: Proses hukum para narapidana politik dan Kampanye untuk Dialog Jakarta Papua.
+* 7.4 Penyusunan  dan Launching buku dari berita di Website
+* 7.5 Monitoring dan evaluasi.
 
 Jayapura 3 Januari 2013
 
