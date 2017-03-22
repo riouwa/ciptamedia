@@ -157,15 +157,9 @@ Aktivitas yang akan dilaksanakan pada periode (Mei- Agustus 2012) selanjutnya ad
 
 * 7.1 Peliputan Harian 
 * 7.2 Peliputan Daerah,antara lain : 
-      * Sorong dan sekitarnya
-      * Kab Wamena
-      * Tolikara 
-      * Yahokimo dan sekitarnya
-      * Kab Manokwari dan sekitarnya
-      * Kab Keerom dan sekitarnya (Kibay dan Yetti, Kab Jayapura dan sekitarnya (Demta)
+      Sorong dan sekitarnya, Kab Wamena, Tolikara, Yahokimo dan sekitarnya, Kab Manokwari dan sekitarnya, Kab Keerom dan sekitarnya (Kibay dan Yetti, Kab Jayapura dan sekitarnya (Demta)
 * 7.3 Liputan Khusus: 
-      * Penambangan Nikel di Tablasupa
-      * Pengobatan Kimanus Wenda dan Pengobatan Jafray Murib.
+      Penambangan Nikel di Tablasupa, Pengobatan Kimanus Wenda dan Pengobatan Jafray Murib.
 * 7.4 Monitoring dan evaluasi.
 
 Jayapura 30 April 2012
