@@ -76,3 +76,9 @@ pemerintahan pada wilayah administrasi yang sudah ada.
 
 * 3.3.1 Peliputan harian dilakukan setiap hari dengan tetap memperhatikan kriteria liputan.
 * 3.3.2 Pada periode ini berfokus pada Jayapura sebagai ibukota provinsi dan lokasi jaringan seperti di Manokwari, Merauke dan Keerom.
+
+**Peliputan Daerah**
+
+* 3.4.1 Setidaknya dalam satu bulan ada 2 peliputan daerah atau wilayah. Jasa transportasi yang digunakan pesawat udara, kapal laut, motor laut, mobil atau motor (angkutan darat).
+* 3.4.2 Sebagian kondisi jalan darat termasuk jembatan rusak sehingga sulit dilalui apalagi ketika musim hujan sehingga kadang harus menunggu untuk diperbaiki atau bantuan transportasi lainnya. Seperti kondisi jalan dari Nabire ke Enarotali dan Arso ke Kibay di  Keerom pada bulan September, Manokwari ke Bintuni pada bulan Oktober,Pengunungan Bintang, Mimika, Agimuga dan Kokonao dan Jayapura Skow, Jayapura ke Tarfia dan Jayapura genyem pada bulan November,Wamena ke Yahokimo pada bulan Desember.
+* 3.4.3 Sebagian besar daerah/wilayah yang dikunjungi tidak memiliki akses internet, jaringan telepon dan listrik.
