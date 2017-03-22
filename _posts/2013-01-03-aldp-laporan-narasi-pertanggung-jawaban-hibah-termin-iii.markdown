@@ -109,17 +109,29 @@ pemerintahan pada wilayah administrasi yang sudah ada.
 **Capaian/ Output**
 
 * 4.1 Meningkatnya pemenuhan hak masyarakat untuk mendapatkan informasi dari media online yang berprespektif HAM(Sipol dan Ekosob).
+
 * 4.2 Meningkatnya informasi yang berprespektif HAM (Sipol dan ekosob) terutama dari wilayah yang mengalami keterabatasan akses informasi.
+
 * 4.3 Adanya keberlangsungan informasi yang berpresktif HAM (Sipol dan ekosob) terutama dari wilayah yang mengalami keterbatasan akses informasi.
+
 * 4.4 Semakin terbukanya informasi mengenai penyelenggaraan pemerintahan dan pembangunan khususnya pada wilayah yang mengalami keterbatasan akses informasi.
+
 * 4.5 Digunakannya media online, media social dan SMS Frontline untuk menyampaikan informasi berprespektif HAM (Sipol dan Ekosob).
+
 * 4.6 Meningkatnya upaya lembaga untuk memperbaiki program dan manajemen kelembagaan.
+
 * 4.7 Meningkatnya upaya advokasi berbasis media untuk mendorong penyelesaian masalah tanpa kekerasan.
+
 * 4.8 Semakin meningkatnya informasi mengenai pentingnya tanggungjawab penyelenggaraan pemerintahan terhadap pemenuhan hak-hak dasar masyarakat.
+
 * 4.9 Meluasnya informasi dan dukungan bagi, kondisi, pemenuhan hak tahanan dan narapidana politik (Tapol/ Napol).
+
 * 4.10 Untuk peliputan sendiri hingga saat ini telah berhasil memproduksi 531 berita, menjadikan ALDP penerima hibah yang paling produktif. Beberapa rubrik dalam situs aldp-papua diantaranya adalah Fokus dan Kolom Andawat yang merupakan titik perhatian kerja advokasi ALDP dalam tiga tahun terakhir ini.(sumber www.ciptamedia.org)
+
 * 4.11 Meningkatnya jumlah pengunjung dari periode sebelumnya dari antara 100-300/hari menjadi 250-450/hari. Pada Facebook dan Twitter ALDP juga mengalami peningkatan. Pada Facebook ada 509 member dan Twitter ada 176 followers telah berkicau sebanyak 3,576 kali di bulan Desember 2012 sejak dibuatnya di akhir Januari 2012. Demikian juga dengan jaringan AIDP semakin meluas.
+
 * 4.12 Untuk SMS warga yang baru aktif pada bulan Agustus 2012, setidaknya dalam SMS mulai dari pelayanan publik seperti jalan dan sarana transportasi hingga terkait masalah politik dan sejumlah aksi kekerasan. Ada pun jumlah sms warga yang masuk hingga saat ini baru mencapai 60 sms. 
+
 * 4.13 Untuk Monitoring dan evaluasi dihasilkan masukan: 
 
      1. Website AlDP untuk memperkuat jatidiri AlDP, bagian dari media untuk mengimplementasikan dan tetap sejalan dengan visi dan misi organisasi, 
