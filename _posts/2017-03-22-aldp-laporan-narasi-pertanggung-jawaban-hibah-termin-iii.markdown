@@ -65,3 +65,9 @@ pemerintahan pada wilayah administrasi yang sudah ada.
 
 * 3.1.1 Penggunaan Frontline SMS: Penggunaan frontline sms tetap dilaksanakan dengan menggunakan call center. Informasi akan penggunaan frontline sms ini kami sebarkan melalui media sosial (Twitter dan Facebook) dan melalui sms ke beberapa jaringan kerja ALDP.
 * 3.1.2 Fitur-fitur: Untuk saat ini Fitur untuk video telah kami lengkapi dan diupdate secara berkala. Materi video berasal dari beberapa kegiatan advokasi yang dilakukan oleh ALDP. Tampilan website berusaha diubah agar terlihat lebih ’soft’, teratur dan lebih mudah untuk diakses pada beberapa wilayah di Papua.
+
+**Peliputan**
+
+* 3.2.1 Peliputan menggunakan 2 prespektif yakni prespektif HAM(Sipol dan Ecosob) dan struktural.
+* 3.2.2 Khusus untuk peliputan di daerah berfokus pada informasi mengenai pendidikan,kesehatan, inftrastruktur, ekonomi rakyat, penyelenggaraan pemerintahan, Lembaga Pemasyarakatan dan kondisi Tapol/Napol dan hubungan masyarakat sipil. 
+* 3.2.3 Peliputan tidak berfokus pada berita-berita atau wilayah tertentu yang media mainstream tapi dengan berusaha mempublikasikan perkembangan HAM secara berimbang dan merata terutama yang jarang tercover oleh media lain pada umumnya.  
