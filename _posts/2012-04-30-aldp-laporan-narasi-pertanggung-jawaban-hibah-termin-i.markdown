@@ -66,6 +66,7 @@ dan pilkada dibeberapa tempat turut memperburuk situasi tersebut dan memperkuat 
 **Situs Web**
 
 **Pembuatan Situs Web**
+
 Redesign website mengalami keterlambatan hingga baru dapat diselesaikan pada akhir april. Sebelumnya AlDP telah 
 meminta asistensi dari Yayasan Air Putih sebagaimana yang telah disiapkan oleh pihak donor untuk membantu 
 mengerjakan design website dan fasilitas lainnya. 
@@ -74,6 +75,7 @@ Namun hingga kini Airputih belum mempunyai waktu luang untuk datang ke Jayapura 
 website yang ada di Jayapura. 
 
 **Fitur-fitur**
+
 Sejalan dengan terhambatnya redesign website maka beberapa fitur yang harus disiapkan seperti sms frontline belum 
 dapat dipasang/ digunakan karena script sms Frontline hingga kini belum dikirimkan oleh yayasan Airputih.
 
