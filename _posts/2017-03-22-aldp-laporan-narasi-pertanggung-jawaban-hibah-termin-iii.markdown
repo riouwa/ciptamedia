@@ -93,3 +93,16 @@ pemerintahan pada wilayah administrasi yang sudah ada.
       3. Kampanye Dialog Jakarta Papua sebagai solusi penyelesaian masalah di Papua tanpa kekerasan.
 * 3.5.2 Peliputan khusus ini selain bertujuan jangka pendek dan disediakan pembiayaan dari pihak donor, akan tetap dilakukan secara kontinyu karena merupakan arah program AlDP selama periode 2012-2013 terkait  dengan persoalan-persoalan utama mengenai demokrasi dan keadilan yang terjadi di Papua.
 * 3.5.3 Peliputan khusus dilakukan dalam bentuk berbagai: mendampingi dan memfasilitasi narapidana dengan pihak LP, Kanwil Hukum dan HAM dan pihak kesehatan dan rumah sakit, Pendampingan di kepolisian, melakukan korespondensi dengan pemerintah dan pihak kementrian Hukum dan HAM serta melakukan pertemuan atau forum kajian.
+
+**Memperluas Hasil Liputan**
+
+* 3.6.1 Dilakukan setiap hari melalui Facebook dan Twitter. 
+* 3.6.2 Dilakukan melalui fontline sms ke beberapa jaringan kerja ALDP.
+
+**Melakukan Respon Cepat dari Hasil Liputan**
+ 
+* 3.7.1 Dilakukan melalui Siaran Pers, Kolom Opini Andawat, korespondensi serta tatap muka.
+* 3.7.2 Dilakukan untuk mendorong proses penanganan yang mendesak baik oleh AlDP maupun pihak lainnya yang memiliki kewenangan.
+
+**Monitoring dan Evaluasi**
+* 3.8.1 Dilakukan pertemuan antara staff AlDP dengan badan Pengurus/board AlDP tanggal 2 November 2012  dengan tujuan untuk mengukur capaian program dan memberi masukan agar capaian program menjadi lebih baik.
