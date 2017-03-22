@@ -129,6 +129,14 @@ dapat dipasang/ digunakan karena script sms Frontline hingga kini belum dikirimk
 
 
 **Pelajaran Berharga**
+* 5.1 Mengelola website di Papua bukanlah pekerjaan yang mudah apalagi dengan  keterbatasan sumber daya manusia untuk menjalankan pekerjaan tehnis dan jurnalis.
+* 5.2 Sulit untuk mencari jaringan yang dapat bekerja fulltime karena biasannya orang-orang di daerah sudah memiliki sejumlah aktifitas dan ‘jabatan’. Misalnya sebagai tokoh di gereja, aktif di LSM ataupun sebagai kontak person untuk jaringan lainnya.  Hingga periode ini AlDP baru mendapatkan 3 (tiga) orang jaringan dengan intensitas berita yang belum cukup maksimal.
+* 5.3 Masih tingginya ketergantungan orang daerah terhadap orang pusat akibat dari keterbatasan tehnologi sehingga menyebabkan terhambatnya pekerjaan-pekerjaan tehnis  yang mempengaruhi bagian dari tujuan program.
+* 5.4 Masih terbatasnya perspektif HAM (Sipol dan Ekosob) yang dimiliki oleh jurnalis sebab sebagian besar jurnalis masih berada pada ‘media mainstream’ dan ‘berita untuk berita’ sehingga masih sulit menjalankan fungsi advoksi untuk perubahan.
+* 5.5 Kesulitan kondisi geografis di Papua harus diantisipasi untuk mengatasi hambatan hak masyarakat untuk informasi sebab jikalau hal tersebut tetap dijadikan alasan maka informasi hanya akan dimiliki oleh sebagian kecil wilayah yang ada di Papua (di pusat-pusat kota saja).
+* 5.6 Daerah-daerah terpencil menjadi contoh mengenai tidak adanya negara dan justru pentingnya negara di tempat-tempat 
+tersebut. Pelaksanaan pembangunan setidaknya mulai dari tingkat distrik hingga di kampung-kampung menjadi macet. Hal ini menjadi paradoks sebab di daerah tersebut justru uang banyak beredar, ratusan juta pertahun bahkan di kabupaten Keerom 1 milyar/kampung/tahun.
+* 5.7 Akibat dari banyaknya konflik di Papua,maka pihak-pihak tertentu terutama di daerah terpencil sangat sensitif dengan  peliputan yang dilakukan oleh AlDP, biasanya pihak pemerintahan distrik dan pihak keamanan (TNI/Polri). Sehingga sebagai jurnalis di wilayah-wilayah terpencil membutuhkan mekanisme perlindungan sebagai human right defenders/jurnalist defenders.
 
 
 **Hambatan**
