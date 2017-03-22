@@ -143,10 +143,11 @@ pemerintahan pada wilayah administrasi yang sudah ada.
 
 **Impact: Advokasi Berbasis Media**
 
-* 5.1. 1. Pada kasus narapidana an. Jafrai Murib tetap dilakukan fisioterapi di RSUD DOk II Jayapura secara rutin: 
-     2. Terhadap Kanius Murib, Pihak LP Wamena tetap melakukan control dan komunikasi meskipun Kanius telah dikembalikan kepada keluargnya untuk dirawat hingga Kanius meninggal dunia pada tanggal 11 desember 2012. 
-     3. Telah dilakukan penyelesaian administrasi untuk  memperjuangkan hak hukum narapidana untuk mendapatkan Pembebasan Bersyarat (Apot Enos Lokobal terpidana 20 tahun) pada desember 2012, 
-     4. Pengalihan Hukuman (Numbungga Telenggen dan Jafrai Murib terpidana seumur hidup) sedang diproses oleh pihak Kanwil Hukum dan HAM Provinsi Papua.
+* 5.1. 
+1. Pada kasus narapidana an. Jafrai Murib tetap dilakukan fisioterapi di RSUD DOk II Jayapura secara rutin: 
+2. Terhadap Kanius Murib, Pihak LP Wamena tetap melakukan control dan komunikasi meskipun Kanius telah dikembalikan kepada keluargnya untuk dirawat hingga Kanius meninggal dunia pada tanggal 11 desember 2012. 
+ 3. Telah dilakukan penyelesaian administrasi untuk  memperjuangkan hak hukum narapidana untuk mendapatkan Pembebasan Bersyarat (Apot Enos Lokobal terpidana 20 tahun) pada desember 2012, 
+ 4. Pengalihan Hukuman (Numbungga Telenggen dan Jafrai Murib terpidana seumur hidup) sedang diproses oleh pihak Kanwil Hukum dan HAM Provinsi Papua.
 * 5.2. Pada Penguatan Manajemen LP: 
      1. Informasi dari AlDP mengenai pentingnya memperkuat pengelolaan LP –LP di Papua mendapat respon yang positif dari pihak Kanwil Hukum dan HAM sehingga terbuka komunikasi yang intensif. 
      2. Akses AlDP terhadap LP dan petugas-petugasnya semakin meningkat dan intensif untuk melakukan pengumpulan informasi dan kepentingan hukum dari penghuni LP secara khusus tahanan dan narapidana politik seperti di LP Abepura Jayapura, Wamena, Biak, Nabire, Timika, Manokwari dan Sorong.
