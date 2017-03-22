@@ -3,7 +3,7 @@ title: Kartunet - Proposal Lengkap
 date: 2017-03-22 12:52:00 +07:00
 ---
 
-![Kartunet.gif](/uploads/Kartunet.gif){: .img-responsive .center-block }
+![250px-Kartunet.gif](/uploads/250px-Kartunet.gif){: .img-responsive .center-block }
 
 **Kartunet: Media Online Sosialisasi dan Pengembangan Komunitas Pemuda dengan Disabilitas**
 
