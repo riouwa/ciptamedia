@@ -114,7 +114,8 @@ Proses monitoring dan evaluasi terhadap proyek ini akan dilakukan setiap bulan. 
 
 **Pemimpin proyek**
 
-  Perempuan dengan pengalaman bekerja di NGO khusus untuk isu HAM selama 15 tahun, berumur 40 tahun,menulis dan membuat beberapa laporan investigasi karena aktivitasnya dalam advokasi HAM pernah mendapatkan penghargaan pada 2007 sebagai Women Peace Maker dari UniversitasSanDiego,California,USA(http://www.sandiego.edu/peacestudies/ipj/programs/women_peace_makers/women_peacemakers/asia/Indonesia.php).
+  Perempuan dengan pengalaman bekerja di NGO khusus untuk isu HAM selama 15 tahun, berumur 40 tahun,menulis dan membuat beberapa laporan investigasi karena aktivitasnya dalam advokasi HAM pernah mendapatkan penghargaan pada 2007 sebagai Women Peace Maker dari UniversitasSanDiego,California,USA
+(http://www.sandiego.edu/peacestudies/ipj/programs/women_peace_makers/women_peacemakers/asia/Indonesia.php).
 
 **Pelaku Proyek**
 
