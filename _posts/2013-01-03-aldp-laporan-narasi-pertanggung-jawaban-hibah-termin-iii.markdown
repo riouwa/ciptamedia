@@ -157,12 +157,19 @@ pemerintahan pada wilayah administrasi yang sudah ada.
 **Hambatan**
 
 * 6.1 Keterbatasan jaringan komunikasi seperti internet, telepon dan listrik pada wilayah tertentu. Keterbatasan akses internet dialami sejak berada di ibukota kabupaten.
+
 * 6.2 Ketersediaan dan kemampuan jurnalis yang berprespektif HAM ( Sipol dan Ecosob) masih terbatas.
+
 * 6.3 Tingginya kesibukan jaringan sehingga karena sering kali para tokoh, aktifis atau jurnalis memiliki peran atau tugas lebih dari satu.
+
 * 6.4 Keterbatasan sarana transportasi baik darat, laut maupun udara serta kondisi jalan yang buruk.
+
 * 6.5 Tidak adanya jaminan keamanan bagi peliput berita
+
 * 6.6 Keterbatasan perangkat komunikasi yang diperlukan pada wilayah tertentu seperti hp satelit
+
 * 6.7 Kondisi di Papua pada bulan November dan desember dipenuhi dengan persiapan dan acara natal sehingga agak mengalami kesulitan untuk melakukan perjalanan dan menemui narasumber sehingga peliputan tidak berjalan maksimal terutama pada wilayah tertentu. 
+
 * 6.8 Penggunaan sistem pelaporan keuangan yang menggunakan 2 kali pembuatan laporan (AJI dan Wikimedia) membuat pihak keuangan dan IT mengalami kesulitan karena hanya satu orang yang bekerja di bagian keuangan tersebut.
 
 **Pelajaran Berharga**
