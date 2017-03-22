@@ -77,6 +77,16 @@ dapat dipasang/ digunakan karena script sms Frontline hingga kini belum dikirimk
 * 3.2.2	 Khusus untuk peliputan di daerah berfokus pada informasi mengenai pendidikan, kesehatan, inftrastruktur, ekonomi rakyat, pemerintahan dan keamanan. 
 * 3.2.3	 Peliputan tidak berfokus pada berita-berita atau wilayah tertentu yang media mainstream tapi dengan berusaha mempublikasikan perkembangan HAM secara berimbang dan merata.  
 
+**Peliputan Harian**
+* 3.3.1 Peliputan harian dilakukan setiap hari dengan tetap memperhatikan kriteria liputan.
+* 3.3.2 Berfokus pada Jayapura sebagai ibukota provinsi dan lokasi jaringan seperti di Keerom dan Yapen Waropen serta Merauke. 
+
+**Peliputan Daerah**
+* 3.4.1 Setidaknya dalam satu bulan ada 2 peliputan daerah atau wilayah. Jasa transportasi yang digunakan pesawat udara, kapal laut, motor laut, mobil atau motor (angkutan darat).
+* 3.4.2 Pada beberapa tempat meskipun menggunakan jasa penerbangan namun tidak terjadual dengan baik seperti di Biak dan Waropen.
+* 3.4.3 Sebagian besar kondisi jalan darat termasuk jembatan rusak sehingga sulit dilalui apalagi ketika musim hujan dan sehingga kadang harus menunggu untuk diperbaiki atau bantuan transportasi lainnya. Seperti kondisi jalan Jayapura-Sarmi (9 jam) pada bulan Januari 2012, Merauke Muting pada bulan Januari dan Jayapura Yuruf dan Ubrub (6 jam) pada bulan april 2012.
+* 3.4.4 Sebagian besar daerah/wilayah yang dikunjungi tidak memiliki akses internet, jaringan telepon dan listrik.
+
 **Capaian/ Output**
 
 **Pelajaran Berharga**
