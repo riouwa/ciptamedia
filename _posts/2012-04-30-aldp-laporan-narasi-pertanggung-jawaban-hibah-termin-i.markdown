@@ -93,6 +93,40 @@ dapat dipasang/ digunakan karena script sms Frontline hingga kini belum dikirimk
 * 3.5.3 Peliputan khusus dilakukan dalam bentuk berbagai: memfasilitasi pertemuan diantara masyarakat, masyarakat dengan perusahaan dan pemerintah, pendampingan di kepolisian serta melakukan korespondensi dengan pemerintah, perusahaan dan pihak keamanan.
 
 **Capaian/ Output**
+* 4.1 Meningkatnya pemenuhan hak masyarakat untuk mendapatkan informasi yang berprespektif HAM (Sipol dan Ekosob)
+* 4.2 Meningkatnya informasi yang berprespektif HAM (Sipol dan ekosob) terutama dari wilayah yang mengalami keterabatasan akses informasi   
+* 4.3 Adanya keberlangsungan informasi yang berpresktif HAM (Sipol dan ekosob) terutama dari wilayah yang mengalami keterbatasan akses informasi
+* 4.4 Semakin terbukanya informasi mengenai penyelenggaraan pemerintahan dan pembangunan khususnya pada wilayah yang mengalami keterbatasan akses informasi.
+* 4.5 Digunakannya media online dan media social untuk menyampaikan informasi berprespektif HAM (Sipol dan Ekosob). 
+* 4.6 Meningkatnya upaya lembaga untuk memperbaiki program dan manajemen kelembagaan
+* 4.7 Meningkatnya upaya advokasi berbasis pada media untuk mendorong penyelesaian masalah tanpa kekerasan
+* 4.8 Semakin meningkatnya informasi mengenai pentingnya tanggungjawab penyelenggaraan pemerintahan terhadap pemenuhan hak-hak dasar masyarakat.
+* 4.9 Meningkatnya partisipasi masyarakat untuk menyampaikan permasalahan HAM 
+* 4.10 Pada persidangan Forkours dkk, aksi intimidatif terhadap pengunjung sidang dapat diminimalisir setelah AlDP meyampaikan keberatan seara lisan dan tertulis kepada kapolda Papua dan pihak Pengadilan mengenai kewajiban mengisi daftar hadir bagi pengunjung sidang dan aksi pengusiran terhadap wartawan oleh pihak keamanan.
+* 4.11 Advokasi berbasis media yang dilakukan oleh AlDP mendapatkan respon dari berbagai pihak (impact). 
+    Pada kasus Kimanus Wenda : 
+    1). Pemerintah mengijinkan Kimanus Wenda berobat ke Jayapura
+
+    2). Kunjungan Dirjen HAM dan Direktur HAM Departemen luar negeri ke Kimanus Wenda di LP Abepura pada tanggal 16 April 2012
+
+    3). Meluasnya dukungan untuk pengobatan Kimanus karena tidak ditanggung oleh negara.    
+
+* 4.12 Pada advokasi masyarakat Tablasupa terkait kehadiran PT Tablasupa Nikel Mining (TNM): 
+    1) Pendampingan dan negosiasi terhadap 3 (tiga)warga masyarakat yang sempat ditahan dan kemudian ditangguhkan penahanannya
+
+    2) Memfasilitasi pertemuan antara masyarakat dengan pimpinan perusahaan, sebelumnya pimpinan perusahaan tidak mau bertemu dengan masyarakat
+
+    3) Meminimalisir intimidasi aparat keamanan (TNI dan POLRI) melalui lisan dan tertulis kepada pihak keamanan, pemerintah daerah dan perusahaan
+
+    4) Pemerintah kabupaten yang semula tidak mau bertemu dengan masyarakat kini menyelenggarakan pertemuan dengan masyarakat yang dihadiri langsung oleh Bupati dan aparatnya, sudah dilakukan sebanyak 2 kali
+
+    5) Dibangunnya negosiasi langsung antara masyarakat dan perusahaan tanpa melibatkan pemerintah dan aparat TNI/Polri dapat dilakukan
+
+    6) Terjadinya rekonsiliasi atau pemulihan diantara masyarakat adat yang berkonflik.
+
+* 4.13 Beberapa pihak yang memiliki kepentingan terhadap informasi HAM di Papua menjadi jaringan berita AlDP dan menjadi followers, seperti Departemen Sosial RI, Vote Indonesia, Tapol UK, Pedoman Indonesia, Indonesia Mengajar dll serta seringkali meneruskan (Forward) informasi yang di berikan oleh ALDP kepada  followers mereka. Majalah TEMPO telah merujuk berita AlDP dan menggunakan foto di website untuk pemberitaan mereka.
+* 4.14 Untuk pengunjung website ALDP mengalami peningkatan pembaca. Jika sebelumnya rata-rata pengunjung/pembaca hanya mencapai kurang lebih 50-75 orang pembaca namun sejak awal Januari 2012 mengalami peningkatan dengan rata-rata pengunjung/pembaca sebanyak 100-300 pengunjung/hari 
+* 4.15 Untuk situs jaringan sosial Facebook AlDP  mengalami peningkatan anggota dengan jumlah anggota saat ini ada 360 orang & lembaga serta  beberapa individu dan lembaga telah terlibat untuk posting informasi/berita di Group facebook AlDP. Sejak akun twitter AlDP dibuat pada bulan Desember 2011 mengalami peningkatan. Followers hingga saat ini berjumlah 125 dan 1558 Tweets. Beberapa informasi yang disampaikan melalui twitter dan Facebook (jejaring social) telah menjadi referensi dari beberapa lembaga yang ada di Jakarta . Misalnya Kontras, Infid, HRWG dll.
 
 **Pelajaran Berharga**
 
