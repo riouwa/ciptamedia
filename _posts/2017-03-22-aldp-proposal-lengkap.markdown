@@ -46,3 +46,27 @@ Sasaran:
 * C. Melipatgandakan jumlah pembaca di dalam dan luar negeri termasuk di wilayah pedalaman Papua melalui media sosial,media online dan mobile phone.
 * D. Memperluas gerakan advokasi HAM berbasis media di tanah Papua dengan berbagai kelompok strategis.
 * E. Melakukan monitoring dan evaluasi (monev) terhadap pelaksanaaan program dan keuangan selama 1 (satu ) tahun.
+
+Latar belakang:
+
+**A. Keterkaitan pada topik: Keadilan dan kesetaraan akses terhadap media**
+
+Proyek aldepe.com adalah proyek advokasi HAM di Papua berbasiskan media. HAM yang dimaksud bukan hanya hak sipil dan politik (sipol) saja, tapi juga juga hak ekonomi,sosial dan budaya (ecosob) seperti pengelolaan SDA (Sumber Daya Alam), pendidikan, ekonomi dan kesehatan. Sementara, media yang dimaksud adalah media online, mobile phone dan social media seperti twitter, facebook dan lain-lain. Proyek ini menyempurnakan dan meningkatkan media advokasi ALDP sebelumnya yaitu www.aldepe.com yang saat ini masih berbasiskan media online.
+
+Pemanfaatan berbagai media ini dalam rangka memperluas penyebaran informasi alternatif yang tujuan akhirnya memperluas dukungan publik terhadap proses advokasi HAM di Papua. Pemanfaatan berbagai media ini juga bisa jadi solusi atas berbagai hambatan proses diseminasi informasi di Papua dikarenakan restriksi informasi yang dilakukan pemerintah seperti pelarangan wartawan dan peneliti asing di Papua, pengusiran berbagai organisasi HAM internasional, monopoli informasi oleh pemerintah di berbagai media lokal serta hambatan geografis di Papua dimana masih banyak warga masyarakat di wilayah pedalaman sulit mendapat akses terhadap media.
+
+Melalui proyek ini juga informasi yang akan disajikan tak hanya berbentuk teks tapi juga images dan video. Selain untuk memperkuat pengaruh sebuah pesan, images dan video diharapkan juga bisa jadi solusi atas tingkat literasi warga Papua yang masih rendah serta persoalan belum akrabnya sebagian warga Papua dengan teknologi informasi.
+
+**B. Masalah yang ingin diatasi dan keterkaitan dengan aktivitas**
+
+1. Hambatan diseminasi informasi di Papua disebabkan situasi geografis Papua serta rendahnya tingkat literasi warga yang menurut data BPS penduduk buta aksara di Papua pada 2010 mencapai 23% dari total penduduk.
+
+2. Berita-berita HAM Papua memang kerap juga muncul di media nasional. Sayangnya mereka hanya fokus pada kasus yang highprofile seperti kekerasan aparat keamanan. Itu pun pemberitaannya kerap tak kontinyu. Sementara berita soal hak Ecosob seperti pengelolaan sumber daya alam, pendidikan, ekonomi dan kesehatan terabaikan karena dianggap tak punya news value yang tinggi.
+
+3. Di sisi lain, kesadaran kalangan civil society di Papua untuk memanfaatkan media sebagai sarana advokasi masih minim. Dari sekitar 184 LSM di Papua hanya 15 lembaga yang memiliki website. Itupun kebanyakan informasinya tak update dan hanya copy paste dari media umum.
+
+4. Pada umumnya media online advokasi yang ada di Papua relatif masih sedikit, jika pun ada media online tersebut lebih mengfokuskan pada konsep bisnis. Akibatnya masyarakat sebagai kelompok sasaran penikmat dari informasi tersebut kerap tidak mendapatkan informasi mendalam . yang muncul hanyalah pemberitaan yang terkesan membuat masyarakat bingung dan kerap dengan mudahnya terprovokasi akan penyampiaan informasi/berita tersebut.
+
+5. Belum banyak media online advokasi yang mengintegrasikan ke dalam konsep mobile phone. Mobile phone (HP) sangat penting untuk di integrasikan sebab pada umumnya masyarakat memiliki mobile phone derngan akses jaringan telkomsel yang hampir sebagian besar tersebar di wilayah-wilayah pegunungan (pedalaman) sehingga di harapkan dengan menggunakan konsep ini maka masyarakat dapat dengan mudah mendapatkan informasi terutama informasi advokasi HAM yang terjadi di Tanah Papua. Konsep mobile phone ini akan menggunakan Frontline SMS dan teknologi USHAIDI.
+
+6.Untuk menghadapi masalah-masalah diatas. Kegiatan proyek Aldepe.com akan difokuskan pada produksi berita dalam beragam format yaitu teks, gambar dan video dan fokus dan penyebarannya akan memanfaatkan beragam jenis media mulai dari media online, social media serta mobile phone. Pemanfaatkan berbagai format berita serta pemanfaatan berbagai media ini diharapkan jadi solusi terhadap semua permasalahan di atas. Contohnya masyarakat yang tinggal di daerah terpencil yang tak punya akses internet bisa tetap memdapatkan via mobile phone. Bagi warga yang yang mempunyai tingkat literasi yang rendah bisa mendapatkan informasinya berupa images dan video sementara untuk komunitas internasional bisa mendapatkan informasi dalam bahasa Inggris.
