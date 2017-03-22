@@ -82,3 +82,14 @@ pemerintahan pada wilayah administrasi yang sudah ada.
 * 3.4.1 Setidaknya dalam satu bulan ada 2 peliputan daerah atau wilayah. Jasa transportasi yang digunakan pesawat udara, kapal laut, motor laut, mobil atau motor (angkutan darat).
 * 3.4.2 Sebagian kondisi jalan darat termasuk jembatan rusak sehingga sulit dilalui apalagi ketika musim hujan sehingga kadang harus menunggu untuk diperbaiki atau bantuan transportasi lainnya. Seperti kondisi jalan dari Nabire ke Enarotali dan Arso ke Kibay di  Keerom pada bulan September, Manokwari ke Bintuni pada bulan Oktober,Pengunungan Bintang, Mimika, Agimuga dan Kokonao dan Jayapura Skow, Jayapura ke Tarfia dan Jayapura genyem pada bulan November,Wamena ke Yahokimo pada bulan Desember.
 * 3.4.3 Sebagian besar daerah/wilayah yang dikunjungi tidak memiliki akses internet, jaringan telepon dan listrik.
+
+**Peliputan Khusus**
+
+* 3.5.1 Pada periode ini dana peliputan khusus sudah tidak tersedia namun AlDP berusaha untuk menetapkan 
+      3 (tiga) fokus yakni:
+
+      1. Monitoring dan pendampingan bagi tapol dan napol seperti pengobatan dan proses hukum terhadap Narapidana Politik Jafrai Murib, Kanius Murib dan Apot Enos Lokobal 
+      2. Monitoring  dan advokasi terhadap keberadaan sejumlah Lembaga Pemasyarakatan(LP) seperti LP Nabire, LP Biak, LP Mimika, LP Wamena, LP Manokwari dan LP Sorong, dan  
+      3. Kampanye Dialog Jakarta Papua sebagai solusi penyelesaian masalah di Papua tanpa kekerasan.
+* 3.5.2 Peliputan khusus ini selain bertujuan jangka pendek dan disediakan pembiayaan dari pihak donor, akan tetap dilakukan secara kontinyu karena merupakan arah program AlDP selama periode 2012-2013 terkait  dengan persoalan-persoalan utama mengenai demokrasi dan keadilan yang terjadi di Papua.
+* 3.5.3 Peliputan khusus dilakukan dalam bentuk berbagai: mendampingi dan memfasilitasi narapidana dengan pihak LP, Kanwil Hukum dan HAM dan pihak kesehatan dan rumah sakit, Pendampingan di kepolisian, melakukan korespondensi dengan pemerintah dan pihak kementrian Hukum dan HAM serta melakukan pertemuan atau forum kajian.
