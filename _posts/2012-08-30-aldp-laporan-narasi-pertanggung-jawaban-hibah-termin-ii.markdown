@@ -51,11 +51,8 @@ dan pilkada dibeberapa tempat turut memperburuk situasi tersebut dan memperkuat 
 **Tujuan**
 
 * 2.1 Meluasnya informasi  HAM berbasis media di Papua yang akurat, mendalam dan  kontinyu.
-2.2 Dilakukannya peliputan dan investigasi peristiwa HAM(Ekosob dan Sipol) 
-2.3 Diintegrasikannya media sosial, media online dan mobile Phone untuk meningkatkan  
-    advokasi HAM 
-2.4 Diatasinya berbagai hambatan diseminasi informasi seperti restriksi informasi, faktor 
-    geografis serta rendahnya tingkat literasi warga.
-2.5 Terbangunnya hubungan kerja advokasi berbasis media dengan berbagai kelompok strategis 
-    demi terciptanya Papua tanah damai. 
-2.6 Adanya monitoring dan evaluasi program dan manajemen kelembagaan 
+* 2.2 Dilakukannya peliputan dan investigasi peristiwa HAM(Ekosob dan Sipol) 
+* 2.3 Diintegrasikannya media sosial, media online dan mobile Phone untuk meningkatkan advokasi HAM 
+* 2.4 Diatasinya berbagai hambatan diseminasi informasi seperti restriksi informasi, faktor geografis serta rendahnya tingkat literasi warga.
+* 2.5 Terbangunnya hubungan kerja advokasi berbasis media dengan berbagai kelompok strategis demi terciptanya Papua tanah damai. 
+* 2.6 Adanya monitoring dan evaluasi program dan manajemen kelembagaan 
