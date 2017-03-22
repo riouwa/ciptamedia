@@ -58,6 +58,25 @@ dan pilkada dibeberapa tempat turut memperburuk situasi tersebut dan memperkuat 
 
 **Aktivitas**
 
+**Situs Web**
+
+**Pembuatan Situs Web**
+Redesign website mengalami keterlambatan hingga baru dapat diselesaikan pada akhir april. Sebelumnya AlDP telah 
+meminta asistensi dari Yayasan Air Putih sebagaimana yang telah disiapkan oleh pihak donor untuk membantu 
+mengerjakan design website dan fasilitas lainnya. 
+
+Namun hingga kini Airputih belum mempunyai waktu luang untuk datang ke Jayapura sehingga AlDP mencari designer 
+website yang ada di Jayapura. 
+
+**Fitur-fitur**
+Sejalan dengan terhambatnya redesign website maka beberapa fitur yang harus disiapkan seperti sms frontline belum 
+dapat dipasang/ digunakan karena script sms Frontline hingga kini belum dikirimkan oleh yayasan Airputih.
+
+**Peliputan**
+* 3.2.1	 Peliputan menggunakan 2 prespektif yakni prespektif HAM(Sipol dan Ecosob) dan struktural.
+* 3.2.2	 Khusus untuk peliputan di daerah berfokus pada informasi mengenai pendidikan, kesehatan, inftrastruktur, ekonomi rakyat, pemerintahan dan keamanan. 
+* 3.2.3	 Peliputan tidak berfokus pada berita-berita atau wilayah tertentu yang media mainstream tapi dengan berusaha mempublikasikan perkembangan HAM secara berimbang dan merata.  
+
 **Capaian/ Output**
 
 **Pelajaran Berharga**
