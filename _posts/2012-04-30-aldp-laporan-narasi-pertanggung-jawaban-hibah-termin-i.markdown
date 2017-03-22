@@ -87,6 +87,11 @@ dapat dipasang/ digunakan karena script sms Frontline hingga kini belum dikirimk
 * 3.4.3 Sebagian besar kondisi jalan darat termasuk jembatan rusak sehingga sulit dilalui apalagi ketika musim hujan dan sehingga kadang harus menunggu untuk diperbaiki atau bantuan transportasi lainnya. Seperti kondisi jalan Jayapura-Sarmi (9 jam) pada bulan Januari 2012, Merauke Muting pada bulan Januari dan Jayapura Yuruf dan Ubrub (6 jam) pada bulan april 2012.
 * 3.4.4 Sebagian besar daerah/wilayah yang dikunjungi tidak memiliki akses internet, jaringan telepon dan listrik.
 
+**Peliputan Khusus**
+* 3.5.1 Ada 3 (tiga) fokus peliputan khusus pada periode Januari-april yakni persidangan Forkorus, pengobatan Kimanus Wenda dan  pendampingan masyarakat adat Tablasupa terkait tambang nikel di Tablasupa Depapre, Kab. Jayapura.
+* 3.5.2 Peliputan dilakukan secara intensif pada 3 lokasi Jayapura, Nabire (di LP Nabire tempat Kimanus menjalani masa pidana) dan di Jakarta saat mendampingi masyarakat adat bertemu dengan pimpinan PT TNM pemegang Ijin Usaha Penambangan Tablasupa di Jakarta.
+* 3.5.3 Peliputan khusus dilakukan dalam bentuk berbagai: memfasilitasi pertemuan diantara masyarakat, masyarakat dengan perusahaan dan pemerintah, pendampingan di kepolisian serta melakukan korespondensi dengan pemerintah, perusahaan dan pihak keamanan.
+
 **Capaian/ Output**
 
 **Pelajaran Berharga**
