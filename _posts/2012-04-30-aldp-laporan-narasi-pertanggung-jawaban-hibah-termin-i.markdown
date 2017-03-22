@@ -11,6 +11,7 @@ date: 2012-04-30 14:18:00 +07:00
 
 **Aliansi Jurnalis Independen**
 
+
 Laporan dapat dikirimkan melalui surel atau dokumen asli
 
 Penerima hibah	:	Latifah Anum Siregar untuk Aliansi Demokrasi untuk Papua(AlDP)
@@ -18,6 +19,7 @@ Penerima hibah	:	Latifah Anum Siregar untuk Aliansi Demokrasi untuk Papua(AlDP)
 Periode Laporan	:	Januari- April 2012
 
 Proyek	        :	 Aldepe.com: Advokasi Hak Asasi Manusia (HAM) di Papua Via Media Online, Telpon Seluler dan Sosial Media
+
 
 **Konteks**
 
@@ -47,6 +49,7 @@ Lemahnya penyelenggaraan pemerintahan sipil mulai dari tingkat provinsi, kabupat
 Bahkan di wilayah tertentu tidak terlihat aktifitas pemerintah di tingkat distrik dan kampung. Macetnya pilgub 
 dan pilkada dibeberapa tempat turut memperburuk situasi tersebut dan memperkuat eksistensi pihak keamanan.
 
+
 **Tujuan**
 
 * 2.1 Meluasnya informasi  HAM berbasis media di Papua yang akurat, mendalam dan  kontinyu.
@@ -56,7 +59,9 @@ dan pilkada dibeberapa tempat turut memperburuk situasi tersebut dan memperkuat 
 * 2.5 Terbangunnya hubungan kerja advokasi berbasis media dengan berbagai kelompok strategis demi terciptanya Papua tanah damai. 
 * 2.6 Adanya monitoring dan evaluasi program dan manajemen kelembagaan 
 
+
 **Aktivitas**
+
 
 **Situs Web**
 
@@ -91,6 +96,7 @@ dapat dipasang/ digunakan karena script sms Frontline hingga kini belum dikirimk
 * 3.5.1 Ada 3 (tiga) fokus peliputan khusus pada periode Januari-april yakni persidangan Forkorus, pengobatan Kimanus Wenda dan  pendampingan masyarakat adat Tablasupa terkait tambang nikel di Tablasupa Depapre, Kab. Jayapura.
 * 3.5.2 Peliputan dilakukan secara intensif pada 3 lokasi Jayapura, Nabire (di LP Nabire tempat Kimanus menjalani masa pidana) dan di Jakarta saat mendampingi masyarakat adat bertemu dengan pimpinan PT TNM pemegang Ijin Usaha Penambangan Tablasupa di Jakarta.
 * 3.5.3 Peliputan khusus dilakukan dalam bentuk berbagai: memfasilitasi pertemuan diantara masyarakat, masyarakat dengan perusahaan dan pemerintah, pendampingan di kepolisian serta melakukan korespondensi dengan pemerintah, perusahaan dan pihak keamanan.
+
 
 **Capaian/ Output**
 * 4.1 Meningkatnya pemenuhan hak masyarakat untuk mendapatkan informasi yang berprespektif HAM (Sipol dan Ekosob)
@@ -128,11 +134,15 @@ dapat dipasang/ digunakan karena script sms Frontline hingga kini belum dikirimk
 * 4.14 Untuk pengunjung website ALDP mengalami peningkatan pembaca. Jika sebelumnya rata-rata pengunjung/pembaca hanya mencapai kurang lebih 50-75 orang pembaca namun sejak awal Januari 2012 mengalami peningkatan dengan rata-rata pengunjung/pembaca sebanyak 100-300 pengunjung/hari 
 * 4.15 Untuk situs jaringan sosial Facebook AlDP  mengalami peningkatan anggota dengan jumlah anggota saat ini ada 360 orang & lembaga serta  beberapa individu dan lembaga telah terlibat untuk posting informasi/berita di Group facebook AlDP. Sejak akun twitter AlDP dibuat pada bulan Desember 2011 mengalami peningkatan. Followers hingga saat ini berjumlah 125 dan 1558 Tweets. Beberapa informasi yang disampaikan melalui twitter dan Facebook (jejaring social) telah menjadi referensi dari beberapa lembaga yang ada di Jakarta . Misalnya Kontras, Infid, HRWG dll.
 
+
 **Pelajaran Berharga**
+
 
 **Hambatan**
 
+
 **Prakiraan**
+
 
 Jayapura 30 April 2012
 
