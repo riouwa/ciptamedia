@@ -52,11 +52,16 @@ pemerintahan pada wilayah administrasi yang sudah ada.
 
 **Tujuan**
 
-2.1 Meluasnya informasi  HAM berbasis media di Papua yang akurat, mendalam dan  kontinyu.
-2.2 Dilakukannya peliputan dan investigasi peristiwa HAM (Ekosob dan Sipol) 
-2.3 Diintegrasikannya media sosial, media online dan mobile Phone untuk meningkatkan  advokasi HAM
-2.4 Diatasinya berbagai hambatan diseminasi informasi seperti restriksi informasi, faktor geografis serta 
-    rendahnya tingkat literasi warga.
-2.5 Terbangunnya hubungan kerja advokasi berbasis media dengan berbagai kelompok strategis demi terciptanya 
-    Papua tanah damai.
-2.6 Adanya monitoring dan evaluasi program dan manajemen kelembagaan 
+* 2.1 Meluasnya informasi  HAM berbasis media di Papua yang akurat, mendalam dan  kontinyu.
+* 2.2 Dilakukannya peliputan dan investigasi peristiwa HAM (Ekosob dan Sipol) 
+* 2.3 Diintegrasikannya media sosial, media online dan mobile Phone untuk meningkatkan  advokasi HAM
+* 2.4 Diatasinya berbagai hambatan diseminasi informasi seperti restriksi informasi, faktor geografis serta rendahnya tingkat literasi warga.
+* 2.5 Terbangunnya hubungan kerja advokasi berbasis media dengan berbagai kelompok strategis demi terciptanya Papua tanah damai.
+* 2.6 Adanya monitoring dan evaluasi program dan manajemen kelembagaan 
+
+**Aktivitas**
+
+**Penggunaan integrasi Frontline SMS Pada Website**
+
+* 3.1.1 Penggunaan Frontline SMS: Penggunaan frontline sms tetap dilaksanakan dengan menggunakan call center. Informasi akan penggunaan frontline sms ini kami sebarkan melalui media sosial (Twitter dan Facebook) dan melalui sms ke beberapa jaringan kerja ALDP.
+* 3.1.2 Fitur-fitur: Untuk saat ini Fitur untuk video telah kami lengkapi dan diupdate secara berkala. Materi video berasal dari beberapa kegiatan advokasi yang dilakukan oleh ALDP. Tampilan website berusaha diubah agar terlihat lebih ’soft’, teratur dan lebih mudah untuk diakses pada beberapa wilayah di Papua.
