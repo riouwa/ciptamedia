@@ -140,7 +140,13 @@ tersebut. Pelaksanaan pembangunan setidaknya mulai dari tingkat distrik hingga d
 
 
 **Hambatan**
-
+* 6.1 Tekhnologi terkait untuk menyiapkan fasilitas on line dan mengoperasikan media online.
+* 6.2 Keterbatasan jaringan komunikasi seperti internet,telepon dan listrik pada wilayah tertentu. Terutama keterbatasan akses internet yang sudah mulai dialami meskipun masih berada di ibukota kabupaten.
+* 6.3 Ketersediaan dan kemampuan jurnalis yang berprespektif HAM(Sipol dan Ecosob) masih terbatas.
+* 6.4 Tingginya kesibukan jaringan di daerah karena seringkali para tokoh,aktifis atau jurnalis tidak hanya memiliki satu peran saja.
+* 6.5 Keterbatasan sarana transportasi baik darat,laut maupun udara serta kondisi jalan yang buruk 
+* 6.6 Tidak adanya jaminan keamanan bagi peliput berita
+* 6.7 Keterbatasan perangkat komunikasi yang diperlukan pada wilayah tertentu seperti hp satelit. 
 
 **Prakiraan**
 
