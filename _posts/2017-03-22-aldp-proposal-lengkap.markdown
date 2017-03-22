@@ -105,3 +105,28 @@ Melakukan penulisan dan launching buku liputan investigasi proyek aldepe.com. Bu
 
     Aktivitas:
 Proses monitoring dan evaluasi terhadap proyek ini akan dilakukan setiap bulan. Tujuannya untuk memastikan bahwa sasaran dan tujuan yang telah ditetapkan bisa dicapai. Pertemuan ini membahas atau mereview pelaksanaan program dan pelaporan keuangan. Di akhir program juga akan dilakukan audit keuangan oleh auditor independen.
+
+**E. Latar belakang dan demografi pelaku proyek**
+
+**Pemimpin proyek**
+
+    Perempuan dengan pengalaman bekerja di NGO khusus untuk isu HAM selama 15 tahun, berumur 40 tahun,menulis dan membuat beberapa laporan investigasi karena aktivitasnya dalam advokasi HAM pernah mendapatkan penghargaan pada 2007 sebagai Women Peace Maker dari UniversitasSanDiego,California,USA(http://www.sandiego.edu/peacestudies/ipj/programs/women_peace_makers/women_peacemakers/asia/Indonesia.php).
+
+**Pelaku Proyek**
+
+    Staf proyek lainnya yang terlibat memiliki disiplin ilmu yakni Hukum, ekonomi, antroplogi dengan pengalaman di media dan NGO/LSM minimal 3 tahun.
+
+**F. Demografik kelompok target**
+
+   Masyarakat Papua dan Papua Barat. NGO(lokal, nasional dan Internasional). Masyarakat internasional seperti NGO serta lembaga riset Internasional dan pihak kedutaan Asing yang menaruh minat terhadap permasalahan di Papua. Para Jurnalis di lokal Papua, nasional dan Internasional Pemangku kepentingan lokal dan nasional yang ingin mendapatkan informasi sebagai bahan perbandingan untuk dipergunakan sebagai referensi untuk merumuskan kebijakan di Papua.
+
+**G. Hasil yang diharapkan dan indikator keberhasilan**
+
+Proyek aldepe.com diharapkan mampu memenuhi hak masyarakat untuk mendapatkan informasi yang selama ini sulit dipenuhi karena restriksi pemerintah serta hambatan geografis. Informasi yang diproduksi dapat berfungsi sebagai media alternatif dan memperluas jaringan advokasi HAM berbasis media bagi semua pihak.
+
+Indikator keberhasilan:
+* Masyarakat akan menggunakan mobile Phone (HP) untuk menerima dan menyampaikan informasi mengenai peristiwa HAM yang terjadi di wilayah masing-masing.
+* Munculnya komunitas jurnalis warga pada wilayah tertentu untuk mendukung advokasi HAM berbasis media.
+* Adanya perhatian yang serius dari berbagai kelompok strategis (masyarakat,pemerintah dan aparat) mengenai suatu peristiwa HAM yang diberitakan dalam aldepe.com
+* Adanya sanksi bagi aparatur sipil dan TNI/Polri akibat peristiwa atau tindakan yang bertentangan dengan prinsip-prinsip HAM sebagaimana diberitakan dalam aldepe.com.
+* Digunakannya informasi atau laporan hasil liputan aldepe.com untuk acuan perubahan kebijakan dan atau menetapkan sanksi bagi pelaku suatu peristiwa.
