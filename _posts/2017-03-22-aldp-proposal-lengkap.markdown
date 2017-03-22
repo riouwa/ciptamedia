@@ -158,3 +158,9 @@ Rp 943,300,000 ( $110,976,47)
 * Beberapa staf ALDP yang tidak terlibat dalam program ini namun bisa memberikan waktunya untuk membantu program www.aldepe.com misalnya dengan memberikan tulisan/opini atau pun informasi dalam bentuk tulisan terkait dengan advokasi HAM yang telah di lakukan oleh lembaga mau pun koalisi/jaringan HAM.
 * Pemimpin proyek hanya di bayarkan fee (honornya) 50 % dari program ini sedangkan 50 % menjadi kontribusi Lembaga.
 * Kamera dan recorder akan menjadi bagian dari kontribusi lembaga.
+
+**L. Kontribusi dari kelompok target:**
+
+* Beberapa jaringan kerja/network ALDP memberikan waktunya untuk menyumbang tulisan di www.aldepe.com
+* Masyarakat Papua khususnya yang berada di perkampungan atau pedalaman selain dapat menikmati informasi langsung dari mobile phone (HP) juga dapat memberikan informasi mengenai peristiwa melalui mobile phone.
+* Beberapa lembaga /jaringan kerja HAM yang ada di nasional dan internasional memberikan sumbang pikiran dan membantu me-link/promosi www.aldepe.com ke berbagai pihak yang menaruh minat soal Papua.

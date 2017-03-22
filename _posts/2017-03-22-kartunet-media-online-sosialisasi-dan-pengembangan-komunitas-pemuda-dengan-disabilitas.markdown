@@ -41,6 +41,7 @@ date: 2017-03-22 12:52:00 +07:00
   4. Meningkatnya kepekaan dan pemahaman masyarakat terhadap penyandang disabilitas dan isu-isu tentang disabilitas.
 
 **Sasaran**
+
   A. Perbaikan kualitas tampilan website dan frekuensi terbit tulisan hingga rata-rata 7 tulisan tiap hari di portal Kartunet.com.
 
   B. Variasi bentuk konten dengan pembuatan radio online yang disiarkan di situs Kartunet.com.
