@@ -684,7 +684,7 @@ Pada masa program Cipta Media Bersama ini, Staf Redaksi LenteraTimur.com, Fajar 
 
 **Laporan keuangan**
 
-Laporan keuangan LenteraTimur.com dapat diakses di (http://ciptamedia.org/wiki/Lentera_Timur.com/Laporan_Penggunaan_Dana)
+Laporan keuangan LenteraTimur.com dapat diakses di [http://ciptamedia.org/wiki/Lentera_Timur.com/Laporan_Penggunaan_Dana](http://ciptamedia.org/wiki/Lentera_Timur.com/Laporan_Penggunaan_Dana)
 
 **Pengesahan**
 
