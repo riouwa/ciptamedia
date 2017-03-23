@@ -628,7 +628,7 @@ Menyediakan lokasi beserta sarana dan prasarana kesekretariatan yang representat
 
 ![400px-Statistik_Lentera_Timur_2012.jpg](/uploads/400px-Statistik_Lentera_Timur_2012.jpg){: .img-responsive .center-block }
 
- * Laporan keuangan atas keseluruhan proyek LenteraTimur.com dapat diakses di (http://ciptamedia.org/wiki/Lentera_Timur.com/Laporan_Penggunaan_Dana)
+ * Laporan keuangan atas keseluruhan proyek LenteraTimur.com dapat diakses di [http://ciptamedia.org/wiki/Lentera_Timur.com/Laporan_Penggunaan_Dana](http://ciptamedia.org/wiki/Lentera_Timur.com/Laporan_Penggunaan_Dana)
 
 **Tantangan Internal/Masalah Organisasi/Pengelolaan yang Dihadapi**
 
