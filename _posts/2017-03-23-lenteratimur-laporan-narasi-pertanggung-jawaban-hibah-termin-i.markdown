@@ -510,37 +510,105 @@ Sumatera Utara
 
 **Agustus**
 
-Kantor Pos Besar Medan, Saksi Kejayaan Sebuah Negeri
-Kamus Perancis-Melayu, Terbit 1856 (Ida Ayu Lestari) – Jakarta
-Ketika Kapal Perang Menjadi Alat Transportasi Tambang (Tengku Muhammad Dhani Iqbal) – Minahasa, Sulawesi Utara
-Inilah Peta Sumateraku (Maula Mazin) – Medan, Sumatera Utara
-Merapi Setelah Gempa (Rizky Januar) – Yogyakarta
-Ketika di Atas Duka Kau Sebut “Wow Indah Ya” (Arman Dhani) – Jember, Jawa Timur
-Sepasang Cicak di Dinding Kamar Baba Gani (Syam Terajana) – Gorontalo
-September
-Menyungkit Kisah si Kain Emas (Tengku Muhammad Dicky) – Medan, Sumatera Utara
-Indonesia dan Australia Mengapungkan Nasib “Anak-anak Perahu” (Tengku Muhammad Dhani Iqbal) – Jakarta
-Kalimantan Timur, Kalah Namun Tak Patah (Fajar Riadi) – Jakarta
-Erotika Solo (Ester Pandiangan) – Solo, Jawa Tengah
-Ngaben Massal di Bali (I Putu Gede Pageh U) – Klungkung, Bali
-“Serambi Madinah” yang Tak Lagi Ramah (Donald Qomaidiansyah Tungkagi) – Gorontalo
-Puisi-Puisi Jamil Massa (Jamil Massa) – Gorontalo
-Oktober
-Susur Galur Melayu Bugis (Rasyid Asba) – Makassar, Sulawesi Selatan
-Memartabatkan Kembali Hukum Adat (Ken Miryam Vivekananda) – Jakarta
-Jejak Sang Panglima, dari Pasai Hingga Deli (Tengku Muhammad Dicky) – Medan, Sumatera Utara
-“Televisi Seperti Ngomong Sendiri” (Fajar Riadi) – Jakarta
-MIFEE Datang Tanah Pun Hilang (Fajar Riadi) – Jakarta
-Katupek Gulai Tunjang (Rizky Januar) – Pekan Baru, Riau
-Sajak-Sajak Anak Korban Lapindo (Nita Lisdianah) – Sidoarjo, Jawa Timur
-Di Bawah Bendera Marawa (Arif Budiman) – Padang, Sumatera Barat
-Dibekap Gelap, Borneo Menggugat (Ken Miryam Vivekananda) – Jakarta
-Ketabo, Kita Berangkat! (Setiadi R. Saleh) – Medan, Sumatera Utara
-November
-Perjanjian Inggris dengan Negara-Negara Asia, Terbit 1862 (Fajar Riadi) – Jakarta
-Orang Seberang di Tanah Bertuan, Tak Sekadar Selayang Pandang (Fajar Riadi) – Jakarta
-Surakarta: Republik Terus Menguji Kesabaran Kami (Wahyu Indro Sasongko) – Solo, Jawa Tengah
-Tanah Adat, Hilang di Jambi Dicari di Jakarta (Fajar Riadi) – Jakarta
-Sumber Hidangan, Menghela Silam di Masa Kini (Nuran Wibisono) – Bandung, Jawa Barat
-Malam Satu Suro (Rizky Januar) – Yogyakarta
-Membuat diskusi mingguan/dua mingguan/bulanan di sekretariat LenteraTimur.com.
+* Kantor Pos Besar Medan, Saksi Kejayaan Sebuah Negeri
+
+* Kamus Perancis-Melayu, Terbit 1856 (Ida Ayu Lestari) – Jakarta
+
+* Ketika Kapal Perang Menjadi Alat Transportasi Tambang (Tengku Muhammad Dhani Iqbal) – Minahasa, Sulawesi Utara
+
+* Inilah Peta Sumateraku (Maula Mazin) – Medan, Sumatera Utara
+
+* Merapi Setelah Gempa (Rizky Januar) – Yogyakarta
+
+* Ketika di Atas Duka Kau Sebut “Wow Indah Ya” (Arman Dhani) – Jember, Jawa Timur
+
+* Sepasang Cicak di Dinding Kamar Baba Gani (Syam Terajana) – Gorontalo
+
+**September**
+
+* Menyungkit Kisah si Kain Emas (Tengku Muhammad Dicky) – Medan, Sumatera Utara
+
+* Indonesia dan Australia Mengapungkan Nasib “Anak-anak Perahu” (Tengku Muhammad Dhani Iqbal) – Jakarta
+
+* Kalimantan Timur, Kalah Namun Tak Patah (Fajar Riadi) – Jakarta
+
+* Erotika Solo (Ester Pandiangan) – Solo, Jawa Tengah
+
+* Ngaben Massal di Bali (I Putu Gede Pageh U) – Klungkung, Bali
+
+* “Serambi Madinah” yang Tak Lagi Ramah (Donald Qomaidiansyah Tungkagi) – Gorontalo
+
+* Puisi-Puisi Jamil Massa (Jamil Massa) – Gorontalo
+
+**Oktober**
+
+* Susur Galur Melayu Bugis (Rasyid Asba) – Makassar, Sulawesi Selatan
+
+* Memartabatkan Kembali Hukum Adat (Ken Miryam Vivekananda) – Jakarta
+
+* Jejak Sang Panglima, dari Pasai Hingga Deli (Tengku Muhammad Dicky) – Medan, Sumatera Utara
+
+* “Televisi Seperti Ngomong Sendiri” (Fajar Riadi) – Jakarta
+
+* MIFEE Datang Tanah Pun Hilang (Fajar Riadi) – Jakarta
+
+* Katupek Gulai Tunjang (Rizky Januar) – Pekan Baru, Riau
+
+* Sajak-Sajak Anak Korban Lapindo (Nita Lisdianah) – Sidoarjo, Jawa Timur
+
+* Di Bawah Bendera Marawa (Arif Budiman) – Padang, Sumatera Barat
+
+* Dibekap Gelap, Borneo Menggugat (Ken Miryam Vivekananda) – Jakarta
+
+* Ketabo, Kita Berangkat! (Setiadi R. Saleh) – Medan, Sumatera Utara
+
+**November**
+
+* Perjanjian Inggris dengan Negara-Negara Asia, Terbit 1862 (Fajar Riadi) – Jakarta
+
+* Orang Seberang di Tanah Bertuan, Tak Sekadar Selayang Pandang (Fajar Riadi) – Jakarta
+
+* Surakarta: Republik Terus Menguji Kesabaran Kami (Wahyu Indro Sasongko) – Solo, Jawa Tengah
+
+* Tanah Adat, Hilang di Jambi Dicari di Jakarta (Fajar Riadi) – Jakarta
+
+* Sumber Hidangan, Menghela Silam di Masa Kini (Nuran Wibisono) – Bandung, Jawa Barat
+
+* Malam Satu Suro (Rizky Januar) – Yogyakarta
+
+* Membuat diskusi mingguan/dua mingguan/bulanan di sekretariat LenteraTimur.com.
+
+**Terkait Sasaran C**
+
+Menyediakan lokasi beserta sarana dan prasarana kesekretariatan yang representatif; rekrutmen staf administrasi-keuangan; melakukan publikasi laporan naratif dan keuangan untuk seluruh aktivitas di LenteraTimur.com.
+
+* Lokasi sekretariat LenteraTimur.com berada di Jalan Sawo Manila No. 10, Jatipadang, Jakarta Selatan
+
+* Sarana dan prasarana kesekretariatan cukup representatif, dimana halaman depannya kami ciptakan untuk sebuah kedai makanan dan kedai buku. Hal tersebut memungkinkan untuk dilaksanakannya sejumlah diskusi mingguan atau bulanan terkait multikulturalisme.
+
+* Pada Juli 2012, LenteraTimur.com merekrut seorang staf administrasi, Ade Viankarisna, yang juga merupakan mahasiswa jurusan Ilmu Perpustakaan Universitas Indonesia, Jakarta.
+
+* Adapun laporan keuangan untuk seluruh aktivitas LenteraTimur.com terkait dana hibah ini dapat dilihat di http://ciptamedia.org/wiki/Lentera_Timur.com/Laporan_Penggunaan_Dana
+
+**Indikator Keberhasilan**
+
+* Menghasilkan karya jurnalistik dengan perspektif pluralisme dan multikulturalisme.
+
+ * Karya-karya dimaksud sudah dimuat di LenteraTimur.com, atau yang telah dicantumkan pada poin 1 (Aktivitas) Terkait Sasaran B. Hingga saat ini, proses pengiriman naskah masih berlanjut, baik dari Medan, Gorontalo, Tarakan,Padang, Sumbawa Barat, dan wilayah lainnya.
+
+* Upaya mereplikasi LenteraTimur.com sudah dan sedang berlangsung, khususnya di dua wilayah pelatihan. Kedua wilayah pelatihan tersebut adalah:
+
+ * Medan: Sejumlah peserta pelatihan berkehendak membuat sebuah media. Upaya yang dilakukan adalah membeli/menyewa domain dan hosting dengan nama SumateraTimur.com. Peserta, dengan motornya, Wan Ulfa Azizah, meminta kepada LenteraTimur.com untuk membantu mengkonstruksi pembangunan media ini.
+
+ * Gorontalo: Sejumlah peserta, yang dimotori oleh Syam Terajana, sudah menghidupkan jurnal cetaknya, Jurnal Tanggomo, ke dalam bentuk online. Media ini sudah dapat diakses di www.jurnaltanggomo.com.
+
+* Rekapitulasi data publikasi naskah dan respon masyarakat melalui tiap-tiap naskah, foto, atau video, serta email redaksi; twitter; facebook, google+, grup-grup Blackberry, dan berbagai mailing list
+
+ * Sejak Desember 2011 hingga November 2012, karya berupa naskah, foto, video yang telah dipublikasikan di LenteraTimur.com adalah sebanyak 105 karya.
+
+ * Respon masyarakat berupa komentar di jaringan sosial Facebook dapat dilihat di grup diskusi LenteraTimur.com, yang beranggotakan lebih dari 3.200 orang/akun, atau twitter yang memiliki follower sekitar seribu orang/akun. Adapun jumlah komentar di halaman-halaman naskah terkait, sejak Desember 2011 sampai November 2012, adalah sebanyak 246 posting. Sedangkan respon berupa like adalah 5.063, share facebook 1.320, dan share twitter 3.375.
+
+* Peningkatan jumlah dan sebaran posisi pengunjung/pembaca LenteraTimur.com
+
+ * Pada pra Desember 2011, berdasarkan cpanel, rata-rata jumlah kunjungan ke LenteraTimur.com adalah sebanyak 300-an pengunjung. Jumlah ini mengalami peningkatan lebih dari seratus persen, yakni menjadi 650-an pengunjung. Sementara itu, unique visitor juga mengalami peningkatan, dimana pada Desember 2011 berjumlah sebanyak 6.469 pengunjung, dan pada November 2012 menjadi 10,427 pengunjung. Selain unique visitor, peningkatan juga terjadi pada number of visits, pages, hits, dan bandwidth.
+
