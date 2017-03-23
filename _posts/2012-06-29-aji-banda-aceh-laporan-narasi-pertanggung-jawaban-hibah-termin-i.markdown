@@ -20,6 +20,7 @@ Proyek	:	**Mendorong Media Sehat dalam Pemberitaan Syariat Islam di Aceh**
 
 
 **1. Pembelajaran**
+
 Silahkan tuliskan pembelajaran, acara-acara yang anda buat/ alami yang dapat membuat perubahan dalam satu tahun kedepan sebagai hasil dari upaya upaya yang anda buat dibawah hibah yang anda terima, perubahan-perubahan yang anda percaya dapat membatu organisasi/ komunitas anda mencapai tujuan-tujuannya dan/ atau kesulitan dan tantangan yang tidak anda perkirakan yang anda temukan dalam periode pelaporan hibah ini.
 
 Selama 4 (empat ) bulan mendapatkan pengalaman tentang pemantauan pemberitaan Syariat Islam. Banyak hal yang diperoleh selama pemantauan berlangsung:
