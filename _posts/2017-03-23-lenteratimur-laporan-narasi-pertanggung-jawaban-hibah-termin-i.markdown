@@ -495,17 +495,29 @@ Sumatera Utara
 * Kalimantan Barat di Antara Jepang dan Indonesia (Anshari Dimyati) – Pontianak, Kalimantan Barat
 
 * 100 Tahun Istana Lima Laras (Setiadi R. Saleh), Asahan, Sumatera Utara
+
 * Kamus Bahasa Inggris-Bugis-Melayu, Terbit 1833 (Ade Viankakrisna Fadlil) – Jakarta
+
 * Sayupnya Raung Harimau Sumatera (Setiadi R. Saleh) – Medan, Sumatera Utara
+
 * Festival Ningkam Haumeni: “Kami Tidak Menjual Apa yang Tidak Kami Buat” (Tengku Muhammad Dhani Iqbal) – Timor Tengah Selatan, Nusa Tenggara Timur
+
 * Setapak Surabaya (Ester Pandiangan) – Surabaya, Jawa Timur
+
 * Kala Orang Minang Berganti Nama (Arif Budiman) – Padang, Sumatera Barat
+
 * “Di Timur Matahari”, Lukisan yang Tak Berbingkai (Arif Budiman) – Jakarta
+
 * Tionghoa Surabaya dalam Catatan (Donny Anggoro) – Jakarta
+
 * Sampah Mereka Kampung Kami (Rizky Januar) – Yogyakarta
+
 * Dayak Melayu dalam Pertunjukan (Sukma Ardiansyah) – Tarakan, Kalimantan Utara
+
 * Bernala di Pangkuan Benua (Martin Aleida) – Kalimantan
+
 * Manekin (Berto Tukan) – Jakarta
+
 * Naskah Drama | “Pulang” (Ishak Sambayang) – Gorontalo
 
 **Agustus**
