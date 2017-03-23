@@ -600,7 +600,7 @@ Menyediakan lokasi beserta sarana dan prasarana kesekretariatan yang representat
 
 * Pada Juli 2012, LenteraTimur.com merekrut seorang staf administrasi, Ade Viankarisna, yang juga merupakan mahasiswa jurusan Ilmu Perpustakaan Universitas Indonesia, Jakarta.
 
-* Adapun laporan keuangan untuk seluruh aktivitas LenteraTimur.com terkait dana hibah ini dapat dilihat di http://ciptamedia.org/wiki/Lentera_Timur.com/Laporan_Penggunaan_Dana
+* Adapun laporan keuangan untuk seluruh aktivitas LenteraTimur.com terkait dana hibah ini dapat dilihat di [http://ciptamedia.org/wiki/Lentera_Timur.com/Laporan_Penggunaan_Dana](http://ciptamedia.org/wiki/Lentera_Timur.com/Laporan_Penggunaan_Dana)
 
 **Indikator Keberhasilan**
 
