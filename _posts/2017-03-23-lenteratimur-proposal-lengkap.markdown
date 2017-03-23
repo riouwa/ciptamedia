@@ -15,7 +15,7 @@ date: 2017-03-23 07:02:00 +07:00
 
 Lentera Timur adalah organisasi yang terdaftar melalui akte notaris dan Kementerian Hukum dan HAM di Jakarta dengan status ‘Perkumpulan’.
 
-Kontak
+**Kontak**
 
 TM. Dhani Iqbal
 
@@ -44,7 +44,9 @@ Tersebarnya paham pluralisme dan multikulturalisme sebagai gagasan tanding atas 
 **Sasaran:**
 
  A. Terselenggaranya pelatihan jurnalistik yang berbasis kesadaran pluralisme dan multikulturalisme sebagai gagasan tanding terhadap sentralisme melalui jejaring komunitas yang saling berkoordinasi dan berkonsolidasi.
+
  B. Meningkatkan kualitas dan kuantitas konten lokal yang berparadigmakan pluralisme dan multikulturalisme. Paradigma yang dimaksud meliputi tujuh unsur kebudayaan yang sudah umum dikenal, yakni: sistem kepercayaan, sosial-kemasyarakatan, pengetahuan, mata pencaharian, teknologi dan peralatan, kesenian, dan bahasa.
+
  C. Penerapan sistem manajemen terbuka yang dapat dipantau dan dievaluasi oleh publik.
 
 **Latar belakang:**
@@ -96,23 +98,23 @@ Karya jurnalistik yang diperoleh melalui pelatihan ini selanjutnya akan dipublik
 
 **d. Aktifitas dan keterkaitan pada sasaran**
 
- * **Kontribusi untuk sasaran A** –Terselenggaranya pelatihan jurnalistik yang berbasis kesadaran pluralisme dan multikulturalisme sebagai gagasan tanding terhadap sentralisme melalui jejaring komunitas yang saling berkoordinasi dan berkonsolidasi.
+ * **Kontribusi untuk sasaran A** – Terselenggaranya pelatihan jurnalistik yang berbasis kesadaran pluralisme dan multikulturalisme sebagai gagasan tanding terhadap sentralisme melalui jejaring komunitas yang saling berkoordinasi dan berkonsolidasi.
 
-Aktivitas:
+   Aktivitas:
 
-   * Menyiapkan instruktur, menyiapkan materi pelatihan, membuat jadwal pelatihan di lima kawasan, berkoordinasi dengan komunitas lokal, dan pemenuhan kebutuhan operasional pelatihan.
+     * Menyiapkan instruktur, menyiapkan materi pelatihan, membuat jadwal pelatihan di lima kawasan, berkoordinasi dengan komunitas lokal, dan pemenuhan kebutuhan operasional pelatihan.
 
  * **Kontribusi untuk sasaran B** – Meningkatkan kualitas dan kuantitas konten lokal yang berparadigmakan pluralisme dan multikulturalisme. Paradigma yang dimaksud meliputi tujuh unsur kebudayaan yang sudah umum dikenal, yakni: sistem kepercayaan, sosial-kemasyarakatan, pengetahuan, mata pencaharian, teknologi dan peralatan, kesenian, dan bahasa.
 
-Aktivitas:
+   Aktivitas:
 
-  * Penyeleksian karya peserta pelatihan jurnalistik, memandu peserta dalam peliputan, mengembangkan dan memperdalam isu, dan mempublikasikan karya secara berkala.
+    * Penyeleksian karya peserta pelatihan jurnalistik, memandu peserta dalam peliputan, mengembangkan dan memperdalam isu, dan mempublikasikan karya secara berkala.
 
  * **Kontribusi untuk sasaran C** - Penerapan sistem manajemen terbuka yang dapat dipantau dan dievaluasi oleh publik.
 
-Aktivitas:
+   Aktivitas:
 
- * Menyediakan lokasi beserta sarana dan prasarana kesekretariatan yang representatif; rekrutmen staf administrasi-keuangan; melakukan publikasi laporan naratif dan keuangan untuk seluruh aktivitas di LenteraTimur.com.
+    * Menyediakan lokasi beserta sarana dan prasarana kesekretariatan yang representatif; rekrutmen staf administrasi-keuangan; melakukan publikasi laporan naratif dan keuangan untuk seluruh aktivitas di LenteraTimur.com.
 
 **e.Latar belakang dan demografi pelaku proyek**
 
