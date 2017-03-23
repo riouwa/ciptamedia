@@ -140,5 +140,4 @@ Tertanda: Lokasi dan tanggal:
 Bandung, 1 Maret 2013
 
 
-
 **M Iqbal Tawakal**
