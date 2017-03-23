@@ -624,3 +624,76 @@ Menyediakan lokasi beserta sarana dan prasarana kesekretariatan yang representat
 
  * Pada pra Desember 2011, berdasarkan cpanel, rata-rata jumlah kunjungan ke LenteraTimur.com adalah sebanyak 300-an pengunjung. Jumlah ini mengalami peningkatan lebih dari seratus persen, yakni menjadi 650-an pengunjung. Sementara itu, unique visitor juga mengalami peningkatan, dimana pada Desember 2011 berjumlah sebanyak 6.469 pengunjung, dan pada November 2012 menjadi 10,427 pengunjung. Selain unique visitor, peningkatan juga terjadi pada number of visits, pages, hits, dan bandwidth.
 
+![400px-Statistik_Lentera_Timur_2011.jpg](/uploads/400px-Statistik_Lentera_Timur_2011.jpg){: .img-responsive .center-block }
+
+![400px-Statistik_Lentera_Timur_2012.jpg](/uploads/400px-Statistik_Lentera_Timur_2012.jpg){: .img-responsive .center-block }
+
+ * Laporan keuangan atas keseluruhan proyek LenteraTimur.com dapat diakses di http://ciptamedia.org/wiki/Lentera_Timur.com/Laporan_Penggunaan_Dana
+
+**Tantangan Internal/Masalah Organisasi/Pengelolaan yang Dihadapi**
+
+Dalam periode program (Desember 2011 – November 2012), LenteraTimur.com mengalami sejumlah perubahan anggota tim.
+
+Pada pelatihan di Medan, komposisi pelatih adalah Tengku Muhammad Dhani Iqbal, Martin Aleida, dan Soffa Ihsan. Namun, pada pelatihan di Gorontalo, komposisi berubah. Agar tak terlalu skolastik, Soffa Ihsan bertukar tempat Christopel Paino. Komposisi ini bertahan hingga pelatihan di Tarakan. Akan tetapi, Christopel Paino terpaksa tidak bisa mengikuti program pelatihan di Padang dikarenakan persoalan keluarga, sekaligus mendirikan media GorontaloToday.com di Gorontalo. Di Padang, posisi Christopel Paino digantikan oleh Arif Budiman. Pada pelatihan di Sumbawa Barat, Arif Budiman tidak bisa mengikuti program dikarenakan menjadi utusan dari kampusnya, ISI Yogyakarta, untuk mengikuti Konferensi Melayu Internasional di Padang. Martin Aleida juga tidak dapat mengikuti program di Sumbawa Barat dikarenakan sudah mengundurkan diri dari Perkumpulan karena perkara internal. Akhirnya, posisi Arif digantikan oleh Fajar Riadi dan Martin Aleida ditukar dengan Wenri Wanhar.
+
+Semua penggantian posisi ini merujuk pada pencapaian tujuan pelatihan.
+
+**Keberagaman**
+
+Keanggotaan di dalam LenteraTimur.com, juga Perkumpulan Lentera Timur, adalah beragam, baik dari segi etnis/bangsa maupun jenis kelamin. Dari sembilan orang pengurus yang ada, satu orang dari Melayu Bugis, satu orang dari Melayu Gorontalo, satu orang dari Melayu Sumatera Utara, dua orang dari Melayu Kepulauan Riau, dua orang dari Melayu Minangkabau, satu orang dari Jawa Tengah, satu orang dari Jawa Timur, dua orang dari Sunda, dan satu orang dari Batak. Adapun dari jenis kelamin, dua orang perempuan dan sepuluh orang laki-laki.
+
+**Pembelajaran**
+
+* Dalam pelatihan ini, LenteraTimur.com memperoleh pengalaman dalam melakukan pelatihan jurnalistik berbasis multikulturalisme. Pada setiap akhir pelatihan, tim LenteraTimur.com meminta umpan balik kepada seluruh peserta pelatihan untuk memberikan kesan, kritik, dan saran untuk kegiatan ini dalam form lembar evaluasi. Dalam laporan ini kami sertakan hasil scan dari lembar-lembar evaluasi tersebut.
+
+* Dalam pelatihan ini, LenteraTimur.com mendapatkan kenyataan bahwa multikulturalisme belum sepenuhnya dipahami, yang kadangkala tertukar atau tercampur makna dengan pluralisme.
+
+* LenteraTimur.com belajar bahwa tiap-tiap wilayah memiliki perbedaan antropologis pun sosiologis yang membuatnya tak dapat disamakan atau diseragamkan begitu saja. Hal ini berdampak pada keharusan untuk mempelajari karakter wilayah yang bersangkutan sebelum memasuki materi pelatihan. Meski jurnalisme adalah suatu disiplin universal dengan nilai-nilai yang juga universal, namun penerimaannya akan disikapi berbeda berdasarkan kultural.
+
+* Dari pelatihan ini, LenteraTimur.com mendapati bahwa amatlah susah, jika tak hendak dikatakan mustahil, untuk mendefinisikan pengertian “pers Indonesia”. Masing-masing wilayah memiliki karakternya sendiri-sendiri. Karakter yang dimaksud, di antaranya, adalah adaptasi teknologi, respon kekuasaan terhadap media massa, tingkat ekonomi atau kesejahteraan jurnalis, cakupan wilayah dari media tempatan yang ada, juga daya saing dengan media-media yang datang dari luar wilayah. Di Medan, media massa yang kuat adalah media tempatan, sebut saja Harian Waspada, Analisa, atau Sinar Indonesia Baru. Adapun media luar yang masuk ke Medan tidak memiliki posisi yang signifikan, seperti dari grup Jawa Pos atau Kelompok Kompas Gramedia. Meski demikan, koran dari kelompok Kompas hari ini mulai mendesak ke peringkat atas secara popularitas. Sementara itu, di Gorontalo, Tarakan, Padang, dan Sumbawa Barat, media massa yang terbesar adalah media-media yang berasal dari luar wilayah, seperti Jawa Pos atau Kelompok Kompas Gramedia. Dan entah terkait atau tidak, media massa yang berasal dari luar wilayah kerap menampilkan isu-isu yang tak terkait dengan masyarakat tempatan, tetapi justru pada masyarakat lokal Jakarta. Alhasil, tidak saja kontrol sosial terhadap kekuasaan menjadi rendah, tetapi juga tidak menciptakan diskursus atas persoalan-persoalan atau dinamika-dinamika yang mencerahkan masyarakat.
+
+**Keterkaitan Proyek dengan Perbaikan Media dan Keadilan Sosial**
+
+**Perbaikan Media**
+
+Sampai saat ini, upaya LenteraTimur.com untuk menginspirasi perbaikan media massa atau mereplikasi LenteraTimur.com dalam sebuah media massa baru di lima wilayah sedang atau sudah berlangsung. Peserta pelatihan di tiap wilayah sudah dan sedang berupaya untuk membangun sebuah media online berbasiskan multikulturalisme.
+
+* Medan: Sejumlah peserta pelatihan ada yang sudah membeli/menyewa domain dan hosting bernama SumateraTimur.com. Peserta, dengan motornya, Wan Ulfa Azizah, meminta kepada LenteraTimur.com untuk membantu mengkonstruksi pembangunan media ini. Selain itu, juga akan dibentuk media TobaRaya.com untuk memantau perkembangan lingkungan Danau Toba yang sedang tercemar.
+
+* Gorontalo: Sejumlah peserta, yang dimotori oleh Syam Terajana, sudah menghidupkan jurnal cetaknya, Jurnal Tanggomo, ke dalam bentuk online. Media ini sudah dapat diakses di www.jurnaltanggomo.com.
+
+* Tarakan: Sejumlah peserta sudah membeli/menyewa domain dan hosting bernama BintangUtara.com. Seperti Medan, peserta, yang dimotori oleh Sukma Ardiansyah, juga meminta kepada LenteraTimur.com untuk turut membantu mengkonstruksi pembangunan media massa ini.
+
+* Padang: Seluruh peserta bersepakat untuk membentuk sebuah jaringan media massa yang merangkul seluruh pers mahasiswa di Padang, utamanya Genta dan Ganto.
+
+* Sumbawa Barat: Sejumlah peserta berencana membuat sebuah media massa online dengan nama PenaTenggara.com. Seperti Medan dan Tarakan, peserta, yang dipimpin oleh Unang Silatang, juga meminta kepada LenteraTimur.com untuk turut membantu mengkonstruksi pembangunan media massa ini.
+
+Selain itu, LenteraTimur.com sendiri juga mencoba membuat sebuah radio online dengan nama Radio Lentera Timur. Radio berbasis streaming ini bisa diakses melalui situsnya, LenteraTimur.com, ataupun di gadget melalui www.lenteratimur.com/radio. Konten radio ini adalah berisi macam-macam narasi terkait multikulturalisme dengan musik-musik yang berasal dari bangsa-bangsa di Asia Tenggara.
+
+**Keadilan Sosial**
+
+LenteraTimur.com berharap gagasan multikulturalisme yang telah ditransformasikan kepada seluruh peserta pelatihan dapat disenyawakan di media massa yang sudah ada, maupun media massa yang kelak akan lahir.
+
+Pada masa program Cipta Media Bersama ini, Staf Redaksi LenteraTimur.com, Fajar Riadi, mendapat apresiasi dari United Nations Development Programme (UNDP) dan Badan Perencanaan dan Pembangunan Nasional (Bappenas) Indonesia melalui program Anugerah Jurnalisme Bidang Akses Terhadap Keadilan. Naskah berjudul “MIFEE Datang Tanah Pun Hilang” menjadi pemenang ke-3 dalam anugerah yang bertema “Memenuhi, Melindungi, dan Menghormati Hak Dasar Penduduk Miskin; Keadilan Sosial untuk Semua” tersebut.
+
+**Tindak Lanjut**
+
+* Media-media yang sudah atau akan lahir tersebut membutuhkan pendampingan agar gagasan multikulturalisme dapat disenyawakan dengan jurnalisme.
+
+* Di luar wilayah pelatihan, sejumlah pihak juga meminta kepada LenteraTimur.com untuk dapat menggelar pelatihan serupa di sejumlah tempat, yakni di Fakfak, Papua, oleh Fadhal Alhamid (Ketua Pemerintahan Dewan Adat Papua); Pontianak, Kalimantan Barat, oleh Anshari Dimyati (Yayasan Sultan Hamid II); Bulungan, Kalimantan Utara, oleh Jimmy Nasroen (Ketua Yayasan Tanah Melayu, pun ), dan Tanjung Pinang, Kepulauan Riau, oleh Martha Sinaga (budayawan Kepulauan Riau).
+
+**Laporan keuangan**
+
+Laporan keuangan LenteraTimur.com dapat diakses di http://ciptamedia.org/wiki/Lentera_Timur.com/Laporan_Penggunaan_Dana
+
+**Pengesahan**
+
+Saya, sebagai penandatangan, menyatakan bahwa saya adalah individu yang berwenang untuk menyerahkan laporan ini atas nama Perkumpulan Lentera Timur sesuai dengan persyaratan yang dicantumkan pada Perjanjian Hibah Cipta Media Bersama yang telah ditandatangani sebelumnya dan seluruh dana yang dibelanjakan telah dibelanjakan sesuai dengan tujuan-tujuan yang tercantum dalam permohonan hibah.
+
+Tertanda: Lokasi dan tanggal:
+
+Jakarta, 10 Desember 2012
+
+
+
+**Tengku Muhammad Dhani Iqbal**
