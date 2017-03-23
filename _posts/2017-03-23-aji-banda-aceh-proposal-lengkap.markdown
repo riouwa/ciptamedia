@@ -153,9 +153,9 @@ Advokasi dari proyek ini adalah memungkinkan terbangunnya kerjasama yang solid a
 
 **k. Sumber dana lainnya:**
 
-  **Kontribusi AJI Banda Aceh**
+**Kontribusi AJI Banda Aceh**
 
-    Rp. 27.000.000 (USD 3.139.53)
+Rp. 27.000.000 (USD 3.139.53)
 
 **l. Kontribusi organisasi:**
 
