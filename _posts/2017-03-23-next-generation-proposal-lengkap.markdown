@@ -75,19 +75,20 @@ Apa yang bisa dilakukan penonton bila tim kesayangannya kalah? Mereka menggerutu
 
 * Kontribusi untuk sasaran A – Pemantauan Video Games: Memberikan ratting / label (misalkan Semua Usia, Anak-anak, Dewasa, dll) terhadap video games yang beredar di masyarakat melalui publikasi di website.
 
-  Aktivitas:
+   Aktivitas:
 
-  * Melakukan pemantauan secara berkala dengan mengikuti perkembangan (trend) video games yang muncul dan beredar di masyarakat. Pemberian label/ ratting dilakukan setelah sebelumnya dilakukan penelitian ilmiah terhadap konten (content analysis) video game (PC) secara berkala. Menyusun ketetapan/ standar dalam melakukan pemantauan dan penelitian video games, serta merumuskan standard operational procedure untuk pemantauan konten video game. Membuat website untuk mempublikasikan hasil penelitian dan berbagai informasi mengenai kegiatan Next G juga sebagai sarana aspirasi masyarakat untuk video games, serta melaporkan anggaran kepada publik.
+   * Melakukan pemantauan secara berkala dengan mengikuti perkembangan (trend) video games yang muncul dan beredar di masyarakat. Pemberian label/ ratting dilakukan setelah sebelumnya dilakukan penelitian ilmiah terhadap konten (content analysis) video game (PC) secara berkala. Menyusun ketetapan/ standar dalam melakukan pemantauan dan penelitian video games, serta merumuskan standard operational procedure untuk pemantauan konten video game. Membuat website untuk mempublikasikan hasil penelitian dan berbagai informasi mengenai kegiatan Next G juga sebagai sarana aspirasi masyarakat untuk video games, serta melaporkan anggaran kepada publik.
+
 
 * Kontribusi untuk sasaran B dan C – Kegiatan Media Literasi untuk Video Games: Melakukan pendidikan singkat mengenai kesadaran bermedia sehat di sekolah-sekolah dasar/ menengah pertama di Bandung. Melakukan seminar untuk publik yang bekerjasama dengan kampus-kampus.
 
-  Aktivitas:
+   Aktivitas:
 
-  * Mengadakan pertemuan tatap muka dengan guru/ orang tua di sekolah-sekolah dengan format talkshow membahas tema-tema terkait. Siswa juga dilibatkan dalam acara, namun dengan materi yang lebih sederhana tentang dampak negatif dari kecanduan video games.
+   * Mengadakan pertemuan tatap muka dengan guru/ orang tua di sekolah-sekolah dengan format talkshow membahas tema-tema terkait. Siswa juga dilibatkan dalam acara, namun dengan materi yang lebih sederhana tentang dampak negatif dari kecanduan video games.
 
-  * Mengadakan pertemuan dengan universitas-universitas guna mendukung program ‘Media Sehat’ dan menggelar seminar sekaligus memaparkan data hasil temuan penelitian mengenai konten video game yang bermasalah. Mengajak dosen-dosen yang memiliki minat dan ketertarikan yang sama untuk turut mendukung program media literasi –khususnya video game. Mengajak mahasiswa-mahasiswa untuk ikut serta dalam program media literasi ke sekolah-sekolah (yang sebelumnya telah diberi pembekalan mengenai media literasi).
+   * Mengadakan pertemuan dengan universitas-universitas guna mendukung program ‘Media Sehat’ dan menggelar seminar sekaligus memaparkan data hasil temuan penelitian mengenai konten video game yang bermasalah. Mengajak dosen-dosen yang memiliki minat dan ketertarikan yang sama untuk turut mendukung program media literasi –khususnya video game. Mengajak mahasiswa-mahasiswa untuk ikut serta dalam program media literasi ke sekolah-sekolah (yang sebelumnya telah diberi pembekalan mengenai media literasi).
 
-  * Mengirimkan artikel-artikel tentang pentingnya edukasi video games, dampak buruk dari permainan yang tidak sesuai usia, dan hasil penelitian/ pemantauan ke surat kabar atau media massa arus utama lainnya.
+   * Mengirimkan artikel-artikel tentang pentingnya edukasi video games, dampak buruk dari permainan yang tidak sesuai usia, dan hasil penelitian/ pemantauan ke surat kabar atau media massa arus utama lainnya.
 
 **E.Latar belakang dan demografi pelaku proyek**
 
