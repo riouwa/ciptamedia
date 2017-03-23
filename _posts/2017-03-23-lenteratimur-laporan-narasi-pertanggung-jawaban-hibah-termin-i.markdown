@@ -330,9 +330,9 @@ Menyiapkan instruktur, menyiapkan materi pelatihan, membuat jadwal pelatihan di 
 
 14.00 – 14.30	Pemberian sertifikat dan penutupan
 
-*Penyampaian materi disampaikan sekitar 20 persen. Adapun sisanya bersifat diskusi interaktif.
+* Penyampaian materi disampaikan sekitar 20 persen. Adapun sisanya bersifat diskusi interaktif.
 
-*Materi yang disampaikan lebih didasarkan pada pengalaman jurnalistik instruktur, yang dilengkapi dengan sejumlah alat peraga berupa gambar/tayangan/video, teks-teks berita/feature, dan buku-buku referensi.
+* Materi yang disampaikan lebih didasarkan pada pengalaman jurnalistik instruktur, yang dilengkapi dengan sejumlah alat peraga berupa gambar/tayangan/video, teks-teks berita/feature, dan buku-buku referensi.
 
 * Peserta melakukan simulasi rapat redaksi.
 
