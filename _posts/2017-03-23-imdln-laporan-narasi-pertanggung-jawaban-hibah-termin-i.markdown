@@ -112,28 +112,31 @@ Selain melalui situs, pers release, kami juga membuat satu media sosial sebagai 
 
 Kami juga melakukan sosialisasi melalui pembuatan dan penyebaran poster, stiker, dan pembuatan beberapa banner baik banner cetak maupun banner online pada situs. Media kampanye ini merupakan media sederhana yang mudah diterima dan dipahami masyarakat luas. Kami menyebar poster tersebut ke perguruan tinggi-perguruan tinggi se-Indonesia, lembaga-lembaga pemerintahan, kedutaan besar, media, lembaga swadaya masyarakat, dan komunitas blogger, disertai dengan surat undangan untuk mengikuti kompetisi.
 
-Khusus dengan komunitas blogger, kami melakukan sosialisasi melalui diskusi ringan tentang kompetisi IHRBA ini, dan isu-isu Hak Asasi Manusia. Diskusi tersebut kami laksanakan di tiga kota, yaitu Palembang, Semarang , dan Tangerang. a. Palembang
+Khusus dengan komunitas blogger, kami melakukan sosialisasi melalui diskusi ringan tentang kompetisi IHRBA ini, dan isu-isu Hak Asasi Manusia. Diskusi tersebut kami laksanakan di tiga kota, yaitu Palembang, Semarang , dan Tangerang.
 
-   Melibatkan komunitas Akademi berbagi (#akberPLB)
+  a. Palembang
 
-   Dilaksanakan pada 17 Maret 2012
+  Melibatkan komunitas Akademi berbagi (#akberPLB)
 
-   Link tentang kegiatan ini : http://hamblogger.org/imdln-berbagi-pengetahuan-ham- dengan-akademi-berbagi-palembang/
+  Dilaksanakan pada 17 Maret 2012
 
-   b. Semarang
+  Link tentang kegiatan ini : http://hamblogger.org/imdln-berbagi-pengetahuan-ham- dengan-akademi-berbagi-palembang/
 
-      Melibatkan komunitas blog detik Semarang.
+  b. Semarang
 
-      Dilaksanakan pada tanggal 29 Maret 2012
+  Melibatkan komunitas blog detik Semarang.
 
-      Link tentang kegiatan ini : http://hamblogger.org/kopdardadakan-imdln-dan-dotsemarang-berbagi-pengetahuan-tentang-ham/
-   c. Tangerang
+  Dilaksanakan pada tanggal 29 Maret 2012
 
-      Melibatkan komunitas bloger benteng cisadane
+  Link tentang kegiatan ini : http://hamblogger.org/kopdardadakan-imdln-dan-dotsemarang-berbagi-pengetahuan-tentang-ham/
 
-      Dilaksanakan pada tanggal 15 April 2012
+  c. Tangerang
 
-      Link tentang kegiatan ini : http://hamblogger.org/diskusi-santai-soal-ham-bersama-    komunitas-blogger-benteng-cisadane/
+   Melibatkan komunitas bloger benteng cisadane
+
+   Dilaksanakan pada tanggal 15 April 2012
+
+   Link tentang kegiatan ini : http://hamblogger.org/diskusi-santai-soal-ham-bersama-    komunitas-blogger-benteng-cisadane/
 
 Selain melalui sarana-sarana tersebut, sosialisasi juga dilakukan dengan melibatkan media melalui konferensi pers, dan pempublikasian release. Konferensi Pers dilakukan pada tanggal 6 Mei 2012 di Bakul Coffe Cikini. Setidaknya hadir 5 Media Nasional dalam konper tersebut, yang juga memuat berita tentang kompetisi IHRBA, yaitu Kompas, Jurnas, The Jakarta Post, Hukum online, dan MNC TV. Setelah acara konferensi pers selesai, pers release disebar melalui jejaring mailing list media. Tercatat sejumlah media online mengangkat berita tentang IHRBA, seperti Surabaya Post, Berita Satu, dan lainnya. Link tentang kegiatan Konpers ini http://hamblogger.org/indonesia-human-rights-blog-award-media-penyebarluasan-hak-asasi-manusia-di-internet/.
 
@@ -155,7 +158,7 @@ VI. KEMAJUAN PROGRAM
 
 Kemajuan atau Keberhasilan Program :
 
-    1. Award ini merupakan award HAM yang pertama di Indonesia, bagi komunitas blogger ;
+ 1. Award ini merupakan award HAM yang pertama di Indonesia, bagi komunitas blogger ;
 
 2. Kompetisi ini merupakan kompetisi menulis tentang Hak Asasi Manusia yang pertama di Indonesia yang menggunakan blog atau internet sebagai medianya ; 3. Dari sisi konten atau ragam isu dalam tulisan yang masuk kompetisi, hampir 75% mencapai target keberagaman isu Hak Asasi Manusia ; 4. Dari sisi capaian jumlah peserta, 217 tulisan dengan 81 blog termasuk jumlah yang banyak, mengingat ini adalah pertama kali dilakukan, dengan sosialisasi yang tidak berlangsung cukup masif ; 5. Dari sisi capaian latar belakang peserta, hal ini juga cukup tercapai. Para peserta berasal dari berbagai kalangan profesi (jurnalis, akademisi, aktivis, ibu rumah tangga, mahasiswa, pelajar, pegawai negeri sipil), yang memiliki blog
 
@@ -163,7 +166,7 @@ VI. PEMBELAJARAN DAN REKOMENDASI
 
 Pembelajaran :
 
-    1.Dibutuhkan waktu implementasi program yang lebih panjang (minimal 1 tahun) guna  mendapatkan persiapan dan pelaksanaan yang maksimal ;
+ 1.Dibutuhkan waktu implementasi program yang lebih panjang (minimal 1 tahun) guna  mendapatkan persiapan dan pelaksanaan yang maksimal ;
 
 2. Perlu menggandeng lebih banyak lembaga baik swasta, maupun lembaga independen ataupun pemerintahan (ketiganya tentu yang memiliki visi misi yang sejalan dengan isu-isu penegakkan Hak Asasi Manusia), untuk mendukung implementasi program ; 3. Perlu sosialisasi lebih luas (jangkauan wilayah), dengan berbagai jenis sosialisasi, termasuk perlu lebih memaksimalkan keterlibatan media
 
