@@ -179,6 +179,7 @@ Portal website sebagai tempat berbagi dan menampung berbagai konten dapat mengim
 2. Tenaga Pelatih lokal bersedia melatih berbagai komunitas dan pengguna secara sukarela dalam satu tahun.
 
 * L. Kontribusi dari kelompok target:
+
 * Masyarakat yang sudah terlatih bertugas untuk secara sukarela melatih orang lain.
 * Masyarakat yang sudah terlatih akan berbagi informasi dengan orang lain dengan memanfaatkan hasil karya mereka sendiri.
 Masyarakat secara umum dapat menyediakan konten lokal antara lain aktivitas dan peristiwa yang terjadi di lingkungan sekitar.
