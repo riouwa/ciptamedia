@@ -175,3 +175,12 @@ Melalui program siaran radio, akan didorong komunitas Orang Rimba memanfaatkan f
   Indikator:
   Konflik antara Orang Rimba dan masyarakat desa semakin berkurang. Masyarakat desa mau menerima Orang Rimba sebagai tamu dirumahnya.
 
+* E. Latar belakang dan demografi pelaku proyek
+
+    **Pemimpin proyek**
+
+    Pria yang sudah aktif berorganisasi sejak tahun 1983 dan memiliki ketertarikan yang kuat pada pengembangan berbagai media komunikasi termasuk radio.
+
+    **Pelaku Proyek**
+
+    Empat personal yang memiliki kemampuan dibidang IT dan komunikasi yang diyakini dapat mengembangkan media radio komunitas untuk kemajuan Orang Rimba.
