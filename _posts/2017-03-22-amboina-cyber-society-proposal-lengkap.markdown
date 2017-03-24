@@ -41,3 +41,4 @@ Masyarakat Pulau Ambon dapat mengakses dan saling bertukar informasi menggunakan
 1. Membangun 1 portal website pada server lokal yang dioperasikan secara intranet.
 2. Melatih 600 orang dari berbagai komunitas masyarakat untuk memanfaatkan portal website pada server lokal dalam rangka mengakses dan menyediakan informasi secara intranet.
 3. Menyediakan 100 konten awal dan menambah 10 konten setiap hari pada server lokal (intranet) dengan konten yang diunduh dari berbagai sumber di internet.
+* C. Tersedianya informasi tentang Ambon kepada masyarakat umum melalui internet.
