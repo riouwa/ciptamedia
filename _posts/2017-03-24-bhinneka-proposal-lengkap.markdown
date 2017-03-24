@@ -145,3 +145,4 @@ masyarakat di kampung yang berkomitmen untuk membangun wilayah tempat tinggal me
     Subaktivitas 2: Pelatihan mahasiswa di Surabaya dengan Tema: Keberagaman dan pengaruh fundamentalisme yang menyebar serta strategi untuk menghadapinya. Tujuan mendapatkan kader untuk mempromosikan keberagaman (promotor). 
     Penerima manfaat langsung dan tidak langsung adalah mahasiswa dari kampus kampus di Surabaya (Unair, Adi Buana dan UBAYA). 
 Adanya aktifitas dan dukungan terhadap lembaga Bhinneka dan kegiatan pluralisme, serta kegiatan mahasiswa itu di kampus mereka dalam mempromosikan keberagaman. Evaluasi berupa laporan dari peserta pelatihan.
+
