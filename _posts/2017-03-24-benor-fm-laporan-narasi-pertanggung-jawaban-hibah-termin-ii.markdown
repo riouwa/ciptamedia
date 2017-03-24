@@ -44,3 +44,22 @@ D. Orang Rimba sebagai suku asli minoritas marginal sangat rawan terhadap perlak
 * Informasi tentang kehidupan di desa-desa dan norma umum yang berlaku di desa-desa dengan tujuan mengurangi konflik antara kedua belah pihak yang sekarang ini sering terjadi.
 
 Aktifitas dan isu yang anda atasi:
+-
+
+**3. Indikator sukses anda dalam permohonan hibah**
+
+  Orang Rimba di Bukit Duabelas meningkat kualitas hidup melalui pendidikan, informasi dan layanan kesehatan dan kegiatan ekonomi melalui media Radio Komunitas. Orang Rimba melalui radio ini, juga diharapkan akan hidup berdampingan dengan masyarakat desa, dengan pola saling menghormati berdasarkan jati diri masing-masing.
+
+  Indikator keberhasilan:
+
+* 144 rekaman audio pendek mengenai pendidikan/ kesehatan/ komoditi hutan bagi orang rimba yang dapat didengarkan via internet (statis) berupa pustaka audio
+* 24 rekaman audio/video program khas (feature) 20 menit kualitas baik yang dapat didengarkan via internet (statis) berupa pustaka audio
+* Membebaskan 600 Orang Rimba dari buta aksara dan mendukung 20 Orang Rimba mengakses sekolah lanjutan tingkat pertama.
+* Penderita TBC berkurang 40%, mengentaskan penyakit kulit losong hingga 95%.
+* Akses layanan kesehatan pemerintah ke Orang Rimba meningkat 75%.
+* Pendapatan Orang Rimba meningkat 50% melalui pengembangan pertanian dan perkebunan karet.
+* Berkurangnya konflik Orang Rimba dan masyarakat desa secara signifikan.
+* Tersebarnya norma-norma Orang Rimba ke masyarakat desa dan norma umum ke Orang Rimba.
+
+Hasil aktual hingga laporan ini dibuat:
+-
