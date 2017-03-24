@@ -89,15 +89,15 @@ Silahkan tuliskan pembelajaran, acara-acara yang anda buat/ alami yang dapat mem
 
 Berikut adalah aktivitas dan isu-isu yang anda masukkan pada permohonan hibah anda
 
-* Tidak tersedianya media yang langsung berpihak pada buruh perempuan di Semper Jakarta Utara sebagai advokasi untuk seluruh bentuk diskriminasi, pelecehan, serangan dan pelanggaran hak buruh perempuan, baik di jalanan, di rumah maupun tempat kerja.
+  * Tidak tersedianya media yang langsung berpihak pada buruh perempuan di Semper Jakarta Utara sebagai advokasi untuk seluruh bentuk diskriminasi, pelecehan, serangan dan pelanggaran hak buruh perempuan, baik di jalanan, di rumah maupun tempat kerja.
 
-* Medium diperlukan untuk 100 ribu buruh yang masih kesulitan dan ketakutan untuk berani mengadu, apalagi menuntut keadilan.
+  * Medium diperlukan untuk 100 ribu buruh yang masih kesulitan dan ketakutan untuk berani mengadu, apalagi menuntut keadilan.
 
-* Medium yang aktif memberi informasi dan pengetahuan, membangun keberanian dan menjadi pembela di antara buruh perempuan, yang sebenarnya berhak merasa aman bekerja malam hari (lembur)
+  * Medium yang aktif memberi informasi dan pengetahuan, membangun keberanian dan menjadi pembela di antara buruh perempuan, yang sebenarnya berhak merasa aman bekerja malam hari (lembur)
 
-* Tidak tersedianya media untuk buruh perempuan menjadi berdaya membela hak-haknya.
+  * Tidak tersedianya media untuk buruh perempuan menjadi berdaya membela hak-haknya.
 
-* Mendirikan radio komunitas buruh perempuan di kawasan kerja dan hunian buruh, untuk meluaskan kampanye tentang hak dan kesetaraan perempuan, sekaligus memajukan keberanian di kalangan buruh perempuan menghadapi segala bentuk serangan dan diskriminasi.
+  * Mendirikan radio komunitas buruh perempuan di kawasan kerja dan hunian buruh, untuk meluaskan kampanye tentang hak dan kesetaraan perempuan, sekaligus memajukan keberanian di kalangan buruh perempuan menghadapi segala bentuk serangan dan diskriminasi.
 
 Aktifitas dan isu yang anda atasi
 
