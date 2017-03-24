@@ -52,7 +52,6 @@ Masyarakat Pulau Ambon dapat mengakses dan saling bertukar informasi menggunakan
 **Latar belakang:**
 
 * A. Keterkaitan pada topik: Keadilan dan kesetaraan akses terhadap media
-
     Sejalan dengan Cipta Media Bersama, Maluku Satu Media memandang bahwa penetrasi teknologi informasi dan komunikasi di Indonesia tidak merata. Walau pengguna internet di Indonesia meningkat secara dramatis dan pengguna telepon genggam lebih dari 180 juta, namun masih terpusat di beberapa wilayah dan kelompok tertentu di Indonesia. Akibatnya, akses informasi dan peluang hanya dapat dinikmati sebagian kalangan saja.
 
     Di Indonesia, “kalangan-kalangan yang beruntung” itu dapat dialamatkan kepada mereka di wilayah perkotaan yang sekaligus adalah bagian dari kalangan menengah ke atas dalam strata ekonomi, serta yang memiliki kemampuan untuk memanfaatkan teknologi informasi.
@@ -71,11 +70,9 @@ Oleh karena itu, masyarakat ekonomi kelas bawah akan secara otomatis terbatas da
     Amboina Cyber Society ditujukan untuk mengatasi masalah tersebut di atas akan menjadi satu cerita sukses sekaligus cikal-bakal kampanye “Keadilan dan Kesetaraan Akses terhadap Media”, melalui jalan-jalan kreatif berbasis masyarakat, tentu dengan optimisme yang tinggi bahwa semua komponen masyarakat di berbagai pulau lain akan mampu melakukan hal yang sama untuk memenuhi kebutuhan akses terhadap informasi.
 
 * B. Masalah yang ingin diatasi dan keterkaitan dengan aktivitas
-
     Terbatasnya akses pada media informs yang hanya bisa dijangkau oleh kalangan masyarakat tertentu dan di wilayah tertentu karena kelangkaan infrastruktur teknologi informasi serta terbatasnya kemampuan masyarakat untuk menyediakan sendiri jalan-jalan alternatif yang kreatif terkait pemenuhan kebutuhan berbagi informasi.
 
 * C. Keterkaitan pada kategori: Konten Lokal, Kemitraan, Strategi Kreatif, Aksi, dan Teknologi Tepat Guna
-
     **Konten Lokal**
 
     Pelatihan untuk meningkatkan kemampuan masyarakat untuk bisa mengkreasi dan memanfaatkan infrastruktur sederhana yang memungkinkan masyarakat untuk terhubung dan berbagi informasi akan berdampak pada lahirnya berbagai konten lokal yang dimediasi dalam portal website yang bisa diakses secara intranet (offline) dan internet (online).
@@ -97,7 +94,6 @@ Memobilisasi anggota komunitas-komunitas dari berbagai latar belakang untuk berk
 Melatih masyarakat untuk membuat sendiri infrastruktur teknologi informasi dan komunikasi dari berbagai materi sederhana dan murah sehingga masyarakat dapat secara mandiri untuk memenuhi kebutuhan akses informasi.
 
 * D. Aktifitas dan keterkaitan pada sasaran
-
 **Kontribusi untuk sasaran A** – Melakukan pelatihan-pelatihan kepada kelompok-kelompok masyarakat untuk membangun infrastruktur jaringan komputer berbasis wireless.
 
   Aktivitas:
@@ -129,7 +125,6 @@ Aktivitas:
 3. Membuat pertanggungjawaban proyek secara transparan dan berkala yang disediakan secara internet maupun intranet pada portal website terkait penggunaan dana dan pelaksanaan proyek.
 
 * E. Latar belakang dan demografi pelaku proyek
-
 **Pemimpin proyek**
 
 Laki-laki usia 28 tahun yang berpengalaman di bidang teknologi informasi dan komunikasi sebagai konsultan dan content developper kurang lebih 4 tahun di Maluku.
@@ -139,11 +134,9 @@ Laki-laki usia 28 tahun yang berpengalaman di bidang teknologi informasi dan kom
 Orang-orang muda dari berbagai komunitas di kota Ambon dan dari berbagai latar belakang agama dan disiplin ilmu dengan rentang usia dari 22 sampai 47 tahun.
 
 * F. Demografik kelompok target
-
 Kelompok masyarakat yang sampai hari ini belum bisa mengakses media informasi, khususnya komunitas-komunitas basis orang muda, dan komunitas-komunitas agamais.
 
 * G. Hasil yang diharapkan dan indikator keberhasilan
-
 1. Masyarakat memiliki kemampuan untuk membuat infrastruktur jaringan komputer berbasis wireless secara kreatif dan ekonomis.
 2. Masyarakat dapat memiliki pengetahuan dan keterampilan untuk mengakses internet.
 3. Masyarakat memiliki kemampuan untuk menggunakan dan merawat infrastruktur jaringan komputer berbasis wireless.
@@ -155,7 +148,6 @@ Indikator keberhasilan:
 Orang-orang yang terlatih bersedia secara sukarela untuk berbagi dan melatih orang lain.
 
 * H. Keterkaitan proyek dengan perbaikan media dan keadilan sosial
-
 **Perbaikan media**
 
 Portal website yang tersedia dan bisa diakses secara intranet maupun internet untuk berbagi informasi dan sebagai media untuk saling memverifikasi kebenaran informasi tertentu. Hal ini tentu berkaitan dengan kondisi kota dan pulau Ambon akhir-akhir ini dan selanjutnya dapat memediasi perjumpaan lintas
@@ -166,20 +158,16 @@ Portal website sebagai tempat berbagi dan menampung berbagai konten dapat mengim
 Proyek ini secara sederhana bertujuan untuk memampukan masyarakat dalam hal membuat dan memanfaatkan teknologi tepat guna untuk berbagi informasi melalui pelatihan-pelatihan bagi masyarakat untuk secara kreatif dapat menciptakan jalan-jalan alternatif untuk pemenuhan kebutuhan akses terhadap informasi.
 
 * I. Durasi waktu aktifitas dilaksanakan:
-
 20 Januari 2012 – 19 Januari 2013 (1 tahun) dan seterusnya akan membiayai diri sendiri dengan mengupayakan strategi kreatif
 
 * J. Total kebutuhan dana untuk melakukan aktifitas:
-
 **USD 20.771,76 ~ Rp. 176.560.000,-**
 
 * K. Kontribusi organisasi:
-
 1. Perkumpulan Maluku Satu Media tidak dibayar untuk mendukung pelaksanaan proyek Amboina Cyber Society
 2. Tenaga Pelatih lokal bersedia melatih berbagai komunitas dan pengguna secara sukarela dalam satu tahun.
 
-* L. Kontribusi dari kelompok target:[sunting]
-
+* L. Kontribusi dari kelompok target:
 * Masyarakat yang sudah terlatih bertugas untuk secara sukarela melatih orang lain.
 * Masyarakat yang sudah terlatih akan berbagi informasi dengan orang lain dengan memanfaatkan hasil karya mereka sendiri.
 Masyarakat secara umum dapat menyediakan konten lokal antara lain aktivitas dan peristiwa yang terjadi di lingkungan sekitar.
