@@ -80,9 +80,16 @@ b. Masalah yang ingin diatasi dan keterkaitan dengan aktivitas
 2. Beberapa Jurnal atau majalah yang memperjuangkan pluralisme di Indonesia, seringkali terlihat eksklusif, jangkauannya terbatas dan terkadang cukup mahal, sehingga media seperti ini tidak membawa perubahan yang mendasar di masyarakat.
 3. Beberapa kelompok masyarakat menghubungkan keberagaman (terutama seksual) dengan budaya Barat sehingga mereka menolak wacana keberagaman.
 
+c. Keterkaitan pada kategori:Aksi, Strategi Kreatif
+
+  **Aksi**
+
+  1. Memobilisasi sebanyak mungkin masyarakat untuk ikut serta dalam kampanye keberagaman Bhinneka dengan membentuk sel-sel atau cabang-cabang di seluruh Indonesia melalui berbagai media.
+  2. Lembaga Bhinneka memproduksi majalah kritis yang dibuat seramah dan segeneral mungkin, sehingga tidak terkesan eksklusif. Dengan membuat “bungkus” yang ramah, kami berharap masyarakat lebih bersimpati dan mempunyai rasa ingin tahu akan proyek kami. Nama Bhinneka dipilih karena merupakan bagian dari semboyan Negara dan sudah cukup akrab di masyarakat.
+  3. Lembaga Bhinneka mencoba mengingatkan bahwa keberagaman telah ada di dalam kebudayaan adat dan tradisi Indonesia, bahkan keberagaman orientas seksual yang diterima di Archipelago sempat mengejutkan penjelajah Eropa yang datang ke kepulauan ini beberapa abad yang lalu. Kami akan mempromosikan keberagaman, dengan mengangkat isu-isu lokal.
+
   **Strategi kreatif**
 
-    
-  **Aksi**
+    Menggunakan pendekatan populer sekaligus kritis sehingga masyarakat lebih tertarik dengan isu keberagaman. Mencoba mendekati masyarakat lewat layanan yang diperlukan oleh mereka, seperti informasi lowongan kerja, informasi bea-siswa, dan biro jodoh sehingga mereka tidak merasa didoktrinasi oleh lembaga Bhinneka. Dengan cara ini, kami berharap bisa mempengaruhi pola berpikir masyarakat secara tidak langsung.
 
     
