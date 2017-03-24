@@ -106,3 +106,4 @@ d. Aktifitas dan keterkaitan pada sasaran
     Bhinneka dalam mendistribusikan Majalah Bhinneka. 
     Sementara asumsi untuk penerima manfaat tidak langsung adalah khalayak umum
     Sub Aktivitas: Penerbitan Antologi Cerpen Keberagaman Seksualitas beserta analisa tentang seksualitas dan orientasi seks. Penerima manfaat langsung asumsi khalayak umum. 
+
