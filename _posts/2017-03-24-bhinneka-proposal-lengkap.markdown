@@ -111,3 +111,12 @@ d. Aktifitas dan keterkaitan pada sasaran
 
   Aktivitas:
   Merekrut dengan beberapa tahap: Mereka yang sudah cukup kritis direkrut untuk masuk ke grup diskusi di Facebook. Merekrut mereka yang cenderung beraliran konservatif untuk bergabung dengan diskusi seputar Indonesia, sedangkan yang lebih konservatif direkrut di grup informasi bea-siswa, dan lowongan kerja, dan dari ketiga grup ini kami akan mencoba mempengaruhi mereka.
+
+    PENAJAMAN 
+    Kampanye dan pendalaman wacana keberagaman melalui forum-forum Facebook binaan Lembaga Bhinneka
+    Sub Aktivitas dengan penerima manfaat langsung Khalayak umum pengguna internet pembaca situs bhineka/ pengikut facebook/ twitter?  
+    Penerima manfaat tidak langsung asumsinya khalayak umum. 
+    1. Menyediakan materi untuk membangun toleransi dan pola berpikir kritis dengan harapan mendapatkan peningkatan kualitas diskusi di forum-forum tersebut. Evaluasi melalui survey terbuka yang diadakan November-Desember 2012. 
+    2. Ruang untuk membangun toleransi dan pola berpikir kritis dengan menggunakan testimoni pengguna forum yang telah merasakan manfaat langsung dari diskusi online dan harapan timbulnya ide-ide maupun informasi menarik dari forum diskusi. Menggunakan wawancara dengan pengguna forum yang merasakan manfaat diskusi secara langsung. 
+    3. Kader untuk mempromosikan keberagaman (promotor) 
+    4. Kader untuk merekrut (rekruiter)
