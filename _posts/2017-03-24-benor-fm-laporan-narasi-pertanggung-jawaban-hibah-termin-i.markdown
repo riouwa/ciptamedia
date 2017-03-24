@@ -16,7 +16,7 @@ Penerima hibah	   :	**KKI WARSI /ANDI AGUSTANIS**
 
 Periode Laporan	   :	**3 Januari 2012 hingga 20 Desember 2012**
 
-Proyek	           :	**Benor FM**
+Proyek	            :	**Benor FM**
 
 **1. Pembelajaran**
 
