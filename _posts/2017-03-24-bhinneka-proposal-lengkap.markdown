@@ -146,3 +146,12 @@ masyarakat di kampung yang berkomitmen untuk membangun wilayah tempat tinggal me
     Penerima manfaat langsung dan tidak langsung adalah mahasiswa dari kampus kampus di Surabaya (Unair, Adi Buana dan UBAYA). 
 Adanya aktifitas dan dukungan terhadap lembaga Bhinneka dan kegiatan pluralisme, serta kegiatan mahasiswa itu di kampus mereka dalam mempromosikan keberagaman. Evaluasi berupa laporan dari peserta pelatihan.
 
+**e.Latar belakang dan demografi pelaku proyek**
+
+**Pemimpin proyek**
+
+  Soe Tjen Marching adalah akademik, penulis dan komponis yang telah menjadi dosen di beberapa Universitas di Australia, Britania, dan Indonesia. Pengalaman berorganisasi selama 5 tahun. Telah mendirikan lembaga Bhinneka, dan ikut mendirikan Masyarakat Bebasbising serta LSM musik Tambur. Panitia lainnya adalah para aktifis lelaki dan perempuan yang terdiri dari dosen, pekerja dan mahasiswa.
+
+**Pelaku proyek**
+
+  Untuk memaksimalkan perekrutan, kami juga mempunyai anggota dari kelompok-kelompok agama yang mempunyai pengaruh di masyarakat, seperti pendeta, guru spiritual, aktifis Muhamadiyah, pengurus Lakpesdam NU Jombang, dan lain-lain.
