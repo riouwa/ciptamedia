@@ -27,3 +27,8 @@ Pemimpin proyek
 **Lokasi**
 
 Ambon
+
+**Deskripsi Proyek**
+
+Tujuan:
+Masyarakat Pulau Ambon dapat mengakses dan saling bertukar informasi menggunakan infrastruktur jaringan komputer berbasis wireless.
