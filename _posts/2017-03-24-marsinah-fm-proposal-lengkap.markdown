@@ -214,4 +214,5 @@ Rp. 302.250.000
 **N. Kontribusi dari kelompok target:**
 
 * 200 buruh perempuan melakukan sosialisasi pendirian dan acara Radio Buruh Perempuan, kepada buruh-buruh lain.
+
 * 20 buruh perempuan menjadi penyiar dan kontributor Radio Buruh Perempuan, pada bulan kedua setelah mulai siaran dan mendapat pelatihan.
