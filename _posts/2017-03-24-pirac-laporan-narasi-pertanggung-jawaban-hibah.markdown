@@ -245,8 +245,7 @@ Penentuan waktu, penyiapan tempat dan materi pelatihan (koordinasi dengan JRKI)
 
   * Jumlah akses tertinggi tertinggi pada September 2012 dengan jumlah Hits 39.758, atau rata-rata per hari 1325, dengan total pengunjung 112 orang/hari atau 3377 selama September 2012.
 
-
-![775px-Situs_Web_Fundraising_Info_PIRAC_Agustus_2012_-_Jan_2013-5a74e0.png](/uploads/775px-Situs_Web_Fundraising_Info_PIRAC_Agustus_2012_-_Jan_2013-5a74e0.png){: .img-responsive .center-block }
+![775px-Situs_Web_Fundraising_Info_PIRAC_Agustus_2012_-_Jan_2013-db8820.png](/uploads/775px-Situs_Web_Fundraising_Info_PIRAC_Agustus_2012_-_Jan_2013-db8820.png){: .img-responsive .center-block }
  
 
  * Dari laporan statistik ini, terlihat bahwa sejak web ini Online Agustus 2012, melihatkan data kunjungan yang terus meningkat. Dimana hits (jumlah permintaan akses ke server) tertinggi berada pada September 2012 dengan jumlah Hits 39.758. Dengan rata-rata per hari 1325, dengan total pengunjung 112 orang/hari atau 3377 selama September 2012.
@@ -257,6 +256,9 @@ Penentuan waktu, penyiapan tempat dan materi pelatihan (koordinasi dengan JRKI)
 ![325px-Situs_Web_Fundraising_pipa_Sept_2012.png](/uploads/325px-Situs_Web_Fundraising_pipa_Sept_2012.png){: .img-responsive .right-block }
 
 Setelah kunjungan terbesar di bulan September 2012, kunjungan di bulan Desember 2012 berada pada jumlah hits kedua terbanyak, yaitu: 31010 Hits, dengan 1000 hits/per hari dan jumlah kunjungan per hari 196 orang atau 6099 orang selama bulan Desember 2012 tersebut. Namun jumlah halaman yang diakses selama Desember 2012 lebih banyak ketimbang di bulan September 2012. Di mana di bulan Desember 2012 sebanyak 398 per hari dan untuk selama Desember 2012 sebanyak 12364 halaman. Sangat berbeda jauh dengan jumlah kunjungan di bulan September 2012, yang hanya 8393 halaman selama bulan September 2012.
+
+![375px-Situs_Web_Fundraising_Des_2012.png](/uploads/375px-Situs_Web_Fundraising_Des_2012.png){: .img-responsive .left-block }
+![375px-Situs_Web_Fundraising_pipa_Des_2012.png](/uploads/375px-Situs_Web_Fundraising_pipa_Des_2012.png){: .img-responsive .center-block }
 
 Dari gambaran statistik di atas dapat disimpulkan :
 
