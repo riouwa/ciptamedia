@@ -155,7 +155,7 @@ Melalui program siaran radio, akan didorong komunitas Orang Rimba memanfaatkan f
     Indikator:
     * Penyakit-penyakit yang menyerang Orang Rimba terutama penyakit menular dapat menurun dengan cepat. Penyakit TBC dan penyakit kulit berkurang hingga 40%, mengentaskan penyakit kulit losong hingga 95%. Akses layanan kesehatan pemerintah ke Orang Rimba meningkat 75%.
 
-  * **Kontribusi untuk sasaran D** - Dukungan pemberdayaan ekonomi berupa pemberian informasi tentang harga, akses pasar, serta sarana pengembangan koperasi.
+  **Kontribusi untuk sasaran D** - Dukungan pemberdayaan ekonomi berupa pemberian informasi tentang harga, akses pasar, serta sarana pengembangan koperasi.
 
     Aktivitas:
     * Menyusun program siaran yang memberikan informasi tentang harga-harga komoditas.
@@ -165,7 +165,7 @@ Melalui program siaran radio, akan didorong komunitas Orang Rimba memanfaatkan f
     Indikator:
     * Pendapatan Orang Rimba meningkat hingga 50% melalui sektor pertanian dan penjualan hasil hutan non kayu seperti rotan, jernang, damar, dan lain-lain.
 
-  * **Kontribusi untuk sasaran E** - Adanya program radio yang mengkampanyekan perlindungan terhadap komunitas Orang Rimba, pengakuan keberadaan Orang Rimba dan menghilangkan stigma negatif Orang Rimba.
+  **Kontribusi untuk sasaran E** - Adanya program radio yang mengkampanyekan perlindungan terhadap komunitas Orang Rimba, pengakuan keberadaan Orang Rimba dan menghilangkan stigma negatif Orang Rimba.
 
     Aktivitas:
     * Menyusun program siaran untuk kampanye perlindungan Orang Rimba dan perlindungan kawasan Orang Rimba di TNBD.
