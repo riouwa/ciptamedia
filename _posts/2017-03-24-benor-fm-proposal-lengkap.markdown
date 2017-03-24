@@ -222,7 +222,7 @@ Melalui program siaran radio, akan didorong komunitas Orang Rimba memanfaatkan f
   **Rp. 765.340.000**
   Yang diminta dari Ford Foundation melalui Cipta Media Bersama:
 
- **Rp. 568.340.000** (rincian terlampir)
+  **Rp. 568.340.000** (rincian terlampir)
 
 *  K. Kontribusi organisasi:
 
