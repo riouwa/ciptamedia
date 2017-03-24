@@ -3,6 +3,8 @@ title: Amboina Cyber Society - Proposal Lengkap
 date: 2017-03-22 17:50:00 +07:00
 ---
 
+![Amboina_Cyber_Society.jpg](/uploads/Amboina_Cyber_Society.jpg){: .img-responsive .center-block }
+
 **Organisasi**
 
 Maluku Satu Media adalah perkumpulan orang muda lintas komunitas yang memiliki fokus pada upaya memampukan masyarakat untuk membuat infrastruktur teknologi informasi secara kreatif dan ekonomis untuk memenuhi kebutuhan masyarakat di daerah Maluku. Perkumpulan ini memiliki keprihatinan utama pada peningkatan kualitas dan produktivitas masyarakat melalui langkah-langkah strategis terkait peningkatan kapasitas dan pembentukan karakater masyarakat dalam memanfaatkan teknologi melalui pelatihan-pelatihan yang dilakukan secara sukarela sehingga masyarakat dapat mengakses dan saling berbagi informasi.
