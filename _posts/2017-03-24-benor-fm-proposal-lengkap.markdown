@@ -106,5 +106,9 @@ Melalui program siaran radio, akan didorong komunitas Orang Rimba memanfaatkan f
 * C. Keterkaitan pada kategori: Konten Lokal, Kemitraan, Strategi Kreatif, Aksi, dan Teknologi Tepat Guna
 
     **Aksi**
+    1. Advokasi pendidikan dan kesehatan Orang Rimba.
+    2. Memperluas dan pemahaman masyarakat terhadap produk, harga dan adanya event-event untuk peningkatan mutu, penyuluhan dan pelatihan.
+    3. Mengadvokasi Orang Rimba agar diterima dan diakui keberadaannya di dalam norma umum tanpa menghilangkan jati diri mereka.
+    4. Mengadvokasi masyarakat desa untuk bisa menghargai dan memandang setara keberadaan Orang Rimba.
 
     **Strategi kreatif**
