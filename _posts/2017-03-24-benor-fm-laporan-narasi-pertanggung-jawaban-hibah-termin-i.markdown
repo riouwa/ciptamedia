@@ -91,3 +91,15 @@ Hasil nyata yang didapat setelah berjalan 1 tahun:
 * Pesawat penerima siaran di terima melalui HP dan pesawat radio konvensional.
 * Radio Benor FM telah mampu menjangkau tujuh kelompok Orang Rimba, diantyaranya : Kelompok Punti Kayu, Sungai Keruh, Gemuruh, Tupang Celang, Asahon, Belukar Sejelai, Air Panas dan Sasaran pendengar warga desa-desa dimana Orang Rimba tinggal hidup berdampingan (SP-I Bukit Suban, SP-A Bungo Antoi, SP-B, Pemang Kabau dan Mentawak Baru).
 
+**4. Tujuan dan Sasaran**
+
+Silahkan anda jelaskan apa yang telah anda berhasil peroleh dengan hibah ini yang berkaitan dengan tujuan yang lebih besar yang anda harapkan dapat anda capai <br/<Sasaran-sasaran yang diharapkan dapat dicapai:
+
+A. Adanya bangunan studio dan pemancar radio komunitas yang dapat melakukan siaran secara berkelanjutan.
+B. Mendapatkan sumber daya manusia yang mampu mengelola dan mengoperasikan Siaran Radio Komunitas secara berkelanjutan.
+C. Adanya program siaran radio yang mendukung kegiatan pendidikan yang intensif dengan jangkauan yang luas bagi Orang Rimba.
+D. Adanya program siaran radio yang mengkampanyekan informasi tentang layanan kesehatan bagi Orang Rimba.
+E. Adanya program siaran radio yang mendukung pemberdayaan ekonomi berupa pemberian informasi tentang harga, akses pasar, serta sarana pengembangan koperasi.
+F. Adanya program siaran radio yang mengkampanyekan perlindungan, pengakuan dan kampanye menghilangkan stigma negatif dan sebutan yang “merendahkan” tentang Orang Rimba. Kampanye juga ditujukan untuk mengurangi konflik antar masyarakat desa dengan Orang Rimba. (tahun 2011 tercatat 3 luka berat dan 3 meninggal).
+
+Tujuan yang berhasil dicapai hingga saat ini
