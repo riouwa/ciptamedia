@@ -129,3 +129,9 @@ d. Aktifitas dan keterkaitan pada sasaran
 
     REVISI
     --DITIADAKAN-- 
+
+  * Kontribusi untuk sasaran D - Melakukan advokasi bersama, serta merekrut koordinator-koordinator di beberapa kota.
+
+  Aktivitas:
+
+  Memperkenalkan proyek lembaga Bhinneka dengan mengadakan safari dari kota ke kota. Safari ini akan menyebarkan brosur tentang pentingnya keberagaman di Indonesia. Mengadakan pertemuan yang mendiskusikan keberagaman di masing-masing kota dan mendorong mereka untuk membentuk organisasi yang mendukung wacana keberagaman, kemudian bisa membangun jaringan dengan organisasi-organisasi lainnya.
