@@ -48,3 +48,5 @@ Masyarakat Pulau Ambon dapat mengakses dan saling bertukar informasi menggunakan
 1. Melakukan monitoring dan evaluasi terhadap pelaksanaan proyek Amboina Cyber Society
 2. Merancangkan rencana tindak lanjut berdasarkan hasil monitoring dan evaluasi.
 3. Membuat pertanggungjawaban proyek secara transparan dan berkala yang disediakan secara internet maupun intranet pada portal website terkait penggunaan dana dan pelaksanaan proyek.
+
+**Latar belakang:**
