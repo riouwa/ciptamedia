@@ -176,11 +176,11 @@ Portal website sebagai tempat berbagi dan menampung berbagai konten dapat mengim
 * K. Kontribusi organisasi:
 
     1. Perkumpulan Maluku Satu Media tidak dibayar untuk mendukung pelaksanaan proyek Amboina Cyber Society
-2. Tenaga Pelatih lokal bersedia melatih berbagai komunitas dan pengguna secara sukarela dalam satu tahun.
+    2. Tenaga Pelatih lokal bersedia melatih berbagai komunitas dan pengguna secara sukarela dalam satu tahun.
 
 * L. Kontribusi dari kelompok target:
 
     * Masyarakat yang sudah terlatih bertugas untuk secara sukarela melatih orang lain.
-* Masyarakat yang sudah terlatih akan berbagi informasi dengan orang lain dengan memanfaatkan hasil karya mereka sendiri.
+    * Masyarakat yang sudah terlatih akan berbagi informasi dengan orang lain dengan memanfaatkan hasil karya mereka sendiri.
 Masyarakat secara umum dapat menyediakan konten lokal antara lain aktivitas dan peristiwa yang terjadi di lingkungan sekitar.
-* Masyarakat secara umum dapat saling berjumpa dan berbagi dengan mengedepankan semangat perdamaian untuk mengklarifikasi berbagai isu SARA yang disebar untuk memecah-belah masyarakat.
+    * Masyarakat secara umum dapat saling berjumpa dan berbagi dengan mengedepankan semangat perdamaian untuk mengklarifikasi berbagai isu SARA yang disebar untuk memecah-belah masyarakat.
