@@ -111,6 +111,7 @@ Melalui program siaran radio, akan didorong komunitas Orang Rimba memanfaatkan f
     3. Mengadvokasi Orang Rimba agar diterima dan diakui keberadaannya di dalam norma umum tanpa menghilangkan jati diri mereka.
     4. Mengadvokasi masyarakat desa untuk bisa menghargai dan memandang setara keberadaan Orang Rimba.
 
+
     **Strategi kreatif**
 
     Menumbuhkan partisipasi penuh Orang Rimba dalam penyiapan materi siaran, menjadikan mereka sebagai penyiar aktif. Dari sisi audient akan dibangun kelompok-kelompok pendengar aktif, baik di komunitas Orang Rimba ataupun di masyarakat desa. Materi siaran pendidikan, informasi kesehatan, informasi ekonomi, juga akan diramaikan dengan informasi budaya dan keberagaman yang dimiliki Orang Rimba dan masyarakat desa, sehingga tercipta kesaling pemahaman diantara mereka.
@@ -166,3 +167,4 @@ Kontribusi untuk sasaran C - Program siaran radio yang memuat kampanye informasi
 
   Indikator:
   Konflik antara Orang Rimba dan masyarakat desa semakin berkurang. Masyarakat desa mau menerima Orang Rimba sebagai tamu dirumahnya.
+
