@@ -38,6 +38,8 @@ Surabaya
 
 **Tujuan:**
 
+Dengan mempromosikan keberagaman, kami ingin mengubah cara berpikir masyarakat sehingga makin kritis dalam menanggapi wacana fundamentalis yang kian marak. Kami mencoba mendapat dukungan sebanyak mungkin, sehingga massa tergerak untuk mempunyai simpati terhadap isu yang kami angkat.
+
 **Sasaran:**
 
 **Latar belakang:**
