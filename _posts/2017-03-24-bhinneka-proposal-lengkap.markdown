@@ -126,3 +126,6 @@ d. Aktifitas dan keterkaitan pada sasaran
   Aktivitas:
 
   Pelatihan menulis akan diberikan kepada remaja dan mahasiswa. Bimbingan belajar akan diberikan kepada anak-anak di Surabaya Selatan, yang telah diidentifikasi sebagai daerah kurang mampu. Bimbingan belajar diberikan selain untuk membantu pelajaran sekolah, juga untuk membuat mereka berpikir lebih kritis dan menerima keberagaman.
+
+    REVISI
+    --DITIADAKAN-- 
