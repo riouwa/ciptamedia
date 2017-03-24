@@ -153,3 +153,14 @@ Indikator keberhasilan:
 2. Terdapat 50 % dari 600 peserta pelatihan memiliki kemampuan membuat infrastruktur jaringan komputer berbasis wireless.
 3. Masyarakat berbagi informasi melalui infrastruktur jaringan komputer berbasis wireless pada 3 lokasi di pulau Ambon.
 Orang-orang yang terlatih bersedia secara sukarela untuk berbagi dan melatih orang lain.
+
+* H. Keterkaitan proyek dengan perbaikan media dan keadilan sosial
+
+**Perbaikan media**
+
+Portal website yang tersedia dan bisa diakses secara intranet maupun internet untuk berbagi informasi dan sebagai media untuk saling memverifikasi kebenaran informasi tertentu. Hal ini tentu berkaitan dengan kondisi kota dan pulau Ambon akhir-akhir ini dan selanjutnya dapat memediasi perjumpaan lintas
+Portal website sebagai tempat berbagi dan menampung berbagai konten dapat mengimbangi konten media mainstream yang lebih banyak berbicara tentang hal-hal namun sedikit sekali yang berkaitan langsung dengan kebutuhan masyarakat.
+
+**Keadilan sosial**
+
+Proyek ini secara sederhana bertujuan untuk memampukan masyarakat dalam hal membuat dan memanfaatkan teknologi tepat guna untuk berbagi informasi melalui pelatihan-pelatihan bagi masyarakat untuk secara kreatif dapat menciptakan jalan-jalan alternatif untuk pemenuhan kebutuhan akses terhadap informasi.
