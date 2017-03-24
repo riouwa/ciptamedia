@@ -107,3 +107,7 @@ d. Aktifitas dan keterkaitan pada sasaran
     Sementara asumsi untuk penerima manfaat tidak langsung adalah khalayak umum
     Sub Aktivitas: Penerbitan Antologi Cerpen Keberagaman Seksualitas beserta analisa tentang seksualitas dan orientasi seks. Penerima manfaat langsung asumsi khalayak umum. 
 
+  * Kontribusi untuk sasaran B – Mengajak anggota-anggota (terutama yang mahasiswa) untuk aktif merekrut teman-teman mereka untuk berpartisipasi dalam diskusi Bhinneka, mengadakan pelatihan-pelatihan sehingga mereka bisa menjadi kader-kader aktifis keberagaman.
+
+  Aktivitas:
+  Merekrut dengan beberapa tahap: Mereka yang sudah cukup kritis direkrut untuk masuk ke grup diskusi di Facebook. Merekrut mereka yang cenderung beraliran konservatif untuk bergabung dengan diskusi seputar Indonesia, sedangkan yang lebih konservatif direkrut di grup informasi bea-siswa, dan lowongan kerja, dan dari ketiga grup ini kami akan mencoba mempengaruhi mereka.
