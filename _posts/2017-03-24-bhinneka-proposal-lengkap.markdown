@@ -40,6 +40,11 @@ Surabaya
 
 Dengan mempromosikan keberagaman, kami ingin mengubah cara berpikir masyarakat sehingga makin kritis dalam menanggapi wacana fundamentalis yang kian marak. Kami mencoba mendapat dukungan sebanyak mungkin, sehingga massa tergerak untuk mempunyai simpati terhadap isu yang kami angkat.
 
+   PENAJAMAN (Sept 2012)
+   1. Dukungan dan simpati masyarakat (terutama pemuda-pemudi usia 19-25 tahun) terhadap isu keberagaman
+   2. Pola berpikir dan sikap kritis
+   3. Penerimaan dan sikap keberagaman
+
 **Sasaran:**
 
 **Latar belakang:**
