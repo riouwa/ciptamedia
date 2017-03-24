@@ -1,6 +1,6 @@
 ---
 title: Benor FM - Laporan Narasi Pertanggung Jawaban Hibah Termin I
-date: 2017-03-24 14:39:00 +07:00
+date: 2012-12-20 14:39:00 +07:00
 ---
 
 **KKI Warsi**
@@ -141,3 +141,20 @@ Tuliskan tantangan perbedaan budaya antara komunitas Orang Rimba dengan masyarak
 1. Adanya larangan adat pada anak perempuan dan perempuan Orang Rimba untuk berkomunikasi dengan orang luar (warga desa).
 2. Budaya sumbang pada pemahaman Orang Rimba apabila laki-laki dan perempuan berada dalam satu tempat membatasi interaksi mereka dengan warga desa.
 3. Penggunaan bahasa oleh kader penyiar rimba (bahasa rimba) masihkurang dipahami oleh pendengar lainnya (suku Jawa, Medan, Padang dan Palembang).
+
+**7. Laporan keuangan**
+
+  Silahkan masukkan pranala laporan keuangan anda disini:
+
+  http://www.ciptamedia.org/wiki/Benor_FM/Laporan_Penggunaan_Dana
+
+**8. Pengesahan**
+
+  Saya, sebagai penandatangan, menyatakan bahwa saya adalah individu yang berwenang untuk menyerahkan laporan ini atas nama komunitas/ organisasi saya sesuai dengan persyaratan yang dicantumkan pada Perjanjian Hibah Cipta Media Bersama yang telah ditandatangani sebelumnya dan seluruh dana yang dibelanjakan telah dibelanjakan sesuai dengan tujuan-tujuan yang tercantum dalam permohonan hibah.
+
+Tertanda: Lokasi dan tanggal:
+
+Jambi, 20 Desember 2012
+
+
+Andi Agustanis
