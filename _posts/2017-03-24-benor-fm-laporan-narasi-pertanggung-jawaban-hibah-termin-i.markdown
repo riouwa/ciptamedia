@@ -79,4 +79,15 @@ Hasil-hasil yang di janjikan pada proposal adalah untuk hasil sepanjang durasi p
   * Pendapatan Orang Rimba meningkat 50% melalui pengembangan pertanian dan perkebunan karet.
   * Berkurangnya konflik Orang Rimba dan masyarakat desa secara signifikan.
   * Tersebarnya norma-norma Orang Rimba ke masyarakat desa dan norma umum ke Orang Rimba.
-  * Hasil aktual hingga laporan ini dibuat
+  
+Hasil aktual hingga laporan ini dibuat:
+
+Hasil nyata yang didapat setelah berjalan 1 tahun: 
+
+* Hingga saat ini ada enam kelompok Orang Rimba yang sudah mengikuti proses Baca, Tulis dan Hitung (BTH) di Selatan TNBD, 7 orang terdaftar sebagai siswa kelas jauh di SMP N 12 Satu Atap Sarolangun, lima orang di SD N 191/VI Air Panas Sarolangun dan satu orang sudah mengikuti sekolah formal di SMA N 14 Tebo.
+* Upaya pengentasan penyakit dan Layan Kesehatan (YANKES) oleh pihak terkait mulai dari bidan desa, pustu, puskes dan rumah sakit umum, sudah lebih terbuka dengan adanya pemberian Jamkesmas dan Jamkesda bagi Orang Rimba untuk mengakses sarana kesehatan. Disamping itu adanya Pusling ke tiga kelompok Orang Rimba oleh Puskesmas Pematang Kabau 1x/bulan dan satu kelompok oleh Puskesmas Pauh 1 x/3 bulan.
+* Sepanjang 2012 tidak ada konflik Orang Rimba di sekitar TNBD.
+* Orang Rimba sudah ada yang memiliki KTP dan direkrutnya 3 Orang Rimba menjadi Pamswakarsa Balai Taman Nasional Bukit Duabelas (BTNBD).
+* Pesawat penerima siaran di terima melalui HP dan pesawat radio konvensional.
+* Radio Benor FM telah mampu menjangkau tujuh kelompok Orang Rimba, diantyaranya : Kelompok Punti Kayu, Sungai Keruh, Gemuruh, Tupang Celang, Asahon, Belukar Sejelai, Air Panas dan Sasaran pendengar warga desa-desa dimana Orang Rimba tinggal hidup berdampingan (SP-I Bukit Suban, SP-A Bungo Antoi, SP-B, Pemang Kabau dan Mentawak Baru).
+
