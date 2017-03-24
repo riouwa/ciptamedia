@@ -99,13 +99,13 @@ d. Aktifitas dan keterkaitan pada sasaran
   Aktivitas:
   Membagikan majalah kepada mereka yang kesulitan mendapat akses internet. Selain grup diskusi di Facebook, kami juga mempunyai grup lowongan kerja, biro jodoh dan informasi bea-siswa untuk mempengaruhi cara berpikir masyarakat melalui cara yang lebih halus dan tidak langsung.
     
-    PENAJAMAN
-    Publikasi cetak dan online
-    Sub Aktivitas: Penerbitan Majalah Bhinneka secara dwiwulan melalui media cetak & online. 
-    Penerima manfaat langsung kalangan akademisi dan intelektual, terutama dari komunitas-komunitas yang bekerjasama dengan Lembaga   
-    Bhinneka dalam mendistribusikan Majalah Bhinneka. 
+      PENAJAMAN
+      Publikasi cetak dan online
+      Sub Aktivitas: Penerbitan Majalah Bhinneka secara dwiwulan melalui media cetak & online. 
+      Penerima manfaat langsung kalangan akademisi dan intelektual, terutama dari komunitas-komunitas yang bekerjasama dengan Lembaga   
+      Bhinneka dalam mendistribusikan Majalah Bhinneka. 
     Sementara asumsi untuk penerima manfaat tidak langsung adalah khalayak umum
-    Sub Aktivitas: Penerbitan Antologi Cerpen Keberagaman Seksualitas beserta analisa tentang seksualitas dan orientasi seks. Penerima manfaat langsung asumsi khalayak umum. 
+      Sub Aktivitas: Penerbitan Antologi Cerpen Keberagaman Seksualitas beserta analisa tentang seksualitas dan orientasi seks. Penerima manfaat langsung asumsi khalayak umum. 
 
   * Kontribusi untuk sasaran B – Mengajak anggota-anggota (terutama yang mahasiswa) untuk aktif merekrut teman-teman mereka untuk berpartisipasi dalam diskusi Bhinneka, mengadakan pelatihan-pelatihan sehingga mereka bisa menjadi kader-kader aktifis keberagaman.
 
