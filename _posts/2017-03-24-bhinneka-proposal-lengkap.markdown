@@ -90,7 +90,7 @@ c. Keterkaitan pada kategori:Aksi, Strategi Kreatif
 
   **Strategi kreatif**
 
-    Menggunakan pendekatan populer sekaligus kritis sehingga masyarakat lebih tertarik dengan isu keberagaman. Mencoba mendekati masyarakat lewat layanan yang diperlukan oleh mereka, seperti informasi lowongan kerja, informasi bea-siswa, dan biro jodoh sehingga mereka tidak merasa didoktrinasi oleh lembaga Bhinneka. Dengan cara ini, kami berharap bisa mempengaruhi pola berpikir masyarakat secara tidak langsung.
+  Menggunakan pendekatan populer sekaligus kritis sehingga masyarakat lebih tertarik dengan isu keberagaman. Mencoba mendekati masyarakat lewat layanan yang diperlukan oleh mereka, seperti informasi lowongan kerja, informasi bea-siswa, dan biro jodoh sehingga mereka tidak merasa didoktrinasi oleh lembaga Bhinneka. Dengan cara ini, kami berharap bisa mempengaruhi pola berpikir masyarakat secara tidak langsung.
 
 d. Aktifitas dan keterkaitan pada sasaran
 
