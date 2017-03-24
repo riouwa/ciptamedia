@@ -120,3 +120,9 @@ d. Aktifitas dan keterkaitan pada sasaran
     2. Ruang untuk membangun toleransi dan pola berpikir kritis dengan menggunakan testimoni pengguna forum yang telah merasakan manfaat langsung dari diskusi online dan harapan timbulnya ide-ide maupun informasi menarik dari forum diskusi. Menggunakan wawancara dengan pengguna forum yang merasakan manfaat diskusi secara langsung. 
     3. Kader untuk mempromosikan keberagaman (promotor) 
     4. Kader untuk merekrut (rekruiter)
+
+  * Kontribusi untuk sasaran C - Memberi pelatihan serta bimbingan belajar gratis kepada remaja serta anak-anak yang tidak mampu.
+
+  Aktivitas:
+
+  Pelatihan menulis akan diberikan kepada remaja dan mahasiswa. Bimbingan belajar akan diberikan kepada anak-anak di Surabaya Selatan, yang telah diidentifikasi sebagai daerah kurang mampu. Bimbingan belajar diberikan selain untuk membantu pelajaran sekolah, juga untuk membuat mereka berpikir lebih kritis dan menerima keberagaman.
