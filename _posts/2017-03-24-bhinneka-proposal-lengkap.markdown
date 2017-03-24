@@ -160,3 +160,41 @@ Adanya aktifitas dan dukungan terhadap lembaga Bhinneka dan kegiatan pluralisme,
 
 * Mahasiswa dan masyarakat luas.
 * Kami juga mencoba mempengaruhi sekelompok remaja dan anak-anak di Surabaya untuk lebih berpikir kritis dan menerima keberagaman.
+
+* g. Hasil yang diharapkan dan indikator keberhasilan
+
+  Umum:
+  1. Pola berpikir masyarakat yang makin kritis dan menentang kekerasan.
+
+  Indikator: adanya dukungan-dukungan terhadap isu keberagaman, dan meningkatnya kritik serta tindakan pencegahan akan kekerasan yang dilakukan atas nama agama.
+
+  Indikator: Meningkatnya kritik atas fundamentalisme agama di media-media massa, bertambahnya kelompok-kelompok yang mempromosikan keberagaman, diterimanya berbagai diskusi kritis agama di sekolah-sekolah dan Universitas.
+
+  2. Terbukanya diskusi kritis tentang agama dan seksualitas di Indonesia (yang masih dianggap tabu oleh kebanyakan orang).
+
+  Indikator:
+  * Surat Pembaca di majalah Bhinneka
+  * Partisipasi peserta dalam diskusi Bhinneka
+  * Komentar di Website, milis dan Facebook
+
+  Khusus:
+  Meningkatnya dukungan masyarakat terhadap proyek Bhinneka, dan meningkatnya pembaca artikel-artikel Bhinneka di website dan Facebook. Jumlah pembaca bisa dilihat di website, sedangkan meningkatnya jumlah fan di Facebook juga menandakan adanya sambutan dari publik.
+
+  Output:
+  * Terbitnya majalah Bhinneka untuk “menandingi” tersebarnya majalah dan buku-buku murah dan bahkan gratis yang diedarkan oleh kelompokkelompok konservatif
+  * Terbentuknya kelompok-kelompok keberagaman remaja untuk mencari solusi akan adanya “trend” radikalisasi agama di sekolah-sekolah
+  * Grup-grup diskusi di Facebook yang dibagi dalam beberapa level (disesuaikan dengan latar belakang anggota) sehingga masyarakat dari berbagai golongan bisa dipengaruhi untuk menerima keberagaman dengan bertahap
+
+  Dampak yang diharapkan:
+  * Berkurangnya kekerasan atas nama agama
+  * Penerimaan keberagaman di Indonesia tanpa kecuali
+  * Tumbuhnya sikap keberagaman pada masyarakat sejak dini
+  * Perbedaan tidak lagi menjadi penghambat dan sumber perselisihan dalam masyarakat, namun menjadi kekayaan
+  * Terciptanya perdamaian
+
+    PENAJAMAN
+    1. Peningkatan kuantitas komentar-komentar berkualitas dari pembaca lewat surat pembaca dan komentar di website Bhinneka maupun melalui sosial media yang akan diadakan Oktober 2012 - Desember 2012. 
+   :* Evaluasi akan dilakukan via Angket Pembaca yang didistribusikan di Edisi Desember 2012 Majalah Bhinneka.
+   :* Evaluasi melalui Online survey yang akan diadakan pada bulan November 2012 - Desember 2012
+   2. Peningkatan permintaan akan Majalah Bhinneka
+   3. Kualitas komentar dan pertanyaan yang diajukan peserta saat bedah buku. Bedah buku yang akan dilakukan 3 bulan setelah peluncuran buku di beberapa kota di Indonesia
