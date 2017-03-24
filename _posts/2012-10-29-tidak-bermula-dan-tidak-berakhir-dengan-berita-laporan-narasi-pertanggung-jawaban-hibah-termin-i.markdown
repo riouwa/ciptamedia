@@ -1,7 +1,7 @@
 ---
 title: Tidak Bermula Dan Tidak Berakhir Dengan Berita - Laporan Narasi Pertanggung
   Jawaban Hibah Termin I
-date: 2017-03-24 18:28:00 +07:00
+date: 2012-10-29 18:28:00 +07:00
 ---
 
 **Ucu Agustin**
