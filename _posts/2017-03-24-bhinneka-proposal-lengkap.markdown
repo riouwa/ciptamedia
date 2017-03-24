@@ -40,33 +40,33 @@ Surabaya
 
 Dengan mempromosikan keberagaman, kami ingin mengubah cara berpikir masyarakat sehingga makin kritis dalam menanggapi wacana fundamentalis yang kian marak. Kami mencoba mendapat dukungan sebanyak mungkin, sehingga massa tergerak untuk mempunyai simpati terhadap isu yang kami angkat.
 
-   PENAJAMAN (Sept 2012)
-   1. Dukungan dan simpati masyarakat (terutama pemuda-pemudi usia 19-25 tahun) terhadap isu keberagaman
-   2. Pola berpikir dan sikap kritis
-   3. Penerimaan dan sikap keberagaman
+     PENAJAMAN (Sept 2012)
+     1. Dukungan dan simpati masyarakat (terutama pemuda-pemudi usia 19-25 tahun) terhadap isu keberagaman
+     2. Pola berpikir dan sikap kritis
+     3. Penerimaan dan sikap keberagaman
 
 **Sasaran:**
 
 * A. Tersedianya materi media massa yang mengampanyekan keberagaman dan mengkritisi wacana fundamentalisme di Indonesia
 
-    PENAJAMAN (Sept 2012)
-    A. Materi untuk membangun toleransi dan pola berpikir kritis
+      PENAJAMAN (Sept 2012)
+      A. Materi untuk membangun toleransi dan pola berpikir kritis
 
 * B. Tersedianya ruang-ruang bagi pertumbuhan logika kritis
 
-    PENAJAMAN (Sept 2012)
-    B. Ruang untuk membangun toleransi dan pola berpikir kritis
+      PENAJAMAN (Sept 2012)
+      B. Ruang untuk membangun toleransi dan pola berpikir kritis
 
 * C. Tersedianya pelatihan keberagaman bagi masyarakat sejak dini, terutama bagi mereka yang tidak mampu
 
-    REVISI (Sept 2012)
-    C. Ditiadakan
+      REVISI (Sept 2012)
+      C. Ditiadakan
 
 * D. Adanya koordinator di berbagai daerah yang mampu merekrut kaderkader baru dan memperkuat jaringan dalam penyebaran wacana keberagaman
 
-    PENAJAMAN (Sept 2012)
-    D.1 Kader untuk mempromosikan keberagaman (promotor)
-    D.2 Kader untuk merekrut orang-orang yang berpotensi dalam mempromosikan keberagaman (recruter) 
+      PENAJAMAN (Sept 2012)
+      D.1 Kader untuk mempromosikan keberagaman (promotor)
+      D.2 Kader untuk merekrut orang-orang yang berpotensi dalam mempromosikan keberagaman (recruter) 
 
 **Latar belakang:**
 
