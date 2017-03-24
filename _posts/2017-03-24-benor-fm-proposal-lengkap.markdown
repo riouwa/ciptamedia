@@ -104,3 +104,7 @@ Melalui program siaran radio, akan didorong komunitas Orang Rimba memanfaatkan f
     Program siaran radio komunitas akan membantu mengkampanyekan budaya dan cara hidup Orang Rimba. Melalui kampanye ini diharapkan komunitas umum semakin menghilangkan berbagai pandangan negatif terhadap Orang Rimba hingga akhirnya merubah sikap dan tindakan yang dapat mengakui dan menghargai keberadaan Orang Rimba. Program siaran radio ini akan banyak disasarkan kepada para pendengar warga desa-desa dimana Orang Rimba tinggal hidup berdampingan. Di sisi lain program radio ini juga akan memuat informasi tentang kehidupan di desa-desa dan norma umum yang berlaku di desa-desa. Dengan demikian program siaran ini akhirnya dapat membantu mengurangi konflik antara kedua belah pihak yang sekarang ini sering terjadi.
 
 * C. Keterkaitan pada kategori: Konten Lokal, Kemitraan, Strategi Kreatif, Aksi, dan Teknologi Tepat Guna
+
+    **Aksi**
+
+    **Strategi kreatif**
