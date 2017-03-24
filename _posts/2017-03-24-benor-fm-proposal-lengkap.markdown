@@ -3,6 +3,8 @@ title: Benor FM - Proposal Lengkap
 date: 2017-03-24 13:30:00 +07:00
 ---
 
+![250px-Benor_FM.jpg](/uploads/250px-Benor_FM.jpg){: .img-responsive .center-block }
+
 Organisasi
 KKI Warsi merupakan NGO yang dalam kegiatannya menghidupkan kembali azas-azas konservasi masyarakat dan mendorong pengembangan model pengelolaan kawasan konservasi di Sumatera khususnya dan di Indonesia umumnya. Tujuan KKI WARSI adalah mengupayakan terciptanya pembangunan dan pengembangan azas-azas konservasi berbasis masyarakat yang berkeadilan, berkesetaraan, partisipatif, keterbukaan dan berkelanjutan sehingga mampu memenuhi kebutuhan dan kesejahteraan hidup manusia masa kini tanpa mengancam pemenuhan kebutuhan hidup generasi berikutnya. Untuk mencapai tujuan tersebut, KKI WARSI akan :
 Mendukung berbagai upaya masyarakat untuk memperoleh akses dan kontrol terhadap sumber daya alam yang adil, demokratis dan lestari.
