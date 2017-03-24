@@ -94,27 +94,27 @@ Melalui pelatihan, pendampingan, distribusi dan kompetisi warga komunitas didoro
 
 * **Kontribusi untuk sasaran A** – Memperkenalkan bias yang dilakukan dalam liputan media melakui video.
 
-Aktivitas:
+  Aktivitas:
 
-Membuat riset dan dokumentasi persepsi 10 wartawan mengenai liputan yang dia atau lembaganya buat dalam bentuk essay video.
+  Membuat riset dan dokumentasi persepsi 10 wartawan mengenai liputan yang dia atau lembaganya buat dalam bentuk essay video.
 
 * **Kontribusi untuk sasaran B** – Penurunan penggunaan diksi dengan tendensi bias negatif dalam pemberitaan komunitas minoritas agama.
 
-Aktivitas:
+  Aktivitas:
 
-Diskusi dan kunjungan yang melibatkan wartawan dan jajaran redaksi media dengan sarana video. Redaksi diminta untuk merubah diksi-diksi tertentu yang sarat bias. Penurunan penggunaan diksi bias dilihat dari pemantuan terhadap hasil pemberitaan sebelum dan sesudah intervensi.
+  Diskusi dan kunjungan yang melibatkan wartawan dan jajaran redaksi media dengan sarana video. Redaksi diminta untuk merubah diksi-diksi tertentu yang sarat bias. Penurunan penggunaan diksi bias dilihat dari pemantuan terhadap hasil pemberitaan sebelum dan sesudah intervensi.
 
 * **Kontribusi untuk sasaran C** - Komunitas minoritas agama di daerah rawan kekerasan memiliki kemampuan melakukan dokumentasi video.
 
-Aktivitas:
+  Aktivitas:
 
-Pelatihan membuat video dokumentasi menggunakan kamera flip atau handphone di 13 titik rawan kekerasan yaitu Jakarta, Bogor, Serang, Tangerang, Cianjur, Sukabumi, Bandung, Tasikmalaya, Kuningan, Mataram, Makasar, Medan, Jogja.
+  Pelatihan membuat video dokumentasi menggunakan kamera flip atau handphone di 13 titik rawan kekerasan yaitu Jakarta, Bogor, Serang, Tangerang, Cianjur, Sukabumi, Bandung, Tasikmalaya, Kuningan, Mataram, Makasar, Medan, Jogja.
 
 * **Kontribusi untuk sasaran D** - Komunitas dapat mempublikasikan dan mendistribusikan video yang dihasilkan.
 
-Aktivitas:
+  Aktivitas:
 
-Membuat website untuk mendistribusikan video, melakukan kunjungan pendampingan dan membuat kompetisi agar peserta pelatihan aktif mengirimkan hasil-hasil mereka. Kelompok yang memenuhi kuota video yang ditetapkan akan mendapat set kamera flip. Kampanye media dilakukan dengan kunjungan media ke lokasi-lokasi rawan kekerasan yang telah memiliki kemampuan dokumentasi.
+  Membuat website untuk mendistribusikan video, melakukan kunjungan pendampingan dan membuat kompetisi agar peserta pelatihan aktif mengirimkan hasil-hasil mereka. Kelompok yang memenuhi kuota video yang ditetapkan akan mendapat set kamera flip. Kampanye media dilakukan dengan kunjungan media ke lokasi-lokasi rawan kekerasan yang telah memiliki kemampuan dokumentasi.
 
 **E. Latar belakang dan demografi pelaku proyek**
 
