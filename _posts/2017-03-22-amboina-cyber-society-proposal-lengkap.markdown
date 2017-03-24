@@ -53,7 +53,7 @@ Masyarakat Pulau Ambon dapat mengakses dan saling bertukar informasi menggunakan
 
 * A. Keterkaitan pada topik: Keadilan dan kesetaraan akses terhadap media
 
-Sejalan dengan Cipta Media Bersama, Maluku Satu Media memandang bahwa penetrasi teknologi informasi dan komunikasi di Indonesia tidak merata. Walau pengguna internet di Indonesia meningkat secara dramatis dan pengguna telepon genggam lebih dari 180 juta, namun masih terpusat di beberapa wilayah dan kelompok tertentu di Indonesia. Akibatnya, akses informasi dan peluang hanya dapat dinikmati sebagian kalangan saja.
+    Sejalan dengan Cipta Media Bersama, Maluku Satu Media memandang bahwa penetrasi teknologi informasi dan komunikasi di Indonesia tidak merata. Walau pengguna internet di Indonesia meningkat secara dramatis dan pengguna telepon genggam lebih dari 180 juta, namun masih terpusat di beberapa wilayah dan kelompok tertentu di Indonesia. Akibatnya, akses informasi dan peluang hanya dapat dinikmati sebagian kalangan saja.
 
 Di Indonesia, “kalangan-kalangan yang beruntung” itu dapat dialamatkan kepada mereka di wilayah perkotaan yang sekaligus adalah bagian dari kalangan menengah ke atas dalam strata ekonomi, serta yang memiliki kemampuan untuk memanfaatkan teknologi informasi.
 
@@ -71,7 +71,7 @@ Amboina Cyber Society ditujukan untuk mengatasi masalah tersebut di atas akan me
 
 * B. Masalah yang ingin diatasi dan keterkaitan dengan aktivitas
 
-Terbatasnya akses pada media informs yang hanya bisa dijangkau oleh kalangan masyarakat tertentu dan di wilayah tertentu karena kelangkaan infrastruktur teknologi informasi serta terbatasnya kemampuan masyarakat untuk menyediakan sendiri jalan-jalan alternatif yang kreatif terkait pemenuhan kebutuhan berbagi informasi.
+    Terbatasnya akses pada media informs yang hanya bisa dijangkau oleh kalangan masyarakat tertentu dan di wilayah tertentu karena kelangkaan infrastruktur teknologi informasi serta terbatasnya kemampuan masyarakat untuk menyediakan sendiri jalan-jalan alternatif yang kreatif terkait pemenuhan kebutuhan berbagi informasi.
 
 * C. Keterkaitan pada kategori: Konten Lokal, Kemitraan, Strategi Kreatif, Aksi, dan Teknologi Tepat Guna
 
