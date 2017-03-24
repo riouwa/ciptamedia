@@ -82,19 +82,19 @@ Oleh karena itu, masyarakat ekonomi kelas bawah akan secara otomatis terbatas da
 
 **Kemitraan**
 
-    Proyek Amboina Cyber Society sejak awal telah dirancang dengan memperhatikan hubungan kemitraan yang mutual dengan pemerintah (pendidikan dan kepariwisataan), swasta (UKM), komunitas-komunitas basis orang muda (blogger Maluku, Malukupedia, Gunung Mimpi, Kali Hidup, dsb.), komunitas-komunitas basis agamais (Angkatan Muda Gereja Protestan Maluku, Muda-mudi Katolik, Remaja Mesjid di kota Ambon), dan kelompok-kelompok masyarakat yang lain.
+Proyek Amboina Cyber Society sejak awal telah dirancang dengan memperhatikan hubungan kemitraan yang mutual dengan pemerintah (pendidikan dan kepariwisataan), swasta (UKM), komunitas-komunitas basis orang muda (blogger Maluku, Malukupedia, Gunung Mimpi, Kali Hidup, dsb.), komunitas-komunitas basis agamais (Angkatan Muda Gereja Protestan Maluku, Muda-mudi Katolik, Remaja Mesjid di kota Ambon), dan kelompok-kelompok masyarakat yang lain.
 
 **Strategi kreatif**
 
-    Keterkaitan pada ketegori ini terletak pada upaya melatih masyarakat untuk secara kreatif menciptakan infrastruktur teknologi informasi yang murah dan sederhana namun bermanfaat untuk memenuhi kebutuhan akses terhadap informasi melalui tindakan berbagi informasi antar individu maupun komunitas.
+Keterkaitan pada ketegori ini terletak pada upaya melatih masyarakat untuk secara kreatif menciptakan infrastruktur teknologi informasi yang murah dan sederhana namun bermanfaat untuk memenuhi kebutuhan akses terhadap informasi melalui tindakan berbagi informasi antar individu maupun komunitas.
 
 **Aksi**
 
-    Memobilisasi anggota komunitas-komunitas dari berbagai latar belakang untuk berkontribusi kepada pelaksanaan proyek Amboina Cyber Society untuk pelatihan kreasi infrastruktur sederhana, pelatihan guna peningkatan kemampuan memanfaatkan teknologi yang tepat guna dan turut berkontribusi bagi penyediaan konten lokal pada portal media informasi.
+Memobilisasi anggota komunitas-komunitas dari berbagai latar belakang untuk berkontribusi kepada pelaksanaan proyek Amboina Cyber Society untuk pelatihan kreasi infrastruktur sederhana, pelatihan guna peningkatan kemampuan memanfaatkan teknologi yang tepat guna dan turut berkontribusi bagi penyediaan konten lokal pada portal media informasi.
 
 **Teknologi Tepat Guna**
 
-    Melatih masyarakat untuk membuat sendiri infrastruktur teknologi informasi dan komunikasi dari berbagai materi sederhana dan murah sehingga masyarakat dapat secara mandiri untuk memenuhi kebutuhan akses informasi.
+Melatih masyarakat untuk membuat sendiri infrastruktur teknologi informasi dan komunikasi dari berbagai materi sederhana dan murah sehingga masyarakat dapat secara mandiri untuk memenuhi kebutuhan akses informasi.
 
 * D. Aktifitas dan keterkaitan pada sasaran
 
