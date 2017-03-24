@@ -47,8 +47,38 @@ Dengan mempromosikan keberagaman, kami ingin mengubah cara berpikir masyarakat s
 
 **Sasaran:**
 
+* A. Tersedianya materi media massa yang mengampanyekan keberagaman dan mengkritisi wacana fundamentalisme di Indonesia
+
+    PENAJAMAN (Sept 2012)
+    A. Materi untuk membangun toleransi dan pola berpikir kritis
+
+* B. Tersedianya ruang-ruang bagi pertumbuhan logika kritis
+
+    PENAJAMAN (Sept 2012)
+    B. Ruang untuk membangun toleransi dan pola berpikir kritis
+
+* C. Tersedianya pelatihan keberagaman bagi masyarakat sejak dini, terutama bagi mereka yang tidak mampu
+
+    REVISI (Sept 2012)
+    C. Ditiadakan
+
+* D. Adanya koordinator di berbagai daerah yang mampu merekrut kaderkader baru dan memperkuat jaringan dalam penyebaran wacana keberagaman
+
+    PENAJAMAN (Sept 2012)
+    D.1 Kader untuk mempromosikan keberagaman (promotor)
+    D.2 Kader untuk merekrut orang-orang yang berpotensi dalam mempromosikan keberagaman (recruter) 
+
 **Latar belakang:**
 
+a.Keterkaitan pada topik: Meretas batas – kebhinekaan bermedia
+
+Indonesia memegang filosofi keberagaman yang tertuang dalam semboyan “Bhinneka Tunggal Ika”. Tetapi, gerak pendulum keberagaman Indonesia berada di tengah ancaman karena begitu banyak organisasi fundamentalis yang menunjukkan taringnya.
+
+b. Masalah yang ingin diatasi dan keterkaitan dengan aktivitas
+
+1. Wacana fundamentalisme semakin menyebar dan sekarang telah merambat ke sekolah-sekolah serta universitas. Telah banyak buku-buku dan majalah murah (bahkan gratis) yang didanai organisasi fundamentalis, untuk mempromosikan ideologi keagamaan mereka, dan berhasil menarik simpati massa.
+2. Beberapa Jurnal atau majalah yang memperjuangkan pluralisme di Indonesia, seringkali terlihat eksklusif, jangkauannya terbatas dan terkadang cukup mahal, sehingga media seperti ini tidak membawa perubahan yang mendasar di masyarakat.
+3. Beberapa kelompok masyarakat menghubungkan keberagaman (terutama seksual) dengan budaya Barat sehingga mereka menolak wacana keberagaman.
 
   **Strategi kreatif**
 
