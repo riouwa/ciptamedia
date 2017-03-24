@@ -192,3 +192,12 @@ Melalui program siaran radio, akan didorong komunitas Orang Rimba memanfaatkan f
   Masyarakat desa yang berada di Kecamatan Air Hitam, terdiri dari Desa Bukit Suban, Pematang Kabau, Lubuk Jering, Jernih dan Dusun Baru. Desa-desa yang berada di Kecamatan Tabir Selatan Merangin, yang terdiri dari SP B, SP A, dan SP C dan Rawa Jaya, desa-desa ini paling tinggi intensitasnya dalam berinteraksi dengan Orang Rimba Bukit Duabelas.
 
 * G. Hasil yang diharapkan dan indikator keberhasilan
+  * Orang Rimba di Bukit Duabelas meningkat kualitas hidup melalui pendidikan, informasi dan layanan kesehatan dan kegiatan ekonomi melalui media Radio Komunitas. Orang Rimba melalui radio ini, juga diharapkan akan hidup berdampingan dengan masyarakat desa, dengan pola saling menghormati berdasarkan jati diri masing-masing.
+
+  Indikator keberhasilan:
+  * Orang Rimba yang terbebas dari buta aksara berjumlah 600 orang dan yang dapat mengakses sekolah lanjutan tingkat pertama berjumlah 20 orang.
+  * Penderita TBC berkurang 40%, mengentaskan penyakit kulit losong hingga 95%.
+  * Akses layanan kesehatan pemerintah ke Orang Rimba meningkat 75%.
+  * Pendapatan Orang Rimba meningkat 50% melalui pengembangan pertanian dan perkebunan karet.
+  * Berkurangnya konflik Orang Rimba dan masyarakat desa secara signifikan.
+  * Tersebarnya norma-norma Orang Rimba ke masyarakat desa dan norma umum ke Orang Rimba.
