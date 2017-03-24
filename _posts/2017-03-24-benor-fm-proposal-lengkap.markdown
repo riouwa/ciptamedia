@@ -122,7 +122,7 @@ Melalui program siaran radio, akan didorong komunitas Orang Rimba memanfaatkan f
 
 * D. Aktifitas dan keterkaitan pada sasaran
 
-    **Kontribusi untuk sasaran A** – Studio dan pemancar radio komunitas yang dapat melakukan siaran secara berkelanjutan.
+  **Kontribusi untuk sasaran A** – Studio dan pemancar radio komunitas yang dapat melakukan siaran secara berkelanjutan.
 
   Aktivitas:
   * Menyiapkan ruangan studio dan pemancar radio, serta membangun stasiun relay di puncak Gunung Panggang, agar siarannya dapat dijangkau oleh kelompok Orang Rimba yang lebih luas (Lihat gambar 1 dan 2).
@@ -136,7 +136,7 @@ Melalui program siaran radio, akan didorong komunitas Orang Rimba memanfaatkan f
   * Ada ijin siaran radio komunitas.
   * Ada sumber daya manusia yang mampu mengelola radio komunitas.
 
-    **Kontribusi untuk sasaran B** – Program siaran radio yang mendukung kegiatan pendidikan bagi Orang Rimba.
+  **Kontribusi untuk sasaran B** – Program siaran radio yang mendukung kegiatan pendidikan bagi Orang Rimba.
 
   Aktivitas:
   * Bersama Orang Rimba menyusun materi siaran pendidikan.
@@ -145,7 +145,8 @@ Melalui program siaran radio, akan didorong komunitas Orang Rimba memanfaatkan f
 
   Indikator:
   Jumlah anak-anak rimba yang berkemampuan membaca, menulis dan berhitung meningkat dari 300 anak saat ini menjadi 600 anak.
-Kontribusi untuk sasaran C - Program siaran radio yang memuat kampanye informasi tentang layanan kesehatan bagi Orang Rimba.
+
+  **Kontribusi untuk sasaran C** - Program siaran radio yang memuat kampanye informasi tentang layanan kesehatan bagi Orang Rimba.
 
   Aktivitas:
   * Bersama Orang Rimba menyusun berbagai acara radio kesehatan untuk mengkampanyekan pola hidup sehat, pencegahan penyakit dan penanganannya.
@@ -153,7 +154,8 @@ Kontribusi untuk sasaran C - Program siaran radio yang memuat kampanye informasi
 
   Indikator:
   * Penyakit-penyakit yang menyerang Orang Rimba terutama penyakit menular dapat menurun dengan cepat. Penyakit TBC dan penyakit kulit berkurang hingga 40%, mengentaskan penyakit kulit losong hingga 95%. Akses layanan kesehatan pemerintah ke Orang Rimba meningkat 75%.
-  * Kontribusi untuk sasaran D - Dukungan pemberdayaan ekonomi berupa pemberian informasi tentang harga, akses pasar, serta sarana pengembangan koperasi.
+
+  * **Kontribusi untuk sasaran D** - Dukungan pemberdayaan ekonomi berupa pemberian informasi tentang harga, akses pasar, serta sarana pengembangan koperasi.
 
   Aktivitas:
   * Menyusun program siaran yang memberikan informasi tentang harga-harga komoditas.
@@ -162,7 +164,8 @@ Kontribusi untuk sasaran C - Program siaran radio yang memuat kampanye informasi
 
   Indikator:
   * Pendapatan Orang Rimba meningkat hingga 50% melalui sektor pertanian dan penjualan hasil hutan non kayu seperti rotan, jernang, damar, dan lain-lain.
-  * Kontribusi untuk sasaran E - Adanya program radio yang mengkampanyekan perlindungan terhadap komunitas Orang Rimba, pengakuan keberadaan Orang Rimba dan menghilangkan stigma negatif Orang Rimba.
+
+  * **Kontribusi untuk sasaran E** - Adanya program radio yang mengkampanyekan perlindungan terhadap komunitas Orang Rimba, pengakuan keberadaan Orang Rimba dan menghilangkan stigma negatif Orang Rimba.
 
   Aktivitas:
   * Menyusun program siaran untuk kampanye perlindungan Orang Rimba dan perlindungan kawasan Orang Rimba di TNBD.
