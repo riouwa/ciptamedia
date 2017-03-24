@@ -50,9 +50,9 @@ Dengan mempromosikan keberagaman, kami ingin mengubah cara berpikir masyarakat s
 **Latar belakang:**
 
 
-    **Strategi kreatif**
+  **Strategi kreatif**
 
     
-    **Aksi**
+  **Aksi**
 
     
