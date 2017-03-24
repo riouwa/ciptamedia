@@ -121,3 +121,13 @@ Keterlibatan Orang Rimba pada toke untuk mendapatkan sembako berkurang dengan ad
 * Akses Orang Rimba kepada fasilitas umum (pendidikan, kesehatan dan pelayanan publik lainnya) jauh lebih terbuka dan diterima.
 * Adanya sarana komunikasi yang cukup efektif antara Orang Rimba, warga sekitar, dan pemerintahan.
 * Interaksi antara warga desa dengan Orang Rimba lebih intens dan lebih dekat karena kunjungan warga desa ke studio menjadi sarana interaksi yang cukup efektif. Hal ini juga terlihat saat dilakukannya kegiatan perlombaan dan adu ketangkasan antara warga desa dan Orang Rimba dalam rangka memperingati hari Sumpah Pemuda di sekitar Studio dan kantor lapangan KKI WARSI.
+
+**Tantangan/ masalah organisasi/ pengelolaan yang dihadapi**
+
+  Isu-isu manajemen atau organisasi apakah yang anda hadapi pada saat anda menuliskan laporan ini (apakah ada perubahan signifikan pada komposisi staf/ dewan atau anggota tim anda. Apakah ada faktor-faktor lain yang dapat membatasi kemampuan organisasi/ komunitas anda untuk mengumpulkan data dan menerjemahkan data data keuangan atau aktifitas yang terkait dengan program dalam tujuan awal). Bila mungkin juga tuliskan dan tekankan kebutuhan yang belum terpenuhi/ teridentifikasi sebelumnya dalam menangani penguatan organisasi/ komunitas anda:
+
+* Telah terjadi perubahan penanggung jawab pengelolaan radio Benor FM dari Program Komunikasi Informasi ke Proyek B-12 yang juga menyebabkan terjadi perubahan staf pengelolaan
+* Kebutuhan yang belum teridentifikasi sebelumnya adalah jangkauan siaran yang masih terbatas. Sedangkan sebaran komunitas sangat luas, terutama yang tinggal di kawasan Utara dan Timur TNBD.
+* Di level kebijakan Keputusan Menteri Komunikasi dan Informasi yang membatasi jangkauan siaran radio klasifikasi C hanya 12 km.
+* Benturan budaya malu yang ada pada Orang Rimba bila berhadapan dengan warga masyarakat umum masih sangat tinggi.
+* Intensitas pendengar pada kelompok Orang Rimba dapat mengalami penurunan sebagai akibat dari budaya Melangun.
