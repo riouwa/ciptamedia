@@ -123,3 +123,13 @@ Aktivitas:
 1. Melakukan monitoring dan evaluasi terhadap pelaksanaan proyek Amboina Cyber Society
 2. Merancangkan rencana tindak lanjut berdasarkan hasil monitoring dan evaluasi.
 3. Membuat pertanggungjawaban proyek secara transparan dan berkala yang disediakan secara internet maupun intranet pada portal website terkait penggunaan dana dan pelaksanaan proyek.
+
+* E. Latar belakang dan demografi pelaku proyek
+
+**Pemimpin proyek**
+
+Laki-laki usia 28 tahun yang berpengalaman di bidang teknologi informasi dan komunikasi sebagai konsultan dan content developper kurang lebih 4 tahun di Maluku.
+
+**Pelaku Proyek**
+
+Orang-orang muda dari berbagai komunitas di kota Ambon dan dari berbagai latar belakang agama dan disiplin ilmu dengan rentang usia dari 22 sampai 47 tahun.
