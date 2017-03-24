@@ -245,19 +245,19 @@ Penentuan waktu, penyiapan tempat dan materi pelatihan (koordinasi dengan JRKI)
 
   * Jumlah akses tertinggi tertinggi pada September 2012 dengan jumlah Hits 39.758, atau rata-rata per hari 1325, dengan total pengunjung 112 orang/hari atau 3377 selama September 2012.
 
-![775px-Situs_Web_Fundraising_Info_PIRAC_Agustus_2012_-_Jan_2013-db8820.png](/uploads/775px-Situs_Web_Fundraising_Info_PIRAC_Agustus_2012_-_Jan_2013-db8820.png){: .img-responsive .center-block }
+![775px-Situs_Web_Fundraising_Info_PIRAC_Agustus_2012_-_Jan_2013-d01cd2.png](/uploads/775px-Situs_Web_Fundraising_Info_PIRAC_Agustus_2012_-_Jan_2013-d01cd2.png){: .img-responsive .center-block }
  
 
  * Dari laporan statistik ini, terlihat bahwa sejak web ini Online Agustus 2012, melihatkan data kunjungan yang terus meningkat. Dimana hits (jumlah permintaan akses ke server) tertinggi berada pada September 2012 dengan jumlah Hits 39.758. Dengan rata-rata per hari 1325, dengan total pengunjung 112 orang/hari atau 3377 selama September 2012.
 
  * Jumlah halaman yang diakses (pageview) di Bulan September 2012 hanya 279 halaman per hari dan 8393 halaman selama bulan September 2012. Sementara jika dilihat kunjungan berdasarkan negara terlihat 62 persen tidak terdekteksi negara pengunjung, dikarenakan perangkat yang digunakan untuk mengakses web ini tidak terverifikasi. Sementara kunjungan dari Indonesia sebanyak 16 persen, US 12 persen, Itali 2 persen dan Thailand 1 persen, dan lainnya.
 
-![325px-Situs_Web_Fundraising_Sept_2012.png](/uploads/325px-Situs_Web_Fundraising_Sept_2012.png){: .img-responsive .left-block }
-![325px-Situs_Web_Fundraising_pipa_Sept_2012.png](/uploads/325px-Situs_Web_Fundraising_pipa_Sept_2012.png){: .img-responsive .right-block }
+![325px-Situs_Web_Fundraising_Sept_2012.png](/uploads/325px-Situs_Web_Fundraising_Sept_2012.png){: .img-responsive .center-block }
+![325px-Situs_Web_Fundraising_pipa_Sept_2012.png](/uploads/325px-Situs_Web_Fundraising_pipa_Sept_2012.png){: .img-responsive .center-block }
 
 Setelah kunjungan terbesar di bulan September 2012, kunjungan di bulan Desember 2012 berada pada jumlah hits kedua terbanyak, yaitu: 31010 Hits, dengan 1000 hits/per hari dan jumlah kunjungan per hari 196 orang atau 6099 orang selama bulan Desember 2012 tersebut. Namun jumlah halaman yang diakses selama Desember 2012 lebih banyak ketimbang di bulan September 2012. Di mana di bulan Desember 2012 sebanyak 398 per hari dan untuk selama Desember 2012 sebanyak 12364 halaman. Sangat berbeda jauh dengan jumlah kunjungan di bulan September 2012, yang hanya 8393 halaman selama bulan September 2012.
 
-![375px-Situs_Web_Fundraising_Des_2012.png](/uploads/375px-Situs_Web_Fundraising_Des_2012.png){: .img-responsive .left-block }
+![375px-Situs_Web_Fundraising_Des_2012.png](/uploads/375px-Situs_Web_Fundraising_Des_2012.png){: .img-responsive .center-block }
 ![375px-Situs_Web_Fundraising_pipa_Des_2012.png](/uploads/375px-Situs_Web_Fundraising_pipa_Des_2012.png){: .img-responsive .center-block }
 
 Dari gambaran statistik di atas dapat disimpulkan :
