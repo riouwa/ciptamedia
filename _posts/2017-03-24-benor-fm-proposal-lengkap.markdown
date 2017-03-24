@@ -186,3 +186,7 @@ Melalui program siaran radio, akan didorong komunitas Orang Rimba memanfaatkan f
     Empat personal yang memiliki kemampuan dibidang IT dan komunikasi yang diyakini dapat mengembangkan media radio komunitas untuk kemajuan Orang Rimba.
 
 * F. Demografik kelompok target
+
+  Orang Rimba dilingkup Bukit Duabelas yang berada di bawah naungan 10 tumenggung yang tersebar di Sungai Air Hitam, Kejasung Besar, Kejasung Kecil, Serengam dan Makekal. Orang Rimba yang berada di sekitar Areal Transmigrasi Hitam Hulu dan Hak Guna Usaha perusahaan besar swasta nasional PT. SAL, PT. JAW, dan PT. Emal.
+
+  Masyarakat desa yang berada di Kecamatan Air Hitam, terdiri dari Desa Bukit Suban, Pematang Kabau, Lubuk Jering, Jernih dan Dusun Baru. Desa-desa yang berada di Kecamatan Tabir Selatan Merangin, yang terdiri dari SP B, SP A, dan SP C dan Rawa Jaya, desa-desa ini paling tinggi intensitasnya dalam berinteraksi dengan Orang Rimba Bukit Duabelas.
