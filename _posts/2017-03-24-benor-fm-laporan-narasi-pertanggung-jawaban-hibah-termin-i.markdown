@@ -102,4 +102,4 @@ D. Adanya program siaran radio yang mengkampanyekan informasi tentang layanan ke
 E. Adanya program siaran radio yang mendukung pemberdayaan ekonomi berupa pemberian informasi tentang harga, akses pasar, serta sarana pengembangan koperasi.
 F. Adanya program siaran radio yang mengkampanyekan perlindungan, pengakuan dan kampanye menghilangkan stigma negatif dan sebutan yang “merendahkan” tentang Orang Rimba. Kampanye juga ditujukan untuk mengurangi konflik antar masyarakat desa dengan Orang Rimba. (tahun 2011 tercatat 3 luka berat dan 3 meninggal).
 
-Tujuan yang berhasil dicapai hingga saat ini
+Tujuan yang berhasil dicapai hingga saat ini:
