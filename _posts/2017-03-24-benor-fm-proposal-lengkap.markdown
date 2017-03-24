@@ -149,23 +149,23 @@ Melalui program siaran radio, akan didorong komunitas Orang Rimba memanfaatkan f
   **Kontribusi untuk sasaran C** - Program siaran radio yang memuat kampanye informasi tentang layanan kesehatan bagi Orang Rimba.
 
   Aktivitas:
-  * Bersama Orang Rimba menyusun berbagai acara radio kesehatan untuk mengkampanyekan pola hidup sehat, pencegahan penyakit dan penanganannya.
-  * Melakukan siaran kesehatan dan talk show yang melibatkan instansi terkait untuk memberikan penyuluhan kesehatan.
+    * Bersama Orang Rimba menyusun berbagai acara radio kesehatan untuk mengkampanyekan pola hidup sehat, pencegahan penyakit dan penanganannya.
+    * Melakukan siaran kesehatan dan talk show yang melibatkan instansi terkait untuk memberikan penyuluhan kesehatan.
 
-  Indikator:
-  * Penyakit-penyakit yang menyerang Orang Rimba terutama penyakit menular dapat menurun dengan cepat. Penyakit TBC dan penyakit kulit berkurang hingga 40%, mengentaskan penyakit kulit losong hingga 95%. Akses layanan kesehatan pemerintah ke Orang Rimba meningkat 75%.
+    Indikator:
+    * Penyakit-penyakit yang menyerang Orang Rimba terutama penyakit menular dapat menurun dengan cepat. Penyakit TBC dan penyakit kulit berkurang hingga 40%, mengentaskan penyakit kulit losong hingga 95%. Akses layanan kesehatan pemerintah ke Orang Rimba meningkat 75%.
 
-    * **Kontribusi untuk sasaran D** - Dukungan pemberdayaan ekonomi berupa pemberian informasi tentang harga, akses pasar, serta sarana pengembangan koperasi.
+  * **Kontribusi untuk sasaran D** - Dukungan pemberdayaan ekonomi berupa pemberian informasi tentang harga, akses pasar, serta sarana pengembangan koperasi.
 
-  Aktivitas:
-  * Menyusun program siaran yang memberikan informasi tentang harga-harga komoditas.
-  * Melakukan talk show yang berkaitan dengan cara-cara pengelolaan pertanian menetap dan pengelolaan komoditas hasil hutan.
-  * Mengkampanyekan koperasi sebagai lembaga usaha bersama untuk melepaskan ikatan monopoli toke.
+    Aktivitas:
+    * Menyusun program siaran yang memberikan informasi tentang harga-harga komoditas.
+    * Melakukan talk show yang berkaitan dengan cara-cara pengelolaan pertanian menetap dan pengelolaan komoditas hasil hutan.
+    * Mengkampanyekan koperasi sebagai lembaga usaha bersama untuk melepaskan ikatan monopoli toke.
 
-  Indikator:
-  * Pendapatan Orang Rimba meningkat hingga 50% melalui sektor pertanian dan penjualan hasil hutan non kayu seperti rotan, jernang, damar, dan lain-lain.
+    Indikator:
+    * Pendapatan Orang Rimba meningkat hingga 50% melalui sektor pertanian dan penjualan hasil hutan non kayu seperti rotan, jernang, damar, dan lain-lain.
 
-    * **Kontribusi untuk sasaran E** - Adanya program radio yang mengkampanyekan perlindungan terhadap komunitas Orang Rimba, pengakuan keberadaan Orang Rimba dan menghilangkan stigma negatif Orang Rimba.
+  * **Kontribusi untuk sasaran E** - Adanya program radio yang mengkampanyekan perlindungan terhadap komunitas Orang Rimba, pengakuan keberadaan Orang Rimba dan menghilangkan stigma negatif Orang Rimba.
 
   Aktivitas:
   * Menyusun program siaran untuk kampanye perlindungan Orang Rimba dan perlindungan kawasan Orang Rimba di TNBD.
