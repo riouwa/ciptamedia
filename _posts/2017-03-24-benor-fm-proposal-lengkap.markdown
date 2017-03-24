@@ -225,7 +225,7 @@ Yang diminta dari Ford Foundation melalui Cipta Media Bersama: Rp. 568.340.000 (
 *  K. Kontribusi organisasi:
 
   Ruangan kantor staff dan ruangan studio.
-Gaji staff proyek dan pengelola radio.
+  Gaji staff proyek dan pengelola radio.
 
 * L. Kontribusi dari kelompok target:
 
