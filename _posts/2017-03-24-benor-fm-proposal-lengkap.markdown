@@ -114,3 +114,55 @@ Melalui program siaran radio, akan didorong komunitas Orang Rimba memanfaatkan f
     **Strategi kreatif**
 
     Menumbuhkan partisipasi penuh Orang Rimba dalam penyiapan materi siaran, menjadikan mereka sebagai penyiar aktif. Dari sisi audient akan dibangun kelompok-kelompok pendengar aktif, baik di komunitas Orang Rimba ataupun di masyarakat desa. Materi siaran pendidikan, informasi kesehatan, informasi ekonomi, juga akan diramaikan dengan informasi budaya dan keberagaman yang dimiliki Orang Rimba dan masyarakat desa, sehingga tercipta kesaling pemahaman diantara mereka.
+
+* D. Aktifitas dan keterkaitan pada sasaran
+
+    **Kontribusi untuk sasaran A** – Studio dan pemancar radio komunitas yang dapat melakukan siaran secara berkelanjutan.
+
+  Aktivitas:
+  * Menyiapkan ruangan studio dan pemancar radio, serta membangun stasiun relay di puncak Gunung Panggang, agar siarannya dapat dijangkau oleh kelompok Orang Rimba yang lebih luas (Lihat gambar 1 dan 2).
+  * Mengurus perijinan dan sertifikasi alat.
+  * Menyiapkan sumber daya manusia, dengan melakukan pelatihan dan kunjungan belajar.
+  * Menyusun program siaran secara partisipatif dan melakukan uji coba siaran.
+  * Melakukan seremoni peluncuran siaran perdana.
+
+  Indikator:
+  * Ada ruangan studio, peralatan pemancar, dan stasiun relay di puncak gunung
+  * Ada ijin siaran radio komunitas.
+  * Ada sumber daya manusia yang mampu mengelola radio komunitas.
+
+    **Kontribusi untuk sasaran B** – Program siaran radio yang mendukung kegiatan pendidikan bagi Orang Rimba.
+
+  Aktivitas:
+  * Bersama Orang Rimba menyusun materi siaran pendidikan.
+  * Bersama kader pendidikan akan menyiapkan kelompok-kelompok pendengar.
+  * Melakukan siaran pendidikan dan talk show.
+
+  Indikator:
+  Jumlah anak-anak rimba yang berkemampuan membaca, menulis dan berhitung meningkat dari 300 anak saat ini menjadi 600 anak.
+Kontribusi untuk sasaran C - Program siaran radio yang memuat kampanye informasi tentang layanan kesehatan bagi Orang Rimba.
+
+  Aktivitas:
+  * Bersama Orang Rimba menyusun berbagai acara radio kesehatan untuk mengkampanyekan pola hidup sehat, pencegahan penyakit dan penanganannya.
+  * Melakukan siaran kesehatan dan talk show yang melibatkan instansi terkait untuk memberikan penyuluhan kesehatan.
+
+  Indikator:
+  * Penyakit-penyakit yang menyerang Orang Rimba terutama penyakit menular dapat menurun dengan cepat. Penyakit TBC dan penyakit kulit berkurang hingga 40%, mengentaskan penyakit kulit losong hingga 95%. Akses layanan kesehatan pemerintah ke Orang Rimba meningkat 75%.
+  * Kontribusi untuk sasaran D - Dukungan pemberdayaan ekonomi berupa pemberian informasi tentang harga, akses pasar, serta sarana pengembangan koperasi.
+
+  Aktivitas:
+  * Menyusun program siaran yang memberikan informasi tentang harga-harga komoditas.
+  * Melakukan talk show yang berkaitan dengan cara-cara pengelolaan pertanian menetap dan pengelolaan komoditas hasil hutan.
+  * Mengkampanyekan koperasi sebagai lembaga usaha bersama untuk melepaskan ikatan monopoli toke.
+
+  Indikator:
+  * Pendapatan Orang Rimba meningkat hingga 50% melalui sektor pertanian dan penjualan hasil hutan non kayu seperti rotan, jernang, damar, dan lain-lain.
+  * Kontribusi untuk sasaran E - Adanya program radio yang mengkampanyekan perlindungan terhadap komunitas Orang Rimba, pengakuan keberadaan Orang Rimba dan menghilangkan stigma negatif Orang Rimba.
+
+  Aktivitas:
+  * Menyusun program siaran untuk kampanye perlindungan Orang Rimba dan perlindungan kawasan Orang Rimba di TNBD.
+  * Melakukan siaran untuk mengkampanyekan berbagai aspek budaya Orang Rimba ke komunitas desa-desa.
+  * Melakukan temu ramah di studio antara kelompok-kelompok pendengar Orang Rimba dengan masyarakat desa.
+
+  Indikator:
+  Konflik antara Orang Rimba dan masyarakat desa semakin berkurang. Masyarakat desa mau menerima Orang Rimba sebagai tamu dirumahnya.
