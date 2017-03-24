@@ -33,3 +33,8 @@ Pemimpin Proyek
 **Lokasi**
 
 Surabaya
+
+**Deskripsi Proyek**
+
+**Tujuan:**
+
