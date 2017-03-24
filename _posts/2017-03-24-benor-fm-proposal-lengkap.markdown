@@ -212,3 +212,22 @@ Melalui program siaran radio, akan didorong komunitas Orang Rimba memanfaatkan f
   **Keadilan sosial**
 
   Proyek ini akan berkontribusi untuk menjadikan komunitas Orang Rimba lebih berdaya saing, sehingga strata kehidupan Orang Rimba meningkat dan dapat sejajar dengan masyarakat pada umumnya. Pada akhirnya stereotip negatif tentang Orang Rimba akan hilang.
+
+* I. Durasi waktu aktifitas dilaksanakan:
+
+  Januari 2012-Desember 2015 (Tiga tahun dan bersinergi dengan program Warsi). Proyek ini berkelanjutan.
+
+* J. Total kebutuhan dana untuk melakukan aktifitas:
+
+  Rp. 765.340.000
+Yang diminta dari Ford Foundation melalui Cipta Media Bersama: Rp. 568.340.000 (rincian terlampir)
+
+*  K. Kontribusi organisasi:
+
+  Ruangan kantor staff dan ruangan studio.
+Gaji staff proyek dan pengelola radio.
+
+* L. Kontribusi dari kelompok target:
+
+  Partisipasi melalui waktu dan tenaga dalam pembangunan studio, sebagai penyiar radio, serta menghadiri kegiatan-kegiatan radio komunitas.
+
