@@ -124,31 +124,31 @@ Melalui program siaran radio, akan didorong komunitas Orang Rimba memanfaatkan f
 
   **Kontribusi untuk sasaran A** – Studio dan pemancar radio komunitas yang dapat melakukan siaran secara berkelanjutan.
 
-  Aktivitas:
-  * Menyiapkan ruangan studio dan pemancar radio, serta membangun stasiun relay di puncak Gunung Panggang, agar siarannya dapat dijangkau oleh kelompok Orang Rimba yang lebih luas (Lihat gambar 1 dan 2).
-  * Mengurus perijinan dan sertifikasi alat.
-  * Menyiapkan sumber daya manusia, dengan melakukan pelatihan dan kunjungan belajar.
-  * Menyusun program siaran secara partisipatif dan melakukan uji coba siaran.
-  * Melakukan seremoni peluncuran siaran perdana.
+    Aktivitas:
+    * Menyiapkan ruangan studio dan pemancar radio, serta membangun stasiun relay di puncak Gunung Panggang, agar siarannya dapat dijangkau oleh kelompok Orang Rimba yang lebih luas (Lihat gambar 1 dan 2).
+    * Mengurus perijinan dan sertifikasi alat.
+    * Menyiapkan sumber daya manusia, dengan melakukan pelatihan dan kunjungan belajar.
+    * Menyusun program siaran secara partisipatif dan melakukan uji coba siaran.
+    * Melakukan seremoni peluncuran siaran perdana.
 
-  Indikator:
-  * Ada ruangan studio, peralatan pemancar, dan stasiun relay di puncak gunung
-  * Ada ijin siaran radio komunitas.
-  * Ada sumber daya manusia yang mampu mengelola radio komunitas.
+    Indikator:
+    * Ada ruangan studio, peralatan pemancar, dan stasiun relay di puncak gunung
+    * Ada ijin siaran radio komunitas.
+    * Ada sumber daya manusia yang mampu mengelola radio komunitas.
 
   **Kontribusi untuk sasaran B** – Program siaran radio yang mendukung kegiatan pendidikan bagi Orang Rimba.
 
-  Aktivitas:
-  * Bersama Orang Rimba menyusun materi siaran pendidikan.
-  * Bersama kader pendidikan akan menyiapkan kelompok-kelompok pendengar.
-  * Melakukan siaran pendidikan dan talk show.
+    Aktivitas:
+    * Bersama Orang Rimba menyusun materi siaran pendidikan.
+    * Bersama kader pendidikan akan menyiapkan kelompok-kelompok pendengar.
+    * Melakukan siaran pendidikan dan talk show.
 
-  Indikator:
-  Jumlah anak-anak rimba yang berkemampuan membaca, menulis dan berhitung meningkat dari 300 anak saat ini menjadi 600 anak.
+    Indikator:
+    Jumlah anak-anak rimba yang berkemampuan membaca, menulis dan berhitung meningkat dari 300 anak saat ini menjadi 600 anak.
 
   **Kontribusi untuk sasaran C** - Program siaran radio yang memuat kampanye informasi tentang layanan kesehatan bagi Orang Rimba.
 
-  Aktivitas:
+    Aktivitas:
     * Bersama Orang Rimba menyusun berbagai acara radio kesehatan untuk mengkampanyekan pola hidup sehat, pencegahan penyakit dan penanganannya.
     * Melakukan siaran kesehatan dan talk show yang melibatkan instansi terkait untuk memberikan penyuluhan kesehatan.
 
@@ -167,13 +167,13 @@ Melalui program siaran radio, akan didorong komunitas Orang Rimba memanfaatkan f
 
   * **Kontribusi untuk sasaran E** - Adanya program radio yang mengkampanyekan perlindungan terhadap komunitas Orang Rimba, pengakuan keberadaan Orang Rimba dan menghilangkan stigma negatif Orang Rimba.
 
-  Aktivitas:
-  * Menyusun program siaran untuk kampanye perlindungan Orang Rimba dan perlindungan kawasan Orang Rimba di TNBD.
-  * Melakukan siaran untuk mengkampanyekan berbagai aspek budaya Orang Rimba ke komunitas desa-desa.
-  * Melakukan temu ramah di studio antara kelompok-kelompok pendengar Orang Rimba dengan masyarakat desa.
+    Aktivitas:
+    * Menyusun program siaran untuk kampanye perlindungan Orang Rimba dan perlindungan kawasan Orang Rimba di TNBD.
+    * Melakukan siaran untuk mengkampanyekan berbagai aspek budaya Orang Rimba ke komunitas desa-desa.
+    * Melakukan temu ramah di studio antara kelompok-kelompok pendengar Orang Rimba dengan masyarakat desa.
 
-  Indikator:
-  Konflik antara Orang Rimba dan masyarakat desa semakin berkurang. Masyarakat desa mau menerima Orang Rimba sebagai tamu dirumahnya.
+    Indikator:
+    Konflik antara Orang Rimba dan masyarakat desa semakin berkurang. Masyarakat desa mau menerima Orang Rimba sebagai tamu dirumahnya.
 
 * E. Latar belakang dan demografi pelaku proyek
 
