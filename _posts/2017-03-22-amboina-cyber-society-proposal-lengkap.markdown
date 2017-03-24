@@ -98,14 +98,14 @@ Melatih masyarakat untuk membuat sendiri infrastruktur teknologi informasi dan k
 
 * D. Aktifitas dan keterkaitan pada sasaran
 
-* **Kontribusi untuk sasaran A** – Melakukan pelatihan-pelatihan kepada kelompok-kelompok masyarakat untuk membangun infrastruktur jaringan komputer berbasis wireless.
+**Kontribusi untuk sasaran A** – Melakukan pelatihan-pelatihan kepada kelompok-kelompok masyarakat untuk membangun infrastruktur jaringan komputer berbasis wireless.
 
   Aktivitas:
 
 1. Melatih 600 orang dari berbagai komunitas masyarakat untuk membangun infrastruktur jaringan komputer berbasis wireless yang dibuat secara kreatif dan ekonomis.
 2. Melatih 600 orang dari berbagai komunitas masyarakat untuk menggunakan dan merawat jaringan komputer berbasis wireless.
 
-* **Kontribusi untuk sasaran B** – Melatihnya kelompok-kelompok masyarakat untuk menggunakan portal website dalam rangka bertukar informasi dalam komunitas maupun antar kamunitas di pulau Ambon dengan menggunakan jaringan computer berbasis wireless.
+**Kontribusi untuk sasaran B** – Melatihnya kelompok-kelompok masyarakat untuk menggunakan portal website dalam rangka bertukar informasi dalam komunitas maupun antar kamunitas di pulau Ambon dengan menggunakan jaringan computer berbasis wireless.
 
 Aktivitas:
 
@@ -113,14 +113,14 @@ Aktivitas:
 2. Melatih 600 orang dari berbagai komunitas masyarakat untuk memanfaatkan portal website pada server lokal dalam rangka mengakses dan menyediakan informasi secara intranet.
 3. Menyediakan 100 konten awal dan menambah 10 konten setiap hari pada server lokal (intranet) dengan konten yang diunduh dari berbagai sumber di internet.
 
-* **Kontribusi untuk sasaran C** - Menyedianya informasi tentang Ambon kepada masyarakat umum melalui internet
+**Kontribusi untuk sasaran C** - Menyedianya informasi tentang Ambon kepada masyarakat umum melalui internet
 
 Aktivitas:
 
 1. Menduplikasi portal website dari server lokal ke hosting server.
 2. Memperbaharui konten website pada hosting server berdasarkan konten yang tersedia pada server lokal.
 
-* **Kontribusi untuk sasaran D**- Berfungsinya layanan Amboina Cyber Society kepada masyarakat Pulau Ambon secara berkelanjutan.
+**Kontribusi untuk sasaran D**- Berfungsinya layanan Amboina Cyber Society kepada masyarakat Pulau Ambon secara berkelanjutan.
 
 Aktivitas:
 
