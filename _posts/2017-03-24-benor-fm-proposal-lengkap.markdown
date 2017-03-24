@@ -184,3 +184,5 @@ Melalui program siaran radio, akan didorong komunitas Orang Rimba memanfaatkan f
     **Pelaku Proyek**
 
     Empat personal yang memiliki kemampuan dibidang IT dan komunikasi yang diyakini dapat mengembangkan media radio komunitas untuk kemajuan Orang Rimba.
+
+* F. Demografik kelompok target
