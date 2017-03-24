@@ -94,3 +94,5 @@ Memobilisasi anggota komunitas-komunitas dari berbagai latar belakang untuk berk
 **Teknologi Tepat Guna**
 
 Melatih masyarakat untuk membuat sendiri infrastruktur teknologi informasi dan komunikasi dari berbagai materi sederhana dan murah sehingga masyarakat dapat secara mandiri untuk memenuhi kebutuhan akses informasi.
+
+* D. Aktifitas dan keterkaitan pada sasaran
