@@ -75,7 +75,7 @@ Amboina Cyber Society ditujukan untuk mengatasi masalah tersebut di atas akan me
 
 * C. Keterkaitan pada kategori: Konten Lokal, Kemitraan, Strategi Kreatif, Aksi, dan Teknologi Tepat Guna
 
-**Konten Lokal**
+    **Konten Lokal**
 
 Pelatihan untuk meningkatkan kemampuan masyarakat untuk bisa mengkreasi dan memanfaatkan infrastruktur sederhana yang memungkinkan masyarakat untuk terhubung dan berbagi informasi akan berdampak pada lahirnya berbagai konten lokal yang dimediasi dalam portal website yang bisa diakses secara intranet (offline) dan internet (online).
 
