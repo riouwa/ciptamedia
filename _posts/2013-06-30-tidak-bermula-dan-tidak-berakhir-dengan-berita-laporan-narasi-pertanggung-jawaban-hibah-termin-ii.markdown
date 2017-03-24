@@ -107,13 +107,18 @@ Sebagai data, sampai saat ini telah terjadi pemutaran :
 
   * Selama masa roadshow resmi : terjadi sebanyak 62 pemutaran (setelah premiere 24 Januari s/d 23 April) dengan total penonton yang tercatat sebanyak 6.103 orang *banyak yang tak tercatat. | *data terlampir
 
+
   * Pekan Mayday Bersama Di Balik Frekuensi : terjadi 83 pemutaran secara serentak di seluruh Indonesia (pemutaran sepekan dilakukan antara tgl 27 April s/d 4 Mei 2013) dengan total penonton tercatat 8.258 pentononton *banyak yang tak tercatat. | *data terlampir
+
 
   * Bulan Mei 2013 - setelah PekanMayday-DBF : terjadi 11 pemutaran, dengan jumlah penonton tercatat 1.313 orang (*banyak yang tak tercatat) | data terlampir
 
+
 Catatan : pada periode ini banyak pemutaran yang dilakukan mulai tanpa sepengetahuan tim DBF, salah satunya pemutaran yang terjadi di hotel Maya Kupang pada bulan Mei. Diketahui oleh tim DBF karena ada mention di twitter, tapi tak lama setelah dikonfirmasi via akun twitter tersebut, timeline tentang pemutaran hilang (dihapus) dan kami tak pernah mendapat mendapat kabar dari pihak penyelenggara pemutaran. Diasumsikan pemutaran tanpa pemberitahuan yang membuat kami tak bisa mencatat jumlah data penonton dan tak mendapat feedback dari diskusi setelah pemutaran ini terjadi karena kurang lebih telah tersebar sekitar 200-an copy film DBF yang telah beredar diluar untuk kepentingan partner pemutaran.
  
+
  * Bulan Juni 2013 : terjadi 6 pemutaran DBF dengan jumlah penonton kurang lebih sekitar 500 orang. | *data terlampir
+
 
 Dengan berbagai catatan dll hal tersebut di atas, termasuk pemberitahuan dari para partner di AJI-AJI Kota dan KPI-Daerah serta kampus yang sebelumnya telah melakukan pemutaran – dimana mereka menyatakan bahwa film DBF kembali diputar di kelas-kelas mata kuliah komunikasi/jurnalistik, kami mengasumsikan bahwa sampai saat ini film DBF telah ditonton oleh hampir sekitar 20.000 orang di seluruh Indonesia. Melihat angka pemutaran sampai bulan Juni 2013, kami sangat senang danantusias karena sampai saat ini berarti pemutaran film DBF masih terus terjadi dan diadakan oleh para partner penyelenggara pemutaran setiap minggunya.
 
