@@ -155,3 +155,8 @@ Adanya aktifitas dan dukungan terhadap lembaga Bhinneka dan kegiatan pluralisme,
 **Pelaku proyek**
 
   Untuk memaksimalkan perekrutan, kami juga mempunyai anggota dari kelompok-kelompok agama yang mempunyai pengaruh di masyarakat, seperti pendeta, guru spiritual, aktifis Muhamadiyah, pengurus Lakpesdam NU Jombang, dan lain-lain.
+
+**f. Demografik kelompok target**
+
+* Mahasiswa dan masyarakat luas.
+* Kami juga mencoba mempengaruhi sekelompok remaja dan anak-anak di Surabaya untuk lebih berpikir kritis dan menerima keberagaman.
