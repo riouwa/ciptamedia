@@ -198,3 +198,19 @@ Adanya aktifitas dan dukungan terhadap lembaga Bhinneka dan kegiatan pluralisme,
    :* Evaluasi melalui Online survey yang akan diadakan pada bulan November 2012 - Desember 2012
    2. Peningkatan permintaan akan Majalah Bhinneka
    3. Kualitas komentar dan pertanyaan yang diajukan peserta saat bedah buku. Bedah buku yang akan dilakukan 3 bulan setelah peluncuran buku di beberapa kota di Indonesia
+
+**h. Durasi waktu aktifitas dilaksanakan:**
+
+  Januari – Desember 2012
+
+**i. Total kebutuhan dana untuk melakukan aktifitas:**
+
+  **Rp. 386.460.000**
+
+**j. Kontribusi organisasi dan kelompok target:**
+
+* Beberapa pengurus akan bekerja secara sukarela
+* Beberapa anggota akan bekerja dengan sukarela
+* Administrasi grup-grup diskusi Bhinneka di Facebook tidak dibayar
+* Kerja sama dengan beberapa media massa lainnya (beberapa radio di Surabaya)
+* Kerja sama dengan organisasi dari berbagai latar belakang yang mendukung ide keberagaman. Saat ini, kami sudah bekerja sama dengan GAYa Nusantara, C20 library, Komunitas Sehati Makassar, LSM Rumah Kita - Medan, Perkumpulan Mahasiswa Islam, Lakpesdam-NU.
