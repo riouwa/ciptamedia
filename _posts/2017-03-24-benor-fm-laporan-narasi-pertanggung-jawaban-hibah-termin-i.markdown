@@ -131,3 +131,13 @@ Keterlibatan Orang Rimba pada toke untuk mendapatkan sembako berkurang dengan ad
 * Di level kebijakan Keputusan Menteri Komunikasi dan Informasi yang membatasi jangkauan siaran radio klasifikasi C hanya 12 km.
 * Benturan budaya malu yang ada pada Orang Rimba bila berhadapan dengan warga masyarakat umum masih sangat tinggi.
 * Intensitas pendengar pada kelompok Orang Rimba dapat mengalami penurunan sebagai akibat dari budaya Melangun.
+
+**6. Keberagaman**
+
+  Silahkan ditulis perubahan perubahan yang berpengaruh dalam keberagaman (contohnya apabila anggota komunitas, dewan, atau komposisi staf anda mulai beragam dari sisi jenis kelaminnya, suku, pendidikan, umur, budaya, agama, latar belakang asal lokasinya, bahasanya, dan lain sebagainya) dalam periode pelaporan ini. Apabila organisasi/ komunitas anda mengalami tantangan keberagaman, silahkan tuliskan juga pendapat anda.
+
+Tuliskan tantangan perbedaan budaya antara komunitas Orang Rimba dengan masyarakat umum:
+
+1. Adanya larangan adat pada anak perempuan dan perempuan Orang Rimba untuk berkomunikasi dengan orang luar (warga desa).
+2. Budaya sumbang pada pemahaman Orang Rimba apabila laki-laki dan perempuan berada dalam satu tempat membatasi interaksi mereka dengan warga desa.
+3. Penggunaan bahasa oleh kader penyiar rimba (bahasa rimba) masihkurang dipahami oleh pendengar lainnya (suku Jawa, Medan, Padang dan Palembang).
