@@ -164,3 +164,23 @@ Portal website sebagai tempat berbagi dan menampung berbagai konten dapat mengim
 **Keadilan sosial**
 
 Proyek ini secara sederhana bertujuan untuk memampukan masyarakat dalam hal membuat dan memanfaatkan teknologi tepat guna untuk berbagi informasi melalui pelatihan-pelatihan bagi masyarakat untuk secara kreatif dapat menciptakan jalan-jalan alternatif untuk pemenuhan kebutuhan akses terhadap informasi.
+
+* I. Durasi waktu aktifitas dilaksanakan:
+
+20 Januari 2012 – 19 Januari 2013 (1 tahun) dan seterusnya akan membiayai diri sendiri dengan mengupayakan strategi kreatif
+
+* J. Total kebutuhan dana untuk melakukan aktifitas:
+
+**USD 20.771,76 ~ Rp. 176.560.000,-**
+
+* K. Kontribusi organisasi:
+
+1. Perkumpulan Maluku Satu Media tidak dibayar untuk mendukung pelaksanaan proyek Amboina Cyber Society
+2. Tenaga Pelatih lokal bersedia melatih berbagai komunitas dan pengguna secara sukarela dalam satu tahun.
+
+* L. Kontribusi dari kelompok target:[sunting]
+
+* Masyarakat yang sudah terlatih bertugas untuk secara sukarela melatih orang lain.
+* Masyarakat yang sudah terlatih akan berbagi informasi dengan orang lain dengan memanfaatkan hasil karya mereka sendiri.
+Masyarakat secara umum dapat menyediakan konten lokal antara lain aktivitas dan peristiwa yang terjadi di lingkungan sekitar.
+* Masyarakat secara umum dapat saling berjumpa dan berbagi dengan mengedepankan semangat perdamaian untuk mengklarifikasi berbagai isu SARA yang disebar untuk memecah-belah masyarakat.
