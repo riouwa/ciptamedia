@@ -92,4 +92,17 @@ c. Keterkaitan pada kategori:Aksi, Strategi Kreatif
 
     Menggunakan pendekatan populer sekaligus kritis sehingga masyarakat lebih tertarik dengan isu keberagaman. Mencoba mendekati masyarakat lewat layanan yang diperlukan oleh mereka, seperti informasi lowongan kerja, informasi bea-siswa, dan biro jodoh sehingga mereka tidak merasa didoktrinasi oleh lembaga Bhinneka. Dengan cara ini, kami berharap bisa mempengaruhi pola berpikir masyarakat secara tidak langsung.
 
+d. Aktifitas dan keterkaitan pada sasaran
+
+  * Kontribusi untuk sasaran A – Menerbitkan majalah Bhinneka yang dibagikan gratis, mengaktifkan grup-grup diskusi di Facebook.
+
+  Aktivitas:
+  Membagikan majalah kepada mereka yang kesulitan mendapat akses internet. Selain grup diskusi di Facebook, kami juga mempunyai grup lowongan kerja, biro jodoh dan informasi bea-siswa untuk mempengaruhi cara berpikir masyarakat melalui cara yang lebih halus dan tidak langsung.
     
+    PENAJAMAN
+    Publikasi cetak dan online
+    Sub Aktivitas: Penerbitan Majalah Bhinneka secara dwiwulan melalui media cetak & online. 
+    Penerima manfaat langsung kalangan akademisi dan intelektual, terutama dari komunitas-komunitas yang bekerjasama dengan Lembaga   
+    Bhinneka dalam mendistribusikan Majalah Bhinneka. 
+    Sementara asumsi untuk penerima manfaat tidak langsung adalah khalayak umum
+    Sub Aktivitas: Penerbitan Antologi Cerpen Keberagaman Seksualitas beserta analisa tentang seksualitas dan orientasi seks. Penerima manfaat langsung asumsi khalayak umum. 
