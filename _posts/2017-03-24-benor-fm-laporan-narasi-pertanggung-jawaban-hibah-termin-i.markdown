@@ -103,3 +103,10 @@ Silahkan anda jelaskan apa yang telah anda berhasil peroleh dengan hibah ini yan
 * F. Adanya program siaran radio yang mengkampanyekan perlindungan, pengakuan dan kampanye menghilangkan stigma negatif dan sebutan yang “merendahkan” tentang Orang Rimba. Kampanye juga ditujukan untuk mengurangi konflik antar masyarakat desa dengan Orang Rimba. (tahun 2011 tercatat 3 luka berat dan 3 meninggal).
 
 Tujuan yang berhasil dicapai hingga saat ini:
+
+* A. Adanya satu ruangan siaran, ruang produksi, dan ruang server dan peralatan pemancar radio (tower, exiter, mixer, mix, 3 unit CPU dan Monitor, antena).
+* B. Diperoleh dua org penyiar remaja rimba dan dua kader penyiar (warga desa)
+* C. Untuk program siaran yang mendudkung kegiatan pendidikan yang intensif dengan jangkauan yang luas bagi orang rimba masih belum maksimal, karena terbatas pada daya pancar siaran Benor FM masih terbatas tiga kilo meter.
+* D. Adanya Respon positif pemerintah daerah khususnya Pemkab Sarolangun terhadap masalah kesehatan dan pendidikan Orang Rimba
+* E. Program siaran radio dengan tema Kaboron Esen dipagi hari terkait perkembangan harga komuditi karet dan sembako.
+* F. Bergabungnya beberapa Orang Rimba menjadi anggota Koperasi Kembang Bungo di kelompok Kedundung Muda dan menyediakan sembako yang lebih murah dengan harga yang kompetitif.
