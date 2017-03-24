@@ -113,14 +113,14 @@ Oleh karena itu, masyarakat ekonomi kelas bawah akan secara otomatis terbatas da
   * Melatih 600 orang dari berbagai komunitas masyarakat untuk memanfaatkan portal website pada server lokal dalam rangka mengakses dan menyediakan informasi secara intranet.
   * Menyediakan 100 konten awal dan menambah 10 konten setiap hari pada server lokal (intranet) dengan konten yang diunduh dari berbagai sumber di internet.
 
-    **Kontribusi untuk sasaran C** - Menyedianya informasi tentang Ambon kepada masyarakat umum melalui internet
+  **Kontribusi untuk sasaran C** - Menyedianya informasi tentang Ambon kepada masyarakat umum melalui internet
 
     Aktivitas:
 
   * Menduplikasi portal website dari server lokal ke hosting server.
   * Memperbaharui konten website pada hosting server berdasarkan konten yang tersedia pada server lokal.
 
-    **Kontribusi untuk sasaran D**- Berfungsinya layanan Amboina Cyber Society kepada masyarakat Pulau Ambon secara berkelanjutan.
+  **Kontribusi untuk sasaran D**- Berfungsinya layanan Amboina Cyber Society kepada masyarakat Pulau Ambon secara berkelanjutan.
 
     Aktivitas:
 
