@@ -29,59 +29,59 @@ Silahkan tuliskan pembelajaran, acara-acara yang anda buat/ alami yang dapat mem
 
   1. Membangun komunitas untuk radio komunitas
 
-  Pembelajaran:
+     Pembelajaran:
 
-  * Dari kebutuhan bersama, menjadi dasar kerja bersama untuk merancang dan berbagi kerja dalam mendirikan radio komunitas.
+     * Dari kebutuhan bersama, menjadi dasar kerja bersama untuk merancang dan berbagi kerja dalam mendirikan radio komunitas.
 
-  * Dari apa yang sudah sanggup direncanakan, penting untuk dijalankan dulu. Dan pengalaman terbukti menjadi pelajaran penting untuk bisa lebih baik.
+     * Dari apa yang sudah sanggup direncanakan, penting untuk dijalankan dulu. Dan pengalaman terbukti menjadi pelajaran penting untuk bisa lebih baik.
 
   2. Membangun tim pengelola radio
 
-  Pembelajaran:
+     Pembelajaran:
 
-  * Lebih sulit mencapai yang ideal, jika pengelola diliputi rasa takut salah dan rasa tidak bisa apa-apa. Mengenal secara teori tidak otomatis mudah berpraktek.
+     * Lebih sulit mencapai yang ideal, jika pengelola diliputi rasa takut salah dan rasa tidak bisa apa-apa. Mengenal secara teori tidak otomatis mudah berpraktek.
   
-  * Setelah dibebaskan dulu dari segala standarisasi dan idealisasi siaran, apapun rupa hasilnya, malah bisa memunculkan keberanian mencoba. Terus menular dan bertambahlah penyiar Marsinah FM.
+     * Setelah dibebaskan dulu dari segala standarisasi dan idealisasi siaran, apapun rupa hasilnya, malah bisa memunculkan keberanian mencoba. Terus menular dan bertambahlah penyiar Marsinah FM.
 
-  * Selain penyiar, operator juga bertambah. Sekarang hampir semua penyiar sekaligus jadi operator. Tapi masih sedikit yang mau dan bisa untuk menjadi humas, administrasi dan laporan.
+     * Selain penyiar, operator juga bertambah. Sekarang hampir semua penyiar sekaligus jadi operator. Tapi masih sedikit yang mau dan bisa untuk menjadi humas, administrasi dan laporan.
 
   3. Menjalankan program siaran
   
-  Pembelajaran:
+     Pembelajaran:
 
-  * Program siaran belum bisa sepenuhnya berdasar pada rapat redaksi. Perlu mekanisme yang lebih informal sebagai pendukung rapat. Koordinasi dan komunikasi harian banyak membantu menyiapkan rencana siaran. Pengurus utama perlu siap tiap saat menampung aspirasi spontan, sambil mengarahkan pada mekanisme rapat redaksi.
+      * Program siaran belum bisa sepenuhnya berdasar pada rapat redaksi. Perlu mekanisme yang lebih informal sebagai pendukung rapat. Koordinasi dan komunikasi harian banyak membantu menyiapkan rencana siaran. Pengurus utama perlu siap tiap saat menampung aspirasi spontan, sambil mengarahkan pada mekanisme rapat redaksi.
 
   4. Mengenalkan radio dan mendapatkan pendengar
 
-  Pembelajaran:
+     Pembelajaran:
 
-  * Lagu (terutama dangdut) efektif untuk mengenalkan radio Radio Marsinah FM, sambil diselingi iklan program tematik.
+     * Lagu (terutama dangdut) efektif untuk mengenalkan radio Radio Marsinah FM, sambil diselingi iklan program tematik.
 
-  * Sosialisasi juga berjalan oleh penyiar di lingkungannya, ‘menyapa’ teman saat siaran, juga dengan acara non-siaran yang bersifat terbuka, selain terus lewat terbitan FBLP, sms massal, dan iklan program siaran.
+     * Sosialisasi juga berjalan oleh penyiar di lingkungannya, ‘menyapa’ teman saat siaran, juga dengan acara non-siaran yang bersifat terbuka, selain terus lewat terbitan FBLP, sms massal, dan iklan program siaran.
 
   5. Mengajak aktif para pendengar dalam program siaran
 
-  Pembelajaran:
+     Pembelajaran:
 
-  * Karena keaktifan pendengar lebih banyak pada program musik, maka perlu terus ditambah ketersediaan beragam lagu baru maupun lama (terutama dangdut, pop, korea, india).
+     * Karena keaktifan pendengar lebih banyak pada program musik, maka perlu terus ditambah ketersediaan beragam lagu baru maupun lama (terutama dangdut, pop, korea, india).
 
-  * Program siaran tematik dan talkshow lebih mungkin ada partisipasi pendengar jika tepat tema dan terutama sang penyiar ketemu metode yang asyik.
+     * Program siaran tematik dan talkshow lebih mungkin ada partisipasi pendengar jika tepat tema dan terutama sang penyiar ketemu metode yang asyik.
 
   6. Mendorong perempuan korban pelanggaran hak berani bicara
 
-  Pembelajaran:
+     Pembelajaran:
 
-  * Mendapat keberanian perempuan korban bicara tentang masalah yang dihadapi di acara siaran radio, masih sangat sulit. Maka dibuat bentuk lain, bahwa kisah pelanggaran hak yang dialami atau diadukan kepada kru pengelola radio dan FBLP, diangkat dalam acara siaran. Sudah ada pengaduan dan dibuat pembelaan sebisanya untuk kasus KDRT, perkosaan dan pelecehan, selain tentang pelanggaran hak perburuhan.
+     * Mendapat keberanian perempuan korban bicara tentang masalah yang dihadapi di acara siaran radio, masih sangat sulit. Maka dibuat bentuk lain, bahwa kisah pelanggaran hak yang dialami atau diadukan kepada kru pengelola radio dan FBLP, diangkat dalam acara siaran. Sudah ada pengaduan dan dibuat pembelaan sebisanya untuk kasus KDRT, perkosaan dan pelecehan, selain tentang pelanggaran hak perburuhan.
 
   7. Membangun publikasi dan jaringan radio di luar komunitas
 
-  Pembelajaran:
+     Pembelajaran:
 
-  * Selain melalui media sosial, Marsinah FM sampai sekarang telah dipublikasikan oleh beberapa media mainstream, sehingga sangat membantu publikasi dan jaringan. Terutama tentang keberadaan radio dari dan oleh buruh perempuan, sekaligus turut mengangkat masalah buruh perempuan yang perlu dibela masyarakat luas.
+     * Selain melalui media sosial, Marsinah FM sampai sekarang telah dipublikasikan oleh beberapa media mainstream, sehingga sangat membantu publikasi dan jaringan. Terutama tentang keberadaan radio dari dan oleh buruh perempuan, sekaligus turut mengangkat masalah buruh perempuan yang perlu dibela masyarakat luas.
 
-  * Selain menambah kepercayaan diri bagi segenap keluarga Marsinah FM, juga tantangan untuk Marsinah FM memanfaatkan sebaik mungkin tiap sisi keunggulan yang dilihat pihak lain.
+     * Selain menambah kepercayaan diri bagi segenap keluarga Marsinah FM, juga tantangan untuk Marsinah FM memanfaatkan sebaik mungkin tiap sisi keunggulan yang dilihat pihak lain.
 
-  * Terlihat jauh lebih maju publikasi terhadap Marsinah FM, dibanding tingkat kemampuan ber-radio di Marsinah FM. Maka capaian di luar ini harus bisa kami internalisasikan.
+     * Terlihat jauh lebih maju publikasi terhadap Marsinah FM, dibanding tingkat kemampuan ber-radio di Marsinah FM. Maka capaian di luar ini harus bisa kami internalisasikan.
 
 **2. Aktivitas/ Isu yang Anda usung dan mencoba atasi**
 
