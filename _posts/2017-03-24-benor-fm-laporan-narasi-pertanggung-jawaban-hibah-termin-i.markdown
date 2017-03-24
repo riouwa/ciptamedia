@@ -66,3 +66,17 @@ Hasil-hasil yang di janjikan pada proposal adalah untuk hasil sepanjang durasi p
 5. Program talkshow dan penyuluhan masih belum bisa dilakukan karena terkendala kapasitas pemancar yang terbatas 3 km, dimana dengan kapasitas tersebut Benor FM hanya mampu menyentuh satu kelompok kecil disekitar studio.
 6. Kegiatan advokasi dan fasilitasi komunitas untuk mendapatkan akses pendidikan, kesehatan dan pengembangan ekonomi masih terus dilakukan, seperti : rekomendasi forum guru peduli pendidikan Orang Rimba kepada Disdik Kabupaten Sarolangun dan Kabupaten Merangin. Pembentukan Pokja Pelayanan Kesehatan (YANKES) bagi Orang Rimba lintas Sektor untuk 2013 oleh Bupati Sarolangun yang dipelopori oleh KKI WARSI dan Dinkes Sarolangun Jambi.
 7. Pemberantasan buta aksara di komunitas Orang Rimba terus dilakukan dengan melakukan kunjungan dan audiensi kader pendidikan ke Dinas Pendidikan Provinsi, sekolah formal. Disisi lain beberapa sekolah disekitar mereka sudah bersedia menerima mereka sebagai murid dan tercatat sebagai siswa sekolah formal, diantaranya SMA N 14 Tebo, SMP N 12 Satu atap Sarolangun, SD N 191/VI Air Panas Sarolangun.
+
+**3. Indikator sukses anda dalam permohonan hibah**
+
+  Orang Rimba di Bukit Duabelas meningkat kualitas hidup melalui pendidikan, informasi dan layanan kesehatan dan kegiatan ekonomi melalui media Radio Komunitas. Orang Rimba melalui radio ini, juga diharapkan akan hidup berdampingan dengan masyarakat desa, dengan pola saling menghormati berdasarkan jati diri masing-masing.
+
+  Indikator keberhasilan:
+
+  * Membebaskan 600 Orang Rimba dari buta aksara dan mendukung 20 Orang Rimba mengakses sekolah lanjutan tingkat pertama.
+  * Penderita TBC berkurang 40%, mengentaskan penyakit kulit losong hingga 95%.
+  * Akses layanan kesehatan pemerintah ke Orang Rimba meningkat 75%.
+  * Pendapatan Orang Rimba meningkat 50% melalui pengembangan pertanian dan perkebunan karet.
+  * Berkurangnya konflik Orang Rimba dan masyarakat desa secara signifikan.
+  * Tersebarnya norma-norma Orang Rimba ke masyarakat desa dan norma umum ke Orang Rimba.
+  * Hasil aktual hingga laporan ini dibuat
