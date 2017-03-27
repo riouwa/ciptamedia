@@ -185,7 +185,7 @@ Portal website sebagai tempat berbagi dan menampung berbagai konten dapat mengim
 
 **L. Kontribusi dari kelompok target:**
 
-    * Masyarakat yang sudah terlatih bertugas untuk secara sukarela melatih orang lain.
-    * Masyarakat yang sudah terlatih akan berbagi informasi dengan orang lain dengan memanfaatkan hasil karya mereka sendiri.
+  * Masyarakat yang sudah terlatih bertugas untuk secara sukarela melatih orang lain.
+  * Masyarakat yang sudah terlatih akan berbagi informasi dengan orang lain dengan memanfaatkan hasil karya mereka sendiri.
 Masyarakat secara umum dapat menyediakan konten lokal antara lain aktivitas dan peristiwa yang terjadi di lingkungan sekitar.
-    * Masyarakat secara umum dapat saling berjumpa dan berbagi dengan mengedepankan semangat perdamaian untuk mengklarifikasi berbagai isu SARA yang disebar untuk memecah-belah masyarakat.
+  * Masyarakat secara umum dapat saling berjumpa dan berbagi dengan mengedepankan semangat perdamaian untuk mengklarifikasi berbagai isu SARA yang disebar untuk memecah-belah masyarakat.
