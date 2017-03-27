@@ -49,3 +49,13 @@ Pada periode ini, selain isu kekerasan dan fundamentalisme agama, kami juga berk
 * Untuk isu perjuangan pluralisme di Indonesia, kami menerbitkan Antologi cerpen Amarah (bekerja sama dengan Glitzy Book – Gramedia). Antologi ini terutama menyajikan kritik tentang fundamentalisme agama atau berkisah tentang mereka yang telah menjadi sasaran fundamentalisme agama di Indonesia.
 * Untuk isu manfaat langsung kalangan akademisi dan intelektual, terutama dari komunitas-komunitas yang bekerjasama dengan Lembaga Bhinneka dalam mendistribusikan Majalah Bhinneka. Penerima manfaat tidak langsung adalah khalayak umum. Masukan para akademisi dan intelektual sangat positif. Dede Oetomo, Rocky Gerung dan Musdah Mulia, misalnya menyatakan akan tetap mendukung Bhinneka. Dari kalangan muda, tanggapan lebih beragam. Banyak tanggapan positif, namun beberapa juga merasa Bhinneka terlalu menghina agama.
 * Untuk isu "wacana keberagaman dengan sub Aktivitas: Penerbitan Antologi Cerpen Keberagaman Seksualitas beserta analisa tentang seksualitas dan orientasi seks“, kami bekerja sama dengan GAYa Nusantara untuk bedah buku. Sudah ada 12 orang yang menyatakan sangat mendukung antologi ini dan menyarankan harus ada antologi LGBT atau tentang gender dan seksualitas berikut dari Lembaga Bhinneka.
+
+**3. Indikator sukses anda dalam permohonan hibah**
+
+1. Pola berpikir masyarakat yang makin kritis dan menentang kekerasan: Peningkatan kuantitas komentar-komentar berkualitas dari pembaca yang mendukung isu keberagaman, dan meningkatnya kritik serta tindakan pencegahan akan kekerasan yang dilakukan atas nama agama. lewat surat pembaca dan komentar di website Bhinneka maupun melalui sosial media yang akan diadakan Oktober 2012 - Desember 2012.
+2. Meningkatnya kritik atas fundamentalisme agama via angket pembaca, bertambahnya kelompok-kelompok yang mempromosikan keberagaman, diterimanya berbagai diskusi kritis agama di sekolah-sekolah dan Universitas.
+3. Terbukanya diskusi kritis tentang agama dan seksualitas di Indonesia (yang masih dianggap tabu oleh kebanyakan orang) melalui angket pembaca yang didistribusikan di Edisi Desember 2012.
+4. Kualitas komentar dan pertanyaan yang diajukan peserta saat bedah buku. Bedah buku yang akan dilakukan 3 bulan setelah peluncuran buku di beberapa kota di Indonesia
+5. Peningkatan permintaan akan Majalah Bhinneka.
+
+Hasil aktual hingga laporan ini dibuat
