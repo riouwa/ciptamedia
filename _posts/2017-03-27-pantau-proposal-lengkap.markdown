@@ -96,3 +96,27 @@ Mengundang praktisi media untuk ikut aktif dalam peluncuran hasil survey 2009, m
 **E.Latar belakang dan demografi pelaku proyek**
 
 Pemimpin proyek pernah menjadi wartawan di Majalah Syir’ah, majalah yang mencoba menampilkan Islam yang ramah dan menenggang beda. Juga pernah menjadi penulis lepas untuk Playboy, Rollingstone, Majalah Historia, dan berbagai koran di Indonesia. Sejak 2006, bekerja untuk Pantau Feature Service. 2007, mendapatkan SEAPA fellowship untuk liputan isu HAM di Timor Leste dan 2008, memenangi Every Human Has Rights Media Award dari Internews Europe, Paris. Dia juga koordinator lapangan Survey Persepsi Wartawan terhadap Islam 2009.
+
+**F. Demografik kelompok target**
+
+Wartawan-wartawan dan aktivis kebebasan beragama
+
+**G. Hasil yang diharapkan dan indikator keberhasilan**
+
+  * Segera diketahui hasil update persepsi wartawan Indonesia terhadap Islam 2012; banyak wartawan dan media lokal yang menulis hasil Survey Pantau 2009 dan tersiarnya hasil survey di jejaring sosial: facebook dan twitter.
+
+  Indikator keberhasilan:
+
+  * Report persepsi wartawan Indonesia terhadap Islam 2012
+  * Artikel-artikel di koran lokal dan nasional soal laporan persepsi wartawan terhadap Islam 2009 dan posting-posting hasil survey di jejaring sosial (facebook dan twitter).
+
+**H. Keterkaitan proyek dengan perbaikan media dan keadilan sosial**
+
+  **Perbaikan media**
+
+  Media-media di Indonesia semakin sadar perlunya toleransi antar umat beragama dan mengurangi bias pribadi atas nama apapun dan kualitas wartawan dan etika mereka makin baik untuk meliput isu Islam khususnya.
+
+  **Keadilan sosial**
+
+  Selain media dan para wartawanya juga makin banyak orang-orang yang peduli pentingnya toleransi antar agama.
+
