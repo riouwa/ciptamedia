@@ -55,3 +55,17 @@ Proyek	             :  **Peningkatan kapasitas dan fasilitasi blogger perbatasan
   4. Kini lebih dari 150 warga perbatasan ( termasuk watawan desa pada program PNPM Mandiri di Bengkayang) yang telah mendapat pelatihan jurnalisme kampung dan memiliki ketrampian menulis, photographi dan video maker sederhana untuk merekam dan melaporkan berbagai isu dan masalah di perbatasan antara Kalimantan Barat dengan negara Sarawak, Malaysia.
   5. Hingga akhir maret 2013, setidaknya kami mencatat content yang terpublikasi di web agregasi www.borderblogger lebih dari 1000 content berupa text, photo dan video.
   6. Berita-berita warga tentang perbatasan yang pada awal mulanya berserakan secara sporadic di internet dan berbagai media, kini mulai terintegrasikan ke portal BBM (www.borderblogger). Harapannya situs ini menjadi pionir media informasi warga mengenai perbatasan.
+
+**3. Indikator sukses anda dalam permohonan hibah**
+
+  Border Blogger Movement telah menumbuhkan simpul-simpul informasi di perbatasan melalui jejaring sosial media, terutama weblog yang mudah diakses dan cepat, melalui teknologi handphone karena langsung dilaporkan para warga perbatasan (berada pada lingkaran pertama informasi). Selain itu gerakan ini juga diharapkan dapat meningkatkan kapasitas para pelaku jejaring sosial media, melalui 45 orang pada tahap awal.
+
+1. Terpublikasinya satu situs aggregate blogger perbatasan;
+2. Terpublikasinya minimal 45 weblog warga perbatasan Kalimantan Barat-Sarawak;
+3. Meningkatnya kemampuan blogger perbatasan Kalimantan Barat dibidang jurnalisme kampung
+4. Terlatihnya 45 blogger perbatasan yang pandai dan aktif menulis di weblog aggregat blogger perbatasan;
+5. Terpublikasinya minimal 15 tulisan di media cetak lokal maupun nasional tentang perbatasan yang ditulis para blogger perbatasan;
+6. Terpublikasinya minimal 540 konten tentang isu perbatasan berupa text, video dan photo blogger perbatasan di agregat web perbatasan;
+7. Terpublikasinya minimal satu buku kumpulan tulisan, foto, video (best practice) karya blogger perbatasan.
+
+Hasil aktual hingga laporan ini dibuat:
