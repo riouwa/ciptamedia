@@ -41,3 +41,15 @@ Lampung
 4. Mensinergikan Forum Pemantau Media, Lembaga Penyiaran TV, KPI dan KPID dalam pemantauan dan pelaporan pelanggaran tayangan TV berdasarkan P3SPS (Pedoman Prilaku Penyiaran dan Standar Program Siaran) dan standar lokal serta merumuskan strategi perbaikan tayangan TV.
 
 **Sasaran:**
+
+A. Terlibatnya ibu rumah tangga dalam kelompok pemantau tayangan TV berbasis “dasa wisma” dalam pemantauan dan pengkritisan tayangan TV.
+
+B. Terwadahinya keterlibatan ibu rumah tangga perdesaan, radio komunitas (rakom), masyarakat desa, Pemerintah Desa, Lembaga penyiaran TV dalam Forum Pemantau Media dalam mengkampanyekan hak masyarakat atas tayangan TV yang berkualitas dan perbaikan media yang bersinergi dengan kelompok pemantau tayangan TV di tempat lain (nasional).
+
+C. Tersedianya ruang bagi ibu rumah tangga perdesaan dan Forum Pemantau Media dalam memantau dan mengkritisi tayangan TV, kampanye hak masyarakat terhadap tayangan TV yang berkualitas di Pedesaan.
+
+D. Tersampaikannya hasil pemantauan dan pengkritisan tayangan TV yang dilakukan ibu rumah tangga perdesaan dan Forum Pemantau Media kepada KPID dan KPI dalam melakukan pengawasan lembaga penyiaran serta kepada Lembaga Penyiaran TV sebagai referensi perbaikan kualitas tayangan TV.
+
+E. Terdokumentasikan kerja pemantauan dan pengkritisan tayangan TV oleh ibu rumah tangga perdesaan dan Forum Pemantau Media sebagai bahan refresensi pengaplikasian kerja pemantauan tayangan TV di lokasi lain.
+
+F. Terealisasikannya 1 jam mematikan TV sebagai jam belajar desa menjadi kebijakan Pemerintah Desa.
