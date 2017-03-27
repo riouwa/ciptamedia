@@ -117,3 +117,7 @@ Para blogger menulis, memotret dan merekam peristiwa serta masalah-masalah perba
 5. Sudah dilakukan identifikasi terhadap karya-karya terbaik maupun potensi-potensi baru blogger peduli perbatasan dan hasil identifikasi akan segera diumumkan kepada publik, berupa pemenang syaembara.
 6. Sudah dierbitkannya buku Suara Dari Batas Negara (SDBN) berupa kompilasi karya-karya terbaik para blogger perbatasan. Cetakan kedua buku sedang dalam proses.
 7. Pelaporan transparan dilakukan oleh Border Blogger Movement. Ini dapat dilihat posting dan dokumentasi kegiatan di wikimedia
+
+  Tolong jabarkan perubahan perubahan signifikan yang organisasi anda dapatkan yang memiliki dampak pada pekerjaan anda pada periode pelaporan yang anda lakukan untuk saat ini. Masukkan secara deskriptif bagaimana anda menangani perubahan perubahan tersebut dan bagaimana perencanaan anda berubah sebagai hasilnya.
+
+  Berakhirnya kontrak kerja sesuai kalender program ini, menyebabkan terjadi perubahan yang signifikan pada hasil pekerjaan kami, khususnya pada pelaporan dan adiminstrasi program. Karena para wartawan dan blogger yang menjadi volunteer dan personil yang terlibat dalamprogram ini telah kembali pada kesibukan dan pekerjaan masing-masing.
