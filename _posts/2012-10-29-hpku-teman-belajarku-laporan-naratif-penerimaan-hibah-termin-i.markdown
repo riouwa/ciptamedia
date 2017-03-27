@@ -32,3 +32,14 @@ Dengan peserta perwakilan 30 SMA/ MA Aula Al Ihklas Kemenag Kota Kediri
   * Dengan peserta 35 guru, Guru SMKN 1 Kota Kediri di Perpustakaan SMKN 1 Kota Kediri.
 * Mahasiswa UIN Malang dan Mahasiswa UNP Kediri yang sedang PPL.
 * Untuk persiapan lomba pembuatan video 3gp kami harus melakukan lebih cepat karena yang sudah kami persiapkan baru web-nya yaitu videoguruku.net
+
+**2. Aktivitas/ Isu yang Anda usung dan mencoba atasi**
+
+  Berikut adalah aktivitas dan isu-isu yang anda masukkan pada permohonan hibah anda:
+
+  1. Pengupayaan penguasaan pemanfaatan teknologi informasi dikalangan pendidikan baik guru maupun siswa harus terus diupayakan,
+  2. Belum adanya usaha yang intensif dan terprogram dalam pemanfaatan Hp di lingkungan pendidikan.
+  3. Belum banyak konten Hp untuk pendidikan yang mudah, murah dan bisa di akses secara luas.
+  4. Memberikan motivasi kepada siswa dan skill kepada guru untuk memanfaatkan Hp guna mendukung kwalitas penbelajaran di sekolah dalam kegiatan yang intensif dan terprogram.
+
+Aktifitas dan isu yang anda atasi:
