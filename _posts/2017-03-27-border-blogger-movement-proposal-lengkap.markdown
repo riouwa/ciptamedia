@@ -54,7 +54,7 @@ E. Transparansi proyek dan penggunaan dana hibah.
 
 **Latar belakang:**
 
-* A. Keterkaitan pada topik: Keadilan dan kesetaraan akses terhadap media
+**A. Keterkaitan pada topik: Keadilan dan kesetaraan akses terhadap media**
 
     Borneo Blogger Community (BBC) adalah komunitas cair para blogger di Pulau Borneo, pulau terbesar ketiga di dunia. Anggota komunitas berasal dari berbagai latar belakang profesi, adat, agama/kepercayaan, negara dan suku bangsa (Kalimantan Barat, Kalimantan Selatan, Kalimantan Timur, Kalimantan Tengah, Sarawak, Sabah, Brunei Darusalam).
 
