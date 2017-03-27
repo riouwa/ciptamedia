@@ -51,3 +51,30 @@ Sosialisasi pemanfaatan Hp yang sehat, terutama dibidang pendidikan (guru dan si
   Di samping hal positif seperti tersebut di atas, kehadiran telepon selular juga mengandung konsekwensi logis dengan berbagai dampak negatifnya. Bagaimana tidak? Pengguna telepon selular selaku konsumen kini telah sedemikian dimanjakan oleh segudang fasilitas mudah dan murah yang ditawarkan produsen untuk dapat mengakses informasi global tanpa batas, sehingga siswa yang nota bene belum cukup memiliki perisai atau bekal mental yang memadai, cenderung lebih suka melihat, membaca bahkan mengambil sajian yang terlalu vulgar yang bertentangan dengan nilai budaya dan ajaran agama semacam foto dan video seronok/porno yang terdapat di internet. Hal inilah yang sering dijadikan alasan keprihatinan akan maraknya penggunaan ponsel yang kini menjadi salah satu trend kehidupan modern.
 
   Tetapi andaikan kita secara bersama sama bergandengan tangan memberi pengertian dan membuat pilihan dengan berinovasi membuat konten-konten ponsel yang baik dan bermanfaat tentu lambat laun, ini merupakan sarana belajar yang efektif dan menyenangkan. Sehingga sarana komunikasi yang familier dan dibutuhkan ini merupakann salah pilihan bagi para pelajar untuk menambah pengetahuan dan bukannya menjadi momok bagi dunia pendidikan. Semua komponen masyarakat di berbagai pulau lain akan mampu melakukan hal yang sama untuk memenuhi kebutuhan akses terhadap informasi.
+
+**B. Masalah yang ingin diatasi dan keterkaitan dengan aktivitas**
+
+  Keinginan yang kuat untuk memajukan pendidikan melalui teknologi tepat guna adalah menjadi pertimbangan utama diajukannya ide ini, penguasaan pemanfaatan teknologi informasi dikalangan pendidikan baik guru maupun siswa harus terus diupayakan, permasalahan yang ada saat ini menjadi tantangan, masalah yang ingin diatasi ada dua yaitu:
+
+1. Belum adanya usaha yang intensif dan terprogram dalam pemanfaatan Hp di lingkungan pendidikan.
+2. Belum banyak konten Hp untuk pendidikan yang mudah, murah dan bisa di akses secara luas.
+
+**C. Keterkaitan pada kategori: Aksi, strategi kreatif**
+
+  **Aksi**
+
+  Memberikan motivasi kepada siswa dan skill kepada guru untuk memanfaatkan Hp guna mendukung kwalitas penbelajaran di sekolah dalam kegiatan yang intensif dan terprogram.
+
+  **Strategi Kreatif**
+
+  Menggunakan perubahan perilaku siswa untuk lebih memilih hal yang positif dalam pemanfaatan Hp, salah satu penyebabnya adalah kreatifitas guru dalam membuat video pembelajaran. Teknik pembuatan video pembelajaran disini sengaja dipilih yang mudah diaplikasikan oleh guru, dengan asumsi guru telah menguasai operasi dasar komputer. Dan sengaja di pilih format 3gp karena hampir semua Hp yang dilengkapi kamera (saat ini harganya relative murah ) bisa dipergunakan untuk memutar video 3gp. Secara garis besar pembuatan video pembelajaran adalah sebagai berikut:
+
+![Capture d’écran 2017-03-27 à 16.59.31.png](/uploads/Capture%20d%E2%80%99%C3%A9cran%202017-03-27%20%C3%A0%2016.59.31.png){: .img-responsive .center-block }
+
+Skema pembuatan video pembelajaran proyek "Hp-ku Teman Belajarku".
+
+  Materi sebetulnya tidak harus berupa slide presentasi, juga bisa gambar-gambar atau tulisan yang mendukung topik, bahkan kita juga bisa melengkapi dengan digital pen untuk membuat coretan/ tulisan saat presentasi, dan slide presentasi (pelajaran sekolah, umum) saat ini sudah banyak yang di bagikan di internet untuk dijadikan acuan.
+
+  Perekaman layar dari materi yang disampaikan adalah dengan cara sederhana menggunakan sebuah software trial yaitu Camtasia Studio dan hasilnya berupa video, untuk mengkonversi ke format file 3gp digunakan software free Pazera 3gp Converter.
+
+  Dari hasil video pembelajaran 3gp, bisa didistribusikan (share) lewat computer – computer, computer ke Hp atau Hp-Hp (bluetooth) dan juga bisa menggunakan layanan MMS. Serta bisa dibagikan ke semua orang lewat internet salah satu contohnya di Blog Hpku Teman Belajarku.
