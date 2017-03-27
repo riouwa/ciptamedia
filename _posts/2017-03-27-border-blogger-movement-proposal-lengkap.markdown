@@ -56,17 +56,17 @@ E. Transparansi proyek dan penggunaan dana hibah.
 
 **A. Keterkaitan pada topik: Keadilan dan kesetaraan akses terhadap media**
 
-    Borneo Blogger Community (BBC) adalah komunitas cair para blogger di Pulau Borneo, pulau terbesar ketiga di dunia. Anggota komunitas berasal dari berbagai latar belakang profesi, adat, agama/kepercayaan, negara dan suku bangsa (Kalimantan Barat, Kalimantan Selatan, Kalimantan Timur, Kalimantan Tengah, Sarawak, Sabah, Brunei Darusalam).
+  Borneo Blogger Community (BBC) adalah komunitas cair para blogger di Pulau Borneo, pulau terbesar ketiga di dunia. Anggota komunitas berasal dari berbagai latar belakang profesi, adat, agama/kepercayaan, negara dan suku bangsa (Kalimantan Barat, Kalimantan Selatan, Kalimantan Timur, Kalimantan Tengah, Sarawak, Sabah, Brunei Darusalam).
 
-    Akhir tahun 2010, kami mencatat tidak kurang dari 31.000 blogger tergabung dalam komunitas ini, bahkan telah berkembang menjadi komunitas kecil-kecil di kota dengan isu-isu yang berbeda. Di antaranya adalah mereka yang pernah mengikuti training, seminar yang dilaksanakan oleh Borneo Blogger Community.
+  Akhir tahun 2010, kami mencatat tidak kurang dari 31.000 blogger tergabung dalam komunitas ini, bahkan telah berkembang menjadi komunitas kecil-kecil di kota dengan isu-isu yang berbeda. Di antaranya adalah mereka yang pernah mengikuti training, seminar yang dilaksanakan oleh Borneo Blogger Community.
 
-    Sedikit sekali media mainstream di Kalimantan Barat yang menyediakan ruang publik di korannya, sehingga kelahiran BBC yang mengusung jurnalisme warga, menjadi semacam ‘obat’ dan alternatif bagi warga untuk menyampaikan pikiran, pendapat mereka dan berdiskusi secara demokratis dan terbuka, bahkan melaporkan peristiwa-peristiwa terkini maupun gejala-gejala yang terjadi di tengah-tengah masyarakat. BBC melakukan banyak training, workshop, seminar dengan menggandeng Tribune Institute dan lembaga lain yang bekerja pada isu yang sama.
+  Sedikit sekali media mainstream di Kalimantan Barat yang menyediakan ruang publik di korannya, sehingga kelahiran BBC yang mengusung jurnalisme warga, menjadi semacam ‘obat’ dan alternatif bagi warga untuk menyampaikan pikiran, pendapat mereka dan berdiskusi secara demokratis dan terbuka, bahkan melaporkan peristiwa-peristiwa terkini maupun gejala-gejala yang terjadi di tengah-tengah masyarakat. BBC melakukan banyak training, workshop, seminar dengan menggandeng Tribune Institute dan lembaga lain yang bekerja pada isu yang sama.
 
-    Namun mengingat luasnya Kalimantan Barat, masih banyak warga di daerah terpencil di perbatasan yang belum dapat mengakses informasi melalui media. Karena itu intervensi program ini akan membantu kami meluaskan program bagi tumbuhnya blogger-blogger baru di perbatasan.
+  Namun mengingat luasnya Kalimantan Barat, masih banyak warga di daerah terpencil di perbatasan yang belum dapat mengakses informasi melalui media. Karena itu intervensi program ini akan membantu kami meluaskan program bagi tumbuhnya blogger-blogger baru di perbatasan.
 
-* B. Masalah yang ingin diatasi dan keterkaitan dengan aktivitas
+**B. Masalah yang ingin diatasi dan keterkaitan dengan aktivitas**
 
-    Dengan luas wilayah Kalimantan Barat yang 1,15 kali pulau Jawa tentu sangat sulit untuk memantau berbagai persoalan-persoalan di perbatasan Kalimantan Barat dengan Sarawak, Malaysia. Jika diformulasikan persoalan yang ingin diatasi melalui intervensi program ini adalah:
+  Dengan luas wilayah Kalimantan Barat yang 1,15 kali pulau Jawa tentu sangat sulit untuk memantau berbagai persoalan-persoalan di perbatasan Kalimantan Barat dengan Sarawak, Malaysia. Jika diformulasikan persoalan yang ingin diatasi melalui intervensi program ini adalah:
 
 1. Warga perbatasan belum memiliki media komunitas yang dapat digunakan secara aktif maupun interaktif untuk menyuarakan masalah-masalah perbatasan Kalimantan Barat-Sarawak, Malaysia.
 2. Media mainstream belum mampu menjangkau semua kawasan perbatasan, sehingga persoalan-persoalan di perbatasan lambat terdeteksi dan diungkap.
@@ -75,23 +75,23 @@ E. Transparansi proyek dan penggunaan dana hibah.
 5. Masih minimnya informasi dari, untuk dan tentang perbatasan Kalimantan Barat-Sarawak Malaysia.
 6. Selain informasi tentang perbatasan Kalimantan Barat dengan Sarawak Malaysia, masih kurang juga belum terintegrasi dan terorganisasi dengan baik.
 
-    Dalam kondisi seperti ini hampir tidak mungkin diharapkan tumbuhnya rasa kebangsaan dan nasionalisme, karena masyarakat perbatasan merasa dianaktirikan dan hanya menjadi penonton dalam penyelenggaraan negara. Ini dibuktikan dengan sejumlah kasus yang terjadi di perbatasan, misalnya indikasi pencaplokan wilayah RI di Dusun Camar Bulan di Kabupaten Sambas oleh Malaysia, Pengibaran Bendera Malaysia oleh warga Mungguk Gelumbang, di Kabupaten Sintang, 60% warga Puring Kencana punya KTP Malaysia, ratusan warga Entikong pindah kewarganegaraan.
+  Dalam kondisi seperti ini hampir tidak mungkin diharapkan tumbuhnya rasa kebangsaan dan nasionalisme, karena masyarakat perbatasan merasa dianaktirikan dan hanya menjadi penonton dalam penyelenggaraan negara. Ini dibuktikan dengan sejumlah kasus yang terjadi di perbatasan, misalnya indikasi pencaplokan wilayah RI di Dusun Camar Bulan di Kabupaten Sambas oleh Malaysia, Pengibaran Bendera Malaysia oleh warga Mungguk Gelumbang, di Kabupaten Sintang, 60% warga Puring Kencana punya KTP Malaysia, ratusan warga Entikong pindah kewarganegaraan.
 
-    Proyek ini juga diharapkan bisa menjadi saluran kepada para warga perbatasan untuk bersuara, dengan cara yang mudah, murah, meriah dan langsung. Sehingga pemerintah, maupun para pengambil keputusan bisa mengetahui lebih dini persoalan-persoalan yang terjadi di perbatasan dari masyarakat secara langsung, bukan cuma berdasarkan laporan para birokrat dan pejabat yang syarat dengan kepentingan politik, kelompok dan golongan.
+  Proyek ini juga diharapkan bisa menjadi saluran kepada para warga perbatasan untuk bersuara, dengan cara yang mudah, murah, meriah dan langsung. Sehingga pemerintah, maupun para pengambil keputusan bisa mengetahui lebih dini persoalan-persoalan yang terjadi di perbatasan dari masyarakat secara langsung, bukan cuma berdasarkan laporan para birokrat dan pejabat yang syarat dengan kepentingan politik, kelompok dan golongan.
 
-* C. Keterkaitan pada kategori: Konten Lokal, Kemitraan, Strategi Kreatif, Aksi, dan Teknologi Tepat Guna
+**C. Keterkaitan pada kategori: Konten Lokal, Kemitraan, Strategi Kreatif, Aksi, dan Teknologi Tepat Guna**
 
-**Aksi**
+  **Aksi**
 
   Peningkatan kapasitas kepada 45 blogger yang perbatasan yaitu Kabupaten Sambas (Kecamatan Paloh, Kecamatan Sajingan Besar), Kabupaten Bengkayang (Kecamatan Jagoi Babang dan Kecamatan Siding), Kabupaten Sanggau (Kecamatan Entikong dan Kecamatan Sekayam), Kabupaten Sintang (Kecamatan Ketungau Hulu dan Ketungau Tengah), Kabupaten Kapuas Hulu (Kecamatan Puring Kencana, Kecamatan Badau, Kecamatan Batang Lupar, Kecamatan Embaloh Hulu, Kecamatan Putussibau, Kecamatan Kedamin, dan Kecamatan Empanang) yang akan menjadi admin weblog kecamatan dan trainer bagi blogger di kecamatan masing-masing. Mereka juga akan menjadi sumbu informasi bagi para informan di wilayah masing-masing.
 
-**Strategi Kreatif**
+  **Strategi Kreatif**
 
   Dalam melaksanakan proyek ini BBC:
   * Menggunakan tools Jurnalisme Kampung, yaitu gerakan jurnalisme warga yang menekankan pada local content dengan modifikasi rumus 5W+H yang dikirim dengan SMS/MMS melalui handphone, jejaring sosial (FB, TWT, dll) baik berupa gambar, video, audio dan teks.
   * Penggunakan pendekatan perubahan mindset dan prilaku di mana diciptakan lingkungan yang kompetitif serta belajar bersama antara para blogger perbatasan agar mereka memahami manfaat weblog, multimedia melalui internet, sehingga mereka bisa menjadi wartawan kampung perbatasan yang berwawasan global dan sekaligus menjadi trainer bagi blogger-blogger perbatasan.
 
-* D. Aktivitas dan keterkaitan pada sasaran
+**D. Aktivitas dan keterkaitan pada sasaran**
 
   * **Kontribusi untuk sasaran A** – propaganda program kepada publik, termasuk kepada para pemangku jabatan public di perbatasan Kalimantan Barat (Indonesia) dengan Sarawak (Malaysia).
 
