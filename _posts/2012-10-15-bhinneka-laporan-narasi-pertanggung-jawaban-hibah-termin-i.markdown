@@ -125,3 +125,13 @@ Dalam majalah Bhinneka, ada edisi khusus pembahasan tentang seksualitas dan ster
 * Mengadakan pelatihan:
 1. Semar (Sekolah Manunggaling Rakyat) – Sekolah yang diadakan untuk penduduk kampung usia produktif yang aktif atau mempunyai kedudukan di Karang Taruna atau RT mereka, agar mereka bisa menjadi kader isu keberagaman.
 2. Pelatihan Mahasiswa – pelatihan mengetengahkan isu sehari-hari seperti cinta, jodoh, seks dan kaitannya dengan agama. Hal ini untuk memberi kesadaran mahasiswa akan „belenggu“ konservatisme dalam kehidupan mereka, dan dapat menyebarkan „virus“ pluralisme kepada teman-teman mereka.
+
+**3. Indikator sukses anda dalam permohonan hibah**
+
+1. Pola berpikir masyarakat yang makin kritis dan menentang kekerasan: Peningkatan kuantitas komentar-komentar berkualitas dari pembaca yang mendukung isu keberagaman, dan meningkatnya kritik serta tindakan pencegahan akan kekerasan yang dilakukan atas nama agama. lewat surat pembaca dan komentar di website Bhinneka maupun melalui sosial media yang akan diadakan Oktober 2012 - Desember 2012.
+2. Meningkatnya kritik atas fundamentalisme agama via angket pembaca, bertambahnya kelompok-kelompok yang mempromosikan keberagaman, diterimanya berbagai diskusi kritis agama di sekolah-sekolah dan Universitas.
+3. Terbukanya diskusi kritis tentang agama dan seksualitas di Indonesia (yang masih dianggap tabu oleh kebanyakan orang) melalui angket pembaca yang didistribusikan di Edisi Desember 2012.
+4. Kualitas komentar dan pertanyaan yang diajukan peserta saat bedah buku. Bedah buku yang akan dilakukan 3 bulan setelah peluncuran buku di beberapa kota di Indonesia
+5. Peningkatan permintaan akan Majalah Bhinneka.
+
+Hasil aktual hingga laporan ini dibuat:
