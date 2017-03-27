@@ -147,3 +147,23 @@ FB Diskusi Romantis Lembaga Bhinneka dari 6 admin (pada Januari 2012) menjadi 9 
 4. Belum dilaksanakan
 5. Peningkatan permintaan majalah, terutama dari mereka yang ingin menjadi distributor (dari 26 pada awal proyek ini ke 30 distributor dari berbagai kota, terutama di Jawa).
 6. Ada sekitar 15 permintaan berlangganan juga dari Pontianak, Riau, Pekanbaru, Medan dan Jakarta, namun saat ini majalah Bhinneka masih tidak melayanai permintaan berlangganan karena kurangnya SDM.
+
+**4. Tujuan dan Sasaran**
+
+Silahkan anda jelaskan apa yang telah anda berhasil peroleh dengan hibah ini yang berkaitan dengan tujuan yang lebih besar yang anda harapkan dapat anda capai Sasaran-sasaran yang diharapkan dapat dicapai A. Tersedianya materi untuk membangun toleransi dan pola berpikir kritis B. Tersedianya ruang untuk membangun toleransi dan pola berpikir kritis C. Ditiadakan D.1 Adanya kader untuk mempromosikan keberagaman (promotor) D.2 Adanya kader untuk merekrut orang-orang yang berpotensi dalam mempromosikan keberagaman (recruiter)
+
+Tujuan yang berhasil dicapai hingga saat ini:
+A. Tersedianya majalah Bhinneka dan berkembangnya diskusi-diskusi di facebook, seperti diskusi Pluralis dan Lingkar Puisi dan Prosa, yang mengajak para anggotanya memikirkan kemanusiaan dan berpikir lebih kritis. Hingga laporan ini ditulis, telah terbit 5 edisi majalah Bhinneka, dengan tema sebagai berikut:
+Febuari 2012: Tubuh dan Kekuasaan
+April 2012: Negara Sekuler
+Juni 2012: Agama dan Kepercayaan di Indonesia
+Agustus 2012: Gender, apakah itu?
+Oktober 2012: Interpretasi Agama
+
+B. Diskusi tatap muka dan kopdar bisa terlaksana karena funding dari Ciptamedia. Hingga laporan ini ditulis, telah terlaksana diskusi tatap muka dan kopdar sekitar 2 bulan sekali. Kopdar Bandung pada bulan September berhasil mengumpulkan hampir 70 anggota Bhinneka dari berbagai kota. Dan memberi ruang bagi para anggota ini untuk berani berpikir kritis bersama yang lain, serta bertemu para anggota lain yang bisa memicu adanya diskusi yang membuka wacana. Lembaga Bhinneka juga telah melaksanakan 2 kali pelatihan, yaitu SEMAR (untuk penduduk usia produktif dari kampung) dan pelatihan mahasiswa (sedang berjalan).
+
+C. -
+
+D.1. Bertambahnya anggota lembaga Bhinneka membuat kami lebih mudah mendapatkan kader, yang beberapa menjadi admin diskusi grup Facebook Bhinneka dan juga berperan aktif dalam kegiatan-kegiatan Lembaga Bhinneka, serta mempromosikannya lewat berbagai jaringan (Facebook, twitter, dan lain-lain). Pada akhir 2011 (sebelum menerima hibah), Bhinneka mempunyai sekitar 40 anggota dari Jakarta, Surabaya, Yogya dan Bandung. Sekarang, Bhinneka telah mempunyai sekitar 80 anggota dari kota-kota tersebut.
+
+D.2. Bertambahnya anggota yang menjaring anggota lain untuk aktif dalam berbagai kegiatan Bhinneka. Salah satunya adalah dosen Ubaya, Kristianto Batuadji yang mengajak sekitar 10 muridnya untuk berpartisipasi dalam diskusi Bhinneka baik lewat online ataupun tatap muka.
