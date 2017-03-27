@@ -198,6 +198,7 @@ Umur: 41 tahun
 
 Agama: -
 
+
 Phebe Anggreani (Manager Program)
 
 Jenis Kelamin: Perempuan
@@ -208,6 +209,7 @@ Umur:
 
 Agama: -
 
+
 Vinsensius Kristianto Batuadji (Asisten Manager Program)
 
 Jenis kelamin: Lelaki
@@ -217,6 +219,7 @@ Pendidikan: S2 Psikologi Universitas Gadjah Mada
 Umur: 29 tahun
 
 Agama: Katolik
+
 
 Daris Ilma (Administrasi)
 
