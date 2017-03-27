@@ -37,3 +37,11 @@ Jakarta
 
 1. Mengetahui update persepsi wartawan Indonesia tentang Islam dan Jurnalisme (2012).
 2. Menyebarluaskan hasil temuan survey persepsi wartawan Indonesia 1999.
+
+**Sasaran:**
+
+A. Mewawancarai 600 wartawan diseluruh Indonesia untuk mengetahui pendapatnya soal Islam dan Jurnalisme.;
+
+B. Wartawan-wartawan dan aktivis kebebasan beragama di lima provinsi yang jumlah responden, pada survey 2009 terbanyak, yaitu: Jakarta, Makassar, Pontianak, Aceh, Bali dan wartawan-wartawan lainnya di Indonesia.;
+
+C. Wartawan-wartawan serta penulis isu Islam dan berminat di isu media.;
