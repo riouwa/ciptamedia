@@ -112,7 +112,7 @@ Oleh karena itu, masyarakat ekonomi kelas bawah akan secara otomatis terbatas da
 
   **Kontribusi untuk sasaran B** – Melatihnya kelompok-kelompok masyarakat untuk menggunakan portal website dalam rangka bertukar informasi dalam komunitas maupun antar kamunitas di pulau Ambon dengan menggunakan jaringan computer berbasis wireless.
 
-    Aktivitas:
+  Aktivitas:
 
   * Membangun 1 portal website pada server lokal yang dioperasikan secara intranet.
   * Melatih 600 orang dari berbagai komunitas masyarakat untuk memanfaatkan portal website pada server lokal dalam rangka mengakses dan menyediakan informasi secara intranet.
