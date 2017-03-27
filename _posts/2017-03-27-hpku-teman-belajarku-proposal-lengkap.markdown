@@ -3,7 +3,7 @@ title: Hpku-Teman Belajarku - Proposal Lengkap
 date: 2017-03-27 16:47:00 +07:00
 ---
 
-![250px-Hpku-Teman_Belajarku.jpg](/uploads/250px-Hpku-Teman_Belajarku.jpg)
+![250px-Hpku-Teman_Belajarku.jpg](/uploads/250px-Hpku-Teman_Belajarku.jpg){: .img-responsive .center-block }
 
 **Organisasi**
 
