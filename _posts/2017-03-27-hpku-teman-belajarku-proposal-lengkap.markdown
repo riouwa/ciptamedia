@@ -97,10 +97,10 @@ Skema pembuatan video pembelajaran proyek "Hp-ku Teman Belajarku".
 
   Aktivitas:
 
-Jajak pendapat ini bertujuan untuk mendapatkan data yang otentik dari koresponden pelaku pemakai Hp di lingkungan pendidikan, mulai dari siswa, guru, manajemen sekolah, pengawas pendidikan, wali murid, dan juga konsultan pendidikan. Hasil kuisioner akan kami komunikasikan kepada penentu kebijakan serta pembuat aturan pemakaian Hp di sekolah. Selain itu di lakukan testimoni dari beberapa Stake Holder.
+  * Jajak pendapat ini bertujuan untuk mendapatkan data yang otentik dari koresponden pelaku pemakai Hp di lingkungan pendidikan, mulai dari siswa, guru, manajemen sekolah, pengawas pendidikan, wali murid, dan juga konsultan pendidikan. Hasil kuisioner akan kami komunikasikan kepada penentu kebijakan serta pembuat aturan pemakaian Hp di sekolah. Selain itu di lakukan testimoni dari beberapa Stake Holder.
 
-Kontribusi untuk sasaran D - Lomba “Cipta Video Pembelajaran 3gp”
+  * **Kontribusi untuk sasaran D** - Lomba “Cipta Video Pembelajaran 3gp”
 
-Aktivitas:
+  Aktivitas:
 
-Melalui lomba ini diharapkan setelah masa program ini berakhir (1 tahun) dihasilkan lebih dari 1000 video pembelajaran, dan kita publikasikan melalui media cetak dan elektronik utamanya diwilayah Kediri, serta menyebarluaskan supaya bisa dinikmati secara gratis melalui media off line dan media online yaitu internet.
+  * Melalui lomba ini diharapkan setelah masa program ini berakhir (1 tahun) dihasilkan lebih dari 1000 video pembelajaran, dan kita publikasikan melalui media cetak dan elektronik utamanya diwilayah Kediri, serta menyebarluaskan supaya bisa dinikmati secara gratis melalui media off line dan media online yaitu internet.
