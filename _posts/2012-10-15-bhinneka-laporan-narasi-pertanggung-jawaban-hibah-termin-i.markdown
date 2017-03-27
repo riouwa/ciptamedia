@@ -14,7 +14,9 @@ Wikimedia Indonesia mengharuskan seluruh penerima hibah melaporkan kegiatan mere
 Laporan dapat dikirimkan melalui surel atau dokumen asli
 
 Penerima hibah	  :	**Lembaga Bhinneka**
+
 Periode Laporan	  :	**17 Januari 2012 hingga 24 Oktober 2012**
+
 Proyek	          :	**Bhinneka: Keberagaman dan Kesetaraan Tanpa Batas**
 
 **1. Pembelajaran**
