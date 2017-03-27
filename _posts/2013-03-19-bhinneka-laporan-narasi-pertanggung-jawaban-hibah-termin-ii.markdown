@@ -126,3 +126,9 @@ Bedah buku di Jakarta dan Surabaya juga mendapat sambutan yang cukup baik dan Le
 **5. Tantangan/ masalah organisasi/ pengelolaan yang dihadapi**
 
 Tolong jabarkan perubahan perubahan signifikan yang organisasi anda dapatkan yang memiliki dampak pada pekerjaan anda pada periode pelaporan yang anda lakukan untuk saat ini. Masukkan secara deskriptif bagaimana anda menangani perubahan perubahan tersebut dan bagaimana perencanaan anda berubah sebagai hasilnya.
+
+Adanya perubahan staff, yaitu dengan keluarnya Daris Ilma. Namun ditambah oleh Shinta Miranda (sebagai koordinator Bhinneka Jakarta) dan Henny Herawati (pembantu bendahara), juga Ino sebagai koordinator Bhinneka Makassar.
+
+Isu-isu manajemen atau organisasi apakah yang anda hadapi pada saat anda menuliskan laporan ini (apakah ada perubahan signifikan pada komposisi staf/ dewan atau anggota tim anda. Apakah ada faktor-faktor lain yang dapat membatasi kemampuan organisasi/ komunitas anda untuk mengumpulkan data dan menerjemahkan data data keuangan atau aktifitas yang terkait dengan program dalam tujuan awal). Bila mungkin juga tuliskan dan tekankan kebutuhan yang belum terpenuhi/ teridentifikasi sebelumnya dalam menangani penguatan organisasi/ komunitas anda.
+
+Tidak ada
