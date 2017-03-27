@@ -138,12 +138,19 @@ Dalam majalah Bhinneka, ada edisi khusus pembahasan tentang seksualitas dan ster
 
 Hasil aktual hingga laporan ini dibuat:
 1. Melalui komentar-komentar yang dikirim di grup diskusi, dapat disimpulkan bahwa beberapa anggota yang telah lama bergabung dalam diskusi ini, semakin kritis. Begitu juga, mereka yang telah mengikuti diskusi tatap muka kami, telah semakin berani mempertanyakan fundamentalisme yang diturunkan dari orang tua dan keluarga mereka. Beberapa dari orang yang tadinya “marah” terhadap kritik yang disajikan dalam majalah Bhinneka, sekarang mendukung.
+
 Dari sekitar 100 orang yang datang pada pertemuan tatap muka baik untuk SEMAR, Kopdar, maupun, pelatihan, Lembaga Bhinneka mengidentifikasi paling tidak 4 orang yang sikapnya berubah total dalam durasi Januari - Oktober 2012. Awal mulanya kedua orang yang berbeda kepercayaan ini menentang, tertutup, dan agresif pada isu keberagaman. Mereka juga cenderung memandang agama masing-masing sebagai dogma yang harus ditaati. Namun melalui materi yang mereka baca dan dengan mengikuti diskusi yang diselenggarakan oleh Bhinneka baik secara online maupun tatap muka, dan dihadiri oleh mereka, menunjukkan perubahan. Tidak saja, keempat orang ini berubah menjadi tidak menentang, namun berubah menjadi mendukung isu ini. Dari empat orang ini, tiga di antaranya menjadi admin di grup Bhinneka (2 di grup Diskusi Pluralis, dan 1 di grup Lingkar Puisi & Prosa). 
+
 Contoh lain adalah beberapa anggota yang telah bersedia menjadi admin grup-grup FB Lembaga Bhinneka. Hal ini bisa dilihat dari penambahan admin di grup-grup Bhinneka, yang menyiratkan simpati mereka terhadap isu yang diangkat oleh lembaga ini. Penambahan jumlah admin bisa dilihat di bawah:
+
 FB Diskusi Pluralis Bhinneka dari 8 admin (pada Januari 2012) menjadi 17 admin (pada Oktober 2012)
+
 FB Lingkar Puisi dan Prosa dari 7 admin (pada Januari 2012) menjadi 17 admin (pada Oktober 2012)
+
 FB Forum Fotografi Lembaga Bhinneka 508 dari 4 admin (pada Januari 2012) menjadi 5 admin (pada Oktober 2012)
+
 FB Diskusi Romantis Lembaga Bhinneka dari 6 admin (pada Januari 2012) menjadi 9 admin (pada Oktober 2012)
+
 2. Beberapa komentar yang masuk melalui twitter, facebook dan sms, mengungkap bahwa majalah Bhinneka berhasil mempengaruhi pola berpikir masyarakat. Mereka menyatakan bahwa setelah membaca majalah Bhinneka, mereka menjadi semakin kritis dan terbuka. Dari komentar sms yang berjumlah sekitar 100, ada sekitar 30 yang menyatakan bahwa majalah ini berbeda dari yang lain, kritis, mendukung pluralisme dan membuat pembaca lebih terbuka atau lebih berani.
 3. Angket baru selesai dibuat dan akan segera disebarluaskan.
 4. Belum dilaksanakan
