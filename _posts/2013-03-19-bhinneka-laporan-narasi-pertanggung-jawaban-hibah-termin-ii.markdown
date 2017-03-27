@@ -148,61 +148,61 @@ Kami mempunyai staff dari berbagai latar belakang dan berbagai orientasi seksual
 
 * Shinta Miranda (Koordinator Bhinneka Jakarta)
 
-  Jenis kelamin: Perempuan
+    Jenis kelamin: Perempuan
 
-  Pendidikan: S1
+    Pendidikan: S1
 
-  Umur: 53 tahun
+    Umur: 53 tahun
 
-  Agama: Agnostik
+    Agama: Agnostik
 
 * Henny Herawati (Asisten Bendahara)
 
-  Jenis kelamin: Perempuan
+    Jenis kelamin: Perempuan
 
-  Pendidikan: S1
+    Pendidikan: S1
 
-  Umur: 37 tahun
+    Umur: 37 tahun
 
-  Agama: Kristen
+    Agama: Kristen
 
 *(Karena kami banyak membahas isu gender dan perempuan, kebanyakan yang tertarik atau bersedia bekerja untuk Bhinneka adalah perempuan).*
 
 * Soe Tjen Marching (Direktur)
 
-Jenis kelamin: Perempuan
+    Jenis kelamin: Perempuan
 
-Orientasi: Hetero
+    Orientasi: Hetero
 
-Pendidikan: S3, Asian Studies - Monash University
+    Pendidikan: S3, Asian Studies - Monash University
 
-Umur: 41 tahun
+    Umur: 41 tahun
 
-Agama: -
+    Agama: -
 
 * Phebe Anggreani (Manager Program dan Bendahara)
 
-Jenis Kelamin: Perempuan
+    Jenis Kelamin: Perempuan
 
-Orientasi: Bisex
+    Orientasi: Bisex
 
-Pendidikan: Grafik Desain, Minneapolis Community & Technical College
+    Pendidikan: Grafik Desain, Minneapolis Community & Technical College
 
-Umur: 34 tahun
+    Umur: 34 tahun
 
-Agama: -
+    Agama: -
 
 * Vinsensius Kristianto Batuadji (Asisten Manager Program)
 
-Jenis kelamin: Lelaki
+    Jenis kelamin: Lelaki
 
-Orientasi: Hetero
+    Orientasi: Hetero
 
-Pendidikan: S2 Psikologi Universitas Gadjah Mada
+    Pendidikan: S2 Psikologi Universitas Gadjah Mada
 
-Umur: 29 tahun
+    Umur: 29 tahun
 
-Agama: Katolik
+    Agama: Katolik
 
 **7. Laporan keuangan**
 
