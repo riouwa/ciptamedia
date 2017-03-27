@@ -58,3 +58,19 @@ Dengan peserta perwakilan 30 SMA/ MA Aula Al Ihklas Kemenag Kota Kediri
   1. Wacana baru tentang pemanfaatan hp yang sehat dikalangan pelajar
   2. Dukungan dari pejabat instansi pendidikan, PEMKOT, DINAS Pendidikan, KEMENAG Kediri untuk terus mengupayakan hp untuk mendukung pembelajaran.
   3. Respon dari guru (yang telah mengikuti sosialisasi) untuk memanfaatkan TIK dalam pembelajaran di kelas.
+
+**4. Tujuan dan Sasaran**
+
+  Silahkan anda jelaskan apa yang telah anda berhasil peroleh dengan hibah ini yang berkaitan dengan tujuan yang lebih besar yang anda harapkan dapat anda capai Sasaran-sasaran yang diharapkan dapat dicapai
+
+  A. Seminar “Sosialisasi Pemanfaatan Hp Yang Sehat “ yang utamanya ditujukan untuk siswa
+
+  B. Workshop “Pembuatan Video Pembelajaran 3gp” yang ditujukan untuk guru agar timbul minat kemampuan membuat video pembelajaran utamanya saat di kelas yang mana rekamannya akan bermanfaat sebagai bahan evaluasi bagi guru, manajemen sekolah dan pengawas pendidikan, untuk meningkatkan mutu pembelajaran bisa terus ditingkatkan.
+
+  C. Mendapatkan data yang otentik dari koresponden pelaku pengguna HP (siswa, guru, manajemen sekolah, pengawas pendidikan, wali murid dan konsultan pendidikan) menggunakan kuesioner “Perlu Nggak ? Hp untuk Pelajar” dimana hasilnya akan di komunikasikan kepada penentu kebijakan serta pembuat aturan pemakaian Hp di sekolah. Juga akan dilakukan testimoni dari beberapa Stake Holder.
+
+  D. Mendapatkan lebih dari 1000 video pembelajaran setelah satu tahun program berjalan melalui loba “Cipta Video Pembelajaran 3gp” yang akan dipublikasikan diwilayah Kediri dan akan disebarluaskan gratis via internet.
+
+Tujuan yang berhasil dicapai hingga saat ini
+
+Point A dan B, C dan D akan di upayakan lebih intensif.
