@@ -148,23 +148,23 @@ Kami mempunyai staff dari berbagai latar belakang dan berbagai orientasi seksual
 
 * Shinta Miranda (Koordinator Bhinneka Jakarta)
 
-Jenis kelamin: Perempuan
+  Jenis kelamin: Perempuan
 
-Pendidikan: S1
+  Pendidikan: S1
 
-Umur: 53 tahun
+  Umur: 53 tahun
 
-Agama: Agnostik
+  Agama: Agnostik
 
 * Henny Herawati (Asisten Bendahara)
 
-Jenis kelamin: Perempuan
+  Jenis kelamin: Perempuan
 
-Pendidikan: S1
+  Pendidikan: S1
 
-Umur: 37 tahun
+  Umur: 37 tahun
 
-Agama: Kristen
+  Agama: Kristen
 
 *(Karena kami banyak membahas isu gender dan perempuan, kebanyakan yang tertarik atau bersedia bekerja untuk Bhinneka adalah perempuan).*
 
