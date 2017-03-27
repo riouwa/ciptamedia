@@ -127,3 +127,13 @@ E. Transparansi proyek dan penggunaan dana hibah.
     Aktivitas:
 
     * monitoring dan evaluasi serta pelaporan narasi, keuangan dana hibah proyek.
+
+**E. Latar belakang dan demografi pelaku proyek**
+
+**Pemimpin proyek**
+
+  Laki-laki dengan pengalaman berorganisasi di atas lima tahun, berpengalaman di bidang media 10 tahun, pendiri dan inisiator komunitas blogger Borneo dan pelaku media alternatif. Sejak tiga tahun terakhir membuat gerakan jurnalisme kampung dan memfasilitasi sejumlah media komunitas kampung. Berumur 45-an dan kelas menengah
+
+**Pelaku Proyek**
+
+  Tiga (3) orang yang terdiri atas wartawan, aktivis NGO dan mahasiswa.
