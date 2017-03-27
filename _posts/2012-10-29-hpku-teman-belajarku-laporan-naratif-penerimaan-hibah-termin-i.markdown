@@ -98,3 +98,9 @@ Dengan peserta perwakilan 30 SMA/ MA Aula Al Ihklas Kemenag Kota Kediri
   Silahkan ditulis perubahan perubahan yang berpengaruh dalam keberagaman (contohnya apabila anggota komunitas, dewan, atau komposisi staf anda mulai beragam dari sisi jenis kelaminnya, suku, pendidikan, umur, budaya, agama, latar belakang asal lokasinya, bahasanya, dan lain sebagainya) dalam periode pelaporan ini. Apabila organisasi/ komunitas anda mengalami tantangan keberagaman, silahkan tuliskan juga pendapat anda.
 
   Tidak diisi
+
+**7. Laporan keuangan**
+
+  Silahkan masukkan pranala laporan keuangan anda disini
+
+  http://www.ciptamedia.org/wiki/Hpku-Teman_Belajarku/Laporan_Penggunaan_Dana
