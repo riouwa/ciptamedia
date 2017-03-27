@@ -209,3 +209,20 @@ Jenis kelamin: Perempuan
 Pendidikan: Mahasiswa RRI Malang jurusan komunikasi
 Umur: 20 tahun
 Agama: Islam
+
+**7. Laporan keuangan**
+
+Silahkan masukkan pranala laporan keuangan anda disini:
+
+http://www.ciptamedia.org/wiki/Bhinneka:_Keberagaman_dan_Kesetaraan_Tanpa_Batas/Laporan_Penggunaan_Dana
+
+**8. Pengesahan**
+
+Saya, sebagai penandatangan, menyatakan bahwa saya adalah individu yang berwenang untuk menyerahkan laporan ini atas nama komunitas/ organisasi saya sesuai dengan persyaratan yang dicantumkan pada Perjanjian Hibah Cipta Media Bersama yang telah ditandatangani sebelumnya dan seluruh dana yang dibelanjakan telah dibelanjakan sesuai dengan tujuan-tujuan yang tercantum dalam permohonan hibah.
+
+Tertanda: Lokasi dan tanggal:
+
+Surabaya, 15 Oktober 2012
+
+
+Soe Tjen Marching
