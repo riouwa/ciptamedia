@@ -75,3 +75,13 @@ Di luar permasalahan tersebut, ibu rumah tangga perdesaan memiliki potensi besar
 
 **B. Masalah yang ingin diatasi dan keterkaitan dengan aktivitas**
 
+  Ibu rumah tangga perdesaan memahami dampak tayangan TV bagi anggota keluarganya tetapi tidak memiliki pengetahuan yang cukup dan media untuk memantau dan mengkritisi tayangan TV.
+
+  Belum ada Forum Pemantau Media yang beranggotakan masyarakat perdesaan, Pemerintah Desa, Lembaga Penyiaran yang mengkampanyekan mengkampanyekan hak masyarakat atas tayangan TV yang berkualitas dan perbaikan media.
+
+  Pemerintah desa belum berperan serta dalam memfasilitasi keluhan dan protes masyarakat desa terhadap tayangan TV sehingga tidak mampu memaksimalkan partisipasi masyarakat desa dalam memantau dan mengkritisi media.
+
+  Peran KPID dan KPI dalam memantau dan mengawasi lembaga penyiaran dan program siaran belum menjangkau wilayah perdesaan, sehingga dibutuhkan partisipasi masyarakat dalam menyampaikan pengaduan dan laporan.
+
+  Lembaga penyiaran TV belum mampu menyerap kritik dan saran masyarakat perdesaan atas tayangan yang disiarkannya.
+
