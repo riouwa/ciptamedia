@@ -93,3 +93,15 @@ Border Blogger Movement telah menumbuhkan simpul-simpul informasi di perbatasan 
 9. Hingga Maret 2013 tercatat 75 blogger yang teragregasi ke dalam situs portal www.borderblogger.org.
 10. Selain inisiatif dari beberapa komunitas yang membangun medianya sendiri seperti yang dilaporkan pada Laporan priode pertama lalu, kini para blogger perbatasan dan Kalimantan Barat membuat komunitas Borneo Writers Club, bersama para blogger dan penulis Malaysia.
 11. Meski schedule program BBM telah selesai namun gerakan Jurnalisme Kampung BBM juga tetap dilakasanakan di beberapa komunitas. Antara lain Kelompok Tani Muda Palambon Pucuk Baguas (KTM PPB) di Jalan Trans Kalimantan, Desa Teluk Bakung bekerja sama dengan program PNPM Peduli (Para blogger dan jurnalis Kampung disana telah berhasil menulis buku Kampung: Loncek Baguas). Praktik Jurnalisme Kampung BBM, juga diterapkan pada training Ruang Belajar Masyarakat PNPM-MP di Kabupaten Landak dan Bengkayang. BBM mentraining para 50 wartawan desa yang juga para pelaku PNPM-MP di kedua kabupaten tersebut.
+
+**4. Tujuan dan Sasaran**
+
+  Silahkan anda jelaskan apa yang telah anda berhasil peroleh dengan hibah ini yang berkaitan dengan tujuan yang lebih besar yang anda harapkan dapat anda capai. Sasaran-sasaran yang diharapkan dapat dicapai:
+
+1. Mempropagandakan program Border Blogger Movement kepada publik, termasuk kepada para pemangku kebijakan di perbatasan Kalimantan Barat (Indonesia) -Sarawak (Malaysia).
+2. Meningkatkan kemampuan 45 blogger perbatasan Kalimantan Barat di bidang citizen journalism.
+3. Membuat satu situs aggregate blogger perbatasan dan 45 weblog perbatasan Kalimantan Barat.
+4. Mengidentifikasi karya dan praktik terbaik maupun potensi-potensi baru para blogger peduli perbatasan.
+5. Transparansi proyek dan penggunaan dana hibah.
+
+Tujuan yang berhasil dicapai hingga saat ini:
