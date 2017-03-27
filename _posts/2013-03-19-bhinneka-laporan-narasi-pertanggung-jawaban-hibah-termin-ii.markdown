@@ -132,3 +132,8 @@ Adanya perubahan staff, yaitu dengan keluarnya Daris Ilma. Namun ditambah oleh S
 Isu-isu manajemen atau organisasi apakah yang anda hadapi pada saat anda menuliskan laporan ini (apakah ada perubahan signifikan pada komposisi staf/ dewan atau anggota tim anda. Apakah ada faktor-faktor lain yang dapat membatasi kemampuan organisasi/ komunitas anda untuk mengumpulkan data dan menerjemahkan data data keuangan atau aktifitas yang terkait dengan program dalam tujuan awal). Bila mungkin juga tuliskan dan tekankan kebutuhan yang belum terpenuhi/ teridentifikasi sebelumnya dalam menangani penguatan organisasi/ komunitas anda.
 
 Tidak ada
+
+Bagian berwarna abu abu (*dibawah ini) diminta untuk dihilangkan karena pengulangan dari laporan sebelumnya, apabila ada pembelajaran baru harap dimasukkan dalam kolom hijau diatas, apabila tidak ada pembelajaran baru silahkan nyatakan tidak ada:
+
+    1. Belum ada staf khusus yang menangani bidang IT dan pengelolaan website hingga kini.
+    2. Strategi finansial supaya Lembaga Bhinneka lebih mandiri, telah diusahakan dengan penjualan buku antologi. Namun, masih belum ada strategi jangka panjang, karena keterbatasan dana.
