@@ -53,3 +53,5 @@ D. Tersampaikannya hasil pemantauan dan pengkritisan tayangan TV yang dilakukan 
 E. Terdokumentasikan kerja pemantauan dan pengkritisan tayangan TV oleh ibu rumah tangga perdesaan dan Forum Pemantau Media sebagai bahan refresensi pengaplikasian kerja pemantauan tayangan TV di lokasi lain.
 
 F. Terealisasikannya 1 jam mematikan TV sebagai jam belajar desa menjadi kebijakan Pemerintah Desa.
+
+**Latar belakang:**
