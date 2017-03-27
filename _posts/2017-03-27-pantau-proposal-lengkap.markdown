@@ -30,3 +30,10 @@ Pemimpin proyek
 **Lokasi**
 
 Jakarta
+
+**Deskripsi Proyek**
+
+**Tujuan:**
+
+1. Mengetahui update persepsi wartawan Indonesia tentang Islam dan Jurnalisme (2012).
+2. Menyebarluaskan hasil temuan survey persepsi wartawan Indonesia 1999.
