@@ -42,4 +42,16 @@ Dengan peserta perwakilan 30 SMA/ MA Aula Al Ihklas Kemenag Kota Kediri
   3. Belum banyak konten Hp untuk pendidikan yang mudah, murah dan bisa di akses secara luas.
   4. Memberikan motivasi kepada siswa dan skill kepada guru untuk memanfaatkan Hp guna mendukung kwalitas penbelajaran di sekolah dalam kegiatan yang intensif dan terprogram.
 
-Aktifitas dan isu yang anda atasi:
+  Aktifitas dan isu yang anda atasi:
+
+  Dengan kegiatan kami berupa sosialisasi dalam bentuk seminar untuk siswa dan pelatihan untuk guru kami berupaya untuk mengangkat ke empat isu diatas, utamanya poin 1 dan 4, sedangkan 3 akan kami maksimalkan pada lomba pembuatan video pembelajaran, sedangkan untuk poin 2 sepertinya belum bisa terlaksana hingga Desember 2012. Dan kami berharab laporan aktivitas kami nanti memberi wacana bagi pengambil kebijakan di dunia pendidikan khususnya di Kota dan Kabupaten Kediri untuk pemanfaatan hp dalam pembelajaran (tujuan poin 2).
+
+**3. Indikator sukses anda dalam permohonan hibah**
+
+Timbulnya kesadaran dilingkungan pendidikan terutama pelajar untuk memanfaatkan Hp guna mendukung pembelajaran di sekolah.
+Timbulnya minat dan kemampuan Guru untuk membuat video pembelajaran berformat 3gp sebagai sarana interaksi pembelajaran bagi Guru dan Siswa.
+Tidak ada lagi aturan pelarangan pemakaian Hp di lingkungan sekolah dan ada tatatertib serta mekanisme sistem pengawasan pemanfaatan Hp.
+Dalam satu tahun pelaksanaan workshop video pembelajaran 3gp, dihasilkan lebih dari 1000 buah video dan bisa di download melalui internet secara gratis.
+Pada tahun 2013 sekolah menengah atas di kota dan kabupaten Kediri tercipta budaya pemanfaatan Hp, dimana pemanfaatannya benar-benar bisa dirasakan dalam peningkatan mutu pembelajaran di lingkungan pendidikan.
+
+Hasil aktual hingga laporan ini dibuat
