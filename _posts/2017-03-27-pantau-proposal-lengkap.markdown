@@ -45,3 +45,11 @@ A. Mewawancarai 600 wartawan diseluruh Indonesia untuk mengetahui pendapatnya so
 B. Wartawan-wartawan dan aktivis kebebasan beragama di lima provinsi yang jumlah responden, pada survey 2009 terbanyak, yaitu: Jakarta, Makassar, Pontianak, Aceh, Bali dan wartawan-wartawan lainnya di Indonesia.;
 
 C. Wartawan-wartawan serta penulis isu Islam dan berminat di isu media.;
+
+**Latar belakang:**
+
+* A. Keterkaitan pada topik: Pemantauan media
+
+  “64,3 persen jurnalis setuju pelarangan Ahmadiyah. 63,1 persen jurnalis setuju RUU-Anti Pornografi yang bias perempuan. Sementara, 63,5 persen wartawan setuju dengan fatwa sipilis -fatwa anti sekulerisme, pluralisme, dan liberalisme- MUI,” tulis laporan di rubrik media majalah Gatra edisi 21 September 2011, berjudul, “. Gatra mengutip hasil survey persepsi wartawan Indonesia terhadap Islam.
+
+  Menurut Gatra mengutip Imam Shofwan, koordinator survey, tak mengherankan jika pemberitaan sejumlah media cenderung bias. Ia mencontohkan penggunaan kata “bentrok,” pada saat terjadi kasus Cikeusik. Seharusnya menggunakan kata “penyerbuan” karena kelompok mayoritas yang menyerbu minoritas. Kata “bentrok” umumnya dipakai untuk mengungkapkan pertemuan dua kekuatan yang jumlahnya sama besar.
