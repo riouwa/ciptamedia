@@ -189,27 +189,43 @@ Silahkan ditulis perubahan perubahan yang berpengaruh dalam keberagaman (contohn
 Kami mempunyai staff dari berbagai latar belakang dan berbagai orientasi seksual pula (karena privasi, orientasi seksual tidak akan kami ungkap di sini):
 
 Soe Tjen Marching (Direktur)
+
 Jenis kelamin: Perempuan
+
 Pendidikan: S3
+
 Umur: 41 tahun
+
 Agama: -
 
 Phebe Anggreani (Manager Program)
+
 Jenis Kelamin: Perempuan
+
 Pendidikan: D3 Grafik desain
+
 Umur:
+
 Agama: -
 
 Vinsensius Kristianto Batuadji (Asisten Manager Program)
+
 Jenis kelamin: Lelaki
+
 Pendidikan: S2 Psikologi Universitas Gadjah Mada
+
 Umur: 29 tahun
+
 Agama: Katolik
 
 Daris Ilma (Administrasi)
+
 Jenis kelamin: Perempuan
+
 Pendidikan: Mahasiswa RRI Malang jurusan komunikasi
+
 Umur: 20 tahun
+
 Agama: Islam
 
 **7. Laporan keuangan**
