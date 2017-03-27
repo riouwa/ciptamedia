@@ -75,3 +75,20 @@ Hasil aktual hingga laporan ini dibuat:
 * Hingga saat ini tercatat 63 blogger yang teragregasi ke dalam situs portal www.borderblogger.org.
 * Ada inisiatif dari beberapa komunitas yang membangun medianya sendiri, antara lain Forum Peduli Masyarakat Perbatasan Kapuas Hulu, dan Persatuan Mahasiswa Perbatasan Kecamatan Sekayam.
 * Antar individu maupun komunitas serta pemerintah saling bertukar informasi dan saling bekerjasama. Misalnya antara Dinas Pariwisata Kapuas Hulu bekerjasama dengan Forum Peduli Masyarakat Perbatasan Kapuas Hulu.
+
+**4. Tujuan dan Sasaran**
+
+Silahkan anda jelaskan apa yang telah anda berhasil peroleh dengan hibah ini yang berkaitan dengan tujuan yang lebih besar yang anda harapkan dapat anda capai Sasaran-sasaran yang diharapkan dapat dicapai.
+
+1. Setelah program dilakukan, jumlah blogger perbatasan yang memiliki kemampuan citizen journalism meningkat. Ini dapat dilihat dari karya-karya berupa tulisaan, Foto maupun sebagian kecil video yang mereka publish di weblog masing-masing maupun web BBM.
+2. Para blogger menulis, memotret dan merekam peristiwa serta masalah-masalah perbatasan Kalimantan Barat dengan Sarawak-Malaysia yang selama ini tidak mendapat perhatian media mainstream.
+
+Tujuan yang berhasil dicapai hingga saat ini:
+
+* Propaganda dan publikasi tentang program Border Blogger Movement kepada publik, termasuk kepada para pemangku kebijakan di perbatasan telah dilaksanakan, baik melalui kunjungan langsung ke kecamatan-kecamtan di 5 Kabupaten perbatasan di Kalimantan Barat, maupun melalui koran lokal dan radio serta FGD di lapangan. Bahkan di Kabupaten Kapuas Hulu yang kecamatannya paling banyak berbatasan langsung dengan Sarawak-Malaysia, kegiatan sosialisasi dibuka langsung oleh Bupati, di hadiri SKPD dan instansi terkait.
+* Sudah terjadi peningkatan kapasitas lebih dari 45 blogger perbatasan dibidang citizen jurnalism, yang sebelumnya tidak pernah ada, ini bisa dilihat dari karya berupa text, photo dan video yang mereka hasilkan.
+* Telah dipublikasikan content yang menyuarakan persoalan-persoalan di perbatasan Kalimantan Barat dengan Sarawak Malaysia melalui blog mereka masing-masing.
+* Telah dipublish website [www.borderblogger.org Borderblogger.org] dan lebih dari 45 weblog perbatasan kalimantan barat. Bahkan saat ini jumlah mereka mencapai 63 orang (tidak termasuk peserta yang telah dilatih, namun tidak mendaftarkan diri sebagai anggota sindikasi [www.borderblogger.org BBM].
+Sudah dilakukan identifikasi terhadap karya-karya terbaik maupun potensi-potensi baru blogger peduli perbatasan dan hasil identifikasi akan segera diumumkan kepada publik, berupa pemenang syaembara.
+* Untuk itu sedang dilakukan kompilasi karya-karya tersebut untuk diedit dan didesign menjadi sebuah buku suara blogger dari perbatasan.
+* Pelaporan yang transparan sedang dilakukan oleh Border Blogger Movement. Ini dapat dilihat posting dan dokumentasi kegiatan di Wikimedia.
