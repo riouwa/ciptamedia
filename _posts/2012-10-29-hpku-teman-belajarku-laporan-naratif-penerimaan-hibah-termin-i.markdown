@@ -67,10 +67,11 @@ Dengan peserta perwakilan 30 SMA/ MA Aula Al Ihklas Kemenag Kota Kediri
 
   B. Workshop “Pembuatan Video Pembelajaran 3gp” yang ditujukan untuk guru agar timbul minat kemampuan membuat video pembelajaran utamanya saat di kelas yang mana rekamannya akan bermanfaat sebagai bahan evaluasi bagi guru, manajemen sekolah dan pengawas pendidikan, untuk meningkatkan mutu pembelajaran bisa terus ditingkatkan.
 
-  C. Mendapatkan data yang otentik dari koresponden pelaku pengguna HP (siswa, guru, manajemen sekolah, pengawas pendidikan, wali murid dan konsultan pendidikan) menggunakan kuesioner “Perlu Nggak ? Hp untuk Pelajar” dimana hasilnya akan di komunikasikan kepada penentu kebijakan serta pembuat aturan pemakaian Hp di sekolah. Juga akan dilakukan testimoni dari beberapa Stake Holder.
+  C. Mendapatkan data yang otentik dari koresponden pelaku pengguna HP (siswa, guru, manajemen sekolah, pengawas pendidikan, wali murid dan konsultan pendidikan) menggunakan kuesioner “[Perlu Nggak ? Hp untuk Pelajar](http://hpkutemenbelajarku.blogspot.com/2011/10/testimoni.html)” dimana hasilnya akan di komunikasikan kepada penentu kebijakan serta pembuat aturan pemakaian Hp di sekolah. Juga akan dilakukan testimoni dari beberapa Stake Holder.
 
   D. Mendapatkan lebih dari 1000 video pembelajaran setelah satu tahun program berjalan melalui loba “Cipta Video Pembelajaran 3gp” yang akan dipublikasikan diwilayah Kediri dan akan disebarluaskan gratis via internet.
 
-Tujuan yang berhasil dicapai hingga saat ini
+  Tujuan yang berhasil dicapai hingga saat ini:
 
-Point A dan B, C dan D akan di upayakan lebih intensif.
+  Point A dan B, C dan D akan di upayakan lebih intensif.
+
