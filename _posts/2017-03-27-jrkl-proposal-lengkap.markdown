@@ -86,3 +86,24 @@ Di luar permasalahan tersebut, ibu rumah tangga perdesaan memiliki potensi besar
   Lembaga penyiaran TV belum mampu menyerap kritik dan saran masyarakat perdesaan atas tayangan yang disiarkannya.
 
 **C. Keterkaitan pada kategori: Konten Lokal, Kemitraan, Strategi Kreatif, Aksi, dan Teknologi Tepat Guna**
+
+  **Pemantauan Media**
+
+  Proyek ini bertujuan memberikan masukan (saran dan kritik) kepada lembaga penyiaran TV untuk melakukan perbaikan tayangan dan program siaran serta mempertajam peran masyarakat bersama KPID dan KPI dalam pengawasan lembaga penyiaran dan program siaran.
+
+  **Konten Lokal**
+
+  Proyek ini akan menggunakan norma, kebiasaan dan nilai sosial berdasarkan karakteristik desa yang beragam dalam kegiatan pemantauan dan pengkritisan tayangan TV serta dalam perumusan standar kelayakan tayangan TV untuk ditonton masyarakat perdesaan.
+
+  **Aksi**
+
+  Proyek ini akan memobilisasi 50 orang ibu rumah tangga perdesaan sebagai kelompok utama dan 250 orang ibu rumah tangga perdesaan lainnya dalam kegiatan literasi media dan pengelolaan kampanye hak masyarakat terhadap tayangan TV yang berkualitas; 20 orang pegiat radio komunitas dalam penyediaan program siar dan pendampingan; 6 orang aparat Pemerintah Desa, KPID dan KPI; 2 kelompok pemantau media (nasional); 6 lembaga yang konsern terhadap media komunitas; 4 lembaga penyiaran TV di Lampung; dan 100 orang warga desa untuk mendukung
+proyek ini.
+
+  **Kemitraan**
+
+  Kemitraan ibu rumah tangga perdesaan, pemerintah desa, rakom, masyarakat desa lainnya, Pemerintah Desa, Lembaga Penyiaran TV diwujudkan dalam Forum Masyarakat Pemantau Media.
+
+  **Pemanfaatan Teknologi Tepat Guna**
+
+  Ibu rumah tangga perdesaan dan Forum Pemantau Media akan memanfaatkan teknologi siaran, dan HP untuk mempercepat proses pendokumentasian kegiatan dan penyebarluasan kampanye hak masyarakat atas tayangan TV yang berkualitas dan perbaikan media.
