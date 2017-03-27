@@ -78,3 +78,17 @@ peluncuran hasil survey wartawan di provinsi-provinsi dengan jumlah responden pa
 
   Menggunakan jaringan interviewer dan responden pada survey 2009
 Mengundang praktisi media untuk ikut aktif dalam peluncuran hasil survey 2009, menyebarkan hasil survey ke jejaring sosial: facebook dan twitter.
+
+* D. Aktifitas dan keterkaitan pada sasaran
+
+  * **Kontribusi untuk sasaran A** – Mengaktifkan lagi jaringan interviewer Pantau 2009.
+
+    Aktivitas:
+
+    * Mengontak interviewer-interviewer Pantau di survey 2009.
+
+  * **Kontribusi untuk sasaran B** – Banyaknya media-media lokal yang menulis soal hasil Survey Pantau 2009 dan banyaknya respon terhadap hasil survey 2009.
+
+    Aktivitas:
+
+    * Mengundang para wartawan yang jadi narasumber di tiap-tiap provinsi dan membuat account survey persepsi wartawan Indonesia terhadap Islam 2009 dan memposting hasil surveynya satu per satu.
