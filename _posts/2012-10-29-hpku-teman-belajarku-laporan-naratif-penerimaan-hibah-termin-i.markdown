@@ -92,3 +92,9 @@ Dengan peserta perwakilan 30 SMA/ MA Aula Al Ihklas Kemenag Kota Kediri
   2. Kode O dalam anggaran untuk pembelian router dan acses point masih sisa kami usulkan dialihkan untuk pembiayaan acara louncing lomba pembuatan video pembelajaran 3gp pada akhir bulan Oktober 2012.
 
   Dan pada akhir bulan Oktober 2012 itu kami berencana akan mengadakan seminar dan pelatihan untuk Guru, Mahasiswa dan Pelajar tingkat Kota Kediri dengan tema “Teknologi Informasi Untuk Pendidikan” dengan pembuka acara Wakil Walikota Kediri dan Pembicara Utama Bapak Ono W. Purbo (sekalian konfirmasi ke Pak Ono). Dilanjutkan dengan pelatihan pemanfaatan Hp untuk pembelajaran dari 1000guru Kediri. Sekalian saat itu momen yang tepat untuk louncing lomba pembuatan video pembelajaran 3gp untuk Guru, Mahasiswa dan Pelajar, dengan acara ini kita berharab akan bisa tersosialisasi lebih luas dan memdapat respon yang lebih banyak.
+
+**6. Keberagaman**
+
+  Silahkan ditulis perubahan perubahan yang berpengaruh dalam keberagaman (contohnya apabila anggota komunitas, dewan, atau komposisi staf anda mulai beragam dari sisi jenis kelaminnya, suku, pendidikan, umur, budaya, agama, latar belakang asal lokasinya, bahasanya, dan lain sebagainya) dalam periode pelaporan ini. Apabila organisasi/ komunitas anda mengalami tantangan keberagaman, silahkan tuliskan juga pendapat anda.
+
+  Tidak diisi
