@@ -55,3 +55,16 @@ Aktifitas dan isu yang anda atasi:
 * Jika pada mulanya jumlah blogger peduli perbatasan sangat sedikit, yaitu sekitar 9 blog, pasca training yang dilakukan BBM sekarang telah lebih dari 63 blogger yang tergabung dalam [www.borderblogger.org BBM] maupun [www.borneoblogger.org Borneo Blogger Community].
 * Kini lebih dari 100 warga perbatasan (tidak termasuk partisipan dari pemerintah dan aktivis NGO yang menyokong program ini) yang telah mendapat pelatihan jurnalisme kampung dan memiliki ketrampian menulis, photographi dan video maker mengengenai berbagai masalah di perbatasan antara Kalimantan Barat dengan negara Sarawak, Malaysia.
 * Sejak 6 bulan program BBM berjalan, setidaknya kini content yang terpublikasi di web agregasi www.borderblogger lebih dari 540 (berupa text, photo dan video). Dari yang sebelumnya semua berita perbatasan bertebaran secara sporadis, kini mulai kami integrasikan ke portal BBM (www.borderblogger) bersama para blogger dengan harapan menjadi cikal bakal media perbatasan yang sesungghunya kelak.
+
+**3. Indikator sukses anda dalam permohonan hibah**
+
+  Border Blogger Movement telah menumbuhkan simpul-simpul informasi di perbatasan melalui jejaring sosial media, terutama weblog yang mudah diakses dan cepat, melalui teknologi handphone karena langsung dilaporkan para warga perbatasan (berada pada lingkaran pertama informasi). Selain itu gerakan ini juga diharapkan dapat meningkatkan kapasitas para pelaku jejaring sosial media, melalui 45 orang pada tahap awal.
+
+1. Telah terpublikasinya satu situs aggregate blogger perbatasan www.borderblogger.org (BBM).
+2. Dari target terpublikasinya 45 weblog warga perbatasan Kalimantan Barat-Sarawak, kini telah lebih dari 64 weblog, berhasil dipublikasikan. Jumlah ini tidak termasuk puluhan weblog para partisipan dari kalangan NGO, PNS dan aktivis Parpol, yang dalam program tidak termasuk sebagai penerima hibah Cipta Media Bersama.
+3. Meningkatnya kemampuan blogger perbatasan Kalimantan Barat dalam memproduksi konten berita, baik berupa tulisan maupun photo dan sebagian kecil video. Contohnya, sebelum pelatihan, Blackberry dan Android yang hanya digunakan untuk menelepon, pushmail, memotret, merekam video dan SMS, kini mereka sudah menambah fungsinya untuk nge-blog. Komputer yang selama ini hanya digunakan mengetik, setelah diberikan modem kini mereka bisa telah bisa menggunakannya untuk mendesign, melakukan setting weblog dan media sosial lainnya secara kreatif.
+4. Dari target hanya 45 blogger yang terlatih dalam program ini, kini terdapat 64 blogger yang pandai dan menulis di situs www.borderblogger.org.
+5. Kini telah berhasil dipublikasikan lebih dari 540 konten berupa berita/text, photo dan video karya para blogger perbatasan.
+6. Sedangkan buku yang akan dipublikasikan di akhir program saat ini sedang dalam proses editing, layout dan diterbitkan.
+
+Hasil aktual hingga laporan ini dibuat:
