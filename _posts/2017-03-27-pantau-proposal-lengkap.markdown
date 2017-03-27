@@ -66,3 +66,15 @@ C. Wartawan-wartawan serta penulis isu Islam dan berminat di isu media.;
 Selain itu, temuan yang menarik lainnya adalah, ketika ditanya apa tantangan wartawan Indonesia saat ini, adalah: soal etika dan kurang profesionalnya wartawan, “59,8 responden menjawab, kurangnya profesionalisme menjadi hambatan mereka dalam melakukan aktivitas jurnalistik,” tulis laporan survey Pantau.
 
   Untuk mengetahui kondisi terbaru soal persepsi wartawan Indonesia mengenai Islam perlu juga dilakukan update terbaru survey ini tahun 2012.
+
+* C. Keterkaitan pada kategori: Konten Lokal, Kemitraan, Strategi Kreatif, Aksi, dan Teknologi Tepat Guna
+
+**Aksi**
+
+  Mewawancarai 600 wartawan di 16 provinsi di Indonesia
+peluncuran hasil survey wartawan di provinsi-provinsi dengan jumlah responden paling banyak di Sumatra, Kalimantan, Sulawesi, Jawa, dan Bali dan menyebarkan hasil survey di jejaring sosial: facebook twitter.
+
+**Strategi Kreatif**
+
+  Menggunakan jaringan interviewer dan responden pada survey 2009
+Mengundang praktisi media untuk ikut aktif dalam peluncuran hasil survey 2009, menyebarkan hasil survey ke jejaring sosial: facebook dan twitter.
