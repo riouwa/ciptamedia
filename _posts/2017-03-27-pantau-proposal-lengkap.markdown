@@ -53,3 +53,16 @@ C. Wartawan-wartawan serta penulis isu Islam dan berminat di isu media.;
   “64,3 persen jurnalis setuju pelarangan Ahmadiyah. 63,1 persen jurnalis setuju RUU-Anti Pornografi yang bias perempuan. Sementara, 63,5 persen wartawan setuju dengan fatwa sipilis -fatwa anti sekulerisme, pluralisme, dan liberalisme- MUI,” tulis laporan di rubrik media majalah Gatra edisi 21 September 2011, berjudul, “. Gatra mengutip hasil survey persepsi wartawan Indonesia terhadap Islam.
 
   Menurut Gatra mengutip Imam Shofwan, koordinator survey, tak mengherankan jika pemberitaan sejumlah media cenderung bias. Ia mencontohkan penggunaan kata “bentrok,” pada saat terjadi kasus Cikeusik. Seharusnya menggunakan kata “penyerbuan” karena kelompok mayoritas yang menyerbu minoritas. Kata “bentrok” umumnya dipakai untuk mengungkapkan pertemuan dua kekuatan yang jumlahnya sama besar.
+
+* B. Masalah yang ingin diatasi dan keterkaitan dengan aktivitas
+
+  Pemberitaan di media yang bias soal Islam dan penggunaan kata-kata yang cenderung mengaburkan persoalan sebenarnya, seperti yang terjadi di Cikeusik awal Febuari lalu, adalah persoalan serius. Contoh paling serius, untuk pemberitaan yang bias adalah dalam kasus Ambon 1999-2002 di mana media Muslim dan media Kristen ikut membakar konflik Ambon, perlu dijadikan pelajaran berharga: Wartawan musti menanggalkan identitas mereka saat meliput.
+
+  Survey Yayasan Pantau ini dilakukan pada tahun 2009 dan digelar di 16 provinsi di Indonesia dan mewawancarai 600 wartawan. “500 wawancara pertama dilakukan dengan tatap muka langsung dengan responden,” tutur Islam.
+
+  Temuan lain survey ini adalah sebanyak 99 persen wartawan menjawab tujuan pemberitaan adalah untuk mendidik, 98 persen setuju tujuan pemberitaan adalah untuk memperbaiki keadaan, serta 96 persen untuk memberitakan kaum lemah.
+
+  Temuan-temuan menarik ini perlu disebarluaskan kepada pekerja pers khususnya, dan masyarakat umumnya supaya mereka tahu kecenderungan wartawan yang semakin konservatif saat ini.
+Selain itu, temuan yang menarik lainnya adalah, ketika ditanya apa tantangan wartawan Indonesia saat ini, adalah: soal etika dan kurang profesionalnya wartawan, “59,8 responden menjawab, kurangnya profesionalisme menjadi hambatan mereka dalam melakukan aktivitas jurnalistik,” tulis laporan survey Pantau.
+
+  Untuk mengetahui kondisi terbaru soal persepsi wartawan Indonesia mengenai Islam perlu juga dilakukan update terbaru survey ini tahun 2012.
