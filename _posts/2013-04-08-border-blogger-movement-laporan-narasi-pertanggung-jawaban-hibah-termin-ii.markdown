@@ -69,3 +69,27 @@ Proyek	             :  **Peningkatan kapasitas dan fasilitasi blogger perbatasan
 7. Terpublikasinya minimal satu buku kumpulan tulisan, foto, video (best practice) karya blogger perbatasan.
 
 Hasil aktual hingga laporan ini dibuat:
+
+Border Blogger Movement telah menumbuhkan simpul-simpul informasi di perbatasan melalui jejaring sosial media, terutama weblog yang mudah diakses dan cepat, melalui teknologi handphone karena langsung dilaporkan para warga perbatasan (berada pada lingkaran pertama informasi). Selain itu gerakan ini juga diharapkan dapat meningkatkan kapasitas para pelaku jejaring sosial media, melalui 45 orang pada tahap awal.
+
+1. Telah terpublikasinya satu situs aggregate blogger perbatasan www.borderblogger.org (BBM);
+2. Dari target terpublikasinya 45 weblog warga perbatasan Kalimantan Barat-Sarawak, kini telah lebih dari 100 lebih weblog, berhasil dipublikasikan. Jumlah ini tidak termasuk puluhan weblog para partisipan dari kalangan NGO,Mahasiswa, pelaku PNPM, PNS dan aktivis Parpol, yang berpartisipasi membuat dan menulis blog selama program pelatihan berlangsung, karena tidak dimasukan sebagai penerima hibah Cipta Media;
+3. Kemampuan blogger perbatasan Kalimantan Barat dalam menerapkan metode Jurnalisme Kampung (JK) yang sederhana membuat mereka dengan mudah bisa membuat konten blog. Baik yang berupa tulisan maupun photo dan sebagian kecil video. Di beberapa kecamatan, pelatihan yang menggunakan media HP kamera dan android kini sudah mulai bisa memotret dan membuat film documenter sederahana yang diedit dengan HP. Jadi HP tidak sekadar untuk menelepon atau SMS tetapi sudah multi fungsi, termasuk untuk nge-blog. Komputer Cuma dipakai mengetik kini dipakai menulis di blog.
+4. Dari target hanya 45 blogger yang terlatih dalam program ini, kini terdapat 150 blogger yang pandai dan menulis diweblog masing-masing dan teragregasi ke situs www.borderblogger.org.
+5. Pada akhir maret 2013 tak kurang dari dari 1000 kontenberupa berita/text, photo dan video karya para blogger perbatasan terpublikasi di situs masing-masing, di www.borderblogger.org, di media lokal dan nasional dan bentuk buku print serta ebook.
+6. Satu buku berjudul Suara dari Batas Negara (SDBN) telah dipublikasi dan diluncurkan pada 10 Pebruari 2013 lalu di Pontianak, dalam acara Borneo Writers Gathering, yang dihadiri oleh 13 blogger, wartawan dan sastrawan Malaysia.
+7. Program ini juga memicu munculnya berbagai tulisan mengenai perbatasan dan BBM di media lokal maupun nasional, antara lain di
+    1. Jakarta Post: Dual Currency Operates Border Areas
+    2. Jakarta Post: Border Children Prefer Study Malaysian
+    3. Media Indonesia: Warga Perbatasan Berlatih Ngeblog
+    4. Media Indonesia: E KTP Sulit Cegah Kewarganegaraan Ganda
+    5. Jurnal Nasional
+    6. Jawa Post Network: Meneriakkan Kisah Batas Negara Lewat Blog
+    7. Radio Republik Indonesia
+    8. Kalbar Online.com
+    9. Tribun News Pontianak
+    10. Kalimantan-news.com mengutip Kantor Berita Antara "Warga Perbatasan Dilatih Tuangkan Kisah Dalam Blog"
+8. Terpublikasinya 558 tulisan dan 400 photo. Tapi video hanya 5 terpublikasi, dan masih ada 5 video yang telah dikirim Darmawan dan Junaidi, blogger Kabupaten sambas yang belum dipublish.
+9. Hingga Maret 2013 tercatat 75 blogger yang teragregasi ke dalam situs portal www.borderblogger.org.
+10. Selain inisiatif dari beberapa komunitas yang membangun medianya sendiri seperti yang dilaporkan pada Laporan priode pertama lalu, kini para blogger perbatasan dan Kalimantan Barat membuat komunitas Borneo Writers Club, bersama para blogger dan penulis Malaysia.
+11. Meski schedule program BBM telah selesai namun gerakan Jurnalisme Kampung BBM juga tetap dilakasanakan di beberapa komunitas. Antara lain Kelompok Tani Muda Palambon Pucuk Baguas (KTM PPB) di Jalan Trans Kalimantan, Desa Teluk Bakung bekerja sama dengan program PNPM Peduli (Para blogger dan jurnalis Kampung disana telah berhasil menulis buku Kampung: Loncek Baguas). Praktik Jurnalisme Kampung BBM, juga diterapkan pada training Ruang Belajar Masyarakat PNPM-MP di Kabupaten Landak dan Bengkayang. BBM mentraining para 50 wartawan desa yang juga para pelaku PNPM-MP di kedua kabupaten tersebut.
