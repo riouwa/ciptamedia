@@ -162,7 +162,7 @@ Aktifitas dan isu yang anda atasi
 Dalam Strategi identifikasi tranformasi aktivitas street art dari segi isu dan artistiknya kami membuat program khusus yaitu SKS ( Senin Kurasi Street art). SKS (Senin Kurasi Street art ) adalah inisiatif berkala setiap hari senin dengan melakukan pemantauan media tentang dokumentasi aktivitas street art di social media baik berupa foto, dan liputan media. Setiap senin kami membuat tema khusus sebagai strategi identifikasi dokumentasi aktivitas street art di Indonesia. Salah satu contoh di SKS yang ke-4 hari Senin 25 Februari 2013 kami fokus mengkurasi dokumentasi “Mural Kampung “ berikut ini linknya: http://www.facebook.com/media/set/?set=a.472623092792335.110354.259721807415799&type=3 . Kami juga membuat media distribusi penyebaran data dengan membuat SKS Zine yang bisa diunduh secara bebas dalam format pdf. Sampai hari ini sudah edisi yang ke – 5.
 
 
-![250px_ISAD_M.jpg](/uploads/250px_ISAD_M.jpg){: .img-responsive .center-block }
+![250px-ISAD-SKS-0cd2e5.jpg](/uploads/250px-ISAD-SKS-0cd2e5.jpg){: .img-responsive .center-block }
 
 
 Link Unduh: [http://www.facebook.com/photo.php?fbid=476616289059682&set=a.309487539105892.78249.259721807415799&type=1&theater](http://www.facebook.com/photo.php?fbid=476616289059682&set=a.309487539105892.78249.259721807415799&type=1&theater)
@@ -255,22 +255,22 @@ LIKES: Data Jumlah Pengunjung yang menyukai (likes) berdasarkan Negara, Kota, da
 
 1. Street Art in Indonesian Social and Political Life (di Blog Guggeinhem Museum, New York pada 17 Oktober 2012)
 
-Link: http://blogs.guggenheim.org/2012/10/17/street-art-in-indonesian-social-and-political-life/
+   Link: http://blogs.guggenheim.org/2012/10/17/street-art-in-indonesian-social-and-political-life/
 
 2. ikono.org (Jerman)
 
-ikono is an innovative media platform dedicated to democratizing art through the production and broadcasting of short films that present art to the wider public sphere.
+   ikono is an innovative media platform dedicated to democratizing art through the production and broadcasting of short films that present art to the wider public sphere.
 
-Judul  : The Indonesia Street Art Database
+   Judul  : The Indonesia Street Art Database
 
-Tanggal : 4 November 2012
+   Tanggal : 4 November 2012
 
-Link : http://ikono.org/2012/11/the-indonesian-street-art-database/
+   Link : http://ikono.org/2012/11/the-indonesian-street-art-database/
 
 3. The Jakarta Post (edisi Cetak & Online pada 3 Maret 2013)
 
-Judul : Truth heard from the streets
+   Judul : Truth heard from the streets
 
-Penulis : Henry Benot
+   Penulis : Henry Benot
 
-Link : http://www.thejakartapost.com/news/2013/03/03/truth-heard-streets.html
+   Link : http://www.thejakartapost.com/news/2013/03/03/truth-heard-streets.html
