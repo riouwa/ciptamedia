@@ -36,3 +36,22 @@ Silahkan tuliskan pembelajaran, acara-acara yang anda buat/ alami yang dapat mem
 * Kondisi di atas sebenarnya bisa difasilitasi dengan program SMS gate way yang seperti program ushaidi yang digunakan pada situs web Cipta Media.
 
 Sistem agregasi pada web BBM sangat membantu memantau seluruh aktivitas blogger yang telah mendaftarkan diri kepada admin web.
+
+**2. Aktivitas/ Isu yang Anda usung dan mencoba atasi**
+
+Berikut adalah aktivitas dan isu-isu yang anda masukkan pada permohonan hibah anda:
+
+1. Warga perbatasan belum memiliki media komunitas yang dapat digunakan secara aktif maupun interaktif untuk menyuarakan masalah-masalah perbatasan Kalimantan Barat-Sarawak, Malaysia.
+2. Media mainstream belum mampu menjangkau semua kawasan perbatasan, sehingga persoalan-persoalan di perbatasan lambat terdeteksi dan diungkap.
+3. Jumlah blogger dan yang peduli perbatasan masih sangat sedikit serta belum terorganisir.
+4. Sedikitnya warga perbatasan yang mampu menulis, mengolah serta menyebarluaskan informasi terkait isu-isu perbatasan.
+5. Masih minimnya informasi dari, untuk dan tentang perbatasan Kalimantan Barat-Sarawak Malaysia.
+6. Selain informasi tentang perbatasan Kalimantan Barat dengan Sarawak Malaysia, masih kurang juga belum terintegrasi dan terorganisasi dengan baik.
+
+Aktifitas dan isu yang anda atasi:
+
+Pelatihan ke pada lebih dari 100 blogger yang berasal dari 15 Kecamatan Kalimantan Barat membuat warga perbatasan kini memiliki media (blog dan facebook) yang juga secara interaktif digunakan untuk memposting berbagai cerita dan masalah-masalah perbatasan langsung dari orang perbatasan. Baik dalam bahasa Indonesia maupun bahasa lokal.
+Kini informasi tentang persoalan perbatasan tidak lagi bergantung pada media mainstream yang terbatas jangkauannya. Dengan adanya media blog yang dikelola secara pribadi oleh warga perbatasan, maupun www.borderblogger.org telah terjadi shortcut informasi yang langsung disampaikan oleh warta perbatasan sendiri. Bahkan media mainstream seperti Media Indonesia, The Jakarta Post, Pontianak Post (jawa post group), RRI, dan lain-lain menjadikan content blog dari perbatasan dan juga portal [www.borderblogger.org BBM] sebagai informasi awal mengenai perbatasan.
+Jika pada mulanya jumlah blogger peduli perbatasan sangat sedikit, yaitu sekitar 9 blog, pasca training yang dilakukan BBM sekarang telah lebih dari 63 blogger yang tergabung dalam [www.borderblogger.org BBM] maupun [www.borneoblogger.org Borneo Blogger Community].
+Kini lebih dari 100 warga perbatasan (tidak termasuk partisipan dari pemerintah dan aktivis NGO yang menyokong program ini) yang telah mendapat pelatihan jurnalisme kampung dan memiliki ketrampian menulis, photographi dan video maker mengengenai berbagai masalah di perbatasan antara Kalimantan Barat dengan negara Sarawak, Malaysia.
+Sejak 6 bulan program BBM berjalan, setidaknya kini content yang terpublikasi di web agregasi www.borderblogger lebih dari 540 (berupa text, photo dan video). Dari yang sebelumnya semua berita perbatasan bertebaran secara sporadis, kini mulai kami integrasikan ke portal BBM (www.borderblogger) bersama para blogger dengan harapan menjadi cikal bakal media perbatasan yang sesungghunya kelak.
