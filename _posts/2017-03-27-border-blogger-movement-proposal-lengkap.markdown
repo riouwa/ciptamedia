@@ -137,3 +137,25 @@ E. Transparansi proyek dan penggunaan dana hibah.
 **Pelaku Proyek**
 
   Tiga (3) orang yang terdiri atas wartawan, aktivis NGO dan mahasiswa.
+
+**F. Demografik kelompok target**
+
+Kelompok target program ini adalah 45 blogger maupun calon bloger potensial, yang berdomisili di salah satu kampung/desa/kecamatan di perbatasan yang memiliki handphone, komputer sendiri dan jaringan internet sehingga dapat berkontribusi pada program. Namun, 45 blogger ini hanya sebagai stimulusator, dan diharapkan dengan dukungan publik yang melek internet diperbatasan jumlahnya bisa lebih besar lagi. Karena dari identifikasi yang kami lakukan, puluhan blogger di perbatasan bergerak sendiri-sendiri dan tidak sistematis. Misalnya beberapa contoh blogger perbatasan berikut ini:
+
+http://harunizoh.blogspot.com/ (blog urang sekudok, Sambas)
+
+http://lawangkwari.wordpress.com ( Entikong),
+
+http://my.opera.com/Zanade/blog (Entikong),
+
+http://kecamatanbadaukabkapuashulukalbar.blogspot.com (nanga badau, Kapuas hulu),
+
+http://polsekpuringkencana.blogspot.com (puring kencana, Kapuas Hulu),
+
+http://rajaborneo.blogspot.com (bengkayang),
+
+http://putussibau-area.blogspot.com (putussibau),
+
+http://upperkapuas.blogspot.com (Kapus Hulu),
+
+http://ckanyan.blogspot.com/ (Sungai Utik), dll.
