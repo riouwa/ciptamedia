@@ -112,14 +112,14 @@ proyek ini.
 
   * Kontribusi untuk sasaran A – 250 orang ibu rumah tangga perdesaan di 2 Kabupaten (Lampung Barat dan Pesawaran) memiliki pengetahuan dan kemampuan meliterasi tayangan TV dan terlibat dalam kegiatan memantau dan mengkritisi tayangan TV dan memahami hak masyarakat terhadap tayangan TV yang berkualitas.
 
-Aktivitas:
+  Aktivitas:
 
-Melakukan pendidikan literasi media kepada 50 orang ibu rumah tangga perdesaan sebagai kelompok utama.
-Memfasilitasi perumusan standar tayangan TV berkualitas berdasarkan nilai, norma dan kebiasaan lokal dan memfasilitasi pemantauan dan pengkritisan tayangan TV oleh 500 ibu rumah tangga perdesaan dalam kegiatan rutin kelompok pemantauan tayangan TV berbasis dasa wisma.
+  * Melakukan pendidikan literasi media kepada 50 orang ibu rumah tangga perdesaan sebagai kelompok utama.
+  * Memfasilitasi perumusan standar tayangan TV berkualitas berdasarkan nilai, norma dan kebiasaan lokal dan memfasilitasi pemantauan dan pengkritisan tayangan TV oleh 500 ibu rumah tangga perdesaan dalam kegiatan rutin kelompok pemantauan tayangan TV berbasis dasa wisma.
 
-Kontribusi untuk sasaran B – terbentuknya Forum Pemantau Media yang beranggotakan ibu rumah tangga perdesaan, radio komunitas (rakom), masyarakat desa, Pemerintah Desa, Lembaga penyiaran TV untuk mengkampanyekan hak masyarakat atas tayangan TV yang berkualitas dan perbaikan media.
+  * **Kontribusi untuk sasaran B** – terbentuknya Forum Pemantau Media yang beranggotakan ibu rumah tangga perdesaan, radio komunitas (rakom), masyarakat desa, Pemerintah Desa, Lembaga penyiaran TV untuk mengkampanyekan hak masyarakat atas tayangan TV yang berkualitas dan perbaikan media.
 
-Aktivitas:
+  Aktivitas:
 
 Membentuk Forum Pemantau Media di 2 Desa (di Kabupaten Lampung Barat dan Kabupaten Pesawaran) yang menindaklanjuti hasil pemantauan dan pengkritisan tayangan TV dan mengkampanyekan hak masyarakat atas tayangan TV yang berkualitas dan perbaikan media.
 Menfasilitasi kerja Forum Pemantau Media dalam bentuk diskusi kelompok terarah yang bekerja secara rutin membangun komitmen perbaikan tayangan TV yang bersinergi dengan kelompok pemantau media di nasional.
