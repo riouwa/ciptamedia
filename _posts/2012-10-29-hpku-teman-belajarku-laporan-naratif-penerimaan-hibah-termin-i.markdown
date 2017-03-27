@@ -54,4 +54,7 @@ Dengan peserta perwakilan 30 SMA/ MA Aula Al Ihklas Kemenag Kota Kediri
 * Dalam satu tahun pelaksanaan workshop video pembelajaran 3gp, dihasilkan lebih dari 1000 buah video dan bisa di download melalui internet secara gratis.
 * Pada tahun 2013 sekolah menengah atas di kota dan kabupaten Kediri tercipta budaya pemanfaatan Hp, dimana pemanfaatannya benar-benar bisa dirasakan dalam peningkatan mutu pembelajaran di lingkungan pendidikan.
 
-Hasil aktual hingga laporan ini dibuat:
+  Hasil aktual hingga laporan ini dibuat:
+  1. Wacana baru tentang pemanfaatan hp yang sehat dikalangan pelajar
+  2. Dukungan dari pejabat instansi pendidikan, PEMKOT, DINAS Pendidikan, KEMENAG Kediri untuk terus mengupayakan hp untuk mendukung pembelajaran.
+  3. Respon dari guru (yang telah mengikuti sosialisasi) untuk memanfaatkan TIK dalam pembelajaran di kelas.
