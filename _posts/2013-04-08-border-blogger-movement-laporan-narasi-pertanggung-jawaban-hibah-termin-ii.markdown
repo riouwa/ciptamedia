@@ -36,3 +36,15 @@ Proyek	             :  **Peningkatan kapasitas dan fasilitasi blogger perbatasan
 * Belum semua wilayah perbatasan Kalimantan Baratmemiliki jaringan provider selular. Sejumlah peserta mengirim berita via SMS (di kawasan-kawasan perbukitan atau kecamatan tetangga yang memiliki signal) setelah beberapa hari kemudian. Program SMS gate way terpaduseperti ushaidi menjadi satu alternative. Uji coba dan sosialisasi Ushaidi di Kecamatan Paloh dan Bengkayang, di akhir program mendapat respon yang positif, tetapi tahap berikutnya tidak terlaksana karena program BBM sudah berakhir.
 * Sistem agregasi pada web BBM sangat membantu memantau seluruh aktivitas blogger yang telah mendaftarkan diri kepada admin web.
 
+**2. Aktivitas/ Isu yang Anda usung dan mencoba atasi**
+
+  Berikut adalah aktivitas dan isu-isu yang anda masukkan pada permohonan hibah anda:
+
+  1. Warga perbatasan belum memiliki media komunitas yang dapat digunakan secara aktif maupun interaktif untuk menyuarakan masalah-masalah perbatasan Kalimantan Barat-Sarawak, Malaysia.
+  2. Media mainstream belum mampu menjangkau semua kawasan perbatasan, sehingga persoalan-persoalan di perbatasan lambat terdeteksi dan diungkap.
+  3. Jumlah blogger dan yang peduli perbatasan masih sangat sedikit serta belum terorganisir.
+  4. Sedikitnya warga perbatasan yang mampu menulis, mengolah serta menyebarluaskan informasi terkait isu-isu perbatasan.
+  5. Masih minimnya informasi dari, untuk dan tentang perbatasan Kalimantan Barat-Sarawak Malaysia.
+  6. Selain informasi tentang perbatasan Kalimantan Barat dengan Sarawak Malaysia, masih kurang juga belum terintegrasi dan terorganisasi dengan baik.
+
+Aktifitas dan isu yang anda atasi:
