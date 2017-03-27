@@ -236,3 +236,41 @@ LIKES: Data Jumlah Pengunjung yang menyukai (likes) berdasarkan Negara, Kota, da
 ![tabel10_1.JPG](/uploads/tabel10_1.JPG){: .img-responsive .center-block }
 
 ![400px-Statistik_FB_ISAD_Jangkauan_berdasarkan_usia_dan_gender.jpg](/uploads/400px-Statistik_FB_ISAD_Jangkauan_berdasarkan_usia_dan_gender.jpg){: .img-responsive .center-block }
+
+![tabel10_2.JPG](/uploads/tabel10_2.JPG){: .img-responsive .center-block }
+
+![tabel10_3.JPG](/uploads/tabel10_3.JPG){: .img-responsive .center-block }
+
+![400px-Statistik_FB_ISAD_berdasarkan_demografis_dan_lokasi.jpg](/uploads/400px-Statistik_FB_ISAD_berdasarkan_demografis_dan_lokasi.jpg){: .img-responsive .center-block }
+
+!![400px-Grafik_FB_ISAD_berdasarkan_demografis_dan_lokasi.jpg](/uploads/400px-Grafik_FB_ISAD_berdasarkan_demografis_dan_lokasi.jpg){: .img-responsive .center-block }
+
+![tabel10_4.JPG](/uploads/tabel10_4.JPG){: .img-responsive .center-block }
+
+* Untuk Website kita memang memiliki kendala dengan sistem pemrograman karena kita tidak memiliki SDM dan untuk itu ISAD telah berkonsultasi dan meminta bantuan dengan pakar ahlinya yaitu Mas Nanang Syaifudin yang kebetulan dengan sukarela akan membantu kami mengerjakan pemograman website ISAD di akhir bulan Maret 2013 ini. Semoga setelah website online kami bisa memenuhi target seperti pengajuan proposal yang kami kirim di awal. Namun ISAD juga telah menyebarkan dokumentasi foto, video, audio, teks / pdfe secara online melalui Facebook, Instagram, Tumblr. Dengan rincian Foto yang sudah diunggah ke jejaring sosial media total sebanyak: 2086 Foto. Sedangkan untuk rekaman audio, video dan teks liputan media kita sebarkan melalui Twitter dengan mengcopy link sumbernya. (Kedepan akan kita muat secara rinci dalam website: www.isad.or.id)
+
+* Mengenai Festival ISAD kami sejak pertengahan tahun 2012 telah mengajukan proposal kepada Galeri Nasional untuk kerjasama tempat penyelenggaraan acara dan kabar terakhir kami bertemu dengan Direktur Galeri Nasional Bapak Tubagus Andre pada bulan Februari 2013, Rencana Festival ISAD disarankan akan digabung dengan rangkaian besar pameran Arsip Seni Rupa Indonesia, menjadi bagian dengan IVAA (Indonesian Visual Art Archive) yang rencana akan diselenggarakan pada bulan November 2013 , namun masih menunggu hasil rapat para kurator diantaranya Farah Wardani, Asikin Hasan.
+
+**Liputan Media kurun waktu September 2012 – 11 Maret 2013**
+
+1. Street Art in Indonesian Social and Political Life (di Blog Guggeinhem Museum, New York pada 17 Oktober 2012)
+
+Link: http://blogs.guggenheim.org/2012/10/17/street-art-in-indonesian-social-and-political-life/
+
+2. ikono.org (Jerman)
+
+ikono is an innovative media platform dedicated to democratizing art through the production and broadcasting of short films that present art to the wider public sphere.
+
+Judul  : The Indonesia Street Art Database
+
+Tanggal : 4 November 2012
+
+Link : http://ikono.org/2012/11/the-indonesian-street-art-database/
+
+3. The Jakarta Post (edisi Cetak & Online pada 3 Maret 2013)
+
+Judul : Truth heard from the streets
+
+Penulis : Henry Benot
+
+Link : http://www.thejakartapost.com/news/2013/03/03/truth-heard-streets.html
