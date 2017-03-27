@@ -146,3 +146,91 @@ Undangan Presentasi & Diskusi ISAD.
     Salah satunya melalui Program Presentasi dan Diskusi berkala ISAD yang sangat penting untuk tetap kita jalankan kedepan dengan strategi pendekatan kepada inisiatif komunitas dan ruang-ruang baru. Sayangnya sementara Program ini dalam kurun waktu September 2012- Maret 2013 baru menggapai kota Bandung dan Jakarta, untuk itu kedepan kita akan coba kembangkan dengan membuat modul sederhana tentang gagasan program ISAD agar bisa ditiru dan dikembangkan oleh Jejaring ISAD diberbagai kota di Indonesia. Kita juga sedang membenahi sistem pendokumentasian Audio, Foto, dan Video meniru sistem @america , juga salihara yang setiap acara selesai langsung mengupload dokumentasi foto, audio dan rekaman videonya.
 
    Pembelajaran selanjutnya adalah bahwa wiki sebagai pelaporan aktivitas tidak cocok untuk ISAD, dan medium yang lebih cocok adalah facebook fan page ISAD, penyuka halaman ini meningkat drastis dari sekitar 100 pada awal tahun 2012 menjadi 1.900-an di awal tahun 2013. Pelaporan juga menggunakan twitter untuk update terkini seluruh aktivitas ISAD semua terhubung secara otomatis dengan Twitter @I_S_A_D, dan sekarang telah mencapai 1537 followers
+
+**2. Aktivitas/ Isu yang Anda usung dan mencoba atasi**
+
+Berikut adalah aktivitas dan isu-isu yang anda masukkan pada permohonan hibah anda:
+
+1. Mengidentifikasi transformasi aktivitas street art dari segi isu dan sisi artistiknya.
+
+2. Pendokumentasian dan pengarsipan produksi karya dengan harapan data yang dihasilkan akan dapat mendukung pengkajian tentang street art dari kalangan akademisi.
+
+3. Menyediakan media distribusi data dan informasi yang sebelumnya kurang memadai dalam bentuk foto, video, audio, maupun arsip tertulis.
+
+Aktifitas dan isu yang anda atasi
+
+Dalam Strategi identifikasi tranformasi aktivitas street art dari segi isu dan artistiknya kami membuat program khusus yaitu SKS ( Senin Kurasi Street art). SKS (Senin Kurasi Street art ) adalah inisiatif berkala setiap hari senin dengan melakukan pemantauan media tentang dokumentasi aktivitas street art di social media baik berupa foto, dan liputan media. Setiap senin kami membuat tema khusus sebagai strategi identifikasi dokumentasi aktivitas street art di Indonesia. Salah satu contoh di SKS yang ke-4 | hari Senin 25 Februari 2013 kami fokus mengkurasi dokumentasi “Mural Kampung “ berikut ini linknya: http://www.facebook.com/media/set/?set=a.472623092792335.110354.259721807415799&type=3 . Kami juga membuat media distribusi penyebaran data dengan membuat SKS Zine yang bisa diunduh secara bebas dalam format pdf. Sampai hari ini sudah edisi yang ke – 5.
+
+![250px-ISAD-SKS.jpg](/uploads/250px-ISAD-SKS.jpg){: .img-responsive .center-block }
+
+Link Unduh: [http://www.facebook.com/photo.php?fbid=476616289059682&set=a.309487539105892.78249.259721807415799&type=1&theater](http://www.facebook.com/photo.php?fbid=476616289059682&set=a.309487539105892.78249.259721807415799&type=1&theater)
+
+ISAD sedang melakukan strategi mensinergikan kerja kolaborasi inisiatif pendokumentasian aktivitas street art yang di masa depan dan dimulai dari sekarang akan dikelola dari berbagai kota di Indonesia. Sampai hari ini 11 Maret 2013 ISAD sudah bersinergi dan dikelola dari 17 Kota di Indonesia, dan 1 khusus dari Singapura untuk mendokumentasikan karya street artist Indonesia yang berkarya dan didokumentasikan disana.
+
+ISAD juga membuat strategi baru penyebaran arsip ISAD ke ruang publik dengan membuat MADING ARSIP oleh D.B.A ( Divisi Bombing Arsip ). DIVISI BOMBING ARSIP (D.B.A) adalah divisi khusus yang bekerja secara gerilya menyebarkan informasi arsip ISAD ke ruang publik agar dibaca oleh masyarakat luas dengan nama MADING ARSIP.
+
+![250px-ISAD-Mading_Arsip.jpg](/uploads/250px-ISAD-Mading_Arsip.jpg){: .img-responsive .center-block }
+
+Lokasi: Depan RSCM , Jl. Diponegoro Jakarta Pusat DKI Jakarta.
+Tahun: 2013 .
+Sumber Arsip: Kliping Koran Kompas, Sabtu 14 Juli 2012, Hal 26
+
+**3. Indikator sukses anda dalam permohonan hibah**
+
+  1. ISAD menjadi organisasi pengumpul data tentang Street Art di Indonesia yang dapat diakses secara gratis
+
+  2. ISAD menjadi tempat bertemu dan berkumpul peminat Street Art di Indonesia
+
+     1. Terkumpulnya 1000 data baik berupa karya maupun dokumentasi street art Indonesia, baik berupa foto, video, naskah tertulis (risalah penelitian ilmiah) dan audio
+    
+     2. Situs ISAD diakses 1000-1500 pengunjung pada bulan pertama dan estimasi akan diakses 60.000 orang dalam setahun.
+
+     3. Bertemunya minimal 500 individu maupun kelompok street artist di Indonesia dalam setahun melalui ISAA dan situs ISAD.
+
+     4. Festival ISAD dihadiri minimal 500 pengunjung selama 3 hari pelaksanaan.
+
+     5. Adanya 5 liputan di media massa nasional, baik cetak maupun online mengenai ISAA dan ISAD.
+
+Hasil aktual hingga laporan ini dibuat
+
+**ISAD menjadi organisasi pengumpul data tentang Street Art di Indonesia yang dapat diakses secara gratis.**
+
+    * Data ISAD dimasa depan selain bisa diakses oleh publik juga diharapkan bisa dikembangkan oleh komunitas. Indonesian Street Art Database adalah Inisiatif kerja kolaborasi jejaring street artists yang bergiat dalam upaya pendokumentasian, dan penelitian street art di Indonesia yang secara sinergi di masa depan dan dimulai dari sekarang akan dikelola dari berbagai kota di Indonesia. ISAD sampai detik ini sudah bersinergi dan dikelola dari 17 Kota di Indonesia dan 1 dari Singapura. Dokumentasi di setiap kota bisa diakses oleh publik: Indonesian Street Art Database/Jejaring
+
+**ISAD melakukan sinergi kerja pendokumentasian yang bisa diakses publik dengan memanfatkan jejaring sosial kekinian**
+
+  * Twiter : @i_s_a_d dengan followers sebanyak 1504. Kami juga melakukan pemantauan dokumentasi street art terkini melalui Instagram dan tumblr.com.
+
+  * Instagram : @i_s_a_d
+
+  * Link dokumentasi via instagram: http://web.stagram.com/n/i_s_a_d/
+
+  * Tumblr.com: http://indonesianstreetartdatabase.tumblr.com/
+
+  * Facebook: http://www.facebook.com/indstreetartdatabase
+
+  * ISAD saat ini sedang memaksimalkan penyebaran dokumentasi yang bisa diakses publik dengan menggunakan Fan page ISAD: http://www.facebook.com/indonesianstreetartdatabase . Melalui Fan Page ISAD ini semua data langsung dapat di unggah oleh jejaring ISAD di 17 Kota di Indonesia dan 1 Singapura mereka semua kita jadikan admin. Dengan fan page ISAD ini http://www.facebook.com/indonesianstreetartdatabase kita bisa memantau grafik aktivitas pengguna sosial media yang aktif mengakses ISAD:
+
+![400px-Statistik_FB_ISAD_14_Feb-7_Mar_2013.jpg](/uploads/400px-Statistik_FB_ISAD_14_Feb-7_Mar_2013.jpg){: .img-responsive .center-block }
+
+Statistik Halaman Facebook ISAD periode 14 Februari - 7 Maret 2013.
+
+Overviews ( Sekilas Pandang ) berdasarkan grafik sejak dari 14 Februari – 7 Maret 2013 :
+
+* Total Likes: 1,886 (+3.68%)
+
+* Friends of Fans: 1,806,768 (+3.87%)
+
+* People Talking About This: 274 (-21.94%)
+
+* Weekly Total Reach: 5,595 (-2%)
+
+![400px-Statistik_FB_ISAD_Likes_berdasarkan_negara.jpg](/uploads/400px-Statistik_FB_ISAD_Likes_berdasarkan_negara.jpg){: .img-responsive .center-block }
+
+Statistik Halaman Facebook ISAD berdasarkan jumlah "Suka".
+
+LIKES: Data Jumlah Pengunjung yang menyukai (likes) berdasarkan Negara, Kota, dan menurut Bahasa. Dalam kurun waktu sejak 1 Februari 2013 sampai 7 Maret 2013.
+
+[tabel10_1.JPG](/uploads/tabel10_1.JPG){: .img-responsive .center-block }
+
+![400px-Statistik_FB_ISAD_Jangkauan_berdasarkan_usia_dan_gender.jpg](/uploads/400px-Statistik_FB_ISAD_Jangkauan_berdasarkan_usia_dan_gender.jpg){: .img-responsive .center-block }
