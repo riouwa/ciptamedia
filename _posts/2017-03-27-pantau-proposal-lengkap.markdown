@@ -48,13 +48,13 @@ C. Wartawan-wartawan serta penulis isu Islam dan berminat di isu media.;
 
 **Latar belakang:**
 
-* A. Keterkaitan pada topik: Pemantauan media
+**A. Keterkaitan pada topik: Pemantauan media**
 
   “64,3 persen jurnalis setuju pelarangan Ahmadiyah. 63,1 persen jurnalis setuju RUU-Anti Pornografi yang bias perempuan. Sementara, 63,5 persen wartawan setuju dengan fatwa sipilis -fatwa anti sekulerisme, pluralisme, dan liberalisme- MUI,” tulis laporan di rubrik media majalah Gatra edisi 21 September 2011, berjudul, “. Gatra mengutip hasil survey persepsi wartawan Indonesia terhadap Islam.
 
   Menurut Gatra mengutip Imam Shofwan, koordinator survey, tak mengherankan jika pemberitaan sejumlah media cenderung bias. Ia mencontohkan penggunaan kata “bentrok,” pada saat terjadi kasus Cikeusik. Seharusnya menggunakan kata “penyerbuan” karena kelompok mayoritas yang menyerbu minoritas. Kata “bentrok” umumnya dipakai untuk mengungkapkan pertemuan dua kekuatan yang jumlahnya sama besar.
 
-* B. Masalah yang ingin diatasi dan keterkaitan dengan aktivitas
+**B. Masalah yang ingin diatasi dan keterkaitan dengan aktivitas**
 
   Pemberitaan di media yang bias soal Islam dan penggunaan kata-kata yang cenderung mengaburkan persoalan sebenarnya, seperti yang terjadi di Cikeusik awal Febuari lalu, adalah persoalan serius. Contoh paling serius, untuk pemberitaan yang bias adalah dalam kasus Ambon 1999-2002 di mana media Muslim dan media Kristen ikut membakar konflik Ambon, perlu dijadikan pelajaran berharga: Wartawan musti menanggalkan identitas mereka saat meliput.
 
@@ -67,7 +67,7 @@ Selain itu, temuan yang menarik lainnya adalah, ketika ditanya apa tantangan war
 
   Untuk mengetahui kondisi terbaru soal persepsi wartawan Indonesia mengenai Islam perlu juga dilakukan update terbaru survey ini tahun 2012.
 
-* C. Keterkaitan pada kategori: Konten Lokal, Kemitraan, Strategi Kreatif, Aksi, dan Teknologi Tepat Guna
+**C. Keterkaitan pada kategori: Konten Lokal, Kemitraan, Strategi Kreatif, Aksi, dan Teknologi Tepat Guna**
 
 **Aksi**
 
@@ -79,7 +79,7 @@ peluncuran hasil survey wartawan di provinsi-provinsi dengan jumlah responden pa
   Menggunakan jaringan interviewer dan responden pada survey 2009
 Mengundang praktisi media untuk ikut aktif dalam peluncuran hasil survey 2009, menyebarkan hasil survey ke jejaring sosial: facebook dan twitter.
 
-* D. Aktifitas dan keterkaitan pada sasaran
+**D. Aktifitas dan keterkaitan pada sasaran**
 
   * **Kontribusi untuk sasaran A** – Mengaktifkan lagi jaringan interviewer Pantau 2009.
 
@@ -93,6 +93,6 @@ Mengundang praktisi media untuk ikut aktif dalam peluncuran hasil survey 2009, m
 
     * Mengundang para wartawan yang jadi narasumber di tiap-tiap provinsi dan membuat account survey persepsi wartawan Indonesia terhadap Islam 2009 dan memposting hasil surveynya satu per satu.
 
-* E.Latar belakang dan demografi pelaku proyek
+**E.Latar belakang dan demografi pelaku proyek**
 
 Pemimpin proyek pernah menjadi wartawan di Majalah Syir’ah, majalah yang mencoba menampilkan Islam yang ramah dan menenggang beda. Juga pernah menjadi penulis lepas untuk Playboy, Rollingstone, Majalah Historia, dan berbagai koran di Indonesia. Sejak 2006, bekerja untuk Pantau Feature Service. 2007, mendapatkan SEAPA fellowship untuk liputan isu HAM di Timor Leste dan 2008, memenangi Every Human Has Rights Media Award dari Internews Europe, Paris. Dia juga koordinator lapangan Survey Persepsi Wartawan terhadap Islam 2009.
