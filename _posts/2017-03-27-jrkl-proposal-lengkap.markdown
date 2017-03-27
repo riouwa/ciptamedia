@@ -85,3 +85,4 @@ Di luar permasalahan tersebut, ibu rumah tangga perdesaan memiliki potensi besar
 
   Lembaga penyiaran TV belum mampu menyerap kritik dan saran masyarakat perdesaan atas tayangan yang disiarkannya.
 
+**C. Keterkaitan pada kategori: Konten Lokal, Kemitraan, Strategi Kreatif, Aksi, dan Teknologi Tepat Guna**
