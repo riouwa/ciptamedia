@@ -66,7 +66,7 @@ Peningkatan akses Orang Rimba terhadap layanan pendidikan, kesehatan dan peningk
 
 **Latar belakang:**
 
-* A. Keterkaitan pada topik: Keadilan dan kesetaraan akses terhadap media
+**A. Keterkaitan pada topik: Keadilan dan kesetaraan akses terhadap media**
 
     Orang Rimba merupakan komunitas asli Jambi yang hidup tersebar dalam kelompok-kelompok kecil di hutan-hutan sekunder maupun di perkebunan-perkebunan karet dan sawit milik masyarakat desa. Tiap-tiap kelompok yang dipimpin oleh seorang tumenggung ini biasanya beranggotakan tiga sampai 20 kepala keluarga.
 Secara umum persebaran Orang Rimba dibagi dalam tiga wilayah besar di Provinsi Jambi, yaitu di Taman Nasional Bukit Duabelas dan sekitarnya berjumlah 1.700 jiwa, di sepanjang jalan lintas Sumatera mulai dari perbatasan Jambi-Sumatera Selatan hingga batas Jambi – Sumatera Barat, berjumlah 1.800 jiwa. Dan yang terakhir komunitas Orang Rimba yang berada di Selatan Taman Nasional Bukit Tigapuluh yang berjumlah 450 jiwa.
@@ -87,7 +87,7 @@ Secara umum persebaran Orang Rimba dibagi dalam tiga wilayah besar di Provinsi J
 
     Media Radio Komunitas dan kegiatannya dipandang sebagai media alternatif yang efektif dan efisien untuk menjangkau Orang Rimba, guna penyampaian materi pendidikan, informasi kesehatan, pengembangan pertanian menetap, serta menjadi sarana komunikasi dengan kelompok masyarakat lainnya. Selain itu, Radio Komunitas juga akan menjadi alat untuk memobilisasi dan menjadi media informasi dan hiburan bagi Orang Rimba dan masyarakat desa disekitar mereka.
 
-* B. Masalah yang ingin diatasi dan keterkaitan dengan aktivitas
+**B. Masalah yang ingin diatasi dan keterkaitan dengan aktivitas**
 
     1. Ketiadaan fasilitas media informasi menjadikan Orang Rimba semakin marginal.
     Proyek akan mengembangkan berdirinya studio radio komunitas yang dapat dijangkau oleh kelompok-kelompok Orang Rimba, sebagai media untuk mengatasi kebutuhan akses mereka terhadap informasi. Pendirian studio dan pemancar radio ini akan langsung mendukung semua aktifitas program-program penyiaran ke Orang Rimba dan bersinergi dengan aktifitas-aktifitas lainnya yang telah dikembangkan Warsi.
@@ -107,7 +107,7 @@ Melalui program siaran radio, akan didorong komunitas Orang Rimba memanfaatkan f
     5. Orang Rimba sebagai suku asli minoritas marginal sangat rawan terhadap perlakuan ketidakadilan dan kekerasan.
     Program siaran radio komunitas akan membantu mengkampanyekan budaya dan cara hidup Orang Rimba. Melalui kampanye ini diharapkan komunitas umum semakin menghilangkan berbagai pandangan negatif terhadap Orang Rimba hingga akhirnya merubah sikap dan tindakan yang dapat mengakui dan menghargai keberadaan Orang Rimba. Program siaran radio ini akan banyak disasarkan kepada para pendengar warga desa-desa dimana Orang Rimba tinggal hidup berdampingan. Di sisi lain program radio ini juga akan memuat informasi tentang kehidupan di desa-desa dan norma umum yang berlaku di desa-desa. Dengan demikian program siaran ini akhirnya dapat membantu mengurangi konflik antara kedua belah pihak yang sekarang ini sering terjadi.
 
-* C. Keterkaitan pada kategori: Konten Lokal, Kemitraan, Strategi Kreatif, Aksi, dan Teknologi Tepat Guna
+**C. Keterkaitan pada kategori: Konten Lokal, Kemitraan, Strategi Kreatif, Aksi, dan Teknologi Tepat Guna**
 
     **Aksi**
     1. Advokasi pendidikan dan kesehatan Orang Rimba.
@@ -120,7 +120,7 @@ Melalui program siaran radio, akan didorong komunitas Orang Rimba memanfaatkan f
 
     Menumbuhkan partisipasi penuh Orang Rimba dalam penyiapan materi siaran, menjadikan mereka sebagai penyiar aktif. Dari sisi audient akan dibangun kelompok-kelompok pendengar aktif, baik di komunitas Orang Rimba ataupun di masyarakat desa. Materi siaran pendidikan, informasi kesehatan, informasi ekonomi, juga akan diramaikan dengan informasi budaya dan keberagaman yang dimiliki Orang Rimba dan masyarakat desa, sehingga tercipta kesaling pemahaman diantara mereka.
 
-* D. Aktifitas dan keterkaitan pada sasaran
+**D. Aktifitas dan keterkaitan pada sasaran**
 
   **Kontribusi untuk sasaran A** – Studio dan pemancar radio komunitas yang dapat melakukan siaran secara berkelanjutan.
 
@@ -175,7 +175,7 @@ Melalui program siaran radio, akan didorong komunitas Orang Rimba memanfaatkan f
     Indikator:
     Konflik antara Orang Rimba dan masyarakat desa semakin berkurang. Masyarakat desa mau menerima Orang Rimba sebagai tamu dirumahnya.
 
-* E. Latar belakang dan demografi pelaku proyek
+**E. Latar belakang dan demografi pelaku proyek**
 
     **Pemimpin proyek**
 
@@ -185,13 +185,13 @@ Melalui program siaran radio, akan didorong komunitas Orang Rimba memanfaatkan f
 
     Empat personal yang memiliki kemampuan dibidang IT dan komunikasi yang diyakini dapat mengembangkan media radio komunitas untuk kemajuan Orang Rimba.
 
-* F. Demografik kelompok target
+**F. Demografik kelompok target**
 
   Orang Rimba dilingkup Bukit Duabelas yang berada di bawah naungan 10 tumenggung yang tersebar di Sungai Air Hitam, Kejasung Besar, Kejasung Kecil, Serengam dan Makekal. Orang Rimba yang berada di sekitar Areal Transmigrasi Hitam Hulu dan Hak Guna Usaha perusahaan besar swasta nasional PT. SAL, PT. JAW, dan PT. Emal.
 
   Masyarakat desa yang berada di Kecamatan Air Hitam, terdiri dari Desa Bukit Suban, Pematang Kabau, Lubuk Jering, Jernih dan Dusun Baru. Desa-desa yang berada di Kecamatan Tabir Selatan Merangin, yang terdiri dari SP B, SP A, dan SP C dan Rawa Jaya, desa-desa ini paling tinggi intensitasnya dalam berinteraksi dengan Orang Rimba Bukit Duabelas.
 
-* G. Hasil yang diharapkan dan indikator keberhasilan
+**G. Hasil yang diharapkan dan indikator keberhasilan**
 
   * Orang Rimba di Bukit Duabelas meningkat kualitas hidup melalui pendidikan, informasi dan layanan kesehatan dan kegiatan ekonomi melalui media Radio Komunitas. Orang Rimba melalui radio ini, juga diharapkan akan hidup berdampingan dengan masyarakat desa, dengan pola saling menghormati berdasarkan jati diri masing-masing.
 
@@ -203,7 +203,7 @@ Melalui program siaran radio, akan didorong komunitas Orang Rimba memanfaatkan f
   * Berkurangnya konflik Orang Rimba dan masyarakat desa secara signifikan.
   * Tersebarnya norma-norma Orang Rimba ke masyarakat desa dan norma umum ke Orang Rimba.
 
-* H. Keterkaitan proyek dengan perbaikan media dan keadilan sosial
+**H. Keterkaitan proyek dengan perbaikan media dan keadilan sosial**
 
   **Perbaikan media**
 
@@ -213,23 +213,23 @@ Melalui program siaran radio, akan didorong komunitas Orang Rimba memanfaatkan f
 
   Proyek ini akan berkontribusi untuk menjadikan komunitas Orang Rimba lebih berdaya saing, sehingga strata kehidupan Orang Rimba meningkat dan dapat sejajar dengan masyarakat pada umumnya. Pada akhirnya stereotip negatif tentang Orang Rimba akan hilang.
 
-* I. Durasi waktu aktifitas dilaksanakan:
+**I. Durasi waktu aktifitas dilaksanakan:**
 
   Januari 2012-Desember 2015 (Tiga tahun dan bersinergi dengan program Warsi). Proyek ini berkelanjutan.
 
-* J. Total kebutuhan dana untuk melakukan aktifitas:
+**J. Total kebutuhan dana untuk melakukan aktifitas:**
 
   **Rp. 765.340.000**
   Yang diminta dari Ford Foundation melalui Cipta Media Bersama:
 
   **Rp. 568.340.000** (rincian terlampir)
 
-*  K. Kontribusi organisasi:
+**K. Kontribusi organisasi:**
 
   Ruangan kantor staff dan ruangan studio.
   Gaji staff proyek dan pengelola radio.
 
-* L. Kontribusi dari kelompok target:
+**L. Kontribusi dari kelompok target:**
 
   Partisipasi melalui waktu dan tenaga dalam pembangunan studio, sebagai penyiar radio, serta menghadiri kegiatan-kegiatan radio komunitas.
 
