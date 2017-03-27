@@ -274,3 +274,184 @@ LIKES: Data Jumlah Pengunjung yang menyukai (likes) berdasarkan Negara, Kota, da
    Penulis : Henry Benot
 
    Link : http://www.thejakartapost.com/news/2013/03/03/truth-heard-streets.html
+
+**4. Tujuan dan Sasaran**
+
+Silahkan anda jelaskan apa yang telah anda berhasil peroleh dengan hibah ini yang berkaitan dengan tujuan yang lebih besar yang anda harapkan dapat anda capai Sasaran-sasaran yang diharapkan dapat dicapai:
+
+  1. Membentuk infrastruktur dan menyediakan akses terbuka bagi masyarakat tentang street art sebagai ekspresi alternatif untuk menyuarakan aspirasi dalam konteks sosial, politik, dan budaya. Akses terbuka tersebut berupa situs indonesianstreetartdatabase.org yang berisi data-data siap akses dalam bentuk digital. Selain bisa diakses secara online, ISAD akan menyediakan data dan koleksi arsip/dokumentasi yang bisa diakses di sekretariat ISAD.
+
+  2. Mengarsipkan karya maupun dokumentasi aktifitas street art di Indonesia, baik yang dilakukan oleh individu maupun komunitas sebanyak 1000 data, berupa foto, video, naskah dan audio.
+
+  3. Memperluas jejaring street art baik individu maupun komunitas melalui media situs Indonesian Street Art Database maupun melalui jaringan offline, baik di dalam negeri maupun di dunia internasional. Target jaringan adalah 500 individu/komunitas. Memetakan dan mengidentifikasi individu maupun komunitas street art di Indonesia, terutama di daerah-daerah luar Jawa, dengan fokus pada 4 wilayah di luar pulau Jawa.
+
+  4. Mendorong partisipasi aktif para street artist maupun warga pemerhati street art untuk berkontribusi aktif dalam pengarsipan dan pendokumentasian karya street art dengan cara mengunggah data-data ke situs indonesianstreetartdatabase.org ataupun menyerahkan langsung dalam bentuk hard data ke sekretariat ISAD.
+
+  5. Menempatkan aktivisme street art sebagai bagian dari wacana sejarah, sosial dan kebudayaan urban melalui program penelitian, seminar, penerbitan buku, workshop, pameran dan festival.
+
+Tujuan yang berhasil dicapai hingga saat ini:
+
+  * ISAD berhasil membangun sinergi jejaring kerja kolaborasi pendokumentasian street art di 17 Kota di Indonesia dan 1 di Singapura (Seperti yang sudah saya paparkan di point 3 diatas). Kedepan dan dimulai dari sekarang ISAD secara sinergi akan dikelola dari berbagai kota di Indonesia. http://www.facebook.com/indonesianstreetartdatabase/info
+
+  * ISAD tetap membuka pintu bagi siapapun untuk mengakses koleksi data yang ada di sekretariat kami secara gratis. Dan belakangan ini ISAD mulai aktif didatangi mahasiswa dan periset, film dokumenter yang datang untuk mencari informasi perkembangan street art Indonesia. Salah satu contoh pada hari sabtu 9 Maret 2013 ISAD menerima konsultasi mahasiswi Binus bernama Juliana dalam rangka riset tentang street art untuk skripsinya.
+
+  * ISAD tetap aktif menerima undangan presentasi dan diskusi di institusi pendidikan dan acara-acara anak muda. Sperti dipaparkan di Acara yang ISAD alami dari Sepetember 2012 – Maret 2013
+
+  * Selain melakukan diskusi berkala yang sudah dilakukan 8 kali, ISAD juga melakukan komunikasi dengan berbagai tamu dari dalam dan luar negeri untuk berbagi perkembangan street art di Indonesia. Salah satunya tamu dari Myanmar Art Evolution : http://myanmartevolution.com/2012/11/27/indonesian-street-art-database/
+
+  * ISAD membuat SKS ZIne online yang bisa dunduh gratis, sebagai strategi penyebaran dokumentasi ISAD .
+
+  * ISAD juga membuat strategi penyebaran arsip ke ruang publik dengan membuat Mading Arsip .
+
+**5. Perubahan Lingkup Organisasi/ Lingkungan Sekitar**
+
+Tolong jabarkan perubahan perubahan signifikan yang organisasi anda dapatkan yang memiliki dampak pada pekerjaan anda pada periode pelaporan yang anda lakukan untuk saat ini. Masukkan secara deskriptif bagaimana anda menangani perubahan perubahan tersebut dan bagaimana perencanaan anda berubah sebagai hasilnya.
+
+Selama Periode September 2012 – Maret 2013 perubahan-perubahan signifikan dalam organisasi adalah semua tim inti yang bekerja untuk ISAD seperti Direktur , Manajer Keuangan, Koordinator Produksi, Koordinator Database, sejak terhitung bulan November 2012 sudah tidak mendapatkan sistem gaji , Jadi sumber daya manusia yang bekerja di ISAD bekerja secara sukarela dan tidak mendapatkan upah.
+
+Sekarang jumlah anggota organisasi ISAD yang bekerja secara sukarela berjumlah 7 Orang: Andi RHARHARHA, Maya Santoso, Syaiful Ardianto, Riksa Afiaty, Deri Pratama Juda, Deny Arivin, Isrol Triono.
+
+Oleh sebab itu kami mencoba berpikir dengan keras mencari solusinya, secara perlahan kami menggagas self funding dengan cara merancang sebuah divisi bisnis dengan rencana awal membuat semacam “clothing” dengan memproduksi merchandise yang akan dijual untuk menutupi kebutuhan finansial di ISAD. Divisi Bisnis ISAD ini juga sedang dalam proses realisasi.
+
+Semoga Tim ISAD tetap solid bekerja untuk mewujudkan sebuah platform gagasan masa depan tentang kerja kolaborasi sinergi aktivitas pendokumentasian street art Indonesia yang dimasa depan dan dimulai dari sekarang akan dikelola bersama-sama dari berbagai kota di Indonesia.
+
+**Tantangan/ masalah organisasi/ pengelolaan yang dihadapi**
+
+Isu-isu manajemen atau organisasi apakah yang anda hadapi pada saat anda menuliskan laporan ini (apakah ada perubahan signifikan pada komposisi staf/ dewan atau anggota tim anda. Apakah ada faktor-faktor lain yang dapat membatasi kemampuan organisasi/ komunitas anda untuk mengumpulkan data dan menerjemahkan data data keuangan atau aktifitas yang terkait dengan program dalam tujuan awal).
+
+Bila mungkin juga tuliskan dan tekankan kebutuhan yang belum terpenuhi/ teridentifikasi sebelumnya dalam menangani penguatan organisasi/ komunitas anda.
+
+   1. Kemampuan organisasi untuk menggumpulkan data cukup berhasil, tetapi masalah yang dihadapi oleh ISAD yaitu managemen database. Selama ini ISAD masih terus mengupayakan pencarian sumber daya manusia kompeten dan rela bekerja secara sukarela untuk membantu pengelolaan sistem database yang bisa memudahkan kita dalam mengakses data dimasa depan.
+
+   2. Staf kami sekarang selain tetap bekerja untuk ISAD juga terpaksa harus mencari mata pencaharian sampingan untuk bertahan hidup.
+
+   3. Tantangan kedepan juga kita harus mewujudkan Festival ISAD yang direncanakan akan diselenggarakan bersama pameran arsip seni rupa Indonesia di Galeri Nasional pada bulan November 2013. Namun secara bersamaan ruang kantor kita habis masa kontraknya pada bulan Oktober 2013. (Dan kita belum memiliki solusi untuk hal ini)
+
+   4. ISAD secara organisasi pada awalnya memiliki General Manager bernama Mirwan Andan dan meminjam uang sebesar 12,6 juta dan sampai sekarang belum dibayar atau diganti.
+ 
+   5. Website isad.or.id sampai laporan ini ditulis masih dalam proses pengerjaan dan semoga akhir bulan ini kita bisa menyelesaikan programnya bersama Mas Nanang Syaifudin.
+
+**6. Keberagaman**
+
+Silahkan ditulis perubahan perubahan yang berpengaruh dalam keberagaman (contohnya apabila anggota komunitas, dewan, atau komposisi staf anda mulai beragam dari sisi jenis kelaminnya, suku, pendidikan, umur, budaya, agama, latar belakang asal lokasinya, bahasanya, dan lain sebagainya) dalam periode pelaporan ini. Apabila organisasi/ komunitas anda mengalami tantangan keberagaman, silahkan tuliskan juga pendapat anda.
+
+ISAD memiliki staf yang beragam mulai dari segi usia, latar belakang pendidikan, agama, hingga jenis kelamin. 
+Berikut adalah komposisinya:
+
+1. Andi Riyanto (Andi RHARHARHA)
+  
+   Jenis kelamin : Pria
+
+   Posisi : Direktur ISAD
+
+   Pendidikan : Sarjana Seni Institut Kesenian Jakarta
+
+   Profesi : street artist, periset, networker
+
+   Agama : Katolik
+
+   Preferensi seksual : Heteroseksual
+
+2. Maya Santoso
+
+   Jenis kelamin : Wanita
+
+   Posisi : Manajer keuangan
+
+   Pendidikan : Sarjana Seni Institut Kesenian Jakarta
+
+   Profesi : Manajer komunikasi
+
+   Agama : Katolik
+
+   Preferensi seksual : Heteroseksual
+
+3. Syaiful Ardianto
+
+   Jenis kelamin : Pria
+
+   Posisi : Koordinator Produksi
+
+   Pendidikan : Sarjana Seni Institut Kesenian Jakarta
+
+   Profesi : Seniman, steet artist
+
+   Agama : Islam
+
+   Preferensi seksual : Heteroseksual
+
+4. Isrol Triono
+
+   Jenis kelamin : Pria
+
+   Posisi : Koordinator Database
+
+   Pendidikan : SMK Pancasila Sakti, Jakarta
+
+   Profesi : Seniman, street artist
+
+   Agama : Islam
+
+   Preferensi seksual : Heteroseksual
+
+5. Riksa Afiaty
+
+   Jenis Kelamin : Wanita
+
+   Posisi : Koordinator Program
+
+   Pendidikan : Mahasiswi
+
+   Profesi : Penulis, Fotografer , dan Program Event
+
+   Agama : Islam
+
+   Preferensi seksual : Heteroseksual
+
+6. Deri Pratama Juda
+
+   Jenis Kelamin : Wanita
+
+   Posisi : Design
+
+   Pendidikan : Mahasiswa
+
+   Profesi : Street Artist & Designer
+
+   Agama : Islam
+
+   Preferensi seksual : Heteroseksual
+
+7. Deny Arivin
+
+   Jenis Kelamin : Pria
+
+   Posisi : Audio Visual
+
+   Pendidikan : Mahasiswa
+
+   Profesi : Fotografer
+
+   Agama : Islam
+
+   Preferensi Seksual : Heteroseksual
+
+Ketujuh anggota itu beragam dari suku dan rasa ada yang dari suku Jawa, Betawi , China dan Sunda. Kita berbeda dan merdeka 100%.
+
+**7. Laporan keuangan**
+
+Silahkan masukkan pranala laporan keuangan anda disini
+
+[http://ciptamedia.org/wiki/Templat:ISAD-Termin2](http://ciptamedia.org/wiki/Templat:ISAD-Termin2)
+
+**8. Pengesahan**
+
+Saya, sebagai penandatangan, menyatakan bahwa saya adalah individu yang berwenang untuk menyerahkan laporan ini atas nama komunitas/ organisasi saya sesuai dengan persyaratan yang dicantumkan pada Perjanjian Hibah Cipta Media Bersama yang telah ditandatangani sebelumnya dan seluruh dana yang dibelanjakan telah dibelanjakan sesuai dengan tujuan-tujuan yang tercantum dalam permohonan hibah.
+Tertanda:
+
+Lokasi dan tanggal:
+
+Jakarta, 12 Maret 2013
+
+
+**Andi Riyanto**
