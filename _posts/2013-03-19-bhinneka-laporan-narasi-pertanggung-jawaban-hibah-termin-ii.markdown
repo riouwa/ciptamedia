@@ -133,7 +133,7 @@ Isu-isu manajemen atau organisasi apakah yang anda hadapi pada saat anda menulis
 
 Tidak ada
 
-Bagian berwarna abu abu (*dibawah ini) diminta untuk dihilangkan karena pengulangan dari laporan sebelumnya, apabila ada pembelajaran baru harap dimasukkan dalam kolom hijau diatas, apabila tidak ada pembelajaran baru silahkan nyatakan tidak ada:
+Bagian berwarna abu abu diminta untuk dihilangkan karena pengulangan dari laporan sebelumnya, apabila ada pembelajaran baru harap dimasukkan dalam kolom hijau diatas, apabila tidak ada pembelajaran baru silahkan nyatakan tidak ada:
 
     1. Belum ada staf khusus yang menangani bidang IT dan pengelolaan website hingga kini.
     2. Strategi finansial supaya Lembaga Bhinneka lebih mandiri, telah diusahakan dengan penjualan buku antologi. Namun, masih belum ada strategi jangka panjang, karena keterbatasan dana.
