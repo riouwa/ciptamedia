@@ -173,3 +173,18 @@ http://ckanyan.blogspot.com/ (Sungai Utik), dll.
   * Terpublikasinya minimal 15 tulisan di media cetak lokal maupun nasional tentang perbatasan yang ditulis para blogger perbatasan;
   * Terpublikasinya minimal 540 konten tentang isu perbatasan berupa text, video dan photo blogger perbatasan di agregat web perbatasan;
   * Terpublikasinya minimal satu buku kumpulan tulisan, foto, video (best practice) karya blogger perbatasan.
+
+**H. Keterkaitan proyek dengan perbaikan media dan keadilan sosial**
+
+**Perbaikan media**
+
+  Border Blogger Movement berharap dengan keterlibatan para blogger, akan menjadi alternatif sumber informasi independen yang tidak disuarakan oleh media mainstream. Terutama karena pelaku (jurnalis kampung) ini adalah mereka yang berada pada akar rumput. Partisipasi dan keterlibatan mereka sebagai penyedia konten media komunitas, jejaring sosial dan media mainstream merupakan merupakan kontribusi utama dalam perbaikan informasi media.
+
+**Keadilan sosial**
+
+  Intervensi proyek ini yang berupa gerakan jurnalisme kampung dengan adaptasi teknologi media memungkinkan siapa saja menjadi pewarta, tidak hanya wartawan berkontribusi di bidang informasi, tetapi juga warga biasa di sempadan negeri yang nyaris tidak dipedulikan. Melalui gerakan dan intervensi program ini juga memungkinkan setiap orang memiliki kesetaraan dan akses terhadap media.
+
+**I. Durasi waktu aktifitas dilaksanakan:**
+
+  Proyek ini akan dilaksanakan oleh BBC selama 6 bulan kalender, yaitu Januari-Juni 2012.
+
