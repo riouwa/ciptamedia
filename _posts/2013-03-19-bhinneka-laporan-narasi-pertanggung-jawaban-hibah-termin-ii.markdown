@@ -78,3 +78,20 @@ Kedua, Antologi cerpen Sepasang Ballerina (tentang kisah-kisah LGBT) yang diterb
 Di Jakarta, pada tanggal 9 Maret 2013 di TIM.
 Di Surabaya, bedah buku diadakan pada tanggal 27 Febuari 2013 di SUTOS dan pada tanggal 9 Maret di GAYa NUSANTARA.
 5. Dari sms dan facebook, kami mendapat permintaan agar majalah Bhinneka terbit lagi.
+
+**4. Tujuan dan Sasaran**
+
+Silahkan anda jelaskan apa yang telah anda berhasil peroleh dengan hibah ini yang berkaitan dengan tujuan yang lebih besar yang anda harapkan dapat anda capai Sasaran-sasaran yang diharapkan dapat dicapai:
+
+A. Tersedianya materi untuk membangun toleransi dan pola berpikir kritis
+
+B. Tersedianya ruang untuk membangun toleransi dan pola berpikir kritis
+
+C. Ditiadakan
+
+D.1 Adanya kader untuk mempromosikan keberagaman (promotor)
+
+D.2 Adanya kader untuk merekrut orang-orang yang berpotensi dalam mempromosikan keberagaman (recruiter)
+
+Tujuan yang berhasil dicapai hingga saat ini:
+
