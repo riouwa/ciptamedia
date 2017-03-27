@@ -29,3 +29,15 @@ Silahkan tuliskan pembelajaran, acara-acara yang anda buat/ alami yang dapat mem
 * Pertemuan Bhinneka di Jakarta bersama Musdah Mulia dan Rocky Gerung (yang membludak) membuat kami memikirkan bagaimana mencari tempat yang lebih luas. Masukan dari peserta cukup positif, tapi beberapa mengeluhkan tentang harga makanan dan minuman yang sangat mahal, padahal beberapa sudah datang dari luar kota dengan ongkos sendiri. Jadi, bila ada dana, mungkin untuk selanjutnya, Bhinneka akan menyediakan minuman dan makanan ringan gratis.
 * Penerbitan buku Antologi cerpen dan puisi Amarah mendapat sambutan yang sangat baik, dan membuat Bhinneka ingin menerbitkan antologi lagi.
 * Penerbitan buku Antologi cerpen Sepasang Ballerina juga mendapat sambutan baik, walaupun ada 2 orang yang mengritik covernya (dinilai kurang sopan) dan ada saran bahwa beberapa cerpen dari Antologi ini difilmkan (tergantung dana).
+
+**2. Aktivitas/ Isu yang Anda usung dan mencoba atasi**
+
+Berikut adalah aktivitas dan isu-isu yang anda masukkan pada permohonan hibah anda
+
+* Wacana fundamentalisme yang penyebarannya telah merambat ke sekolah-sekolah serta universitas. Buku-buku dan majalah murah (bahkan gratis) yang didanai organisasi fundamentalis, untuk mempromosikan ideologi keagamaan mereka, dan berhasil menarik simpati massa.
+* Beberapa Jurnal atau majalah yang memperjuangkan pluralisme di Indonesia, seringkali terlihat eksklusif, jangkauannya terbatas dan terkadang cukup mahal, sehingga media seperti ini tidak membawa perubahan yang mendasar di masyarakat.
+* Lembaga Bhinneka mempublikasi cetak dan online dengan menerbitkan Majalah Bhinneka secara dwiwulan melalui media cetak & online. Penerima manfaat langsung kalangan akademisi dan intelektual, terutama dari komunitas-komunitas yang bekerjasama dengan Lembaga Bhinneka dalam mendistribusikan Majalah Bhinneka. Sementara asumsi untuk penerima manfaat tidak langsung adalah khalayak umum
+* Beberapa kelompok masyarakat menghubungkan keberagaman (terutama seksual) dengan budaya Barat sehingga mereka menolak wacana keberagaman.
+* Sub Aktivitas: Penerbitan Antologi Cerpen Keberagaman Seksualitas beserta analisa tentang seksualitas dan orientasi seks. Penerima manfaat langsung asumsi khalayak umum.
+
+Aktifitas dan isu yang anda atasi
