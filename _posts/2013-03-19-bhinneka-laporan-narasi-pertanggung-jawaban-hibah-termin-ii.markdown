@@ -137,3 +137,69 @@ Bagian berwarna abu abu (*dibawah ini) diminta untuk dihilangkan karena pengulan
 
     1. Belum ada staf khusus yang menangani bidang IT dan pengelolaan website hingga kini.
     2. Strategi finansial supaya Lembaga Bhinneka lebih mandiri, telah diusahakan dengan penjualan buku antologi. Namun, masih belum ada strategi jangka panjang, karena keterbatasan dana.
+
+**6. Keberagaman**
+
+Silahkan ditulis perubahan perubahan yang berpengaruh dalam keberagaman (contohnya apabila anggota komunitas, dewan, atau komposisi staf anda mulai beragam dari sisi jenis kelaminnya, suku, pendidikan, umur, budaya, agama, latar belakang asal lokasinya, bahasanya, dan lain sebagainya) dalam periode pelaporan ini. Apabila organisasi/ komunitas anda mengalami tantangan keberagaman, silahkan tuliskan juga pendapat anda.
+
+Kami mempunyai staff dari berbagai latar belakang dan berbagai orientasi seksual:
+
+*Dari 25 Oktober, kami mendapat tambahan staff berikut (Orientasi seksual tidak disebutkan, karena privasi)*:
+
+* Shinta Miranda (Koordinator Bhinneka Jakarta)
+
+Jenis kelamin: Perempuan
+
+Pendidikan: S1
+
+Umur: 53 tahun
+
+Agama: Agnostik
+
+* Henny Herawati (Asisten Bendahara)
+
+Jenis kelamin: Perempuan
+
+Pendidikan: S1
+
+Umur: 37 tahun
+
+Agama: Kristen
+
+*(Karena kami banyak membahas isu gender dan perempuan, kebanyakan yang tertarik atau bersedia bekerja untuk Bhinneka adalah perempuan).*
+
+* Soe Tjen Marching (Direktur)
+
+Jenis kelamin: Perempuan
+
+Orientasi: Hetero
+
+Pendidikan: S3, Asian Studies - Monash University
+
+Umur: 41 tahun
+
+Agama: -
+
+* Phebe Anggreani (Manager Program dan Bendahara)
+
+Jenis Kelamin: Perempuan
+
+Orientasi: Bisex
+
+Pendidikan: Grafik Desain, Minneapolis Community & Technical College
+
+Umur: 34 tahun
+
+Agama: -
+
+* Vinsensius Kristianto Batuadji (Asisten Manager Program)
+
+Jenis kelamin: Lelaki
+
+Orientasi: Hetero
+
+Pendidikan: S2 Psikologi Universitas Gadjah Mada
+
+Umur: 29 tahun
+
+Agama: Katolik
