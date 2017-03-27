@@ -120,3 +120,17 @@ Wartawan-wartawan dan aktivis kebebasan beragama
 
   Selain media dan para wartawanya juga makin banyak orang-orang yang peduli pentingnya toleransi antar agama.
 
+**I. Durasi waktu aktifitas dilaksanakan:**
+
+  Januari 2012 – Agustus 2012
+
+**J. Total kebutuhan dana untuk melakukan aktivitas:**
+  **Rp. 358,350,000**
+
+**K. Kontribusi organisasi:**
+
+Management fee akan ditanggung oleh yayasan Pantau.
+
+**L. Kontribusi dari kelompok target:**
+
+  Follow up Survey wartawan ini tak akan terlaksana tanpa dukungan para wartawan baik sebagai responden survey, peserta dalam peluncuran hasil survey dan penyebarluasan hasil survey ini dengan liputan-liputan dan karya-karya jurnalistik mereka.
