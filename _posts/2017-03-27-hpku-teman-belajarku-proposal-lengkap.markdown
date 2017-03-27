@@ -104,3 +104,65 @@ Skema pembuatan video pembelajaran proyek "Hp-ku Teman Belajarku".
   Aktivitas:
 
   * Melalui lomba ini diharapkan setelah masa program ini berakhir (1 tahun) dihasilkan lebih dari 1000 video pembelajaran, dan kita publikasikan melalui media cetak dan elektronik utamanya diwilayah Kediri, serta menyebarluaskan supaya bisa dinikmati secara gratis melalui media off line dan media online yaitu internet.
+
+**E.Latar belakang dan demografi pelaku proyek**
+
+  **Pemimpin proyek**
+
+  Guru TIK.MAN II Kediri Kota Kediri.
+
+  **Pelaku Proyek**
+
+  Terdiri dari 3 orang, 1 orang guru laki-laki bertugas di daerah Kota Kediri dan 1 orang guru perempuan bertugas di Kabupaten Kediri , dan 1 orang laki-laki pegawai dengan kwalifikasi teknisi computer dan praktisi IT.
+
+**F. Demografik kelompok target**
+
+  Terdiri dari 3 orang, 1 orang guru laki-laki bertugas di daerah Kota Kediri dan 1 orang guru perempuan bertugas di Kabupaten Kediri , dan 1 orang laki-laki pegawai dengan kwalifikasi teknisi computer dan praktisi IT.
+
+**G. Hasil yang diharapkan dan indikator keberhasilan**
+
+  * Timbulnya kesadaran dilingkungan pendidikan terutama pelajar untuk memanfaatkan Hp yang sehat guna mendukung pembelajaran di sekolah.
+  * Timbulnya minat dan kemampuan Guru untuk membuat video pembelajaran berformat 3gp, yang sangat bermanfaat untuk interaksi pembelajaran bagi Guru dan Siswa.
+  * Tidak ada lagi aturan pelarangan pemakaian Hp di lingkungan sekolah dan ada tatatertib serta mekanisme sistem pengawasan pemanfaatan Hp.
+  * Dalam satu tahun pelaksanaan workshop video pembelajaran 3gp, dihasilkan lebih dari 1000 buah video dan bisa di download melalui internet secara gratis.
+
+  Indikator:
+
+  * Pada tahun 2013 nanti, di sekolah menengah atas di kota dan kabupaten Kediri telah tercipta budaya pemanfaatan Hp yang sehat, dan pemanfaatan ini benar-benar bisa dirasakan dalam peningkatan mutu pembelajaran di lingkungan pendidikan. Sehingga tujuan proyek yaitu menumbuhkan kebebasan dan etika bermedia dalam hal ini untuk media Hp tercapai.
+
+**H. Keterkaitan proyek dengan perbaikan media dan keadilan sosial**
+
+-
+
+**I. Durasi waktu aktifitas dilaksanakan:**
+
+  Januari s/d Desember 2012 (1 tahun)
+
+**J. Total kebutuhan dana untuk melakukan aktivitas:**
+
+  **USD 19,617.65 ~ Rp. 166.750.000,-**
+
+**K. Sumber dana lain (bila ada):**
+
+  * Operator Seluler
+  * Kementrian Pendidikan Kota dan Kab. Kediri
+  * Kementrian Agama Kota dan Kab. Kediri
+
+**L. Kontribusi organisasi:**
+
+-
+
+**M. Kontribusi dari kelompok target:**
+
+-
+
+**N. Keberlanjutan program:**
+
+  * Bisa diterapkan secara luas
+  Pemanfaatan Hp untuk mendukung pembelajaran dengan membuat video pembelajaran 3gp ini sangat mungkin diterapkan atau diadopsi secara luas, utamanya tentunya di bidang pendidikan dan tentunya bukan hanya di wilayah Kediri bahkan mungkin di seluruh wilayah Indonesia.
+  * Pelayanan public
+  Melihat sederhananya dan murah dalam proses pembuatan media video 3gp ini, sangat mungkin untuk diterapkan pada pelayanan publik, serta dukungan teknologi share data yang simpel (bluetoot). Sebagai contoh misal untuk memberi informasi pengurusan KTP elektronik, jika itu disampaikan dalam bentuk Video 3gp maka masyarakat akan lebih mudah dan tentunya juga lebih transparan.
+  * Sarana Belajar Kelas Bawah
+  Salah satu problema pendidikan di Indonesia adalah belum meratanya kesempatan untuk mendapatkan pendidikan, contoh dari persoalan tersebut adalah masih tingginya angka putus sekolah, dengan sarana video pembelajaran 3gp ini anak putus sekolah, misalnya karena harus bekerja bisa memanfaatkan sebagai salah satu alternative sarana belajar, karena ternyata menurut pengamatan penulis banyak diantara mereka yang putus sekolah tetapi punya Hp.
+  * Potensial Untuk Bisnis
+  Dengan maraknya kasus “penyedot pulsa” saat ini menjadikan kita prehatin dengan perkembangan pemanfaatan Hp, tentunya kita sepakat jika ada pemanfaatan yang lebih baik misalnya dalam bidang pendidikan yang tentunya harus merupakan upaya penyedia layanan (operator Hp) dan praktisi inovasi mobile phone untuk memberi pilihan yang lebih berguna dan tentunya harus dikemas semenarik mungkin, Video Pembelajaran 3gp ini sebagai alternative untuk menambah rating pemanfaatan MMS.
