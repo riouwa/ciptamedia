@@ -78,3 +78,29 @@ Skema pembuatan video pembelajaran proyek "Hp-ku Teman Belajarku".
   Perekaman layar dari materi yang disampaikan adalah dengan cara sederhana menggunakan sebuah software trial yaitu Camtasia Studio dan hasilnya berupa video, untuk mengkonversi ke format file 3gp digunakan software free Pazera 3gp Converter.
 
   Dari hasil video pembelajaran 3gp, bisa didistribusikan (share) lewat computer – computer, computer ke Hp atau Hp-Hp (bluetooth) dan juga bisa menggunakan layanan MMS. Serta bisa dibagikan ke semua orang lewat internet salah satu contohnya di Blog Hpku Teman Belajarku.
+
+**D. Aktifitas dan keterkaitan pada sasaran**
+
+  * **Kontribusi untuk sasaran A** – Seminar “Sosialisasi Pemanfaatan Hp Yang Sehat “
+
+  Aktivitas:
+
+  * Seminar ini utamanya ditujukan untuk siswa diharapkan dari seminar ini akan tumbuh kesadaran akan pemanfaatan Hp yang sehat, metode penyampaian materi akan digunakan pendekatan psikologi remaja dan disampaikan oleh motivator yang akrab dengan pemanfaatan media utamanya Hp, dengan pendekatan spiritual relegi diharapkan pesan-pesan dalam seminar akan diterima peserta.
+
+Kontribusi untuk sasaran B – Workshop “Pembuatan Video Pembelajaran 3gp”
+
+Aktivitas:
+
+Kegiatan strategis ini ditujukan untuk guru supaya timbul minat dan punya kemampuan untuk membuat video pembelajaran utamanya saat di kelas, rekaman video dikelas ini akan bermanfaat sebagai bahan evaluasi bagi guru, manajemen sekolah dan pengawas pendidikan, sehingga mutu pembelajaran bisa terus ditingkatkan.
+
+Kontribusi untuk sasaran C - Kuisioner “Perlu Nggak ? Hp untuk Pelajar”
+
+Aktivitas:
+
+Jajak pendapat ini bertujuan untuk mendapatkan data yang otentik dari koresponden pelaku pemakai Hp di lingkungan pendidikan, mulai dari siswa, guru, manajemen sekolah, pengawas pendidikan, wali murid, dan juga konsultan pendidikan. Hasil kuisioner akan kami komunikasikan kepada penentu kebijakan serta pembuat aturan pemakaian Hp di sekolah. Selain itu di lakukan testimoni dari beberapa Stake Holder.
+
+Kontribusi untuk sasaran D - Lomba “Cipta Video Pembelajaran 3gp”
+
+Aktivitas:
+
+Melalui lomba ini diharapkan setelah masa program ini berakhir (1 tahun) dihasilkan lebih dari 1000 video pembelajaran, dan kita publikasikan melalui media cetak dan elektronik utamanya diwilayah Kediri, serta menyebarluaskan supaya bisa dinikmati secara gratis melalui media off line dan media online yaitu internet.
