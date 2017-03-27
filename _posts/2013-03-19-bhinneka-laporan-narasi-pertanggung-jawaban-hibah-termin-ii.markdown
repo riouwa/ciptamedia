@@ -122,3 +122,7 @@ Bedah buku di Jakarta dan Surabaya juga mendapat sambutan yang cukup baik dan Le
 **D1. Kader untuk mempromosikan keberagaman (promotor)** bertambahnya anggota lembaga Bhinneka membuat kami lebih mudah mendapatkan kader, yang beberapa menjadi admin diskusi grup Facebook Bhinneka dan juga berperan aktif dalam kegiatan-kegiatan Lembaga Bhinneka, serta mempromosikannya lewat berbagai jaringan.
 
 **D2. Kader untuk merekrut orang-orang yang berpotensi dalam mempromosikan keberagaman (recruiter)** bertambahnya anggota yang menjaring anggota lain untuk aktif dalam berbagai kegiatan Bhinneka. Salah satunya adalah penulis puisi dan cerpen Shinta Miranda yang berhasil mengajak 4 orang lainnya untuk ikut aktif dalam Lembaga Bhinneka. Penambahan grup Facebook "[Lembaga Bhinneka Makassar dan sekitarnya](https://www.facebook.com/groups/BhinnekaMakassar/?ref=ts&fref=ts)“ untuk menjaring mereka-mereka yang di Makassar. Penambahan grup Facebook "[Lembaga Bhinneka Bengkulu dan sekitarnya](https://www.facebook.com/groups/BhinnekaBengkulu/?fref=ts)“ untuk menjaring mereka-mereka yang di Bengkulu.
+
+**5. Tantangan/ masalah organisasi/ pengelolaan yang dihadapi**
+
+Tolong jabarkan perubahan perubahan signifikan yang organisasi anda dapatkan yang memiliki dampak pada pekerjaan anda pada periode pelaporan yang anda lakukan untuk saat ini. Masukkan secara deskriptif bagaimana anda menangani perubahan perubahan tersebut dan bagaimana perencanaan anda berubah sebagai hasilnya.
