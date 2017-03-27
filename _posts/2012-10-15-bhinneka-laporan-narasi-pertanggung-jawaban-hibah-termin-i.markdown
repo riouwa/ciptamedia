@@ -57,51 +57,67 @@ Dengan adanya fenomena ini, teladan apa yg akan kita wariskan pada generasi mend
 
 Komentar yang diterima dari status ini:
 Che Guefarra ya betul ... di Jerman mahasiswa Muslim yang tidak punya tempat ibadah, dikasih tempat buat jum'atan di gereja. 
+
 8 hours ago via mobile • Like • 3 • 
 
 Bintang Jakarta Waktu Jakarta banjir besar, gerejaku ( GKI ) jadi tempat ngungsi warga yang mayoritas muslim, dua kali kebaktian minggu pagi ditiadakan demi menolong warga yang tertimpa musibah. Warga muslim dipersilahkan melaksanakan shalat 5 waktu berjamaah di dalam gedung gereja. Pendeta kami bilang, Dengan menolong sesama, kalian sudah memuliakan Tuhan. Hidup terasa indah dan penuh makna saat kita menyatakan kasih Tuhan pada sesama. 
+
 7 hours ago • Like • 6 • 
 
 Mabrur Syeh o... emang kebaktian bisa di tuker dengan ibadah lain ya...beda banget ya dengan mereka yang mengaku muslim... 
+
 7 hours ago • Like • 
 
 Theodore Manthovani eits, ada kok temanku yang melewatkan waktu shalat jumat demi nolongin temannya. jangan seperti itu dong. 
+
 6 hours ago • Like • 1 • 
 
 Bintang Jakarta Mabrur Syeh , kejadian yang sama pernah kok terulang waktu lebaran kemarin di Solo, Jateng. Gereja Kristen Jawa (GKJ) Solo, meniadakan Kebaktian Minggu pagi untuk lokasi shalat Ied Kebetulan kan Hari Raya Idhul Fitri 2012 jatuh pada hari Minggu. Kebetulan letak gereja dan mesjidnya berdampingan, satu tembok dan memakai alamat yang sama. Coba diklik linknya ya http://www.theglobejournal.com/Feature/gereja-kristen-jawa-gkj-tiadakan-kebaktian-untuk-lokasi-shalat-ied/index.php 
+
 6 hours ago • Edited • Like • 
 
 Mabrur Syeh @theodhore: stahu saya enggak boleh. tapi emang harus di akui dalam prakteknya banyak mujslim yang meinginggalkan shalat dengan berbagai alassan...bahkan dalam kondisi meregang nyawa, seorang muslim harus menegak kan shalat, "kalau tidak bisa berdiri ya duduk, klok tidak bisa duduk ya sambil tidur, klok tidak bisa sambil tidur ya dengan isyarat, klok tidak bisa dengan isyarat ya di shalatkan" bahkan dalan kondisi ada desingan peluru (perang shalat itu tidak boleh di tinggalkan) untuk salat semua ada aturannya, menolong orang wajib, tapi juga ada aturannya...terus terang saya salut dengan toleransi GKJ... 
+
 6 hours ago • Like • 
 
 Bintang Jakarta Kalau kita bisa hidup berdampingan, saling tolong menolong dan hormat menghormati dan saling toleransi rasanya kok hidup itu terasa indah ya 
+
 6 hours ago • Like • 1 • 
 
 Theodore Manthovani @mabrur berarti itu masalahnya ada pada peraturan beribadahnya, untuk orangnya kan berbeda x3 sama kalu diliat2 kristen jg ada aturan begitu di kitabnya, cuma gak diberlakukan saja. justru bagus kalu seorang umat sadar kalu ibadah itu gak paling utama, seakan tuhan egosentris banget. 
+
 6 hours ago • Like • 1 • 
 
 Mabrur Syeh disitulah repotnya jadi muslim (islam) tidak ada bagian hidup yang tidak di atur...tidak dapat di pisahkan antar iman, ibadah dan amal,... semua kegiatan adalah amal, semua kegiaatan adalah ibadah... repotkan. 
+
 6 hours ago • Like • 
 
 Fabian Chandra Iya bro... Dari cebok sampai sanggama, semua ada aturannya.... 
+
 5 hours ago • Like • 1 • 
 
 Jerry Xü Hanya paham fascism sebenernya yg ngatur ampe detil kek gitu.. 
+
 5 hours ago • Like • 4 • 
 
 Vida Semito yg menindas itu bukan mayoritas, mereka sebtulnya minoritas tapi suara mereka vocal sekali, makanya jd terkesan mereka itu mayoritas dan sialnya lagi krn kita menganggap mereka mayoritas maka besar kepala lah orang2 ini dan merasa jadi mayoritas conto...See More 
+
 5 hours ago • Edited • Like • 3 • 
 
 Vida Semito setahu saya shalat jumat itu bukan wajib tapi sunah, jadi klupun di tinggalkan untuk sesuatu yg lbh penting misal menolong orang yg terkapar kecelakaan itu diperbolehkan, namanya juga sunah, klu dikerjakan dprt pahala klu tidak dikerjakan tidak apa2i...See More 
+
 5 hours ago • Edited • Like • 1 • 
 
 Jerry Xü Bukan cuma mayoritas tidak bertindak seperti kelompok radikal, mereka bahkan jarang atau hampir tidak berbuat apa-apa yg menunjukkan ketidaksetujuan mereka terhadap kaum radikal. Makanya disebutlah: silent majority. Kalo udah gitu, ya salah si silent majority jg kenapa diem2 aja dan gak ngapa2in utk menghentikan tindakan kaum radikal? 
+
 3 hours ago • Like • 6 • 
 
 Fabian Chandra Kita sih tidak tahu yang mana silent majority dan yang mana yang radikal, kalau pada diam-diam berarti kita menganggap semua setuju.... Bukankah begitu.....? 
+
 2 hours ago • Like • 
 
 Anindya Yumika Dewi Vida Semito Bukan sunnah, untuk mahzab Syafi'i, sholat 5 waktu hukumnya fardhu ain (wajib) dan sholat berjamaah (rame2) hukumnya fardhi kifayah (boleh ditinggalkan kalau sudah ada orang lain yang melakukan) Jadi harus dihargai juga orang yang meninggalkan ritual agamanya demi kemanusiaan.. 
+
 2 hours ago • Like • 2 • 
 
 Dalam majalah Bhinneka, ada edisi khusus pembahasan tentang seksualitas dan stereotipe dari Barat, yaitu pada edisi “Tubuh dan Kekuasaan”. Begitu pula dalam edisi “Gender: Apakah itu”, lebih dari 50% dari isi membahas masalah ini.
