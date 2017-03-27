@@ -97,19 +97,19 @@ Tujuan yang berhasil dicapai hingga saat ini:
 
 **A. Tersedianya majalah Bhinneka** dan berkembangnya diskusi-diskusi di facebook, seperti diskusi Pluralis dan Lingkar Puisi dan Prosa, yang mengajak para anggotanya memikirkan kemanusiaan dan berpikir lebih kritis. Hingga laporan ini ditulis, telah terbit 2 edisi majalah Bhinneka, dengan tema sebagai berikut:
 
-Oktober 2012: Interpretasi Agama
+[Oktober 2012: Interpretasi Agama](http://issuu.com/bhinneka/docs/bhinneka-2012-10-interpretasi-agama)
 
-Desember 2012: Perempuan Pemimpin
+[Desember 2012: Perempuan Pemimpin](http://issuu.com/bhinneka/docs/bhinneka_edisi_014-perempuan_pemimpin__des_2012-we)
 
 Majalah Bhinneka sebelumnya :
 
-Februari 2012: Tubuh dan Kekuasaan
+[Februari 2012: Tubuh dan Kekuasaan](http://issuu.com/bhinneka/docs/majalah-bhinneka-008-tubuh-dan-kekuasaan)
 
-April 2012: Negara Sekuler
+[April 2012: Negara Sekuler](http://issuu.com/bhinneka/docs/majalah-bhinneka-009-negara-sekuler)
 
-Juni 2012: Agama dan Kepercayaan di Indonesia
+[Juni 2012: Agama dan Kepercayaan di Indonesia](http://issuu.com/bhinneka/docs/bhinneka_edisi_011_-_agama_dan_kepercayaan__jun_20)
 
-Agustus 2012: Gender, apakah itu?
+[Agustus 2012: Gender, apakah itu?](http://issuu.com/bhinneka/docs/majalah-bhinneka-12-gender)
 
 **B. Hingga laporan ini ditulis, telah terlaksana** Kopdar di Surabaya dan diskusi di Jakarta. **Diskusi di Jakarta pada 3-5 November berhasil mengundang pembicara yang cukup andal, yaitu Musdah Mulia, Rocky Gerung dan Soe Tjen Marching, dengan jumlah hadirin sekitar 100 orang. Lomba cerpen dan puisi yang diadakan berhasil menelorkan 2 antologi yang mendapat sambutan luar biasa dari pembacanya. Dan Lembaga Bhinneka merencanakan akan membuat film dari Antologi „Sepasang Ballerina“ (bila mendapatkan dana lagi).**
 
@@ -121,4 +121,4 @@ Bedah buku di Jakarta dan Surabaya juga mendapat sambutan yang cukup baik dan Le
 
 **D1. Kader untuk mempromosikan keberagaman (promotor)** bertambahnya anggota lembaga Bhinneka membuat kami lebih mudah mendapatkan kader, yang beberapa menjadi admin diskusi grup Facebook Bhinneka dan juga berperan aktif dalam kegiatan-kegiatan Lembaga Bhinneka, serta mempromosikannya lewat berbagai jaringan.
 
-**D2. Kader untuk merekrut orang-orang yang berpotensi dalam mempromosikan keberagaman (recruiter)** bertambahnya anggota yang menjaring anggota lain untuk aktif dalam berbagai kegiatan Bhinneka. Salah satunya adalah penulis puisi dan cerpen Shinta Miranda yang berhasil mengajak 4 orang lainnya untuk ikut aktif dalam Lembaga Bhinneka. Penambahan grup Facebook "Lembaga Bhinneka Makassar dan sekitarnya“ untuk menjaring mereka-mereka yang di Makassar. Penambahan grup Facebook "Lembaga Bhinneka Bengkulu dan sekitarnya“ untuk menjaring mereka-mereka yang di Bengkulu.
+**D2. Kader untuk merekrut orang-orang yang berpotensi dalam mempromosikan keberagaman (recruiter)** bertambahnya anggota yang menjaring anggota lain untuk aktif dalam berbagai kegiatan Bhinneka. Salah satunya adalah penulis puisi dan cerpen Shinta Miranda yang berhasil mengajak 4 orang lainnya untuk ikut aktif dalam Lembaga Bhinneka. Penambahan grup Facebook "[Lembaga Bhinneka Makassar dan sekitarnya](https://www.facebook.com/groups/BhinnekaMakassar/?ref=ts&fref=ts)“ untuk menjaring mereka-mereka yang di Makassar. Penambahan grup Facebook "[Lembaga Bhinneka Bengkulu dan sekitarnya](https://www.facebook.com/groups/BhinnekaBengkulu/?fref=ts)“ untuk menjaring mereka-mereka yang di Bengkulu.
