@@ -75,3 +75,8 @@ Dengan peserta perwakilan 30 SMA/ MA Aula Al Ihklas Kemenag Kota Kediri
 
   Point A dan B, C dan D akan di upayakan lebih intensif.
 
+**5. Perubahan Lingkup Organisasi/ Lingkungan Sekitar**
+
+  Tolong jabarkan perubahan perubahan signifikan yang organisasi anda dapatkan yang memiliki dampak pada pekerjaan anda pada periode pelaporan yang anda lakukan untuk saat ini. Masukkan secara deskriptif bagaimana anda menangani perubahan perubahan tersebut dan bagaimana perencanaan anda berubah sebagai hasilnya.
+
+Dengan sosialisasi Hp untuk pembelajaran ini ada beberapa sekolah yang malah semakin ketat dan protektif terhadap program kami ini terbukti dengan semakin diperketat aturan pelarangan Hp bagi siswa dan penempelan poster dilarang membawa Hp di pintu masuk sekolah, tetapi ada sekolah yang malah mensuport dan ingin mengembangkan metode pemanfaatan Hp untuk pembelajaran, terbukti setelah sosialisasi kami banyak guru yang tertarik dan ingin mempraktekkan ketika mengajar di kelas, dan mengundang kami lagi untuk mengadakan pelatihan seperti di SMKN 1 Kota Kediri. Untuk itu kami biasanya fleksibel tentang tema/ materi, jika di sekolah yang dilarang membawa Hp biasanya tema kami bersifat umum yaitu “Pemanfaatan TIK dalam pembelajaran”, tetapi dalam penyampaian materi kami tetap memperkenalkan pemanfaatan Hp untuk pembelajaran. Tetapi jika sekolah yang kami datangi jelas boleh atau longgar bagi siswa untuk membawa Hp, maka kami akan langsung mengadakan pelatihan “Pembuatan Video Pembelajaran Berformat 3gp”.
