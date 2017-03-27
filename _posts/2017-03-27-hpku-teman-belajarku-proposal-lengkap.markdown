@@ -87,15 +87,15 @@ Skema pembuatan video pembelajaran proyek "Hp-ku Teman Belajarku".
 
   * Seminar ini utamanya ditujukan untuk siswa diharapkan dari seminar ini akan tumbuh kesadaran akan pemanfaatan Hp yang sehat, metode penyampaian materi akan digunakan pendekatan psikologi remaja dan disampaikan oleh motivator yang akrab dengan pemanfaatan media utamanya Hp, dengan pendekatan spiritual relegi diharapkan pesan-pesan dalam seminar akan diterima peserta.
 
-Kontribusi untuk sasaran B – Workshop “Pembuatan Video Pembelajaran 3gp”
+  * **Kontribusi untuk sasaran B** – Workshop “Pembuatan Video Pembelajaran 3gp”
 
-Aktivitas:
+  Aktivitas:
 
-Kegiatan strategis ini ditujukan untuk guru supaya timbul minat dan punya kemampuan untuk membuat video pembelajaran utamanya saat di kelas, rekaman video dikelas ini akan bermanfaat sebagai bahan evaluasi bagi guru, manajemen sekolah dan pengawas pendidikan, sehingga mutu pembelajaran bisa terus ditingkatkan.
+  * Kegiatan strategis ini ditujukan untuk guru supaya timbul minat dan punya kemampuan untuk membuat video pembelajaran utamanya saat di kelas, rekaman video dikelas ini akan bermanfaat sebagai bahan evaluasi bagi guru, manajemen sekolah dan pengawas pendidikan, sehingga mutu pembelajaran bisa terus ditingkatkan.
 
-Kontribusi untuk sasaran C - Kuisioner “Perlu Nggak ? Hp untuk Pelajar”
+  * **Kontribusi untuk sasaran C** - Kuisioner “Perlu Nggak ? Hp untuk Pelajar”
 
-Aktivitas:
+  Aktivitas:
 
 Jajak pendapat ini bertujuan untuk mendapatkan data yang otentik dari koresponden pelaku pemakai Hp di lingkungan pendidikan, mulai dari siswa, guru, manajemen sekolah, pengawas pendidikan, wali murid, dan juga konsultan pendidikan. Hasil kuisioner akan kami komunikasikan kepada penentu kebijakan serta pembuat aturan pemakaian Hp di sekolah. Selain itu di lakukan testimoni dari beberapa Stake Holder.
 
