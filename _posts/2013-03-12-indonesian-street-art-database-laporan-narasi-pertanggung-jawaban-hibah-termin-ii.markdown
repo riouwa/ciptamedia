@@ -161,7 +161,9 @@ Aktifitas dan isu yang anda atasi
 
 Dalam Strategi identifikasi tranformasi aktivitas street art dari segi isu dan artistiknya kami membuat program khusus yaitu SKS ( Senin Kurasi Street art). SKS (Senin Kurasi Street art ) adalah inisiatif berkala setiap hari senin dengan melakukan pemantauan media tentang dokumentasi aktivitas street art di social media baik berupa foto, dan liputan media. Setiap senin kami membuat tema khusus sebagai strategi identifikasi dokumentasi aktivitas street art di Indonesia. Salah satu contoh di SKS yang ke-4 | hari Senin 25 Februari 2013 kami fokus mengkurasi dokumentasi “Mural Kampung “ berikut ini linknya: http://www.facebook.com/media/set/?set=a.472623092792335.110354.259721807415799&type=3 . Kami juga membuat media distribusi penyebaran data dengan membuat SKS Zine yang bisa diunduh secara bebas dalam format pdf. Sampai hari ini sudah edisi yang ke – 5.
 
-![250px-ISAD-SKS.jpg](/uploads/250px-ISAD-SKS.jpg){: .img-responsive .center-block }
+
+![250px_ISAD_M.jpg](/uploads/250px_ISAD_M.jpg){: .img-responsive .center-block }
+
 
 Link Unduh: [http://www.facebook.com/photo.php?fbid=476616289059682&set=a.309487539105892.78249.259721807415799&type=1&theater](http://www.facebook.com/photo.php?fbid=476616289059682&set=a.309487539105892.78249.259721807415799&type=1&theater)
 
