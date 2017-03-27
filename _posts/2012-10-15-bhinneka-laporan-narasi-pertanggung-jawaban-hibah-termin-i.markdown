@@ -167,3 +167,45 @@ C. -
 D.1. Bertambahnya anggota lembaga Bhinneka membuat kami lebih mudah mendapatkan kader, yang beberapa menjadi admin diskusi grup Facebook Bhinneka dan juga berperan aktif dalam kegiatan-kegiatan Lembaga Bhinneka, serta mempromosikannya lewat berbagai jaringan (Facebook, twitter, dan lain-lain). Pada akhir 2011 (sebelum menerima hibah), Bhinneka mempunyai sekitar 40 anggota dari Jakarta, Surabaya, Yogya dan Bandung. Sekarang, Bhinneka telah mempunyai sekitar 80 anggota dari kota-kota tersebut.
 
 D.2. Bertambahnya anggota yang menjaring anggota lain untuk aktif dalam berbagai kegiatan Bhinneka. Salah satunya adalah dosen Ubaya, Kristianto Batuadji yang mengajak sekitar 10 muridnya untuk berpartisipasi dalam diskusi Bhinneka baik lewat online ataupun tatap muka.
+
+Tolong jabarkan perubahan perubahan signifikan yang organisasi anda dapatkan yang memiliki dampak pada pekerjaan anda pada periode pelaporan yang anda lakukan untuk saat ini. Masukkan secara deskriptif bagaimana anda menangani perubahan perubahan tersebut dan bagaimana perencanaan anda berubah sebagai hasilnya.
+
+Adanya perubahan staff, sehingga kami harus menyesuaikan diri beberapa kali. Pada awalnya, Bhinneka terdiri dari 3 personil, yaitu Direktur (Soe Tjen Marching), Manajer Proyek (Phebe Anggreani), dan Staff pelaksana (Catur Wibowo). Karena dari para personil ini adalah aktifis dengan keahlian pada riset dan perencanaan serta pelaksanaan program, laporan admin yang sangat detil (seperti dituntut oleh cipta media) membuat kejutan yang cukup luar biasa saat itu. Sebelumnya, kami mendapat dana dari Hivos yang tidak menuntut laporan begitu detil, jadi konsentrasi kami hanya pada proyek, bukan admin. Hal ini membuat kami sadar perlunya menambah tenaga admin. Tetapi, pada saat kami memerlukan penambahan staff, Catur Wibowo justru mengundurkan diri, karena mendapat pekerjaan lain. Lembaga Bhinneka akhirnya mengambil beberapa tenaga lepas, untuk mengupdate twitter, mengurusi admin, mengumumkan acara di FB dan distributor majalah. Tetapi tenaga lepas ini juga akhirnya keluar, dan kami harus beberapa kali berganti staff.
+
+**5. Tantangan/ masalah organisasi/ pengelolaan yang dihadapi**
+
+Isu-isu manajemen atau organisasi apakah yang anda hadapi pada saat anda menuliskan laporan ini (apakah ada perubahan signifikan pada komposisi staf/ dewan atau anggota tim anda. Apakah ada faktor-faktor lain yang dapat membatasi kemampuan organisasi/ komunitas anda untuk mengumpulkan data dan menerjemahkan data data keuangan atau aktifitas yang terkait dengan program dalam tujuan awal). Bila mungkin juga tuliskan dan tekankan kebutuhan yang belum terpenuhi/ teridentifikasi sebelumnya dalam menangani penguatan organisasi/ komunitas anda.
+
+1. Komunikasi antara direktur (Soe Tjen Marching) dan manajer pelaksana (Phebe Anggreani) mengalami kesukaran, apalagi karena kesehatan Phebe yang kurang baik tahun ini.
+2. Belum ada staf khusus yang menangani bidang IT dan pengelolaan website.
+3. Belum ada strategi finansial karena Lembaga Bhinneka mendapat dana hanya untuk 1 tahun saja.
+
+**6. Keberagaman**
+
+Silahkan ditulis perubahan perubahan yang berpengaruh dalam keberagaman (contohnya apabila anggota komunitas, dewan, atau komposisi staf anda mulai beragam dari sisi jenis kelaminnya, suku, pendidikan, umur, budaya, agama, latar belakang asal lokasinya, bahasanya, dan lain sebagainya) dalam periode pelaporan ini. Apabila organisasi/ komunitas anda mengalami tantangan keberagaman, silahkan tuliskan juga pendapat anda.
+
+Kami mempunyai staff dari berbagai latar belakang dan berbagai orientasi seksual pula (karena privasi, orientasi seksual tidak akan kami ungkap di sini):
+
+Soe Tjen Marching (Direktur)
+Jenis kelamin: Perempuan
+Pendidikan: S3
+Umur: 41 tahun
+Agama: -
+
+Phebe Anggreani (Manager Program)
+Jenis Kelamin: Perempuan
+Pendidikan: D3 Grafik desain
+Umur:
+Agama: -
+
+Vinsensius Kristianto Batuadji (Asisten Manager Program)
+Jenis kelamin: Lelaki
+Pendidikan: S2 Psikologi Universitas Gadjah Mada
+Umur: 29 tahun
+Agama: Katolik
+
+Daris Ilma (Administrasi)
+Jenis kelamin: Perempuan
+Pendidikan: Mahasiswa RRI Malang jurusan komunikasi
+Umur: 20 tahun
+Agama: Islam
