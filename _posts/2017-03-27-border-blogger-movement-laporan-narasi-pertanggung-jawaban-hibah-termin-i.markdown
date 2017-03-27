@@ -1,0 +1,38 @@
+---
+title: Border Blogger Movement - Laporan Narasi Pertanggung Jawaban Hibah Termin I
+date: 2017-03-27 15:01:00 +07:00
+---
+
+**Border Blogger Movement**
+
+**Wikimedia Indonesia**
+
+**Instruksi untuk mengisi laporan penerimaan hibah**
+
+Wikimedia Indonesia mengharuskan seluruh penerima hibah melaporkan kegiatan mereka dalam bentuk laporan naratif dan laporan keuangan berdasarkan Perjanjian Penerima Hibah Cipta Media Bersama yang telah disepakati kedua belah pihak. Laporan naratif disarankan dalam bentuk lima hingga tujuh halaman.
+
+Laporan dapat dikirimkan melalui surel atau dokumen asli
+
+Penerima hibah	     :	**Border Blogger Movement**
+
+Periode Laporan	     :	**5 Januari 2012 hingga 20 Juli 2012**
+
+Proyek	             :	**Peningkatan kapasitas dan fasilitasi blogger perbatasan agar bisa menjadi wartawan kampung untuk menyuarakan persoalan-persoalan di perbatasan Kalimantan Barat dengan Sarawak-Malaysia**
+
+**1. Pembelajaran**
+
+Silahkan tuliskan pembelajaran, acara-acara yang anda buat/ alami yang dapat membuat perubahan dalam satu tahun kedepan sebagai hasil dari upaya upaya yang anda buat dibawah hibah yang anda terima, perubahan-perubahan yang anda percaya dapat membatu organisasi/ komunitas anda mencapai tujuan-tujuannya dan/ atau kesulitan dan tantangan yang tidak anda perkirakan yang anda temukan dalam periode pelaporan hibah ini.
+
+* Pelajaran yang menarik dari aktifitas BBM selama 6 bulan program adalah bahwa klaim jurnalisme hanya bisa dilakukan oleh wartawan ternyata tidak sepenuhnya benar. Karena orang kampung pun, (apabila ditingkatkan kapasitasnya, diberikan kesemepatan dan media yang sama) bisa melakukannya dengan sama baiknya dengan para wartawan dalam level tertentu.
+* Para blogger kampung perbatasan yang telah dilatih memiliki kreatifitas yang tidak kalah dengan blogger dari belahan dunia lain, bahkan mereka yang selama ini hanya berkutat di kampungnya kini telah berkomunikasi dan berinteraksi dengan blogger lain dari berbagai belahan dunia. Di tingkat lokal misalnya para blogger perbatasan di Kabupaten Sambas sekarang berjejaring dan saling tukar informasi dengan blogger perbatasan di Kapuas Hulu yang jaraknya 1000 km. Atau blogger perbatasan Kalimantan Barat berdialog dengan blogger Sarawak maupun dengan blogger dari provinsi lain di Indonesia.
+* Dalam 6 bulan aktifitas di 5 kabupaten Indonesia di Kalimantan Barat yang berbatasan langsung dengan negara Sarawak, Malaysia dan dari laporan para blogger, memberikan gambaran kepada kita yang lebih ril tentang persoalan keterbatasan akses informasi oleh dan dari warga perbatasan, bahkan pada level kota Kecamatan dan Kabupaten yang relatif sudah memiliki infrastruktur komunikasi.
+* Karena tidak memiliki akses, dan tidak memiliki media sebagai saluran informasi yang memadai, Persoalan-persoalan perbatasan Indonesia-Malaysia menjadi lambat sampai pemangku kepentingan, sehingga berbagai masalah perbatasan yang kompleks lambat mendapat respon publik maupun pemerintah. Akibatnya masyarakat perbatasan jadi apatis dan pada akhirnya cendrung bersikap masa bodoh ada atau tidaknya negara Indonesia di sempadan.
+* Informasi-informasi yang disampaikan melalui media mainstream cendrung bersifat streotipe yang justru merugikan masyarakat perbatasan itu sendiri.
+* Isu-isu yang sebenarnya vital di perbatasan (kesejahteraan, kependudukan, dan pendidikan: ada sekolah yang kemudian kosong ditinggalkan siswanya ramai-ramai pindah ke sekolah malaysia) nyaris tak diungkap ke permukaan, karena dominasi kepentingan politik bisnis media mainstrem di Kalimantan Barat maupun Nasional. Begitu juga masalah dwi kewarganegaraan di perbatasan.
+* Dalam aktifitas pemantauan dan evaluasi kami mendapatkan pengetahuan baru mengenai cara komunitas lokal di perbatasan dalam mengelola informasi secara internal, yang di dominasi oleh arus media Sarawak Malaysia.
+* Selama 6 bulan program, dari 100 lebih blogger yang telah dilatih, hanya 63 blogger saja yang kemudian mendaftarkan diri ke sindikasi portal BBM. Dan yang paling aktif adalah blogger yang menggunakan faslitas Black Bery, laptop pribadi dan Android.
+* Durasi program yang pendek (hanya 6 bulan) dengan luas Kalimantan Barat yang 1,15 kali pulau Jawa, serta infrastruktur jalan yang buruk membuat kami tidak cukup waktu secara intens menstimulasi dan memotivasi para blogger pemula di perbatasan. Akibatnya hanya sekitar 46% blogger perbatasan saja yang aktif di akhir program.
+* Hal ini juga dikarenakan tidak semua wilayah kecamatan di perbatasan Kalimantan Barat sudah memiliki jaringan provider selular. Akibatnya sejumlah peserta mengirim tulisannya dengan SMS (di kawasan-kawasan perbukitan atau kecamatan tetangga yang memiliki signal) setelah beberapa hari kemudian.
+* Kondisi di atas sebenarnya bisa difasilitasi dengan program SMS gate way yang seperti program ushaidi yang digunakan pada situs web Cipta Media.
+
+Sistem agregasi pada web BBM sangat membantu memantau seluruh aktivitas blogger yang telah mendaftarkan diri kepada admin web.
