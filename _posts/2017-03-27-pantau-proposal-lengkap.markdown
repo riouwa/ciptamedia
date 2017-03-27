@@ -92,3 +92,7 @@ Mengundang praktisi media untuk ikut aktif dalam peluncuran hasil survey 2009, m
     Aktivitas:
 
     * Mengundang para wartawan yang jadi narasumber di tiap-tiap provinsi dan membuat account survey persepsi wartawan Indonesia terhadap Islam 2009 dan memposting hasil surveynya satu per satu.
+
+* E.Latar belakang dan demografi pelaku proyek
+
+Pemimpin proyek pernah menjadi wartawan di Majalah Syir’ah, majalah yang mencoba menampilkan Islam yang ramah dan menenggang beda. Juga pernah menjadi penulis lepas untuk Playboy, Rollingstone, Majalah Historia, dan berbagai koran di Indonesia. Sejak 2006, bekerja untuk Pantau Feature Service. 2007, mendapatkan SEAPA fellowship untuk liputan isu HAM di Timor Leste dan 2008, memenangi Every Human Has Rights Media Award dari Internews Europe, Paris. Dia juga koordinator lapangan Survey Persepsi Wartawan terhadap Islam 2009.
