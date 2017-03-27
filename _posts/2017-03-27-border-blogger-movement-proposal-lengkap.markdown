@@ -37,3 +37,17 @@ Pontianak, Kalimantan Barat
 **Deskripsi Proyek**
 
 **Tujuan:**
+
+Meningkatnya jumlah blogger perbatasan yang memiliki kemampuan citizen journalism untuk menyuarakan persoalan-persoalan di perbatasan Kalimantan Barat dengan Sarawak-Malaysia.
+
+**Sasaran:**
+
+A. Mempropagandakan program Border Blogger Movement kepada publik, termasuk kepada para pemangku kebijakan di perbatasan Kalimantan Barat (Indonesia) -Sarawak (Malaysia).
+
+B. Meningkatkan kemampuan 45 blogger perbatasan Kalimantan Barat di bidang citizen journalism.
+
+C. Membuat satu situs aggregate blogger perbatasan dan 45 weblog perbatasan Kalimantan Barat.
+
+D. Mengidentifikasi karya dan praktik terbaik maupun potensi-potensi baru para blogger peduli perbatasan.
+
+E. Transparansi proyek dan penggunaan dana hibah.
