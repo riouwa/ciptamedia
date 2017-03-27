@@ -92,3 +92,7 @@ Tujuan yang berhasil dicapai hingga saat ini:
 Sudah dilakukan identifikasi terhadap karya-karya terbaik maupun potensi-potensi baru blogger peduli perbatasan dan hasil identifikasi akan segera diumumkan kepada publik, berupa pemenang syaembara.
 * Untuk itu sedang dilakukan kompilasi karya-karya tersebut untuk diedit dan didesign menjadi sebuah buku suara blogger dari perbatasan.
 * Pelaporan yang transparan sedang dilakukan oleh Border Blogger Movement. Ini dapat dilihat posting dan dokumentasi kegiatan di Wikimedia.
+
+Tolong jabarkan perubahan perubahan signifikan yang organisasi anda dapatkan yang memiliki dampak pada pekerjaan anda pada periode pelaporan yang anda lakukan untuk saat ini. Masukkan secara deskriptif bagaimana anda menangani perubahan perubahan tersebut dan bagaimana perencanaan anda berubah sebagai hasilnya.
+
+* Tidak ada perubahan signifikan dari pekerjaan yang kami lakukan, karena anggota organisasi adalah para wartawan cum NGO yang telah berpengalaman.
