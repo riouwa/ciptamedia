@@ -1,6 +1,6 @@
 ---
 title: Bhinneka - Laporan Narasi Pertanggung Jawaban Hibah Termin I
-date: 2017-03-27 12:57:00 +07:00
+date: 2012-10-15 12:57:00 +07:00
 ---
 
 **Lembaga Bhinneka**
@@ -105,6 +105,7 @@ Anindya Yumika Dewi Vida Semito Bukan sunnah, untuk mahzab Syafi'i, sholat 5 wak
 2 hours ago • Like • 2 • 
 
 Dalam majalah Bhinneka, ada edisi khusus pembahasan tentang seksualitas dan stereotipe dari Barat, yaitu pada edisi “Tubuh dan Kekuasaan”. Begitu pula dalam edisi “Gender: Apakah itu”, lebih dari 50% dari isi membahas masalah ini.
-Mengadakan pelatihan:
-Semar (Sekolah Manunggaling Rakyat) – Sekolah yang diadakan untuk penduduk kampung usia produktif yang aktif atau mempunyai kedudukan di Karang Taruna atau RT mereka, agar mereka bisa menjadi kader isu keberagaman.
-Pelatihan Mahasiswa – pelatihan mengetengahkan isu sehari-hari seperti cinta, jodoh, seks dan kaitannya dengan agama. Hal ini untuk memberi kesadaran mahasiswa akan „belenggu“ konservatisme dalam kehidupan mereka, dan dapat menyebarkan „virus“ pluralisme kepada teman-teman mereka.
+
+* Mengadakan pelatihan:
+1. Semar (Sekolah Manunggaling Rakyat) – Sekolah yang diadakan untuk penduduk kampung usia produktif yang aktif atau mempunyai kedudukan di Karang Taruna atau RT mereka, agar mereka bisa menjadi kader isu keberagaman.
+2. Pelatihan Mahasiswa – pelatihan mengetengahkan isu sehari-hari seperti cinta, jodoh, seks dan kaitannya dengan agama. Hal ini untuk memberi kesadaran mahasiswa akan „belenggu“ konservatisme dalam kehidupan mereka, dan dapat menyebarkan „virus“ pluralisme kepada teman-teman mereka.
