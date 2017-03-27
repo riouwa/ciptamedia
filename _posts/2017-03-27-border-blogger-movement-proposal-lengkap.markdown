@@ -51,3 +51,15 @@ C. Membuat satu situs aggregate blogger perbatasan dan 45 weblog perbatasan Kali
 D. Mengidentifikasi karya dan praktik terbaik maupun potensi-potensi baru para blogger peduli perbatasan.
 
 E. Transparansi proyek dan penggunaan dana hibah.
+
+**Latar belakang:**
+
+* A. Keterkaitan pada topik: Keadilan dan kesetaraan akses terhadap media
+
+    Borneo Blogger Community (BBC) adalah komunitas cair para blogger di Pulau Borneo, pulau terbesar ketiga di dunia. Anggota komunitas berasal dari berbagai latar belakang profesi, adat, agama/kepercayaan, negara dan suku bangsa (Kalimantan Barat, Kalimantan Selatan, Kalimantan Timur, Kalimantan Tengah, Sarawak, Sabah, Brunei Darusalam).
+
+    Akhir tahun 2010, kami mencatat tidak kurang dari 31.000 blogger tergabung dalam komunitas ini, bahkan telah berkembang menjadi komunitas kecil-kecil di kota dengan isu-isu yang berbeda. Di antaranya adalah mereka yang pernah mengikuti training, seminar yang dilaksanakan oleh Borneo Blogger Community.
+
+    Sedikit sekali media mainstream di Kalimantan Barat yang menyediakan ruang publik di korannya, sehingga kelahiran BBC yang mengusung jurnalisme warga, menjadi semacam ‘obat’ dan alternatif bagi warga untuk menyampaikan pikiran, pendapat mereka dan berdiskusi secara demokratis dan terbuka, bahkan melaporkan peristiwa-peristiwa terkini maupun gejala-gejala yang terjadi di tengah-tengah masyarakat. BBC melakukan banyak training, workshop, seminar dengan menggandeng Tribune Institute dan lembaga lain yang bekerja pada isu yang sama.
+
+    Namun mengingat luasnya Kalimantan Barat, masih banyak warga di daerah terpencil di perbatasan yang belum dapat mengakses informasi melalui media. Karena itu intervensi program ini akan membantu kami meluaskan program bagi tumbuhnya blogger-blogger baru di perbatasan.
