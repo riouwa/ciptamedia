@@ -121,3 +121,30 @@ Para blogger menulis, memotret dan merekam peristiwa serta masalah-masalah perba
   Tolong jabarkan perubahan perubahan signifikan yang organisasi anda dapatkan yang memiliki dampak pada pekerjaan anda pada periode pelaporan yang anda lakukan untuk saat ini. Masukkan secara deskriptif bagaimana anda menangani perubahan perubahan tersebut dan bagaimana perencanaan anda berubah sebagai hasilnya.
 
   Berakhirnya kontrak kerja sesuai kalender program ini, menyebabkan terjadi perubahan yang signifikan pada hasil pekerjaan kami, khususnya pada pelaporan dan adiminstrasi program. Karena para wartawan dan blogger yang menjadi volunteer dan personil yang terlibat dalamprogram ini telah kembali pada kesibukan dan pekerjaan masing-masing.
+
+**5. Tantangan/ masalah organisasi/ pengelolaan yang dihadapi**
+
+  Isu-isu manajemen atau organisasi apakah yang anda hadapi pada saat anda menuliskan laporan ini (apakah ada perubahan signifikan pada komposisi staf/ dewan atau anggota tim anda. Apakah ada faktor-faktor lain yang dapat membatasi kemampuan organisasi/ komunitas anda untuk mengumpulkan data dan menerjemahkan data data keuangan atau aktifitas yang terkait dengan program dalam tujuan awal). Bila mungkin juga tuliskan dan tekankan kebutuhan yang belum terpenuhi/ teridentifikasi sebelumnya dalam menangani penguatan organisasi/ komunitas anda.
+
+  Pasca kalender program berakhir dan kontrak kerja berakhir, kami kehilangan dukungan SDM yang memadai. Karena 99% personil Mata Enggang dan volunteer berlatar belakang journalist dan blogger tanpa pengetahuanadministrtif program yang cukup. Ini berdampak pada pelaporan kegiatan yang menjadi terlambat. Kebutuhan utama lembaga adalah peningkatan kapasitas bidangadministrasi dan management lembaga. Dimana komunitas Mata Enggang 100% wartawan, dan Borneo Blogger Community adalah 100% blogger.
+
+**6. Keberagaman**
+
+  Silahkan ditulis perubahan perubahan yang berpengaruh dalam keberagaman (contohnya apabila anggota komunitas, dewan, atau komposisi staf anda mulai beragam dari sisi jenis kelaminnya, suku, pendidikan, umur, budaya, agama, latar belakang asal lokasinya, bahasanya, dan lain sebagainya) dalam periode pelaporan ini. Apabila organisasi/ komunitas anda mengalami tantangan keberagaman, silahkan tuliskan juga pendapat anda.
+
+  Tidak ada perubahan. Komposisi gender adalah 70 % pria dan 30% wanita.
+
+**7. Laporan keuangan**
+
+  Silahkan masukkan pranala laporan keuangan anda disini:
+
+  [Laporan keuangan termin II](http://wiki.ciptamedia.org/wiki/Templat:BBM-Termin2)
+
+**8. Pengesahan**
+
+  Saya, sebagai penandatangan, menyatakan bahwa saya adalah individu yang berwenang untuk menyerahkan laporan ini atas nama komunitas/ organisasi saya sesuai dengan persyaratan yang dicantumkan pada Perjanjian Hibah Cipta Media Bersama yang telah ditandatangani sebelumnya dan seluruh dana yang dibelanjakan telah dibelanjakan sesuai dengan tujuan-tujuan yang tercantum dalam permohonan hibah.
+
+Tertanda: Pontianak, 8 April 2013
+
+
+Asriyadi Alexander Mering
