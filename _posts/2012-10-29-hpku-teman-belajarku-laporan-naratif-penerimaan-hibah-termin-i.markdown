@@ -48,10 +48,10 @@ Dengan peserta perwakilan 30 SMA/ MA Aula Al Ihklas Kemenag Kota Kediri
 
 **3. Indikator sukses anda dalam permohonan hibah**
 
-Timbulnya kesadaran dilingkungan pendidikan terutama pelajar untuk memanfaatkan Hp guna mendukung pembelajaran di sekolah.
-Timbulnya minat dan kemampuan Guru untuk membuat video pembelajaran berformat 3gp sebagai sarana interaksi pembelajaran bagi Guru dan Siswa.
-Tidak ada lagi aturan pelarangan pemakaian Hp di lingkungan sekolah dan ada tatatertib serta mekanisme sistem pengawasan pemanfaatan Hp.
-Dalam satu tahun pelaksanaan workshop video pembelajaran 3gp, dihasilkan lebih dari 1000 buah video dan bisa di download melalui internet secara gratis.
-Pada tahun 2013 sekolah menengah atas di kota dan kabupaten Kediri tercipta budaya pemanfaatan Hp, dimana pemanfaatannya benar-benar bisa dirasakan dalam peningkatan mutu pembelajaran di lingkungan pendidikan.
+* Timbulnya kesadaran dilingkungan pendidikan terutama pelajar untuk memanfaatkan Hp guna mendukung pembelajaran di sekolah.
+* Timbulnya minat dan kemampuan Guru untuk membuat video pembelajaran berformat 3gp sebagai sarana interaksi pembelajaran bagi Guru dan Siswa.
+* Tidak ada lagi aturan pelarangan pemakaian Hp di lingkungan sekolah dan ada tatatertib serta mekanisme sistem pengawasan pemanfaatan Hp.
+* Dalam satu tahun pelaksanaan workshop video pembelajaran 3gp, dihasilkan lebih dari 1000 buah video dan bisa di download melalui internet secara gratis.
+* Pada tahun 2013 sekolah menengah atas di kota dan kabupaten Kediri tercipta budaya pemanfaatan Hp, dimana pemanfaatannya benar-benar bisa dirasakan dalam peningkatan mutu pembelajaran di lingkungan pendidikan.
 
-Hasil aktual hingga laporan ini dibuat
+Hasil aktual hingga laporan ini dibuat:
