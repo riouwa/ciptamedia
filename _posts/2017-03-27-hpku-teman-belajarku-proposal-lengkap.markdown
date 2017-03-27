@@ -29,3 +29,15 @@ Pemimpin proyek
 **Lokasi**
 
 Kota dan Kabupaten Kediri
+
+**Deskripsi Proyek**
+
+**Tujuan:**
+
+Sosialisasi pemanfaatan Hp yang sehat, terutama dibidang pendidikan (guru dan siswa) dalam seminar dan workshop pembuatan video pembelajaran berdurasi pendek berformat 3gp dan mempublikasikannya secara gratis melalui berbagai media, termasuk dari Hp ke Hp dan dari internet ke Hp.
+
+**Sasaran:**
+
+-
+
+**Latar belakang:**
