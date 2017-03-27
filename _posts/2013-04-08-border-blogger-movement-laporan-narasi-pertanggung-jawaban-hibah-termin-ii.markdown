@@ -105,3 +105,15 @@ Border Blogger Movement telah menumbuhkan simpul-simpul informasi di perbatasan 
 5. Transparansi proyek dan penggunaan dana hibah.
 
 Tujuan yang berhasil dicapai hingga saat ini:
+
+Setelah program dilakukan, jumlah blogger perbatasan yang memiliki kemampuan citizen journalism meningkat. Ini dapat dilihat dari karya-karya berupa tulisaan, photo maupun sebagian kecil video yang mereka publish di weblog masing-masing maupun web BBM.
+
+Para blogger menulis, memotret dan merekam peristiwa serta masalah-masalah perbatasan Kalimantan Barat dengan Sarawak-Malaysia yang selama ini tidak mendapat perhatian media arus utama.
+
+1. Gerakan blogger perbatasan ini tidak saja telah berhasil melatih 45 warga perbatasan, tetapi juga para blogger di 2 kabupaten (Sambas dan Bengkayang) telah melakukan pelatihan swadaya kepada para guru-guru perbatasan dan warga setempat.
+2. Sudah terjadi peningkatan kapasitas lebih dari 45 blogger perbatasan di bidang citizen jurnalism, yang sebelumnya tidak pernah ada, ini bisa dilihat dari karya berupa text, photo dan video yang mereka hasilkan. Bahkan 6 blogger memenangkan syaembara blog yang diadakan BBM. Hal ini juga memicu tumbuhnya blogger-blogger baru dari desa-desa di perbatasan yang belum tersentuh langsung oleh program BBM, sebelumnya. Misalnya yang terpantau adalag blogger dari Desa Sengai Bening dan Blogger dari Desa Sabunga, Sambas.
+3. Telah dipublikasikan content-kontent yang menyuarakan persoalan-persoalan dan berbagai hal di perbatasan Kalimantan Barat dengan Sarawak Malaysia melalui blog mereka masing-masing.
+4. Telah dipublish website www.borderblogger.org dan lebih dari 45 weblog perbatasan kalimantan barat. Bahkan saat ini jumlah mereka mencapai 75 orang (tidak termasuk peserta yang telah dilatih, namun tidak mendaftarkan diri sebagai anggota sindikasi BBM (www.borderblogger.org)
+5. Sudah dilakukan identifikasi terhadap karya-karya terbaik maupun potensi-potensi baru blogger peduli perbatasan dan hasil identifikasi akan segera diumumkan kepada publik, berupa pemenang syaembara.
+6. Sudah dierbitkannya buku Suara Dari Batas Negara (SDBN) berupa kompilasi karya-karya terbaik para blogger perbatasan. Cetakan kedua buku sedang dalam proses.
+7. Pelaporan transparan dilakukan oleh Border Blogger Movement. Ini dapat dilihat posting dan dokumentasi kegiatan di wikimedia
