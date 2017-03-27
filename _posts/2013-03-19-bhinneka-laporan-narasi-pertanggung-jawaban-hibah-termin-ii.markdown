@@ -40,4 +40,12 @@ Berikut adalah aktivitas dan isu-isu yang anda masukkan pada permohonan hibah an
 * Beberapa kelompok masyarakat menghubungkan keberagaman (terutama seksual) dengan budaya Barat sehingga mereka menolak wacana keberagaman.
 * Sub Aktivitas: Penerbitan Antologi Cerpen Keberagaman Seksualitas beserta analisa tentang seksualitas dan orientasi seks. Penerima manfaat langsung asumsi khalayak umum.
 
-Aktifitas dan isu yang anda atasi
+Aktifitas dan isu yang anda atasi:
+
+Pada periode ini, selain isu kekerasan dan fundamentalisme agama, kami juga berkonsentrasi pada isu gender dan seksualitas.
+
+* Gender dan seksualitas: Pada periode 16 Oktober 2012 hingga laporan ini ditulis, Bhinneka menerbitkan majalah gratis edisi "Perempuan Pemimpin“, yang membahas tentang diskriminasi perempuan yang maju sebagai politisi atau pemimpin.
+* Bhinneka juga menerbitkan buku antologi cerpen LGBT (Lesbian Gay Biseksual Transgender) berjudul Sepasang Ballerina, yang sebagian besar dibagikan gratis kepada para mahasiswa dan sebagian lagi dijual murah kepada khalayak umum.
+* Untuk isu perjuangan pluralisme di Indonesia, kami menerbitkan Antologi cerpen Amarah (bekerja sama dengan Glitzy Book – Gramedia). Antologi ini terutama menyajikan kritik tentang fundamentalisme agama atau berkisah tentang mereka yang telah menjadi sasaran fundamentalisme agama di Indonesia.
+* Untuk isu manfaat langsung kalangan akademisi dan intelektual, terutama dari komunitas-komunitas yang bekerjasama dengan Lembaga Bhinneka dalam mendistribusikan Majalah Bhinneka. Penerima manfaat tidak langsung adalah khalayak umum. Masukan para akademisi dan intelektual sangat positif. Dede Oetomo, Rocky Gerung dan Musdah Mulia, misalnya menyatakan akan tetap mendukung Bhinneka. Dari kalangan muda, tanggapan lebih beragam. Banyak tanggapan positif, namun beberapa juga merasa Bhinneka terlalu menghina agama.
+* Untuk isu "wacana keberagaman dengan sub Aktivitas: Penerbitan Antologi Cerpen Keberagaman Seksualitas beserta analisa tentang seksualitas dan orientasi seks“, kami bekerja sama dengan GAYa Nusantara untuk bedah buku. Sudah ada 12 orang yang menyatakan sangat mendukung antologi ini dan menyarankan harus ada antologi LGBT atau tentang gender dan seksualitas berikut dari Lembaga Bhinneka.
