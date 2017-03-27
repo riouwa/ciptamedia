@@ -209,3 +209,9 @@ http://ckanyan.blogspot.com/ (Sungai Utik), dll.
 * BBC memiliki satu buku best practice dari hasil karya para blogger perbatasan.
 * BBC memiliki minimal 45 link weblog baru, 45 jejaring sosial lainnya selama 6 bulan proyek.
 * Penerbitan tulisan, foto para wartawan kampung di koran lokal maupun nasional tidak dibayar.
+
+**M. Kontribusi dari lembaga pendukung:**
+
+* Dukungan personel 2 orang dari Yayasan Pemberdayaan Pefor Nusantara (YPPN) tidak dibayar.
+* Dukungan personel event organizer dari Perkumpulan Mata Enggang adalah sukarela.
+* Profesional fee publikasi buku oleh Mata Enggang Publisher (milik Perkumpulan Mata Enggang), tidak dibayar.
