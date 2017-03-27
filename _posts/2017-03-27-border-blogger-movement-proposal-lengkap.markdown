@@ -188,3 +188,24 @@ http://ckanyan.blogspot.com/ (Sungai Utik), dll.
 
   Proyek ini akan dilaksanakan oleh BBC selama 6 bulan kalender, yaitu Januari-Juni 2012.
 
+**J. Total kebutuhan dana untuk melakukan aktifitas:**
+
+  Total dana yang dibutuhkan: Rp. 710,000,000
+
+  Total dana yang diminta kepada Ford Foundation melalui Cipta Media Bersama: Rp. 677,950,000
+
+**K. Kontribusi organisasi:**
+
+  * Penggunaan laptop, sekretarit, handphone, proyektor tidak dibayar
+  * Kas BBC Rp. 7,050,000
+  * Pembuatan paspor, 45 peserta dan 3 staff tidak dibayar
+
+**L. Kontribusi dari kelompok target:**
+
+* Dukungan penggunaan tempat oleh pemerintah daerah/kecamatan/desa di perbatasan tidak dibayar
+* Dukungan Badan Pengelolaan Kawasan Perbatasan dan Kerja Sama (BPKPK) Kalimantan Barat dengan menjadi narasumber dan peminjaman fasilitas ruangan.
+* Penggunaan laptop, komputer, handphone, listrik, air peserta tidak dibayar.
+* BBC memiliki satu web aggregate komunitas blogger perbatasan
+* BBC memiliki satu buku best practice dari hasil karya para blogger perbatasan.
+* BBC memiliki minimal 45 link weblog baru, 45 jejaring sosial lainnya selama 6 bulan proyek.
+* Penerbitan tulisan, foto para wartawan kampung di koran lokal maupun nasional tidak dibayar.
