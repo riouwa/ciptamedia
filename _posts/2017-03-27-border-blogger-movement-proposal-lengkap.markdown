@@ -78,3 +78,15 @@ E. Transparansi proyek dan penggunaan dana hibah.
     Dalam kondisi seperti ini hampir tidak mungkin diharapkan tumbuhnya rasa kebangsaan dan nasionalisme, karena masyarakat perbatasan merasa dianaktirikan dan hanya menjadi penonton dalam penyelenggaraan negara. Ini dibuktikan dengan sejumlah kasus yang terjadi di perbatasan, misalnya indikasi pencaplokan wilayah RI di Dusun Camar Bulan di Kabupaten Sambas oleh Malaysia, Pengibaran Bendera Malaysia oleh warga Mungguk Gelumbang, di Kabupaten Sintang, 60% warga Puring Kencana punya KTP Malaysia, ratusan warga Entikong pindah kewarganegaraan.
 
     Proyek ini juga diharapkan bisa menjadi saluran kepada para warga perbatasan untuk bersuara, dengan cara yang mudah, murah, meriah dan langsung. Sehingga pemerintah, maupun para pengambil keputusan bisa mengetahui lebih dini persoalan-persoalan yang terjadi di perbatasan dari masyarakat secara langsung, bukan cuma berdasarkan laporan para birokrat dan pejabat yang syarat dengan kepentingan politik, kelompok dan golongan.
+
+* C. Keterkaitan pada kategori: Konten Lokal, Kemitraan, Strategi Kreatif, Aksi, dan Teknologi Tepat Guna
+
+**Aksi**
+
+  Peningkatan kapasitas kepada 45 blogger yang perbatasan yaitu Kabupaten Sambas (Kecamatan Paloh, Kecamatan Sajingan Besar), Kabupaten Bengkayang (Kecamatan Jagoi Babang dan Kecamatan Siding), Kabupaten Sanggau (Kecamatan Entikong dan Kecamatan Sekayam), Kabupaten Sintang (Kecamatan Ketungau Hulu dan Ketungau Tengah), Kabupaten Kapuas Hulu (Kecamatan Puring Kencana, Kecamatan Badau, Kecamatan Batang Lupar, Kecamatan Embaloh Hulu, Kecamatan Putussibau, Kecamatan Kedamin, dan Kecamatan Empanang) yang akan menjadi admin weblog kecamatan dan trainer bagi blogger di kecamatan masing-masing. Mereka juga akan menjadi sumbu informasi bagi para informan di wilayah masing-masing.
+
+**Strategi Kreatif**
+
+  Dalam melaksanakan proyek ini BBC:
+  * Menggunakan tools Jurnalisme Kampung, yaitu gerakan jurnalisme warga yang menekankan pada local content dengan modifikasi rumus 5W+H yang dikirim dengan SMS/MMS melalui handphone, jejaring sosial (FB, TWT, dll) baik berupa gambar, video, audio dan teks.
+  * Penggunakan pendekatan perubahan mindset dan prilaku di mana diciptakan lingkungan yang kompetitif serta belajar bersama antara para blogger perbatasan agar mereka memahami manfaat weblog, multimedia melalui internet, sehingga mereka bisa menjadi wartawan kampung perbatasan yang berwawasan global dan sekaligus menjadi trainer bagi blogger-blogger perbatasan.
