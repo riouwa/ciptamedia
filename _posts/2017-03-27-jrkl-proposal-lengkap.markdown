@@ -30,3 +30,14 @@ Pemimpin proyek
 **Lokasi**
 
 Lampung
+
+**Deskripsi Proyek**
+
+**Tujuan:**
+
+1. Memberikan pengetahuan literasi media kepada ibu rumah tangga perdesaan agar mampu memantau, mengkritisi tayangan TV dan mampu merumuskan standar kelayakan tayangan TV yang dapat ditonton oleh masyarakat desa berdasarkan norma, kebiasaan dan nilai sosial yang berlaku di desa bersangkutan.
+2. Melibatkan ibu rumah tangga perdesaan bersama masyarakat desa lainnya, Pemerintah Desa dan pegiat radio komunitas dalam mengkampanyekan tayangan TV yang “sehat” dan pentingnya mematikan TV selama 1 jam untuk jam belajar desa dalam Forum Pemantau Media.
+3. Merumuskan kebijakan Pemerintah Desa untuk mematikan TV selama 1 jam sebagai jam belajar desa.
+4. Mensinergikan Forum Pemantau Media, Lembaga Penyiaran TV, KPI dan KPID dalam pemantauan dan pelaporan pelanggaran tayangan TV berdasarkan P3SPS (Pedoman Prilaku Penyiaran dan Standar Program Siaran) dan standar lokal serta merumuskan strategi perbaikan tayangan TV.
+
+**Sasaran:**
