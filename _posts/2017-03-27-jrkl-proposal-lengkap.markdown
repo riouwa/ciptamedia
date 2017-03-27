@@ -55,3 +55,23 @@ E. Terdokumentasikan kerja pemantauan dan pengkritisan tayangan TV oleh ibu ruma
 F. Terealisasikannya 1 jam mematikan TV sebagai jam belajar desa menjadi kebijakan Pemerintah Desa.
 
 **Latar belakang:**
+
+**A. Keterkaitan pada topik: Pemantauan Media**
+
+  Ibu rumah tangga di perdesaan menjadi kelompok paling rentan yang menjadi “korban” TV melalui tayangan gosip dan sinetron. Mereka menjadi lebih peduli terhadap perkembangan cerita sinetron dan kasus artis ketimbang memikirkan solusi kelangkaan minyak tanah yang menyebabkan uang belanja dapur mereka menipis.
+
+  Secara perlahan TV membius ibu rumah tangga perdesaan dengan berbagai tayangan yang tidak dibutuhkan oleh mereka. Jika pun ada tayangan untuk perempuan, pastilah tayangan tersebut bergaya perkotaan dan untuk kalangan berduit.
+
+  Bahkan, seperti terorganisir, tayangan TV mengepung pikiran ibu rumah tangga perdesaan. Pagi hari di suguhi tayangan musik (bergaya radio yang isinya candaan anak muda), siang hari dilanjutkan sinetro “religi” (yang tidak rasional), lalu dilanjutkan lagi tayangan kriminal (yang membuat ketakutan), dan menjelang sore disuguhi tayangan gosip (infotaiment yang isinya artis berkasus).
+
+  Ibu rumah tangga perdesaan tidak berdaya menghadapi kepungan tayangan TV ini. Banyak faktor yang melatarbelakanginya, salah satunya adalah ketidak “melek”-an ibu rumah tangga perdesaan terhadap hak mereka mengkritisi dan memantau tayangan TV.
+Di luar permasalahan tersebut, ibu rumah tangga perdesaan memiliki potensi besar dalam memperbaiki kualitas tayangan TV karena mereka adalah yang penonton TV terbesar jumlahnya. Kedekatan ibu rumah tangga dengan anggota keluarga dan masyarakat dapat menjadi jembatan bagi masyarakat untuk memahami hak masyarakat terhadap tayangan TV yang berkualitas.
+
+  Keberadaan radio komunitas (rakom) di perdesaan dapat menjadi jembatan bagi ibu rumah tangga dan masyarakat dalam mengkritisi media TV. Dengan rakom, ibu rumah tangga dapat menyampaikan keluhan dan protesnya terhadap tayangan TV.
+
+  Dalam hal ini rakom menginisiasikan adanya program siaran khusus untuk ibu rumah tangga bersuara tentang keluhan/protes tayangan TV, ruang ekspresi dan ajang “cari solusi” dari buruknya kualitas tayangan TV. Selain itu, rakom berperan mendidik ibu rumah tangga perdesaan “melek” media untuk meliterasi media.
+
+  Sebagai strategi memperkuat, rakom dapat menjembatani peran pemerintah di perdesaan. Rakom dan pemerintah dapat mendorong adanya 1 jam khusus untuk mematikan TV dan mengkampanyekan perbaikan media dalam sebuah Forum Pemantau Media. Selain itu, pelibatan masyarakat desa, Pemerintah Desa, Lembaga Penyiaran TV, kelompok pemantau media (dilokasi lain) dapat mempercepat penyebarluasan pentingnya partisipasi masyarakat dalam mendorong lembaga penyiaran TV dalam memproduksi tayangan TV yang berkualitas.
+
+**B. Masalah yang ingin diatasi dan keterkaitan dengan aktivitas**
+
