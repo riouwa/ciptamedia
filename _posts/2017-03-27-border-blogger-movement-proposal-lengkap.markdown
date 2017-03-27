@@ -159,3 +159,17 @@ http://putussibau-area.blogspot.com (putussibau),
 http://upperkapuas.blogspot.com (Kapus Hulu),
 
 http://ckanyan.blogspot.com/ (Sungai Utik), dll.
+
+**G. Hasil yang diharapkan dan indikator keberhasilan**
+
+  * Border Blogger Movement diharapkan akan menumbuhkan simpul-simpul informasi di perbatasan melalui jejaring sosial media, terutama weblog yang mudah diakses dan cepat, melalui teknologi handphone karena langsung dilaporkan para warga perbatasan (berada pada lingkaran pertama informasi). Selain itu gerakan ini juga diharapkan dapat meningkatkan kapasitas para pelaku jejaring sosial media, melalui 45 orang pada tahap awal.
+
+  Indikator keberhasilan:
+
+  * Terpublikasinya satu situs aggregate blogger perbatasan;
+  * Terpublikasinya minimal 45 weblog warga perbatasan Kalimantan Barat-Sarawak;
+  * Meningkatnya kemampuan blogger perbatasan Kalimantan Barat dibidang jurnalisme kampung
+  * Terlatihnya 45 blogger perbatasan yang pandai dan aktif menulis di weblog aggregat blogger perbatasan;
+  * Terpublikasinya minimal 15 tulisan di media cetak lokal maupun nasional tentang perbatasan yang ditulis para blogger perbatasan;
+  * Terpublikasinya minimal 540 konten tentang isu perbatasan berupa text, video dan photo blogger perbatasan di agregat web perbatasan;
+  * Terpublikasinya minimal satu buku kumpulan tulisan, foto, video (best practice) karya blogger perbatasan.
