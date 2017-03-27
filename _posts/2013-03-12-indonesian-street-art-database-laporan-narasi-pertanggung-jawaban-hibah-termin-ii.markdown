@@ -197,7 +197,7 @@ Hasil aktual hingga laporan ini dibuat
 
 **ISAD menjadi organisasi pengumpul data tentang Street Art di Indonesia yang dapat diakses secara gratis.**
 
-    * Data ISAD dimasa depan selain bisa diakses oleh publik juga diharapkan bisa dikembangkan oleh komunitas. Indonesian Street Art Database adalah Inisiatif kerja kolaborasi jejaring street artists yang bergiat dalam upaya pendokumentasian, dan penelitian street art di Indonesia yang secara sinergi di masa depan dan dimulai dari sekarang akan dikelola dari berbagai kota di Indonesia. ISAD sampai detik ini sudah bersinergi dan dikelola dari 17 Kota di Indonesia dan 1 dari Singapura. Dokumentasi di setiap kota bisa diakses oleh publik: Indonesian Street Art Database/Jejaring
+* Data ISAD dimasa depan selain bisa diakses oleh publik juga diharapkan bisa dikembangkan oleh komunitas. Indonesian Street Art Database adalah Inisiatif kerja kolaborasi jejaring street artists yang bergiat dalam upaya pendokumentasian, dan penelitian street art di Indonesia yang secara sinergi di masa depan dan dimulai dari sekarang akan dikelola dari berbagai kota di Indonesia. ISAD sampai detik ini sudah bersinergi dan dikelola dari 17 Kota di Indonesia dan 1 dari Singapura. Dokumentasi di setiap kota bisa diakses oleh publik: Indonesian Street Art Database/Jejaring
 
 **ISAD melakukan sinergi kerja pendokumentasian yang bisa diakses publik dengan memanfatkan jejaring sosial kekinian**
 
@@ -233,6 +233,6 @@ Statistik Halaman Facebook ISAD berdasarkan jumlah "Suka".
 
 LIKES: Data Jumlah Pengunjung yang menyukai (likes) berdasarkan Negara, Kota, dan menurut Bahasa. Dalam kurun waktu sejak 1 Februari 2013 sampai 7 Maret 2013.
 
-[tabel10_1.JPG](/uploads/tabel10_1.JPG){: .img-responsive .center-block }
+![tabel10_1.JPG](/uploads/tabel10_1.JPG){: .img-responsive .center-block }
 
 ![400px-Statistik_FB_ISAD_Jangkauan_berdasarkan_usia_dan_gender.jpg](/uploads/400px-Statistik_FB_ISAD_Jangkauan_berdasarkan_usia_dan_gender.jpg){: .img-responsive .center-block }
