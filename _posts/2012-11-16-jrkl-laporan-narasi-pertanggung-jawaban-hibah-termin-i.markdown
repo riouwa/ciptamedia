@@ -37,3 +37,15 @@ Proyek	            :	Ibu Rumah Tangga Perdesaan “Melek” Media untuk Peningka
   10. Diskusi dan kegiatan dilakukan dalam bahasa daerah lokal setempat. Dalam hal ini staf lapangan JRKL harus menterjemahkan beberapa informasi tentang pemantauan tayangan televisi dalam 3 bahasa daerah, yaitu Bahasa Lampung, Bahasa Jawa dan Bahasa Sunda. Selain itu, peran fasilitator lokal (Pegiat radio komunitas) menjadi sangat dominan karena merekalah yang memahami bahasa daerah setempat.
   11. Ibu-ibu rumahtangga perdesaan mengalami kejenuhan dalam forum diskusi yang bentuknya monoton. Untuk mengatasi kejenuhan, JRKL melaksanakan diskusi dengan dibarengi dengan jalan-jalan ke tempat wisata, makan bersama dan beberapa kegiatan lain.
   12. Antusiasme siswa sekolah dan pengelola sekolah (tempat sosialisasi tayangan televisi sehat) sangat tinggi. Untuk mewadahinya, mereka dilibatkan dalam kegiatan Pantau TV di masing-masing wilayah.
+
+2. Aktivitas/ Isu yang Anda usung dan mencoba atasi
+Berikut adalah aktivitas dan isu-isu yang anda masukkan pada permohonan hibah anda
+
+Dampak negatif tayangan TV terhadap anggota keluarga dan ketiadaan pengetahuan dan sarana untuk memantau dan mengkritisi tayangan TV bagi ibu rumah tangga di Lampung.
+Ketiadaan Forum Pemantau Media oleh masyarakat pedesaan dan Pemerintah Desa di Lampung.
+Ketiadaan fasilitas dalam menerima keluhan dan protes masyarakat desa terhadap tayangan TV dan kritik terhadap media oleh Pemerintah desa Lampung sehingga partisipasi masyarakat desa –desa di Lampung untuk hal ini rendah.
+Ketiadaan Lembaga Penyiaran di Lampung yang mengkampanyekan hak masyarakat dalam memantau dan mengkritisi media.
+Ketiadaaannya pemantauan dan pengawasan lembaga penyiaran dan program siaran wilayah pedesaan oleh KPID dan KPI, sehingga dibutuhkan partisipasi masyarakat dalam menyampaikan pengaduan dan laporan.
+Ketidak mampuan lembaga penyiaran TV belum mampu menyerap kritik dan saran masyarakat perdesaan atas tayangan yang disiarkannya.
+
+Aktifitas dan isu yang anda atasi
