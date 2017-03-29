@@ -59,8 +59,25 @@ Proyek	            :	Ibu Rumah Tangga Perdesaan “Melek” Media untuk Peningka
   * Memfasilitasi perumusan standar tayangan TV berkualitas berdasarkan nilai, norma dan kebiasaan lokal dan memfasilitasi pemantauan dan pengkritisan tayangan TV oleh 500 ibu rumah tangga perdesaan dalam kegiatan rutin kelompok pemantauan tayangan TV berbasis dasa wisma. Berbasis dasa wisma yang dimaksud adalah di setiap desa terdapat kelompok ibu-ibu PKK yang beranggotakan 10 orang dari 10 rumahtangga. Dalam prakteknya, JRKL telah memfasilitasi 50 orang ibu rumahtangga perdesaan untuk memahami dan memiliki kemampuan literasi TV, sehingga jika dikaitkan dengan dasa wisma maka dapat dilakukan persebaran pengetahuan ke 25 dasa wisma (setiap dasa wisma dilibatkan 2 orang) atau 500 orang ibu rumahtangga perdesaan. Pendekatan menggunakan dasa wisma dirasa efektif karena secara rutin kelompok ini berkumpul dan berbagi pengetahuan (biasanya terkait masakan dan gizi).
   * Ibu rumah tangga perdesaan dan rakom mengelola siaran sendiri khusus yang mengkampanyekan hasil pemantauan dan pengkritisan tayangan TV yang dilakukan kelompok ibu rumah tangga perdesaan dan Forum Pemantau Media.
   * Pelaporan pengaduan SMS ibu rumahtangga yang terlibat dalam proyek ini kepada KPID sedang dalam proses karena pengaduan yang di bawa saat audiensi peringatan hari tanpa TV dengan KPID Lampung ternyata diketahui ada kewenangan yang terbatas dari KPID. Untuk pelaporan stasiun TV nasional mesti ditujukan kepada KPI dan pelaporan stasiun TV lokal ditujukan kepada KPID.
-4. Untuk isu “Ketiadaaannya pemantauan dan pengawasan lembaga penyiaran dan program siaran wilayah pedesaan oleh KPID dan KPI, sehingga dibutuhkan partisipasi masyarakat dalam menyampaikan pengaduan dan laporan”, JRKL melakukan :
-Menfasilitasi kerja Forum Pemantau Media dalam bentuk diskusi kelompok terarah yang bekerja secara rutin membangun komitmen perbaikan tayangan TV yang bersinergi dengan kelompok pemantau media di nasional. Kelompok pemantau yang terbentuk oleh JRKL dihubungkan dengan kelompok pemantau lain di luar Lampung, misalnya dengan FPM Yogyakarta dan Koalisi Gugat TV. Bentuk fasilitasinya memang masih sangat minim, karena selama ini baru pada tahap pertukaran informasi kegiatan pemantauan TV, dan FPM memfasilitasi pendidikan literasi di Lampung. Selain itu, FPM juga banyak memberikan buku-buku panduan pemantauan tayangan TV kepada JRKL yang kemudian dibahas dalam diskusi rutin yang dilakukan setiap bulan bersama ibu rumahtangga perdesaan.
-5. Untuk isu “Ketidak mampuan lembaga penyiaran TV belum mampu menyerap kritik dan saran masyarakat perdesaan atas tayangan yang disiarkannya”, JRKL melakukan :
-Kampanye hak masyarakat atas tayangan TV yang berkualitas dan perbaikan media secara rutin ke sekolah, masyarakat desa dan kelompok masyarakat lain.
-Peringatan hari tanpa TV.
+  4. Untuk isu “Ketiadaaannya pemantauan dan pengawasan lembaga penyiaran dan program siaran wilayah pedesaan oleh KPID dan KPI, sehingga dibutuhkan partisipasi masyarakat dalam menyampaikan pengaduan dan laporan”, JRKL melakukan :
+  * Menfasilitasi kerja Forum Pemantau Media dalam bentuk diskusi kelompok terarah yang bekerja secara rutin membangun komitmen perbaikan tayangan TV yang bersinergi dengan kelompok pemantau media di nasional. Kelompok pemantau yang terbentuk oleh JRKL dihubungkan dengan kelompok pemantau lain di luar Lampung, misalnya dengan FPM Yogyakarta dan Koalisi Gugat TV. Bentuk fasilitasinya memang masih sangat minim, karena selama ini baru pada tahap pertukaran informasi kegiatan pemantauan TV, dan FPM memfasilitasi pendidikan literasi di Lampung. Selain itu, FPM juga banyak memberikan buku-buku panduan pemantauan tayangan TV kepada JRKL yang kemudian dibahas dalam diskusi rutin yang dilakukan setiap bulan bersama ibu rumahtangga perdesaan.
+  5. Untuk isu “Ketidak mampuan lembaga penyiaran TV belum mampu menyerap kritik dan saran masyarakat perdesaan atas tayangan yang disiarkannya”, JRKL melakukan :
+  * Kampanye hak masyarakat atas tayangan TV yang berkualitas dan perbaikan media secara rutin ke sekolah, masyarakat desa dan kelompok masyarakat lain.
+  * Peringatan hari tanpa TV.
+
+3. Indikator sukses anda dalam permohonan hibah
+500an ibu rumah tangga perdesaan menggunakan haknya untuk mengkritisi dan memantau tayangan TV.
+Tersusun standar kelayakan tayangan TV berdasarkan sistem nilai lokal desa.
+Masyarakat desa, rakom dan pemerintah desa terlibat bersama ibu rumah tangga perdesaan dalam mengkampanyekan hak masyarakat atas tayangan TV yang berkualitas dan perbaikan media.
+Forum Pemantau Media menjadi mitra KPID, KPI dan lembaga penyiaran TV dalam memperbaiki kualitas tayangan TV.
+Tersedia film dokumenter dan modul kerja pemantauan dan pengkritisan tayangan TV dapat direplikasi oleh masyarakat di tempat lain.
+Diberlakukannya jam belajar desa sebagai media untuk mematikan TV selama 1 jam.
+Indikator keberhasilan:
+
+Tersedianya rekam proses literasi tayangan TV yang disampaikan melalui rakom.
+Tersedianya program siaran rakom khusus bagi ibu rumah tangga perdesaan.
+Adanya 1 jam khusus mematikan TV di perdesaan.
+Ada pelaporan terhadap tayangan TV kepada KPID dan KPI oleh Forum Pemantau Media.
+Ada Forum Pemantau Media (multi stakeholder) yang melakukan kerja pemantauan dan pengkritisan tayangan TV di perdesaan.
+Tersedia modul pemantauan dan pengkritisan tayangan TV berdasarkan nilai lokal perdesaan untuk digunakan masyarakat.
+Hasil aktual hingga laporan ini dibuat
