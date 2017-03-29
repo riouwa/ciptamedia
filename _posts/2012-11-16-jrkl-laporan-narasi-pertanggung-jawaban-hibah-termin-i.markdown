@@ -85,8 +85,8 @@ Proyek	            :	Ibu Rumah Tangga Perdesaan “Melek” Media untuk Peningka
 
   Hasil aktual hingga laporan ini dibuat:
 
-Terdapat 100 orang ibu rumahtangga perdesaan (50 orang ibu rumahtangga perdesaan di Hanura-Hurun, Padang Cermin, Pesawaran dan (50 orang ibu rumahtangga perdesaan di Pahmungan, Krui, Lampung barat) yang telah diperkuat pengetahuan dan kemampuan pemantauan medianya melalui pendidikan literasi media.
-Terbentuk 2 forum pemantau tayangan televisi di 2 kabupaten dengan nama Pantau TV Krui dan Pantau TV Padang Cermin. Masing-masing forum beranggotakan 50 orang ibu rumahtangga perdesaan, 4 orang tenaga pendidik SD, 3 orang pegiat radio komunitas, 4 orang ketua RT/Lingkungan dan 2 orang Pemerintah Desa.
+1. Terdapat 100 orang ibu rumahtangga perdesaan (50 orang ibu rumahtangga perdesaan di Hanura-Hurun, Padang Cermin, Pesawaran dan (50 orang ibu rumahtangga perdesaan di Pahmungan, Krui, Lampung barat) yang telah diperkuat pengetahuan dan kemampuan pemantauan medianya melalui pendidikan literasi media.
+2. Terbentuk 2 forum pemantau tayangan televisi di 2 kabupaten dengan nama Pantau TV Krui dan Pantau TV Padang Cermin. Masing-masing forum beranggotakan 50 orang ibu rumahtangga perdesaan, 4 orang tenaga pendidik SD, 3 orang pegiat radio komunitas, 4 orang ketua RT/Lingkungan dan 2 orang Pemerintah Desa.
 Terselenggara 16 kali Diskusi Terarah untuk Pemantauan dan Pengkritisan Tayangan TV di 2 desa yang melibatkan 300 orang ibu rumah tangga perdesaan.
 Terselenggara 10 kali Siaran Literasi dan Pelolaan Informasi Lokal di 2 radio komunitas.
 Tercetak dan tersebarluaskannya 1.000 lembar sticker (2 jenis sticker) kampanye tayangan televisi sehat di 2 wilayah.
