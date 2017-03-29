@@ -151,11 +151,11 @@ proyek ini.
 
 **E. Latar belakang dan demografi pelaku proyek**
 
- **Pemimpin Proyek **
+ **Pemimpin Proyek**
 
   Seorang laki-laki, berpengalaman berorganisasi selama 13 tahun, dan pengalaman di bidang media selama 7 tahun, berumur 30an
 
- **Bidang Administrasi Keuangan **
+ **Bidang Administrasi Keuangan**
 
   Seorang perempuan, berpengalaman mengelola keuangan dan administrasi di 4 lembaga selama 3 tahun dan berumur 30an.
 
