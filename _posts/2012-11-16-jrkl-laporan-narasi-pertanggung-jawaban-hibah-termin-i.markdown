@@ -98,3 +98,4 @@ Proyek	            :	Ibu Rumah Tangga Perdesaan “Melek” Media untuk Peningka
 11. Terselenggara 1 kegiatan peringatan hari tanpa TV di Krui, Lampung Barat yang diisi dengan kegiatan diskusi desa dan nonton bareng film pendidikan yang melibatkan 50 orang warga desa.
 12. Terselenggara 1 kali audiensi ke KPID Lampung dalam rangka peringatan hari tanpa TV yang melibatkan 5 orang komisioner KPID Lampung, 20 orang anggota Pantau TV, 6 orang pegiat radio komunitas dan 4 orang pengurus JRKL
 
+
