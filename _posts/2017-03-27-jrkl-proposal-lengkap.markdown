@@ -218,7 +218,7 @@ Tersedia modul pemantauan dan pengkritisan tayangan TV berdasarkan nilai lokal p
 * Biaya siar program khusus untuk ibu rumah tangga perdesaan di rakom sepenuhnya ditanggung oleh 2 rakom di 2 Kabupaten/Kota.
 * Pelibatan lembaga lain dalam proyek ini akan ditanggung oleh organisasi.
 
-L. Kontribusi dari kelompok target:
+**L. Kontribusi dari kelompok target:**
 
 * 200 orang ibu rumah tangga perdesaan secara sukarela meluangkan waktunya terlibat dalam proyek ini.
 * Keterlibatan 500 orang warga di luar ibu rumah tangga perdesaan untuk mengisi kegiatan penyerta proyek dan membantu proses literasi dilakukan secara sukarela.
