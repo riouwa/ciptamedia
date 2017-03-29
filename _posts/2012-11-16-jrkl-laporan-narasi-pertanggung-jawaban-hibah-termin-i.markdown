@@ -40,7 +40,7 @@ Proyek	            :	Ibu Rumah Tangga Perdesaan “Melek” Media untuk Peningka
 
 **2. Aktivitas/ Isu yang Anda usung dan mencoba atasi**
 
-  Berikut adalah aktivitas dan isu-isu yang anda masukkan pada permohonan hibah anda
+  Berikut adalah aktivitas dan isu-isu yang anda masukkan pada permohonan hibah anda:
 
 * Dampak negatif tayangan TV terhadap anggota keluarga dan ketiadaan pengetahuan dan sarana untuk memantau dan mengkritisi tayangan TV bagi ibu rumah tangga di Lampung.
 * Ketiadaan Forum Pemantau Media oleh masyarakat pedesaan dan Pemerintah Desa di Lampung.
@@ -50,3 +50,4 @@ Proyek	            :	Ibu Rumah Tangga Perdesaan “Melek” Media untuk Peningka
 * Ketidak mampuan lembaga penyiaran TV belum mampu menyerap kritik dan saran masyarakat perdesaan atas tayangan yang disiarkannya.
 
   Aktifitas dan isu yang anda atasi:
+
