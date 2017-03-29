@@ -98,4 +98,22 @@ Proyek	            :	Ibu Rumah Tangga Perdesaan “Melek” Media untuk Peningka
 11. Terselenggara 1 kegiatan peringatan hari tanpa TV di Krui, Lampung Barat yang diisi dengan kegiatan diskusi desa dan nonton bareng film pendidikan yang melibatkan 50 orang warga desa.
 12. Terselenggara 1 kali audiensi ke KPID Lampung dalam rangka peringatan hari tanpa TV yang melibatkan 5 orang komisioner KPID Lampung, 20 orang anggota Pantau TV, 6 orang pegiat radio komunitas dan 4 orang pengurus JRKL
 
+**4. Tujuan dan Sasaran**
 
+Silahkan anda jelaskan apa yang telah anda berhasil peroleh dengan hibah ini yang berkaitan dengan tujuan yang lebih besar yang anda harapkan dapat anda capai
+
+Sasaran-sasaran yang diharapkan dapat dicapai
+
+A. Terlibatnya ibu rumah tangga dalam kelompok pemantau tayangan TV berbasis “dasa wisma” dalam pemantauan dan pengkritisan tayangan TV.
+
+B. Terwadahinya keterlibatan ibu rumah tangga perdesaan, radio komunitas (rakom), masyarakat desa, Pemerintah Desa, Lembaga penyiaran TV dalam Forum Pemantau Media dalam mengkampanyekan hak masyarakat atas tayangan TV yang berkualitas dan perbaikan media yang bersinergi dengan kelompok pemantau tayangan TV di tempat lain (nasional).
+
+C. Tersedianya ruang bagi ibu rumah tangga perdesaan dan Forum Pemantau Media dalam memantau dan mengkritisi tayangan TV, kampanye hak masyarakat terhadap tayangan TV yang berkualitas di Pedesaan.
+
+D. Tersampaikannya hasil pemantauan dan pengkritisan tayangan TV yang dilakukan ibu rumah tangga perdesaan dan Forum Pemantau Media kepada KPID dan KPI dalam melakukan pengawasan lembaga penyiaran serta kepada Lembaga Penyiaran TV sebagai referensi perbaikan kualitas tayangan TV.
+
+E. Terdokumentasikan kerja pemantauan dan pengkritisan tayangan TV oleh ibu rumah tangga perdesaan dan Forum Pemantau Media sebagai bahan refresensi pengaplikasian kerja pemantauan tayangan TV di lokasi lain.
+
+F. Terealisasikannya 1 jam mematikan TV sebagai jam belajar desa menjadi kebijakan Pemerintah Desa.
+
+Tujuan yang berhasil dicapai hingga saat ini
