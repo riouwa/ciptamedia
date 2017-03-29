@@ -65,19 +65,22 @@ Proyek	            :	Ibu Rumah Tangga Perdesaan “Melek” Media untuk Peningka
   * Kampanye hak masyarakat atas tayangan TV yang berkualitas dan perbaikan media secara rutin ke sekolah, masyarakat desa dan kelompok masyarakat lain.
   * Peringatan hari tanpa TV.
 
-3. Indikator sukses anda dalam permohonan hibah
-500an ibu rumah tangga perdesaan menggunakan haknya untuk mengkritisi dan memantau tayangan TV.
-Tersusun standar kelayakan tayangan TV berdasarkan sistem nilai lokal desa.
-Masyarakat desa, rakom dan pemerintah desa terlibat bersama ibu rumah tangga perdesaan dalam mengkampanyekan hak masyarakat atas tayangan TV yang berkualitas dan perbaikan media.
-Forum Pemantau Media menjadi mitra KPID, KPI dan lembaga penyiaran TV dalam memperbaiki kualitas tayangan TV.
-Tersedia film dokumenter dan modul kerja pemantauan dan pengkritisan tayangan TV dapat direplikasi oleh masyarakat di tempat lain.
-Diberlakukannya jam belajar desa sebagai media untuk mematikan TV selama 1 jam.
-Indikator keberhasilan:
+**3. Indikator sukses anda dalam permohonan hibah**
 
-Tersedianya rekam proses literasi tayangan TV yang disampaikan melalui rakom.
-Tersedianya program siaran rakom khusus bagi ibu rumah tangga perdesaan.
-Adanya 1 jam khusus mematikan TV di perdesaan.
-Ada pelaporan terhadap tayangan TV kepada KPID dan KPI oleh Forum Pemantau Media.
-Ada Forum Pemantau Media (multi stakeholder) yang melakukan kerja pemantauan dan pengkritisan tayangan TV di perdesaan.
-Tersedia modul pemantauan dan pengkritisan tayangan TV berdasarkan nilai lokal perdesaan untuk digunakan masyarakat.
-Hasil aktual hingga laporan ini dibuat
+* 500an ibu rumah tangga perdesaan menggunakan haknya untuk mengkritisi dan memantau tayangan TV.
+* Tersusun standar kelayakan tayangan TV berdasarkan sistem nilai lokal desa.
+* Masyarakat desa, rakom dan pemerintah desa terlibat bersama ibu rumah tangga perdesaan dalam mengkampanyekan hak masyarakat atas tayangan TV yang berkualitas dan perbaikan media.
+* Forum Pemantau Media menjadi mitra KPID, KPI dan lembaga penyiaran TV dalam memperbaiki kualitas tayangan TV.
+* Tersedia film dokumenter dan modul kerja pemantauan dan pengkritisan tayangan TV dapat direplikasi oleh masyarakat di tempat lain.
+* Diberlakukannya jam belajar desa sebagai media untuk mematikan TV selama 1 jam.
+
+  Indikator keberhasilan:
+
+* Tersedianya rekam proses literasi tayangan TV yang disampaikan melalui rakom.
+* Tersedianya program siaran rakom khusus bagi ibu rumah tangga perdesaan.
+* Adanya 1 jam khusus mematikan TV di perdesaan.
+* Ada pelaporan terhadap tayangan TV kepada KPID dan KPI oleh Forum Pemantau Media.
+* Ada Forum Pemantau Media (multi stakeholder) yang melakukan kerja pemantauan dan pengkritisan tayangan TV di perdesaan.
+* Tersedia modul pemantauan dan pengkritisan tayangan TV berdasarkan nilai lokal perdesaan untuk digunakan masyarakat.
+
+  Hasil aktual hingga laporan ini dibuat
