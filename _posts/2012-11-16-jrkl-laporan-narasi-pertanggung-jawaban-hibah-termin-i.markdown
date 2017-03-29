@@ -87,11 +87,11 @@ Proyek	            :	Ibu Rumah Tangga Perdesaan “Melek” Media untuk Peningka
 
 1. Terdapat 100 orang ibu rumahtangga perdesaan (50 orang ibu rumahtangga perdesaan di Hanura-Hurun, Padang Cermin, Pesawaran dan (50 orang ibu rumahtangga perdesaan di Pahmungan, Krui, Lampung barat) yang telah diperkuat pengetahuan dan kemampuan pemantauan medianya melalui pendidikan literasi media.
 2. Terbentuk 2 forum pemantau tayangan televisi di 2 kabupaten dengan nama Pantau TV Krui dan Pantau TV Padang Cermin. Masing-masing forum beranggotakan 50 orang ibu rumahtangga perdesaan, 4 orang tenaga pendidik SD, 3 orang pegiat radio komunitas, 4 orang ketua RT/Lingkungan dan 2 orang Pemerintah Desa.
-Terselenggara 16 kali Diskusi Terarah untuk Pemantauan dan Pengkritisan Tayangan TV di 2 desa yang melibatkan 300 orang ibu rumah tangga perdesaan.
-Terselenggara 10 kali Siaran Literasi dan Pelolaan Informasi Lokal di 2 radio komunitas.
-Tercetak dan tersebarluaskannya 1.000 lembar sticker (2 jenis sticker) kampanye tayangan televisi sehat di 2 wilayah.
-Tercetak dan tersebarluaskannya 2.000 lembar poster (2 jenis sticker) kampanye tayangan televisi sehat di 2 wilayah.
-Terselenggara 4 kali sosialisasi tayangan TV sehat di 4 sekolah yang melibatkan 200 siswa.
+3. Terselenggara 16 kali Diskusi Terarah untuk Pemantauan dan Pengkritisan Tayangan TV di 2 desa yang melibatkan 300 orang ibu rumah tangga perdesaan.
+4. Terselenggara 10 kali Siaran Literasi dan Pelolaan Informasi Lokal di 2 radio komunitas.
+5. Tercetak dan tersebarluaskannya 1.000 lembar sticker (2 jenis sticker) kampanye tayangan televisi sehat di 2 wilayah.
+6. Tercetak dan tersebarluaskannya 2.000 lembar poster (2 jenis sticker) kampanye tayangan televisi sehat di 2 wilayah.
+7. Terselenggara 4 kali sosialisasi tayangan TV sehat di 4 sekolah yang melibatkan 200 siswa.
 Terselenggara 4 kali sosialisasi tayangan TV sehat di 4 kelompok masyarakat (petani, Komite Sekolah, ibu-ibu pengajian dan anggota SHK Lestari) yang melibatkan 200 orang.
 Terselenggara 3 kali diskusi kelompok Pantau TV (2 di Pantau TV Padang Cermin dan 1 di Pantau TV Krui).
 Terselenggara 1 kegiatan peringatan hari tanpa TV di Hurun-Hanura, Padang cermin yang diisi dengan kegiatan lomba memasak, lomba mewarnai anak-anak dan nonton bareng film pendidikan yang melibatkan 100 orang warga desa.
