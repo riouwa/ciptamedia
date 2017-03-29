@@ -175,3 +175,21 @@ proyek ini.
 * Lembaga Penyiaran di Lampung dapat menyerap asprirasi dan literasi atas tayangan TV yang diproduksinya.
 * KPID Provinsi Lampung akan diuntungkan karena memperoleh informasi tentang literasi tayangan TV dari ibu rumah tangga perdesaan dan Forum Pemantau Media dengan mudah dan cepat.
 * Lembaga lain yang akan dilibatkan dalam proyek ini Jaringan Pendukung Radio Komunitas Lampung (JPRKL), Jaringan Radio Komunitas Indonesia (JRKI), Combine Resource Institutions, Yayasan Air Putih, MPM Yogyakarta dan “Remote TV”.
+
+**G. Hasil yang diharapkan dan indikator keberhasilan**
+
+* 500 orang ibu rumah tangga perdesaan menggunakan haknya untuk mengkritisi dan memantau tayangan TV.
+* Tersusun standar kelayakan tayangan TV berdasarkan sistem nilai lokal desa.
+* Masyarakat desa, rakom dan pemerintah desa terlibat bersama ibu rumah tangga perdesaan dalam mengkampanyekan hak masyarakat atas tayangan TV yang berkualitas dan perbaikan media.
+* Forum Pemantau Media menjadi mitra KPID, KPI dan lembaga penyiaran TV dalam memperbaiki kualitas tayangan TV.
+* Tersedia film dokumenter dan modul kerja pemantauan dan pengkritisan tayangan TV dapat direplikasi oleh masyarakat di tempat lain.
+* Diberlakukannya jam belajar desa sebagai media untuk mematikan TV selama 1 jam.
+
+  Indikator keberhasilan:
+
+* Tersedianya rekam proses literasi tayangan TV yang disampaikan melalui rakom.
+* Tersedianya program siaran rakom khusus bagi ibu rumah tangga perdesaan.
+* Adanya 1 jam khusus mematikan TV di perdesaan.
+* Ada pelaporan terhadap tayangan TV kepada KPID dan KPI oleh Forum Pemantau Media.
+* Ada Forum Pemantau Media (multi stakeholder) yang melakukan kerja pemantauan dan pengkritisan tayangan TV di perdesaan.
+Tersedia modul pemantauan dan pengkritisan tayangan TV berdasarkan nilai lokal perdesaan untuk digunakan masyarakat.
