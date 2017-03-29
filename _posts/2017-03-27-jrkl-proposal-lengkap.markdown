@@ -203,3 +203,23 @@ Tersedia modul pemantauan dan pengkritisan tayangan TV berdasarkan nilai lokal p
   **Keadilan sosial**
 
   Advokasi dari proyek ini adalah masyarakat dapat menggunakan haknya untuk memantau dan mengkritisi, serta menginisiasi terbangunnya lembaga sensor moral atas tayangan TV yang dibangun secara mandiri oleh masyarakat.
+
+**I. Durasi waktu aktifitas dilaksanakan:**
+
+  14 Bulan (Januari 2012 – Februari 2013)
+
+**J. Total kebutuhan dana untuk melakukan aktifitas:**
+
+  **USD 48,341.18 ~ Rp. 410,900,000**
+
+**K. Kontribusi organisasi:**
+
+* Biaya yang muncul atas kegiatan dan pelibatan komunitas di luar ibu rumah tangga perdesaan akan ditanggung oleh organisasi.
+* Biaya siar program khusus untuk ibu rumah tangga perdesaan di rakom sepenuhnya ditanggung oleh 2 rakom di 2 Kabupaten/Kota.
+* Pelibatan lembaga lain dalam proyek ini akan ditanggung oleh organisasi.
+
+L. Kontribusi dari kelompok target:
+
+* 200 orang ibu rumah tangga perdesaan secara sukarela meluangkan waktunya terlibat dalam proyek ini.
+* Keterlibatan 500 orang warga di luar ibu rumah tangga perdesaan untuk mengisi kegiatan penyerta proyek dan membantu proses literasi dilakukan secara sukarela.
+* Keterlibatan Pemerintah Desa, dilakukan secara sukarela.
