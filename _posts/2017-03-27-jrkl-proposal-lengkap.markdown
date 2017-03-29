@@ -166,3 +166,12 @@ proyek ini.
   **Bidang Pendidikan, Literasi dan Iniasiatif Lokal**
 
   Seorang laki-laki, berpengalaman di bidang penyiaran radio 8 tahun, berpengalaman sebagai trainer media komunitas selama 5 tahun, berusia 30an.
+
+**F. Demografik kelompok target**
+
+* 500 orang ibu rumah tangga di 2 desa di 2 Kabupaten/Kota di Lampung (Pesawaran dan Lampung Barat) akan diuntungkan karena memiliki ruang ekspresi dan aspirasi, dan memiliki kesempatan untuk mengkritisi tayangan TV.
+* 2 radio komunitas di 24 Kabupaten/Kota di Lampung (Pesawaran dan Lampung Barat) akan diuntungkan karena rakom memiliki sarana mendekatkan diri dengan komunitas.
+* Pemerintah Desa di 2 desa (Pesawaran dan Lampung Barat) tempat proyek ini dilaksanakan akan diuntungkan karena mampu menyerap aspirasi dan kepentingan masyarakat desa.
+* Lembaga Penyiaran di Lampung dapat menyerap asprirasi dan literasi atas tayangan TV yang diproduksinya.
+* KPID Provinsi Lampung akan diuntungkan karena memperoleh informasi tentang literasi tayangan TV dari ibu rumah tangga perdesaan dan Forum Pemantau Media dengan mudah dan cepat.
+* Lembaga lain yang akan dilibatkan dalam proyek ini Jaringan Pendukung Radio Komunitas Lampung (JPRKL), Jaringan Radio Komunitas Indonesia (JRKI), Combine Resource Institutions, Yayasan Air Putih, MPM Yogyakarta dan “Remote TV”.
