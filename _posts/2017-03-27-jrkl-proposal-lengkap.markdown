@@ -110,41 +110,59 @@ proyek ini.
 
 **D. Aktifitas dan keterkaitan pada sasaran**
 
-  * Kontribusi untuk sasaran A – 250 orang ibu rumah tangga perdesaan di 2 Kabupaten (Lampung Barat dan Pesawaran) memiliki pengetahuan dan kemampuan meliterasi tayangan TV dan terlibat dalam kegiatan memantau dan mengkritisi tayangan TV dan memahami hak masyarakat terhadap tayangan TV yang berkualitas.
+  * **Kontribusi untuk sasaran A** – 250 orang ibu rumah tangga perdesaan di 2 Kabupaten (Lampung Barat dan Pesawaran) memiliki pengetahuan dan kemampuan meliterasi tayangan TV dan terlibat dalam kegiatan memantau dan mengkritisi tayangan TV dan memahami hak masyarakat terhadap tayangan TV yang berkualitas.
 
-  Aktivitas:
+    Aktivitas:
 
-  * Melakukan pendidikan literasi media kepada 50 orang ibu rumah tangga perdesaan sebagai kelompok utama.
-  * Memfasilitasi perumusan standar tayangan TV berkualitas berdasarkan nilai, norma dan kebiasaan lokal dan memfasilitasi pemantauan dan pengkritisan tayangan TV oleh 500 ibu rumah tangga perdesaan dalam kegiatan rutin kelompok pemantauan tayangan TV berbasis dasa wisma.
+    * Melakukan pendidikan literasi media kepada 50 orang ibu rumah tangga perdesaan sebagai kelompok utama.
+    * Memfasilitasi perumusan standar tayangan TV berkualitas berdasarkan nilai, norma dan kebiasaan lokal dan memfasilitasi pemantauan dan pengkritisan tayangan TV oleh 500 ibu rumah tangga perdesaan dalam kegiatan rutin kelompok pemantauan tayangan TV berbasis dasa wisma.
 
   * **Kontribusi untuk sasaran B** – terbentuknya Forum Pemantau Media yang beranggotakan ibu rumah tangga perdesaan, radio komunitas (rakom), masyarakat desa, Pemerintah Desa, Lembaga penyiaran TV untuk mengkampanyekan hak masyarakat atas tayangan TV yang berkualitas dan perbaikan media.
 
-  Aktivitas:
+    Aktivitas:
 
-  * Membentuk Forum Pemantau Media di 2 Desa (di Kabupaten Lampung Barat dan Kabupaten Pesawaran) yang menindaklanjuti hasil pemantauan dan pengkritisan tayangan TV dan mengkampanyekan hak masyarakat atas tayangan TV yang berkualitas dan perbaikan media.
-  * Menfasilitasi kerja Forum Pemantau Media dalam bentuk diskusi kelompok terarah yang bekerja secara rutin membangun komitmen perbaikan tayangan TV yang bersinergi dengan kelompok pemantau media di nasional.
+    * Membentuk Forum Pemantau Media di 2 Desa (di Kabupaten Lampung Barat dan Kabupaten Pesawaran) yang menindaklanjuti hasil pemantauan dan pengkritisan tayangan TV dan mengkampanyekan hak masyarakat atas tayangan TV yang berkualitas dan perbaikan media.
+    * Menfasilitasi kerja Forum Pemantau Media dalam bentuk diskusi kelompok terarah yang bekerja secara rutin membangun komitmen perbaikan tayangan TV yang bersinergi dengan kelompok pemantau media di nasional.
 
   * **Kontribusi untuk sasaran C** - rakom menyediakan program siaran khusus yang rutin digunakan sebagai alat kampanye ibu rumah tangga perdesaan dan Forum Pemantau Media dalam memantau dan mengkritisi tayangan TV.
 
-  Aktivitas:
+    Aktivitas:
 
-  * Ibu rumah tangga perdesaan dan rakom mengelola siaran sendiri khusus yang mengkampanyekan hasil pemantauan dan pengkritisan tayangan TV yang dilakukan kelompok ibu rumah tangga perdesaan dan Forum Pemantau Media.
+    * Ibu rumah tangga perdesaan dan rakom mengelola siaran sendiri khusus yang mengkampanyekan hasil pemantauan dan pengkritisan tayangan TV yang dilakukan kelompok ibu rumah tangga perdesaan dan Forum Pemantau Media.
 
   * **Kontribusi untuk sasaran D** - hasil pemantauan dan pengkritisan tayangan TV serta pelaporan pelanggaran tayangan TV oleh bu rumah tangga perdesaan dan Forum Pemantau Media tersampaikan kepada masyarakat, KPID dan KPI serta Lembaga Penyiaran TV dan menjadi referensi perumusan kebijakan perbaikan tayangan TV.
 
-  Aktivitas:
+    Aktivitas:
 
-  * Kampanye hak masyarakat atas tayangan TV yang berkualitas dan perbaikan media secara rutin ke sekolah, masyarakat desa dan kelompok masyarakat lain.
-  * Peringatan hari tanpa TV pada 24 Juli 2012
+    * Kampanye hak masyarakat atas tayangan TV yang berkualitas dan perbaikan media secara rutin ke sekolah, masyarakat desa dan kelompok masyarakat lain.
+    * Peringatan hari tanpa TV pada 24 Juli 2012
 
   * **Kontribusi untuk sasaran E** - Tersedia modul dan film dokumenter pemantauan dan pengkritisan tayangan TV yang diproduksi bersama oleh ibu rumah tangga perdesaan dan Forum Pemantau Media untuk diaplikasikanan oleh masyarakat di lokasi lain.
 
-  Aktivitas:
+    Aktivitas:
 
-  * Menyusun dan menyebarluaskan rekam proses pemantauan dan pengkritisan tayangan TV yang dilakukan ibu rumah tangga perdesaan dan Forum Pemantau Media dalam bentuk modul dan film dokumenter.
+    * Menyusun dan menyebarluaskan rekam proses pemantauan dan pengkritisan tayangan TV yang dilakukan ibu rumah tangga perdesaan dan Forum Pemantau Media dalam bentuk modul dan film dokumenter.
 
   * **Kontribusi untuk sasaran F** - Pemerintah desa bersedia mengeluarkan kebijakan jam belajar desa yang akan dijadikan sebagai 1 jam mematikan TV oleh masyarakat desa.
 
-  Aktivitas:
+    Aktivitas:
  
-  * Merumuskan kebijakan desa dalam bentuk kegiatan 1 jam belajar desa dan 1 jam mematikan TV
+    * Merumuskan kebijakan desa dalam bentuk kegiatan 1 jam belajar desa dan 1 jam mematikan TV
+
+**E. Latar belakang dan demografi pelaku proyek**
+
+  **Pemimpin Proyek **
+
+  Seorang laki-laki, berpengalaman berorganisasi selama 13 tahun, dan pengalaman di bidang media selama 7 tahun, berumur 30an
+
+  **Bidang Administrasi Keuangan **
+
+  Seorang perempuan, berpengalaman mengelola keuangan dan administrasi di 4 lembaga selama 3 tahun dan berumur 30an.
+
+  **Bidang Manajemen Pengetahuan**
+ 
+  Seorang laki-laki, berpengalaman mengelola radio komunitas selama 2 tahun, berusia 20an.
+
+  **Bidang Pendidikan, Literasi dan Iniasiatif Lokal**
+
+  Seorang laki-laki, berpengalaman di bidang penyiaran radio 8 tahun, berpengalaman sebagai trainer media komunitas selama 5 tahun, berusia 30an.
