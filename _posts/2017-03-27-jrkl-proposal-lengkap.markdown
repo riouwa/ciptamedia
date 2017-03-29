@@ -193,3 +193,13 @@ proyek ini.
 * Ada pelaporan terhadap tayangan TV kepada KPID dan KPI oleh Forum Pemantau Media.
 * Ada Forum Pemantau Media (multi stakeholder) yang melakukan kerja pemantauan dan pengkritisan tayangan TV di perdesaan.
 Tersedia modul pemantauan dan pengkritisan tayangan TV berdasarkan nilai lokal perdesaan untuk digunakan masyarakat.
+
+**H. Keterkaitan proyek dengan perbaikan media dan keadilan sosial**
+
+  **Perbaikan media**
+
+  Peningkatan peran serta ibu rumah tangga perdesaan ini tidaklah dimaksudkan untuk memusuhi TV, namun mendorong media (baik TV dan radio) untuk hak masyarakat terhadap tayangan TV berkualitas. Hal ini tentu akan melahirkan konsep baru dalam pengelolaan informasi dan produksi tayangan media.
+
+  **Keadilan sosial**
+
+  Advokasi dari proyek ini adalah masyarakat dapat menggunakan haknya untuk memantau dan mengkritisi, serta menginisiasi terbangunnya lembaga sensor moral atas tayangan TV yang dibangun secara mandiri oleh masyarakat.
