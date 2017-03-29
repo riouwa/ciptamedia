@@ -92,8 +92,8 @@ Proyek	            :	Ibu Rumah Tangga Perdesaan “Melek” Media untuk Peningka
 5. Tercetak dan tersebarluaskannya 1.000 lembar sticker (2 jenis sticker) kampanye tayangan televisi sehat di 2 wilayah.
 6. Tercetak dan tersebarluaskannya 2.000 lembar poster (2 jenis sticker) kampanye tayangan televisi sehat di 2 wilayah.
 7. Terselenggara 4 kali sosialisasi tayangan TV sehat di 4 sekolah yang melibatkan 200 siswa.
-Terselenggara 4 kali sosialisasi tayangan TV sehat di 4 kelompok masyarakat (petani, Komite Sekolah, ibu-ibu pengajian dan anggota SHK Lestari) yang melibatkan 200 orang.
-Terselenggara 3 kali diskusi kelompok Pantau TV (2 di Pantau TV Padang Cermin dan 1 di Pantau TV Krui).
-Terselenggara 1 kegiatan peringatan hari tanpa TV di Hurun-Hanura, Padang cermin yang diisi dengan kegiatan lomba memasak, lomba mewarnai anak-anak dan nonton bareng film pendidikan yang melibatkan 100 orang warga desa.
-Terselenggara 1 kegiatan peringatan hari tanpa TV di Krui, Lampung Barat yang diisi dengan kegiatan diskusi desa dan nonton bareng film pendidikan yang melibatkan 50 orang warga desa.
-Terselenggara 1 kali audiensi ke KPID Lampung dalam rangka peringatan hari tanpa TV yang melibatkan 5 orang komisioner KPID Lampung, 20 orang anggota Pantau TV, 6 orang pegiat radio komunitas dan 4 orang pengurus JRKL
+8. Terselenggara 4 kali sosialisasi tayangan TV sehat di 4 kelompok masyarakat (petani, Komite Sekolah, ibu-ibu pengajian dan anggota SHK Lestari) yang melibatkan 200 orang.
+9. Terselenggara 3 kali diskusi kelompok Pantau TV (2 di Pantau TV Padang Cermin dan 1 di Pantau TV Krui).
+10. Terselenggara 1 kegiatan peringatan hari tanpa TV di Hurun-Hanura, Padang cermin yang diisi dengan kegiatan lomba memasak, lomba mewarnai anak-anak dan nonton bareng film pendidikan yang melibatkan 100 orang warga desa.
+11. Terselenggara 1 kegiatan peringatan hari tanpa TV di Krui, Lampung Barat yang diisi dengan kegiatan diskusi desa dan nonton bareng film pendidikan yang melibatkan 50 orang warga desa.
+12. Terselenggara 1 kali audiensi ke KPID Lampung dalam rangka peringatan hari tanpa TV yang melibatkan 5 orang komisioner KPID Lampung, 20 orang anggota Pantau TV, 6 orang pegiat radio komunitas dan 4 orang pengurus JRKL
