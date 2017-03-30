@@ -137,11 +137,11 @@ melakukan aktivitas jurnalistik,”
   11. [http://www.lpmkeadilan.com/menaksir-sikap-dan-nilai-jurnalis-dalam-pemberitaan-agama.html](http://www.lpmkeadilan.com/menaksir-sikap-dan-nilai-jurnalis-dalam-pemberitaan-agama.html)
   12. [http://gurindam12.co/2013/02/03/bagaimana-meliput-agama-dan-menghadapai-tsunami-informasi/](http://gurindam12.co/2013/02/03/bagaimana-meliput-agama-dan-menghadapai-tsunami-informasi/)
   13. [http://remotivi.or.id/kabar-tv/merawat-kemajemukan-lewat-pemberitaan](http://remotivi.or.id/kabar-tv/merawat-kemajemukan-lewat-pemberitaan)
-  14. http://www.ddhongkong.org/survei-mayoritas-wartawan-indonesia-dukung-syariat-islam/
+  14. [http://www.ddhongkong.org/survei-mayoritas-wartawan-indonesia-dukung-syariat-islam/](http://www.ddhongkong.org/survei-mayoritas-wartawan-indonesia-dukung-syariat-islam/)
 
   **Pranala iklan mengenai upaya ini dan publikasi dari perseorangan**
 
-  1. (iklan mengenai lokakarya menggunakan pengantar video) http://www.youtube.com/watch?v=BgxYP9MuhtI
+  1. (iklan mengenai lokakarya menggunakan pengantar video) [http://www.youtube.com/watch?v=BgxYP9MuhtI](http://www.youtube.com/watch?v=BgxYP9MuhtI)
   2. (iklan mengenai lokakarya) http://narasisumatera.wordpress.com/2013/01/09/narasi-sumatera-pokja-riau-dan-fopersma-riau-taja-workshop-jurnalisme-dan-launching-buku-2/
   3. (iklan mengenai lokakarya) http://pekanbaru.tribunnews.com/2013/02/01/fopersma-riau-gelar-workshop-jurnalistik
   4. http://narasisumatera.wordpress.com/2013/02/13/launching-hasil-survei-yayasan-pantau-islam-dan-jurnalisme-di-pekanbaru/#more-369
