@@ -142,9 +142,9 @@ melakukan aktivitas jurnalistik,”
   **Pranala iklan mengenai upaya ini dan publikasi dari perseorangan**
 
   1. (iklan mengenai lokakarya menggunakan pengantar video) [http://www.youtube.com/watch?v=BgxYP9MuhtI](http://www.youtube.com/watch?v=BgxYP9MuhtI)
-  2. (iklan mengenai lokakarya) http://narasisumatera.wordpress.com/2013/01/09/narasi-sumatera-pokja-riau-dan-fopersma-riau-taja-workshop-jurnalisme-dan-launching-buku-2/
-  3. (iklan mengenai lokakarya) http://pekanbaru.tribunnews.com/2013/02/01/fopersma-riau-gelar-workshop-jurnalistik
-  4. http://narasisumatera.wordpress.com/2013/02/13/launching-hasil-survei-yayasan-pantau-islam-dan-jurnalisme-di-pekanbaru/#more-369
+  2. (iklan mengenai lokakarya) [http://narasisumatera.wordpress.com/2013/01/09/narasi-sumatera-pokja-riau-dan-fopersma-riau-taja-workshop-jurnalisme-dan-launching-buku-2/](http://narasisumatera.wordpress.com/2013/01/09/narasi-sumatera-pokja-riau-dan-fopersma-riau-taja-workshop-jurnalisme-dan-launching-buku-2/)
+  3. (iklan mengenai lokakarya) [http://pekanbaru.tribunnews.com/2013/02/01/fopersma-riau-gelar-workshop-jurnalistik](http://pekanbaru.tribunnews.com/2013/02/01/fopersma-riau-gelar-workshop-jurnalistik)
+  4. [http://narasisumatera.wordpress.com/2013/02/13/launching-hasil-survei-yayasan-pantau-islam-dan-jurnalisme-di-pekanbaru/#more-369](http://narasisumatera.wordpress.com/2013/02/13/launching-hasil-survei-yayasan-pantau-islam-dan-jurnalisme-di-pekanbaru/#more-369)
 
   Semua diskusi di Riau, Pontianak, Manado, Jakarta dan Jogja kami sebarluaskan di Facebook: http://www.facebook.com/yayasan.pantau Twitter: https://twitter.com/Yayasan_Pantau
 
