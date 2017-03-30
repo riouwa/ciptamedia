@@ -187,7 +187,7 @@ melakukan aktivitas jurnalistik,”
 
   Silahkan masukkan pranala laporan keuangan anda disini:
 
-  http://ciptamedia.org/wiki/Templat:Pantau-Termin2
+  [http://ciptamedia.org/wiki/Templat:Pantau-Termin2](http://ciptamedia.org/wiki/Templat:Pantau-Termin2)
 
 **8. Pengesahan**
 
