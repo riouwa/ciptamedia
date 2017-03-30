@@ -124,9 +124,9 @@ melakukan aktivitas jurnalistik,”
   Lebih dari 20 publikasi mengenai hasil survey Pantau 2009 oleh wartawan dan media lokal, berikut liputan soal diskusi ini:
 
   **Media arus utama:**
-  1. http://rri.co.id/index.php/berita/42540/Border-Blogger-Movement-luncurkan-Suara-dari-#.URiMO1FRoUs
-  2. http://www.antarakalbar.com/berita/310184/bwg-mempublikasi-tulisan-jurnalisme-kampung-melalui-blog
-  3. http://www.thejakartapost.com/news/2013/02/10/journalists-tested-knowledge-islam.html
+  1. [http://rri.co.id/index.php/berita/42540/Border-Blogger-Movement-luncurkan-Suara-dari-#.URiMO1FRoUs](http://rri.co.id/index.php/berita/42540/Border-Blogger-Movement-luncurkan-Suara-dari-#.URiMO1FRoUs)
+  2. [http://www.antarakalbar.com/berita/310184/bwg-mempublikasi-tulisan-jurnalisme-kampung-melalui-blog](http://www.antarakalbar.com/berita/310184/bwg-mempublikasi-tulisan-jurnalisme-kampung-melalui-blog)
+  3. [http://www.thejakartapost.com/news/2013/02/10/journalists-tested-knowledge-islam.html](http://www.thejakartapost.com/news/2013/02/10/journalists-tested-knowledge-islam.html)
   4. http://indoprogress.com/syariat-islam-mimpi-buruk-kaum-minoritas/
   5. http://tv.riaupos.co/video.php?act=play&id=3601#.UWVNuSspadM
   6. http://www.thejakartaglobe.com/commentary/shariah-advocates-must-put-into-practice-its-history-of-tolerance/520471
