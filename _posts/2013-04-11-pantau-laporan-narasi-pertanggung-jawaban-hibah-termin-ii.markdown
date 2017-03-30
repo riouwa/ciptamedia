@@ -134,9 +134,9 @@ melakukan aktivitas jurnalistik,”
   8. [http://suarausu.co/index.php?option=com_content&view=article&id=1477%3Amenulis-jurnalisme-narasi-ibarat-membuat-film&catid=35%3Aberita-kota&Itemid=18](http://suarausu.co/index.php?option=com_content&view=article&id=1477%3Amenulis-jurnalisme-narasi-ibarat-membuat-film&catid=35%3Aberita-kota&Itemid=18)
   9. [http://www.balairungpress.com/2013/03/jurnalis-agama-dan-bias-pemberitaan/](http://www.balairungpress.com/2013/03/jurnalis-agama-dan-bias-pemberitaan/)
   10. [http://lpmhimmahuii.org/konservatisme-menyentuh-kalangan-wartawan/](http://lpmhimmahuii.org/konservatisme-menyentuh-kalangan-wartawan/)
-  11. http://www.lpmkeadilan.com/menaksir-sikap-dan-nilai-jurnalis-dalam-pemberitaan-agama.html
-  12. http://gurindam12.co/2013/02/03/bagaimana-meliput-agama-dan-menghadapai-tsunami-informasi/
-  13. http://remotivi.or.id/kabar-tv/merawat-kemajemukan-lewat-pemberitaan
+  11. [http://www.lpmkeadilan.com/menaksir-sikap-dan-nilai-jurnalis-dalam-pemberitaan-agama.html](http://www.lpmkeadilan.com/menaksir-sikap-dan-nilai-jurnalis-dalam-pemberitaan-agama.html)
+  12. [http://gurindam12.co/2013/02/03/bagaimana-meliput-agama-dan-menghadapai-tsunami-informasi/](http://gurindam12.co/2013/02/03/bagaimana-meliput-agama-dan-menghadapai-tsunami-informasi/)
+  13. [http://remotivi.or.id/kabar-tv/merawat-kemajemukan-lewat-pemberitaan](http://remotivi.or.id/kabar-tv/merawat-kemajemukan-lewat-pemberitaan)
   14. http://www.ddhongkong.org/survei-mayoritas-wartawan-indonesia-dukung-syariat-islam/
 
   **Pranala iklan mengenai upaya ini dan publikasi dari perseorangan**
