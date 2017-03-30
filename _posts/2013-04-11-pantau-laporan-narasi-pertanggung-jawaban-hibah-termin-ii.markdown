@@ -146,7 +146,7 @@ melakukan aktivitas jurnalistik,”
   3. (iklan mengenai lokakarya) [http://pekanbaru.tribunnews.com/2013/02/01/fopersma-riau-gelar-workshop-jurnalistik](http://pekanbaru.tribunnews.com/2013/02/01/fopersma-riau-gelar-workshop-jurnalistik)
   4. [http://narasisumatera.wordpress.com/2013/02/13/launching-hasil-survei-yayasan-pantau-islam-dan-jurnalisme-di-pekanbaru/#more-369](http://narasisumatera.wordpress.com/2013/02/13/launching-hasil-survei-yayasan-pantau-islam-dan-jurnalisme-di-pekanbaru/#more-369)
 
-  Semua diskusi di Riau, Pontianak, Manado, Jakarta dan Jogja kami sebarluaskan di Facebook: http://www.facebook.com/yayasan.pantau Twitter: https://twitter.com/Yayasan_Pantau
+  Semua diskusi di Riau, Pontianak, Manado, Jakarta dan Jogja kami sebarluaskan di Facebook: [http://www.facebook.com/yayasan.pantau](http://www.facebook.com/yayasan.pantau) Twitter: [https://twitter.com/Yayasan_Pantau](https://twitter.com/Yayasan_Pantau)
 
 **4. Tujuan dan Sasaran**
 
