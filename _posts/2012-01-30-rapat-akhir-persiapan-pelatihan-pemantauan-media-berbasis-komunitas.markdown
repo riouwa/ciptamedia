@@ -4,6 +4,7 @@ date: 2012-01-30
 categories:
 - laporan
 - AKUMASSA.ORG
+permalink: /testpage/
 ---
 
 ![250px-Januari-30-2012-Rapat-Akhir-Akumassa-Pelatihan-Pemantauan-1.jpg](/uploads/250px-Januari-30-2012-Rapat-Akhir-Akumassa-Pelatihan-Pemantauan-1.jpg){: .img-responsive .center-block }
