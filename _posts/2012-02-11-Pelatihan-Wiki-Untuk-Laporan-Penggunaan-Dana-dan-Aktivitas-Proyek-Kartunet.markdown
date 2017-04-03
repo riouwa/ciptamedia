@@ -16,9 +16,9 @@ categories:
 **Jam** : 10:00 - 16:00 WIB
 
 **Hadir** : 
-* [Trias Nurhidayat](http://wiki.ciptamedia.org/wiki/Trias_Nurhidayat)
-* [Hendra Prastiawan (Wikimedia)](http://wiki.ciptamedia.org/wiki/Hendra_Prastiawan)
+* Trias Nurhidayat
+* Hendra Prastiawan
 
 **Ringkasan** : 
 * Pelatihan Pembutan Laporan Keuangan untuk proyek Kartunet
-* Pelatihan pembuatan Laporan Aktivitas
+* Pelatihan pembuatan [Laporan Aktivitas](http://wiki.ciptamedia.org/wiki/Kartunet.com/Laporan_Aktivitas)
