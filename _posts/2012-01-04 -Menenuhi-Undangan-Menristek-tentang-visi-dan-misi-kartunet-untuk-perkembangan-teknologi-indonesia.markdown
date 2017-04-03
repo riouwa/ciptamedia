@@ -16,7 +16,7 @@ categories:
 **Jam** : 09:00 - 15:00 WIB
 
 **Hadir** : 
-* [Dimas Prasetyo Muharam](http://wiki.ciptamedia.org/wiki/Dimas_Prasetyo_Muharam)
+* Dimas Prasetyo Muharam
 * Ramaditya
 
 **Ringkasan** : 
