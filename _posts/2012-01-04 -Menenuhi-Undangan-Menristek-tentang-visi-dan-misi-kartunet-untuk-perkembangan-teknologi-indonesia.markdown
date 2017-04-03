@@ -3,7 +3,7 @@ title: Menenuhi Undangan Menristek tentang visi dan misi kartunet untuk perkemba
 date: 2012-01-04 
 categories:
 - laporan
-- Kartunet.com: Media Online Sosialisasi dan Pengembangan Komunitas Pemuda dengan Disabilitas
+- Kartunet.com - Media Online Sosialisasi dan Pengembangan Komunitas Pemuda dengan Disabilitas
 ---
 ![200px-Januari_04_2012_Kartunet_Menristek_.jpg](/uploads/200px-Januari_04_2012_Kartunet_Menristek_.jpg){: .img-responsive .center-block }
 
