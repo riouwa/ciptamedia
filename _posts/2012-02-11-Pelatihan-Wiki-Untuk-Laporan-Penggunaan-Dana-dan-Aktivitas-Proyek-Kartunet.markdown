@@ -5,7 +5,7 @@ categories:
 - laporan
 - Kartunet.com - Media Online Sosialisasi dan Pengembangan Komunitas Pemuda dengan Disabilitas
 ---
-![200px-Januari_04_2012_Kartunet_Menristek_.jpg](/uploads/200px-Januari_04_2012_Kartunet_Menristek_.jpg){: .img-responsive .center-block }
+![200px-Februari_11_2012_Kartunet_Pelatihan_Wiki.jpg](/uploads/200px-Februari_11_2012_Kartunet_Pelatihan_Wiki.jpg){: .img-responsive .center-block }
 
 **Tujuan** : Pelatihan Wiki Untuk Laporan Penggunaan Dana dan Aktivitas Proyek Kartunet
 
