@@ -25,4 +25,4 @@ categories:
 **Ringkasan** : 
 * Adanya penolakan masyarakat Tablasupa karena perusahaaan tidak melibatkan masyarakat pemilik hak ulayat
 * Masyarakat marga Sorontouw mengelar pertemuan untuk mendiskusikan dengan pihak pendamping (ALDP)tentang pengambil-alihan lahan oleh peusahaan
-* Berita selengkapnya dapat di lihat di sini
+* Berita selengkapnya dapat di lihat di [sini](http://www.aldepe.com/2012/01/penambangan-nikel-ptidak-ada-lagi.html)
