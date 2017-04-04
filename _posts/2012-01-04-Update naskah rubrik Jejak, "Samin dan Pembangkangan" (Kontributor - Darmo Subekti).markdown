@@ -12,7 +12,7 @@ categories:
 
 **Alamat** : Jalan Sawo Manila No. 10 Pasar Minggu, Jakarta Selatan
 
-**Jam** : 09:00 - 15:00 WIB
+**Jam** : 
 
 **Hadir** : 
 
