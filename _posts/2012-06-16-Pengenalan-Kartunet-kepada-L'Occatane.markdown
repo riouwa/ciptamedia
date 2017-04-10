@@ -1,5 +1,5 @@
 ---
-title: Pengenalan Kartunet kepada L'Occatane
+title: Pengenalan Kartunet kepada LOccatane
 date: 2012-06-16
 categories:
 - laporan
