@@ -115,7 +115,7 @@ layout: blog
 				$(e.element).popover('hide');
 			},
 			dataSource: [
-			{% for post in site.posts %}
+			{% for post in site.categories['laporan'] %}
 				{
 					name: '{{ post.title }}',
 					location: '{{ post.categories | last }}',
