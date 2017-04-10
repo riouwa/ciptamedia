@@ -93,7 +93,7 @@ layout: blog
                         
                         for(var i in e.events) {
                             content += '<div class="event-tooltip-content">'
-                                            + '<div class="event-name" style="color:' + e.events[i].color + '">' + e.events[i].name + '</div>'
+                                            + '<a href="' + e.events[i].url + '"><div class="event-name" style="color:' + e.events[i].color + '">' + e.events[i].name + '</div></a>'
                                             + '<div class="event-location">' + e.events[i].location + '</div>'
                                         + '</div>';
                         }
@@ -121,6 +121,7 @@ layout: blog
                     {
                         name: '{{ post.title }}',
                         location: '{{ post.categories | last }}',
+			url: '{{ post.url }}',
                         startDate: new Date({{ post.date | date: "%Y" }}, {{ post.date | date: "%m" | minus: 1 }}, {{ post.date | date: "%d" }}),
                         endDate: new Date({{ post.date | date: "%Y" }}, {{ post.date | date: "%m" | minus: 1 }}, {{ post.date | date: "%d" }}),
                     },
