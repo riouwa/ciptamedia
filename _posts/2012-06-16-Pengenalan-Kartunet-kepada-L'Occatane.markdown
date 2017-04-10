@@ -7,7 +7,7 @@ categories:
 ---
 ![200px-Juni_16_2012_Kartunet_Undangan_loccatane.JPG](/uploads/200px-Juni_16_2012_Kartunet_Undangan_loccatane.JPG){: .img-responsive .center-block }
 
-**Tujuan** : Pengenalan Kartunet kepada L'Occatane
+**Tujuan** : Pengenalan Kartunet kepada LOccatane
 
 **Lokasi** : Gandaria City
 
