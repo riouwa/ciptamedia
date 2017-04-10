@@ -4,7 +4,7 @@ date: 2012-02-02
 categories:
 - laporan
 - Aldepe.com- Advokasi Hak Asasi Manusia (HAM) di Papua Via Media Online, Mobile Phone dan Social Media
-----02--02-
+---
 ![200px-Februari_02_2012_ALDP_Liputan_Khusus_Tapol_Biak.JPG](/uploads/200px-Februari_02_2012_ALDP_Liputan_Khusus_Tapol_Biak.JPG){: .img-responsive .center-block }
 
 **Tujuan** : Liputan Khusus Kunjungan ke LP Biak-Papua
