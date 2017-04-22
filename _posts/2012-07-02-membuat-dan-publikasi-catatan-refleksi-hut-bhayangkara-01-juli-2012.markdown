@@ -5,7 +5,7 @@ categories:
 - laporan
 - Aldepe.com- Advokasi Hak Asasi Manusia (HAM) di Papua Via Media Online, Mobile Phone dan Social Media
 ---
-![200px-Februari_02_2012_ALDP_Liputan_Khusus_Tapol_Biak.JPG](/uploads/200px-Februari_02_2012_ALDP_Liputan_Khusus_Tapol_Biak.JPG){: .img-responsive .center-block }
+![200px-Juli_02_2012_catatan_Refleksi_HUT_Bhayangkara.jpg](/uploads/200px-Juli_02_2012_catatan_Refleksi_HUT_Bhayangkara.jpg){: .img-responsive .center-block }
 
 **Tujuan** : Membuat dan publikasi catatan refleksi HUT Bhayangkara 01 Juli 2012
 
