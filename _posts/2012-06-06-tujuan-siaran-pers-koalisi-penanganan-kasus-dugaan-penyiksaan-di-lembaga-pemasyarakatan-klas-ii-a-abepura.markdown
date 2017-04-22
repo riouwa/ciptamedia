@@ -5,7 +5,7 @@ categories:
 - laporan
 - Aldepe.com- Advokasi Hak Asasi Manusia (HAM) di Papua Via Media Online, Mobile Phone dan Social Media
 ---
-![200px-Februari_02_2012_ALDP_Liputan_Khusus_Tapol_Biak.JPG](/uploads/200px-Februari_02_2012_ALDP_Liputan_Khusus_Tapol_Biak.JPG){: .img-responsive .center-block }
+![Juni_06_2012_Siaran_Pers_Koalisi_LSM_HAM_untuk_Kasus_LP_Abepura.jpg](/uploads/Juni_06_2012_Siaran_Pers_Koalisi_LSM_HAM_untuk_Kasus_LP_Abepura.jpg){: .img-responsive .center-block }
 
 **Tujuan** : Tujuan	Siaran Pers - Koalisi Penanganan Kasus Dugaan Penyiksaan Di Lembaga Pemasyarakatan Klas II A Abepura
 
