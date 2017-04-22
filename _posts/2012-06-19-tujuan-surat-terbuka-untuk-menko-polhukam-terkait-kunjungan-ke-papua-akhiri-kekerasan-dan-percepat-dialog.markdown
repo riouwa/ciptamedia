@@ -5,7 +5,7 @@ categories:
 - laporan
 - Aldepe.com- Advokasi Hak Asasi Manusia (HAM) di Papua Via Media Online, Mobile Phone dan Social Media
 ---
-![200px-Februari_02_2012_ALDP_Liputan_Khusus_Tapol_Biak.JPG](/uploads/200px-Februari_02_2012_ALDP_Liputan_Khusus_Tapol_Biak.JPG){: .img-responsive .center-block }
+![200px-Juni_19_2012_Surat_Terbuka_kepada_Menkopolhukan.jpg](/uploads/200px-Juni_19_2012_Surat_Terbuka_kepada_Menkopolhukan.jpg){: .img-responsive .center-block }
 
 **Tujuan** : Tujuan	Surat Terbuka Untuk Menko Polhukam Terkait Kunjungan Ke Papua :“Akhiri Kekerasan dan Percepat Dialog”
 
