@@ -13,7 +13,7 @@ categories:
 
 **Lokasi** : Takengon, Aceh Tengah
 
-**Alamat** : Sekretariat AJI Banda Aceh  Banda Aceh
+**Alamat** : Sekretariat AJI Banda Aceh
 
 **Jam** : 10.00 s.d 13.00  WIB
 
