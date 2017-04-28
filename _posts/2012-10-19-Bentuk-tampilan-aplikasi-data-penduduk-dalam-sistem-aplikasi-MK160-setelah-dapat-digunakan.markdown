@@ -22,4 +22,4 @@ categories:
 * [Ambar Sari Dewi](http://wiki.ciptamedia.org/wiki/Ambar_Sari_Dewi)
 
 **Ringkasan** : 
-*     Tampilan halaman data penduduk yang sudah di entry ke dalam sistem MK160
+* Tampilan halaman data penduduk yang sudah di entry ke dalam sistem MK160
