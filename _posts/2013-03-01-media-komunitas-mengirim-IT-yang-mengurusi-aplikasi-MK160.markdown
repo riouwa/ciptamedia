@@ -18,7 +18,7 @@ categories:
 
 **Hadir** :
 * Saryanto "Gopek"
-*Vicka
+* Vicka
 
 **Ringkasan** :
 * Mendalami terkait dengan sistem aplikasi MK160
