@@ -43,25 +43,24 @@ layout: info
 		<a href="hibahcms-konten.html" class="btn btn-danger" role="button">Produksi dan<br/>Penyampaian Konten</a>
 	</div>
 	<br/>
-    <div class="row">	
+    <div class="row">
+	    <div class="col-md-3">
+		<nav class="navbar navbar-default" role="navigation">
+			<div class="container">
+			<ul class="nav">
+			<li><a href="#">Semua</a></li>
+			<li><a href="#">Perangkat Keras</a></li>
+			<li><a href="#">Perangkat Lunak</a></li>
+			<li><a href="#">Produksi dan Penyampaian Konten</a></li>
+			</ul>
+			</div>
+		</nav>
+	    </div>
+	    <div class="col-md-9">
         <div id="itemContainer">
-		
-		<div class="col-md-3">
-			<nav class="navbar navbar-default" role="navigation">
-				<div class="container">
-				<ul class="nav">
-				<li><a href="#">Semua</a></li>
-				<li><a href="#">Perangkat Keras</a></li>
-				<li><a href="#">Perangkat Lunak</a></li>
-				<li><a href="#">Produksi dan Penyampaian Konten</a></li>
-				</ul>
-				</div>
-			</nav>
-		</div>
-		
         {% for hibahcms in site.data.hibahcms %}
         {% assign loopindex = forloop.index | modulo: 3 %}
-		<div class="col-md-3">
+		<div class="col-md-4">
 			<div class="col-md-12 well well-lg" style="height: 600px;">
 				<a href="{{ hibahcms.link }}"><img class="img-responsive center-block" src="{{ hibahcms.gambar }}" style="max-height: 300px;"></a>
 				<hr>
@@ -73,6 +72,7 @@ layout: info
 		</div>
 	{% endfor %}
 	</div>
+	    </div>
     </div>	    
     <div class="row m-b-lg text-center">
         <div class="col-md-12">
