@@ -6,7 +6,10 @@ layout: default
     <div class="row">
         <div class="col-lg-7 col-lg-offset-1">
             <div class="ibox">
-		<a href="http://ciptamedia.siteleaf.net/index.html" class="btn-link">Beranda</a>/<a href="#" class="btn-link">Laporan</a>/<a href="#" class="btn-link">Kategori</a>/<a href="#" class="btn-link">Judul</a>
+		{% capture category_breadcrumbs %}
+			{{ page.categories | last }}
+		{% endcapture %}
+		<small><a href="http://ciptamedia.siteleaf.net/index.html">Beranda</a>/<a href="http://ciptamedia.siteleaf.net/ciptamediabersama/{{ category_breadcrumbs | downcase | remove: " " }}/">{{ category_breadcrumbs }}</a>/{{ page.title }}</small>
                 <div class="ibox-content">
                     <div class="text-center article-title">
                         <h1> {{ page.title }}</h1>
