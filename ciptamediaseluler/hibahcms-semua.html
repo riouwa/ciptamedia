@@ -21,7 +21,7 @@ layout: info
 		});
 		$("button").click(function(){
 			var page = parseInt( $("input").val() );
-			$("div.holder").jPages( page );
+			$("#holder").jPages( page );
 		});
 	});
   </script>
@@ -65,7 +65,7 @@ layout: info
             <div class="pag-holder" id="holder"></div>
         </div>
 	<div class="col-md-12">
-		<input type="text" value="5">
+		<input type="number" value="5">
 		<button>Lompat ke bagian ini</button>
 	</div>
     </div>
