@@ -13,12 +13,15 @@ layout: info
 		/* initiate plugin */
 		$("#holder").jPages({
 			containerID : "itemContainer",
-			first: "first",
-			previous: "previous",
-			next: "next",
-			last: "last",
 			perPage : 9,
-			midRange: 7
+			startPage: 1,
+			startRange: 1,
+			midRange: 7,
+			endRange: 1
+		});
+		$("button").click(function(){
+			var page = parseInt( $("input").val() );
+			$("div.holder").jPages( page );
 		});
 	});
   </script>
@@ -61,5 +64,9 @@ layout: info
         <div class="col-md-12">
             <div class="pag-holder" id="holder"></div>
         </div>
+	<div class="col-md-12">
+		<input type="text" value="5">
+		<button>Lompat ke bagian ini</button>
+	</div>
     </div>
 </div>
