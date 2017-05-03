@@ -70,32 +70,33 @@ Selama ini pelayanan publik di desa masih dilakukan secara manual sehingga membu
 Program Desa 2.0 bertujuan untuk meningkatkan produksi konten isu-isu perdesaan serta promosi potensi dan produk unggulan desa. Program ini juga mendukung pengembangan CMS (content management system) web yang semakin ramah/responsif pada bandwidth rendah sehingga dapat diakses melalui desktop maupun mobile. Pengadaan server yang memiliki bandwidth unggah (upload) yang besar diperlukan agar mampu melayani hosting desa dan mempercepat proses posting konten. Melalui pemanfaatan aplikasi [Sistem Informasi Desa], desa mampu meningkatkan mutu penyelenggaraan pelayanan publik dan jumlah kebijakan (Perdes dan SK Kepala Desa) di desa.
     
 **Masalah yang ingin diatasi dan keterkaitan dengan aktivitas**
+
  **Masalah 1**
 
-    Informasi tentang desa kurang terpublikasi secara luas sehingga isu perdesaaan masih terpinggirkan di ranah publik.
+ Informasi tentang desa kurang terpublikasi secara luas sehingga isu perdesaaan masih terpinggirkan di ranah publik.
     
  **Aktivitas 1**
 
-    Untuk mendukung pengarusutamaan isu perdesaan maka dilakukan hal-hal sebagai berikut:
-    * Pembuatan website di 100 desa dengan domain DESA.ID untuk mempertegas identitas desa di internet sesuai dengan kebijakan Pengelola Nama Domain Internet Indonesia.
-    * Pelatihan produksi konten website (teks, foto, video) yang bermaterikan dunia perdesaan yang melibatkan masyarakat dan pemerintah desa.
-    * Pelatihan mengunggah konten (posting) di website desa.
-    * Pelatihan strategi menyebarluaskan konten desa melalui media sosial (khususnya Facebook, Twitter, dan Google+).
-    * Pembuatan modul dan video tutorial pengelolaan website desa dan media sosial.
-    * Pembuatan web sindikasi dan agregasi untuk konten antardesa.
-    * Membangun komunikasi antara desa dan media arus utama sehingga materi website desa dapat menjadi rujukan pemberitaan media massa, akibatnya isu-isu desa makin tersebarluas (amplified).
+  Untuk mendukung pengarusutamaan isu perdesaan maka dilakukan hal-hal sebagai berikut:
+  * Pembuatan website di 100 desa dengan domain DESA.ID untuk mempertegas identitas desa di internet sesuai dengan kebijakan Pengelola Nama Domain Internet Indonesia.
+  * Pelatihan produksi konten website (teks, foto, video) yang bermaterikan dunia perdesaan yang melibatkan masyarakat dan pemerintah desa.
+  * Pelatihan mengunggah konten (posting) di website desa.
+  * Pelatihan strategi menyebarluaskan konten desa melalui media sosial (khususnya Facebook, Twitter, dan Google+).
+  * Pembuatan modul dan video tutorial pengelolaan website desa dan media sosial.
+  * Pembuatan web sindikasi dan agregasi untuk konten antardesa.
+  * Membangun komunikasi antara desa dan media arus utama sehingga materi website desa dapat menjadi rujukan pemberitaan media massa, akibatnya isu-isu desa makin tersebarluas (amplified).
 
  **Masalah 2**
  
-    Potensi maupun produk unggulan desa tidak terpromosikan dengan maksimal sehingga potensi dan produk desa belum dikenal oleh masyarakat luas.
+  Potensi maupun produk unggulan desa tidak terpromosikan dengan maksimal sehingga potensi dan produk desa belum dikenal oleh masyarakat luas.
 
  **Aktivitas 2**
  
-    Untuk mendorong promosi potensi dan produk unggulan desa maka dilakukan beberapa aktivitas berikut ini:
-    * Pelatihan untuk mengidentifikasi, mengumpulkan, dan menginventarisasi potensi maupun produk unggulan di desa.
-    * Pelatihan untuk mengemas informasi (advertorial) dan pencitraan visual atas setiap potensi maupun produk unggulan desa.
-    * Pelatihan video singkat yang menceritakan potensi desa maupun testimoni pihak ketiga.
-    * Pelatihan strategi promosi potensi dan produk unggulan melalui internet.
+  Untuk mendorong promosi potensi dan produk unggulan desa maka dilakukan beberapa aktivitas berikut ini:
+  * Pelatihan untuk mengidentifikasi, mengumpulkan, dan menginventarisasi potensi maupun produk unggulan di desa.
+  * Pelatihan untuk mengemas informasi (advertorial) dan pencitraan visual atas setiap potensi maupun produk unggulan desa.
+  * Pelatihan video singkat yang menceritakan potensi desa maupun testimoni pihak ketiga.
+  * Pelatihan strategi promosi potensi dan produk unggulan melalui internet.
 
  **Masalah 3**
 
