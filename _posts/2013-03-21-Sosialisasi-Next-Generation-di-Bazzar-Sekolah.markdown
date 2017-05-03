@@ -8,27 +8,49 @@ categories:
 
 
 ![200px-April_11_2013_NextGeneration_Talkshow_TK_Al_Kautsar_1.jpg](/uploads/200px-April_11_2013_NextGeneration_Talkshow_TK_Al_Kautsar_1.jpg)
+
 ![200px-April_11_2013_NextGeneration_Talkshow_TK_Al_Kautsar_2.jpg](/uploads/200px-April_11_2013_NextGeneration_Talkshow_TK_Al_Kautsar_2.jpg)
+
 ![200px-April_27_2013_NextGeneration_2.jpg](/uploads/200px-April_27_2013_NextGeneration_2.jpg)
+
 ![200px-April_213_2013_NextGeneration_Talkshow_Hikmah_Teladan_2.jpg](/uploads/200px-April_213_2013_NextGeneration_Talkshow_Hikmah_Teladan_2.jpg)
+
 ![200px-April_20_2013_NextGeneration_Talkshow_Bina_Muda_1.jpg](/uploads/200px-April_20_2013_NextGeneration_Talkshow_Bina_Muda_1.jpg)
+
 ![200px-April_20_2013_NextGeneration_Talkshow_Bina_Muda_2.jpg](/uploads/200px-April_20_2013_NextGeneration_Talkshow_Bina_Muda_2.jpg)
+
 ![200px-April_213_2013_NextGeneration_Talkshow_Hikmah_Teladan_1.jpg](/uploads/200px-April_213_2013_NextGeneration_Talkshow_Hikmah_Teladan_1.jpg)
+
 ![200px-April_27_2013_NextGeneration_1.jpg](/uploads/200px-April_27_2013_NextGeneration_1.jpg)
+
 ![200px-April_213_2013_NextGeneration_Talkshow_Hikmah_Teladan_3.jpg](/uploads/200px-April_213_2013_NextGeneration_Talkshow_Hikmah_Teladan_3.jpg)
+
 ![200px-Juli_20_2012_NextGeneration_Talkshow_SMK_Informatika_Cipanas_1.jpg](/uploads/200px-Juli_20_2012_NextGeneration_Talkshow_SMK_Informatika_Cipanas_1.jpg)
+
 ![200px-Juli_20_2012_NextGeneration_Talkshow_SMK_Informatika_Cipanas_3.jpg](/uploads/200px-Juli_20_2012_NextGeneration_Talkshow_SMK_Informatika_Cipanas_3.jpg)
+
 ![200px-Juni_1_2012_NextGeneration_Talkshow_Al_Barokah_1.jpg](/uploads/200px-Juni_1_2012_NextGeneration_Talkshow_Al_Barokah_1.jpg)
+
 ![200px-Juni_1_2012_NextGeneration_Talkshow_Al_Barokah_2.jpg](/uploads/200px-Juni_1_2012_NextGeneration_Talkshow_Al_Barokah_2.jpg)
+
 ![200px-Juni_30_2012_NextGeneration_Talkshow_Yayasan_Cahaya_Ayhah_Bunda_2.jpg](/uploads/200px-Juni_30_2012_NextGeneration_Talkshow_Yayasan_Cahaya_Ayhah_Bunda_2.jpg)
+
 ![200px-Maret_21_2013_NextGeneration_Konsultasi_Guru_Al-Huda_2.jpg](/uploads/200px-Maret_21_2013_NextGeneration_Konsultasi_Guru_Al-Huda_2.jpg)
+
 ![200px-Juni_30_2012_NextGeneration_Talkshow_Yayasan_Cahaya_Ayhah_Bunda_3.jpg](/uploads/200px-Juni_30_2012_NextGeneration_Talkshow_Yayasan_Cahaya_Ayhah_Bunda_3.jpg)
+
 ![200px-Maret_21_2013_NextGeneration_Konsultasi_Guru_Al-Huda_1.jpg](/uploads/200px-Maret_21_2013_NextGeneration_Konsultasi_Guru_Al-Huda_1.jpg)
+
 ![200px-Maret_21_2013_NextGeneration_Talkshow_TK_Al_Huda_1.jpg](/uploads/200px-Maret_21_2013_NextGeneration_Talkshow_TK_Al_Huda_1.jpg)
+
 ![200px-Maret_21_2013_NextGeneration_Talkshow_TK_Al_Huda_2.jpg](/uploads/200px-Maret_21_2013_NextGeneration_Talkshow_TK_Al_Huda_2.jpg)
+
 ![200px-Maret_21_2013_NextGeneration_Talkshow_TK_Al_Huda_3.jpg](/uploads/200px-Maret_21_2013_NextGeneration_Talkshow_TK_Al_Huda_3.jpg)
+
 ![200px-Mei_4_2013_NextGeneration_Talkshow_Al_Ikhlas_1.jpg](/uploads/200px-Mei_4_2013_NextGeneration_Talkshow_Al_Ikhlas_1.jpg)
+
 ![200px-Mei_4_2013_NextGeneration_Talkshow_Al_Ikhlas_2.jpg](/uploads/200px-Mei_4_2013_NextGeneration_Talkshow_Al_Ikhlas_2.jpg)
+
 ![200px-Mei_4_2013_NextGeneration_Talkshow_Al_Ikhlas_3.jpg](/uploads/200px-Mei_4_2013_NextGeneration_Talkshow_Al_Ikhlas_3.jpg)
 
 
