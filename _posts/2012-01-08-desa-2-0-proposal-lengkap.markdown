@@ -1,6 +1,7 @@
 ---
 title: Desa 2.0- Sistem Tata Kelola Sumber Daya Desa - Proposal Lengkap
 date: 2012-01-08 15:16:00 +07:00
+permalink: /test-desa/
 categories:
 - laporan
 - Desa 2.0
