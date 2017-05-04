@@ -32,7 +32,8 @@ layout: laporancmb
 
 **Ringkasan** 
 * Workshop II Tim Juri "Indonesian Human Rights Blog Award". 
-* Pada workshop II Tim Juri Indonesian Human Rights Blog Award telah menghasilkan: 1. Indikator Penilaian 
+* Pada workshop II Tim Juri Indonesian Human Rights Blog Award telah menghasilkan: 
+ 1. Indikator Penilaian 
  2. Pembagian Tim Juri ke dalam 2 Tim
  3. Ketentuan Umum, Kriteria dan Persyaratan Peserta.
  Hasil tersebut dapat juga dilihat di [INDONESIAN HUMAN RIGHTS BLOG AWARD](http://www.hamblogger.org/peraturan-dan-ketentuan/)
