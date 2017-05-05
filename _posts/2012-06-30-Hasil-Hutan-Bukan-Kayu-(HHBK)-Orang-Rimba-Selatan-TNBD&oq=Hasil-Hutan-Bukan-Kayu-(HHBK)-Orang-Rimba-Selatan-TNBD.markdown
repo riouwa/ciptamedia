@@ -9,13 +9,14 @@ layout: laporancmb
 	
 ![200px-Juni_30_2012_Benor_Fm_HHBK_Orang_Rimba_Selatan_TNBD_.JPG](/uploads/200px-Juni_30_2012_Benor_Fm_HHBK_Orang_Rimba_Selatan_TNBD_.JPG){: .img-responsive .center-block }	
 	
-**Tujuan** :	Hasil Hutan Bukan Kayu (HHBK) Orang Rimba Selatan TNBD
+**Tujuan** : Hasil Hutan Bukan Kayu (HHBK) Orang Rimba Selatan TNBD
 	
-**Lokasi** :	Kedundung Muda
+**Lokasi** : Kedundung Muda
 	
-**Alamat** : 	Kedundung Muda Selatan TNBD Kec. Air Hitam
+**Alamat** : Kedundung Muda Selatan TNBD Kec. Air Hitam
 	
-**Jam** :	
+**Jam** : 08.00 - 12.00 WIB
+
 	
 **Hadir** :	
 *	Merasul
