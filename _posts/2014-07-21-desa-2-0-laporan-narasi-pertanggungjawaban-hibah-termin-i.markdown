@@ -792,7 +792,7 @@ Berbasis Komunitas AKUMASSA.ORG dan Pengembangan Kerja Komunitas Pemantauan Medi
 
     1. Masyarakat dan pemerintah desa dapat memanfaatkan modul berbentuk cetak dan e-book untuk pengarusutamaan isu perdesaan 
 
-    **Hasil**
+   **Hasil**
 
    * Modul cetak TIDAK ADA DI LAPORAN
 
