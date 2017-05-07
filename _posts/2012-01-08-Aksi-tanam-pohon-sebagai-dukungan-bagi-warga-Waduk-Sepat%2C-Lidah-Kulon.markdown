@@ -8,7 +8,12 @@ layout: laporancmb
 ---	
 	
 ![200px-Januari_08_2012_Bhinneka_Solidaritas_Waduk_Sepat1.jpg](/uploads/200px-Januari_08_2012_Bhinneka_Solidaritas_Waduk_Sepat1.jpg){: .img-responsive .center-block }	
-	
+![200px-Januari_08_2012_Bhinneka_Solidaritas_Waduk_Sepat2.jpg](/uploads/200px-Januari_08_2012_Bhinneka_Solidaritas_Waduk_Sepat2.jpg){: .img-responsive .center-block }	
+![200px-Januari_08_2012_Bhinneka_Solidaritas_Waduk_Sepat3.jpg](/uploads/200px-Januari_08_2012_Bhinneka_Solidaritas_Waduk_Sepat3.jpg){: .img-responsive .center-block }	
+![200px-Januari_08_2012_Bhinneka_Solidaritas_Waduk_Sepat4.jpg](/uploads/200px-Januari_08_2012_Bhinneka_Solidaritas_Waduk_Sepat4.jpg){: .img-responsive .center-block }	
+![200px-Januari_08_2012_Bhinneka_Solidaritas_Waduk_Sepat5.jpg](/uploads/200px-Januari_08_2012_Bhinneka_Solidaritas_Waduk_Sepat5.jpg){: .img-responsive .center-block }	
+
+
 **Tujuan** :	Aksi tanam pohon sebagai dukungan bagi warga Waduk Sepat, Lidah Kulon.
 	
 **Lokasi** :	Waduk Sepat
