@@ -58,17 +58,18 @@ Mahasiswa dan orang tua muda pengguna ponsel cerdas di beberapa kota besar di In
 Sisi lain, publik juga (1) kurang mengenal keberadaan KPI dan fungsinya, dan ini yang menyebabkan (2) publik tidak cukup aktif dalam memberikan aduan pelanggaran TV kepada KPI. Maka dengan proyek pembuatan aplikasi ini, KPI diharapkan lebih dikenal publik dan akses terhadapnya lebih dipermudah. Dengan demikian, publik bisa lebih partisipatif dalam memantau dan melaporkan pelanggaran muatan TV. Lantas, keadilan yang merata lebih dimungkinkan melalui publik yang menuntut haknya atas informasi.
 
 **Masalah yang ingin diatasi dan keterkaitan dengan aktivitas**
+ 
  **Masalah 1**
 
-    Tidak dikenal dan diberdayakannya KPI sebagai saluran yang disediakan negara yang bisa dipakai publik untuk menuntut haknya atas muatan TV.
+  Tidak dikenal dan diberdayakannya KPI sebagai saluran yang disediakan negara yang bisa dipakai publik untuk menuntut haknya atas muatan TV.
     
  **Aktivitas 1**
 
-    Tidak dikenal dan diberdayakannya KPI sebagai saluran yang disediakan negara yang bisa dipakai publik untuk menuntut haknya atas muatan TV.
+  Tidak dikenal dan diberdayakannya KPI sebagai saluran yang disediakan negara yang bisa dipakai publik untuk menuntut haknya atas muatan TV.
  
  **Masalah 2**
  
-    Tiadanya informasi yang memadai terkait isu pertelevisian yang menyebabkan pasifnya partisipasi dan absennya argumentasi publik dalam mengadvokasi haknya atas muatan TV.tensi maupun produk unggulan desa tidak terpromosikan dengan maksimal sehingga potensi dan produk desa belum dikenal oleh masyarakat luas.
+  Tiadanya informasi yang memadai terkait isu pertelevisian yang menyebabkan pasifnya partisipasi dan absennya argumentasi publik dalam mengadvokasi haknya atas muatan TV.tensi maupun produk unggulan desa tidak terpromosikan dengan maksimal sehingga potensi dan produk desa belum dikenal oleh masyarakat luas.
 
  **Aktivitas 2**
  
