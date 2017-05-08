@@ -52,8 +52,8 @@ Mahasiswa dan orang tua muda pengguna ponsel cerdas di beberapa kota besar di In
 
    Hak publik atas informasi yang benar, sehat, dan bermanfaat tidak dipenuhi oleh industri TV. Padahal, informasi adalah alat mengemansipasi diri dan alat partisipasi dalam demokrasi. Sayangnya, KPI sebagai perwakilan publik tidak berhasil menjadi regulator yang efektif dalam mengatur dan mengawasi industri penyiaran. Karena itu partisipasi publik amat diperlukan. Pada satu sisi, KPI sebagai lembaga kuasi negara punya banyak kelemahan:
 
-    1. UU Penyiaran tidak memberikan kewenangan yang memadai baginya, dan
-    2. Kinerja KPI sendiri belum optimal.
+  1. UU Penyiaran tidak memberikan kewenangan yang memadai baginya, dan
+  2. Kinerja KPI sendiri belum optimal.
 
 Sisi lain, publik juga (1) kurang mengenal keberadaan KPI dan fungsinya, dan ini yang menyebabkan (2) publik tidak cukup aktif dalam memberikan aduan pelanggaran TV kepada KPI. Maka dengan proyek pembuatan aplikasi ini, KPI diharapkan lebih dikenal publik dan akses terhadapnya lebih dipermudah. Dengan demikian, publik bisa lebih partisipatif dalam memantau dan melaporkan pelanggaran muatan TV. Lantas, keadilan yang merata lebih dimungkinkan melalui publik yang menuntut haknya atas informasi.
 
@@ -79,8 +79,8 @@ Sisi lain, publik juga (1) kurang mengenal keberadaan KPI dan fungsinya, dan ini
 
    Piranti ini berupa aplikasi di ponsel cerdas yang berfungsi sebagai media pengaduan publik atas tayangan TV yang dianggap bermasalah. Setiap aduan publik yang masuk, setelah diverifikasi Remotivi, akan langsung terkirim ke KPI dalam bentuk email, pos mingguan, dan audiensi bulanan. Dalam skema tersebut, Remotivi akan mengawal setiap aduan yang masuk agar diperhatikan oleh KPI. Untuk mengirim aduannya, pengguna akan disodorkan sebuah formulir yang mudah dikerjakan tapi sekaligus dirancang untuk mengasah kepekaan atau kesadaran (rasionalisasi) protes atau kritiknya. Untuk merangsang minat dan partisipasi publik untuk mengadukan tayangan TV, maka aplikasi ini akan mengirimkan informasi dan fakta singkat-populer secara rutin yang akan berupa trivia, karya visual, artikel, dan laporan perkembangan pengaduan. Kesemuanya ini dihasilkan dengan:
 
-    1. Mengalih bentuk isi P3SPS (pedoman penyiaran milik KPI) dalam bentuk komik,
-    2. Melaporkan hasil pemantauan Remotivi secara rutin dalam bentuk infografik atas isu-isu yang paling relevan dengan masyarakat, #Merekapitulasi pengaduan warga yang berisi 5 besar judul tayangan TV paling banyak diadukan, stasiun TV yang paling banyak melanggar, bentuk pelanggaran terbanyak, dan jenis program/genre yang terbanyak diadukannya.
+  1. Mengalih bentuk isi P3SPS (pedoman penyiaran milik KPI) dalam bentuk komik,
+  2. Melaporkan hasil pemantauan Remotivi secara rutin dalam bentuk infografik atas isu-isu yang paling relevan dengan masyarakat, #Merekapitulasi pengaduan warga yang berisi 5 besar judul tayangan TV paling banyak diadukan, stasiun TV yang paling banyak melanggar, bentuk pelanggaran terbanyak, dan jenis program/genre yang terbanyak diadukannya.
 
     Aplikasi ini secara konseptual dan operasionalnya akan dikerjakan oleh Remotivi. Tapi dalam hal pembuatannya akan memakai penyedia jasa pembuatan aplikasi yang akan memakan waktu 3-4 bulan. Untuk menjangkau sasaran (mahasiswa dan orang tua muda), aplikasi ini akan dicitrakan sebagai suatu aktivitas yang populer, menyenangkan, dan punya dampak. Maka akan dibuat 3 buah video sebagai media promosi yang diedarkan secara viral. Dalam rangka mengajak warga lebih partisipatif, akan direkrut puluhan relawan dari organisasi kampus sebagai pelapor resmi proyek ini. Mereka akan menjadi pionir dalam penggunaan aplikasi. Selain itu, diadakan juga kompetisi yang bisa diikuti setiap pengguna aplikasi, dan berhak mendapatkan hadiah berkala seturut tingkat partisipasi mereka.
 
