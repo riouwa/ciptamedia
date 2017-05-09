@@ -35,7 +35,7 @@ Setelah peluncuran aplikasi Rapotivi pada 21 Februari 2015, kegiatan Rapotivi di
 **b. Luar Jabodetabek**
 
 |**Kampus/Komunitas**|**Tanggal**|**Jumlah Peserta**|**Tema Diskusi**|
-|---|---||---|---|
+|---|---|---|---|
 |STIKOM Bandung	9 Sept 2015|75 peserta|Literasi Media dan Peran Mahasiswa|
 |Univ. Muhammadiyah Malang <br> (kerja sama dengan prodi Ilmu Komunikasi UMM)	22 Sept 2015|350 peserta|Pantau Televisi Indonesia: Membangun Siaran Televisi Berkualitas dengan Masyarakat yang Cerdas|
 |Univ. Islam Indonesia – Jogjakarta <br> (kerja sama dengan LPM Himmah)|29 Sept 2015|100 peserta|Literasi Media|
