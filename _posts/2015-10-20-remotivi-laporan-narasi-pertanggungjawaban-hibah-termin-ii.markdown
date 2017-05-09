@@ -32,6 +32,16 @@ Setelah peluncuran aplikasi Rapotivi pada 21 Februari 2015, kegiatan Rapotivi di
 
 **a. Jabodetabek**
 
+|**Kampus/Komunitas**|**Tanggal**|**Jumlah Peserta**|**Tema Diskusi**|
+|---|---|---|---|
+|Univ. Indraprasta <br> (kerja sama dengan LPM Perkubi)|11 April 2015|268 peserta|Kupas Tuntas Media: Masihkan Ia Independen?|
+|Uni. Indonesia <br> (kerja sama dengan KSM Eka Prasetya UI)|16 April 2015|100 peserta|Politisasi Media dan Pentingnya Literasi Media|
+|Kineforum|30 Mei 2015|30 peserta|Apa yang Tidak Dibicarakan Ketika Bicara Media?|
+|UNJ <br> (kerja sama dengan BEM-Fak. Ilmu Sosial)|28 Sept 2015|50 peserta|Lampu Merah pertelevisian Indonesia: Degradasi Kualitas Tayangan Televisi di Indonesia|
+|UIN Syarief Hidayatullah <br> (kerja sama dengan LPM Institut)|29 Sept 2015| 120 peserta|Melek Media: Bongkar Orde Media|
+|BSI Kampus Pemuda <br> (kerja sama dengan Akademi Komunikasi BSI)|30 Sept 2015|75 peserta|Wujudkan Siaran Sehat Demi Bangsa Berkualitas|
+|Kemenpora <br> (kerja sama dengan Kemenpora dan Forum Indonesia Muda)|30 Sept 2015|50 peserta|Kini Nilai TV di Tangan Anda!|
+
 **b. Luar Jabodetabek**
 
 |**Kampus/Komunitas**|**Tanggal**|**Jumlah Peserta**|**Tema Diskusi**|
