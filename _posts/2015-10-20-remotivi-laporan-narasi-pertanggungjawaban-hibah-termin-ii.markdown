@@ -34,6 +34,12 @@ Setelah peluncuran aplikasi Rapotivi pada 21 Februari 2015, kegiatan Rapotivi di
 
 **b. Luar Jabodetabek**
 
+|**Kampus/Komunitas**|**Tanggal**|**Jumlah Peserta**|**Tema Diskusi**|
+|---|---||---|---|
+|STIKOM Bandung	9 Sept 2015|75 peserta|Literasi Media dan Peran Mahasiswa|
+|Univ. Muhammadiyah Malang (kerja sama dengan prodi Ilmu Komunikasi UMM)	22 Sept 2015|350 peserta|Pantau Televisi Indonesia: Membangun Siaran Televisi Berkualitas dengan Masyarakat yang Cerdas|
+|Univ. Islam Indonesia – Jogjakarta (kerja sama dengan LPM Himmah)|29 Sept 2015|100 peserta|Literasi Media|
+
 * dokumentasi kegiatan diskusi kampus dapat dilihat di [sini](http://wiki.ciptamedia.org/wiki/Remotivi:_Laporan_Masyarakat_Mengenai_Acara_TV/Laporan_Aktivitas)
 
 Kampus-kampus tersebut kami pilih menjadi rekanan dalam diskusi publik, selain karena kemudahan akses komunikasi yang kami temui atau respon terhadap ajakan kami dalam menyelenggarakan diskusi, juga kesiapan panitia dan peserta dalam mengadakan diskusi bertema penyiaran dalam kurun waktu yang telah ditentukan.
