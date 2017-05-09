@@ -79,42 +79,50 @@ Aktifitas dan isu yang anda atasi:
 
 |**Infografis**|**Tanggal**|
 |---|---|
-|Kekerasan dalam Sinetron|12 Maret 2015|
-|Apa Kata Orang Tua tentang Televisi|26 Maret 2015|
-|Frekuensi Punya Siapa?|17 April 2015|
-|Periksa Klasifikasi Sebelum Menonton Televisi|30 April 2015|
-|KPI, Saluran Negara yang Diabaikan|25 Mei 2015|
-|Stasiun Televisi Mana yang Paling Banyak Diadukan|8 Juni 2015|
-|Siapa Sponsor Pesbukers?|15 Juni 2015|
-|Tayangan Lokal VS Mancanegara di TV Indonesia|7 Juli 2015|
-|Seberapa Jauh Kenal KPI?|31 Agustus 2015|
-|Sanksi KPI Hanya Basa-Basi|2 Oktober 2015|
+|[Kekerasan dalam Sinetron](http://rapotivi.org/index.php?r=home/infografis&id=6)|12 Maret 2015|
+|[Apa Kata Orang Tua tentang Televisi](http://rapotivi.org/index.php?r=home/infografis&id=7)|26 Maret 2015|
+|[Frekuensi Punya Siapa?](http://rapotivi.org/index.php?r=home/infografis&id=8)|17 April 2015|
+|[Periksa Klasifikasi Sebelum Menonton Televisi](http://rapotivi.org/index.php?r=home/infografis&id=9)|30 April 2015|
+|[KPI, Saluran Negara yang Diabaikan](http://rapotivi.org/index.php?r=home/infografis&id=10)|25 Mei 2015|
+|[Stasiun Televisi Mana yang Paling Banyak Diadukan](http://rapotivi.org/index.php?r=home/infografis&id=11)|8 Juni 2015|
+|[Siapa Sponsor Pesbukers?](http://rapotivi.org/index.php?r=home/infografis&id=12)|15 Juni 2015|
+|[Tayangan Lokal VS Mancanegara di TV Indonesia](http://rapotivi.org/index.php?r=home/infografis&id=13)|7 Juli 2015|
+|[Seberapa Jauh Kenal KPI?](http://rapotivi.org/index.php?r=home/infografis&id=14)|31 Agustus 2015|
+|[Sanksi KPI Hanya Basa-Basi](http://rapotivi.org/index.php?r=home/infografis&id=15)|2 Oktober 2015|
 
 |**Komik**|**Tanggal**|
 |---|---|
-|Kekerasan dalam Sinetron|12 Maret 2015|
-|Apa Kata Orang Tua tentang Televisi|26 Maret 2015|
-|Frekuensi Punya Siapa?|17 April 2015|
-|Periksa Klasifikasi Sebelum Menonton Televisi|30 April 2015|
-|KPI, Saluran Negara yang Diabaikan|25 Mei 2015|
-|Stasiun Televisi Mana yang Paling Banyak Diadukan|8 Juni 2015|
-|Siapa Sponsor Pesbukers?|15 Juni 2015|
-|Tayangan Lokal VS Mancanegara di TV Indonesia|7 Juli 2015|
-|Seberapa Jauh Kenal KPI?|31 Agustus 2015|
-|Sanksi KPI Hanya Basa-Basi|2 Oktober 2015|
+|[Meliput Bencana](http://rapotivi.org/index.php?r=home/komik&id=7)|5 Maret 2015|
+|[Rokok](http://rapotivi.org/index.php?r=home/komik&id=8)|19 Maret 2015|
+|[Kata-kata Kasar](http://rapotivi.org/index.php?r=home/komik&id=9)|10 April 2015|
+|[Anak Jadi Narasumber](http://rapotivi.org/index.php?r=home/komik&id=10)|23 April 2015|
+|[Tayangan Sadis](http://rapotivi.org/index.php?r=home/komik&id=11)|18 Mei 2015|
+|[Klasifikasi Usia](http://rapotivi.org/index.php?r=home/komik&id=12)|1 Juni 2015|
+|[Sensor Wajah](http://rapotivi.org/index.php?r=home/komik&id=13)|30 Juni 2015|
+|[Sumbangan Bencana](http://rapotivi.org/index.php?r=home/komik&id=14)|30 Juli 2015|
+|[Katakan Friendzone](http://rapotivi.org/index.php?r=home/komik&id=15)|19 Agustus 2015|
+|[Bullying Nasional](http://rapotivi.org/index.php?r=home/komik&id=16)|24 Agustus 2015|
+|[Tontonan Keras](http://rapotivi.org/index.php?r=home/komik&id=18)|7 September 2015|
+|[Tutorial Kriminal](http://rapotivi.org/index.php?r=home/komik&id=19)|14 September 2015|
+|[Gosip!](http://rapotivi.org/index.php?r=home/komik&id=20)|25 September 2015|
+|[Celakanya Kecelakaan](http://rapotivi.org/index.php?r=home/komik&id=21)|16 Oktober 2015|
 
 |**Kabar**|**Tanggal**|
 |---|---|
-|Kekerasan dalam Sinetron|12 Maret 2015|
-|Apa Kata Orang Tua tentang Televisi|26 Maret 2015|
-|Frekuensi Punya Siapa?|17 April 2015|
-|Periksa Klasifikasi Sebelum Menonton Televisi|30 April 2015|
-|KPI, Saluran Negara yang Diabaikan|25 Mei 2015|
-|Stasiun Televisi Mana yang Paling Banyak Diadukan|8 Juni 2015|
-|Siapa Sponsor Pesbukers?|15 Juni 2015|
-|Tayangan Lokal VS Mancanegara di TV Indonesia|7 Juli 2015|
-|Seberapa Jauh Kenal KPI?|31 Agustus 2015|
-|Sanksi KPI Hanya Basa-Basi|2 Oktober 2015|
+|[Meliput Bencana](http://rapotivi.org/index.php?r=home/komik&id=7)|5 Maret 2015|
+|[Melindungi Anak dan Remaja, Iklan Rokok Dibatasi](http://rapotivi.org/index.php?r=home/kabar&id=12)|20 Maret 2015|
+|[TV Sehat, Peduli dengan Hak Anak](http://rapotivi.org/index.php?r=home/kabar&id=14)|27 Maret 2015|
+|[Komitmen KPI Terhadap Rapotivi](http://rapotivi.org/index.php?r=home/kabar&id=18)|8 April 2015|
+|[Kata-Kata Kasar di Televisi](http://rapotivi.org/index.php?r=home/kabar&id=19)|10 April 2015|
+|[Kita Tidak Menonton Tayangan TV dengan Gratis](http://rapotivi.org/index.php?r=home/kabar&id=21)|17 April 2015|
+|[Mewawancarai Anak-Anak Diluar Kapasitas Berpikirnya](http://rapotivi.org/index.php?r=home/kabar&id=23)|24 April 2015|
+|[Pembatasan Tayangan Kekerasan untuk Lindungi Anak](http://rapotivi.org/index.php?r=home/kabar&id=25)|22 Mei 2015|
+|[Dian Sukma Anidhita, Pengguna Rapotivi yang Aktif](http://rapotivi.org/index.php?r=home/kabar&id=26)|27 Mei 2015|
+|[KPI, Lembaga Negara untuk Awasi Isi Siaran](http://rapotivi.org/index.php?r=home/kabar&id=27)|29 Mei 2015|
+|[Pentingnya Klasifikasi Usia dalam Program Siaran](http://rapotivi.org/index.php?r=home/kabar&id=30)|19 Juni 2015|
+|[Sponsor Tayangan yang Paling Banyak Diadukan](http://rapotivi.org/index.php?r=home/kabar&id=31)|25 Juni 2015|
+|[Publik Mengadu, KPI Sedang Apa](http://rapotivi.org/index.php?r=home/kabar&id=33)|3 Juli 2015|
+|[Privasi Diumbar, Siapa Yang Dihibur](http://rapotivi.org/index.php?r=home/kabar&id=38)|13 Agustus 2015|
 
 **3. Indikator sukses anda dalam permohonan hibah**
 
