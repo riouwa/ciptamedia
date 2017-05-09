@@ -56,7 +56,26 @@ Berikut adalah aktivitas dan isu-isu yang anda masukkan pada permohonan hibah an
 
 Aktifitas dan isu yang anda atasi:
 
+ **Aktivitas 1**
 
+  Membuat aplikasi di ponsel cerdas yang mempermudah mekanisme pengaduan atas muatan TV bermasalah sekaligus mendorong lebih dikenalnya KPI oleh publik.
+
+* Remotivi telah membuat aplikasi di ponsel cerdas dan situs web Rapotivi yang telah diluncurkan secara resmi pada 21 Februari 2015, di Bakoel Koffie, Cikini.
+* Rapotivi dapat diunduh di Google Playstore atau mengakses situsnya di www.rapotivi.org.
+* Rapotivi ditujukan untuk mempermudah mekanisme pengaduan atas muatan televisi yang tak sehat.
+* Selain itu dengan mekanisme pengaduan di Rapotivi, di mana setelah proses verifikasi data dan pelanggaran maka aduan akan diteruskan ke KPI. Dengan mekanisme ini diharapkan publik akan semakin mengenal adanya KPI sebagai saluran negara yang mengawasi isi siaran televisi dan menjatuhkan sanksi bagi yang melanggar.
+* Sejauh ini sambutan yang ada di media sosial mayoritas bernada positif. Selain respon positif yang kami terima langsung dari masyarakat ketika kami mengadakan acara-acara offline, seperti car free day dan acara komunitas, respon positif juga dapat dilihat di comment dan rating yang diberikan pengguna android di google playstore Rapotivi.
+* Selain itu, respon positif juga dapat dilihat dari berbagai pemberitaan dan ulasan-ulasan di media terkait aplikasi dan data yang dikeluarkan oleh Rapotivi ini. Beberapa contoh pemberitaan media, antara lain:
+  [Antara News](http://www.antaranews.com/berita/481278/rapotivi-aplikasi-android-untuk-adukan-tayangan-televisi)
+  [Gressnews](http://www.gresnews.com/berita/sosial/0066-tayangan-pesbukers-dan-ggs-terbanyak-dikeluhkan-mcdonald-dan-coca-cola-tertinggi-beriklan/0/)
+
+**Aktivitas 2**
+ 
+  Penyediaan dan distribusi informasi tentang isu pertelevisian melalui aplikasi tersebut yang dikirim secara rutin dalam rupa infografik, komik, atau artikel singkat.
+
+* Penyediaan informasi tentang isu pertelevisian ditayangkan secara rutin di aplikasi Rapotivi.
+* Setiap bulannya ada minimal satu artikel singkat (kabar), satu infografis, dan satu komik yang ditayangkan.
+* Berikut data lengkapnya:
 
 **3. Indikator sukses anda dalam permohonan hibah**
 
