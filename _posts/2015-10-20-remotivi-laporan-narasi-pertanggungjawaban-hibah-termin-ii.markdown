@@ -38,87 +38,70 @@ Setelah peluncuran aplikasi Rapotivi pada 21 Februari 2015, kegiatan Rapotivi di
 
 Berikut adalah aktivitas dan isu-isu yang anda masukkan pada permohonan hibah anda:
 
-1. Stimulasi komunitas yang selama ini menjadi produser/distritbutor informasi di tingkat lokal menjadi jauh lebih aktif. Dengan peningkatan sumber daya untuk mendorong peningkatan produksi informasi dan peningkatan kunjungan dan pembaca website ini.
+ **Masalah 1**
 
-2. Aksi pemantauan bermedia oleh masyarakat di luar jaringan dengan mendengar, dan menuliskan bagaimana media massa saat ini bekerja di daerah mereka sendiri, lalu diinformasikan ke masyarakat luas sebagai bagian dari mekanisme Pengenalan demokrasi ‘bermedia’ dengan etika, aturan dan tobjektifitas. Untuk menjadikan hidup berdemokrasi yang lebih baik, pemantauan yang diprakarsai oleh masyarakat sangat perlu dilakukan.
+  Tidak dikenal dan diberdayakannya KPI sebagai saluran yang disediakan negara yang bisa dipakai publik untuk menuntut haknya atas muatan TV.
+    
+ **Aktivitas 1**
+
+  Tidak dikenal dan diberdayakannya KPI sebagai saluran yang disediakan negara yang bisa dipakai publik untuk menuntut haknya atas muatan TV.
+ 
+ **Masalah 2**
+ 
+  Tiadanya informasi yang memadai terkait isu pertelevisian yang menyebabkan pasifnya partisipasi dan absennya argumentasi publik dalam mengadvokasi haknya atas muatan TV.tensi maupun produk unggulan desa tidak terpromosikan dengan maksimal sehingga potensi dan produk desa belum dikenal oleh masyarakat luas.
+
+ **Aktivitas 2**
+ 
+   Penyediaan dan distribusi informasi tentang isu pertelevisian melalui aplikasi tersebut yang dikirim secara rutin dalam rupa infografik, komik, atau artikel singkat.
 
 Aktifitas dan isu yang anda atasi:
 
-* Dalam mendorong peningkatan jumlah penulis tingkat lokal, telah terjadi peningkatan yang cukup signifikan. Jumlah posting tulisan baru pada jurnal AKUMASSA adalah setiap satu tulsan setiap 3 hati yang sebelumnya setiap 5 hari.
 
-* Selain itu muncul beberapa penulis dari daerah-daerah yang sebelumnya bukan bagian dari program AKUMASSA, seperti Solok – Sumatera Barat, Sukabumi, Serpong, Yogyakarta, Aceh dan Jember. Penulis-penulis ini adalah para penulis yang sebelumnya aktif menulis di blog dan punya aktifitas ‘media’ di daerahnya. Sebagian besar punya minat yang sangat besar untuk menjadi bagian dari AKUMASSA.ORG.
-
-* Dalam kegiatan pemantauan, para partispan (pemantau) menjadi lebih tahu bagaimana media lokal bekerja yang sebelumnya hanya membaca secara sekilas. Perhatian terhadap keberadaan media lokal menjadi jauh lebih intens. Pada beberapa kasus, pemantau menjadi sadar; ada beberapa media lokal yang terbit tergantung pada kepentingan pemilik media itu sendiri. Ada pula media yang tidak secara konsisten terbit karena alasan-alasan yang tidak masuk akal; seperti ada sebuah media lokal tidak terbit karena Pimpinan Redaksinya ada hajatan kawinan. Yang paling menarik adalah dari kegiatan pemantauan, menjadi jelas bagaimana peran pemilik media, kepentingan, dan peran situasi sosial politik sangat mempengaruhi bagaimana berita-berita tingkat lokal dikemas dalam sebuah media lokal.
 
 **3. Indikator sukses anda dalam permohonan hibah**
 
-Munculnya inisiatif-inisiatif dari kelompok masyarakat di berbagai daerah dalam memproduksi informasi (pengetahuan) dan mendistribusikannya secara terbuka sebagai bagian dari pembelajaran bersama tentang persoalan-persoalan lokal.
+ * Pengunduh aplikasi mencapai 5.000 orang
+ * Ada 100 aduan per bulan
+ * Akumulasi penonton video promosi mencapai 20.000 orang
+ 
+  **Hasil yang diharapkan dari proyek**
 
-1. Terjadi peningkatan jumlah pengunjung dan pembaca jurnal www.akumassa.org yang selama ini 700 pengunjung per hari menjadi lebih dari 1500 pengunjung per hari.
-
-2. Terjadi peningkatan jumlah konten-konten lokal yang didistribusikan di www.akumassa.org dengan variasi dan sumber informasi yang meningkat pula. Bertambahnya jumlah para kontributor www.akumassa.org dengan jangkauan daerah yang lebih luas, yang sebelumnya hanya mencakup 10 kota (Jakarta, Ciputat, Padangpanjang, Rangkasbitung, Serang, Surabaya, Blora, dan Pemenang. Dengan tambahahan; Tasikmalaya, Sukabumi, Depok, Serpong, Yogyakarta, Jember, Aceh, Solok, baik dari komunitas yang selama ini bekerjasama dengan AKUMASSA.ORG maupun diluar itu.
-
-3. Terkumpulnya berbagai informasi tentang aktifitas ‘bermedia’ di tingkat lokal yang merupakan bagian dari kerja pemantauan media yang dilakukan komunitas dan didistribusikan ke publik melalui www.akumassa.org
-
-4. Makin banyak individu/kelompok/komunitas/masyarakat yang berinisiatif untuk memproduksi informasi di tingkat lokal dan mendistribusikan secara mandiri melalui media online dan media lainnya.
-
-5. Terjadinya sebuah kerjasama media komunitas dalam bertukar informasi tentang persoalan-persoalan lokal.
+ * Aplikasi “RAPOTIVI” di ponsel berjenis Andoid
+ * Situs RAPOTIVI.ORG
+ * Pengisian konten untuk aplikasi dan situs:
+   * P3SPS, data-data penelitian, dan informasi seputar TV yang dibuat dalam wujud komik, trivia, artikel singkat, dan infografik
+   * Rekapitulasi laporan pengaduan warga dan membuat pemeringkatan
+ * Promosi:
+   * 3 video promosi di YouTube
+   * Merchandising: kaos, buku saku, dan stiker
+ * Advokasi: mengadakan audiensi bulanan dengan KPI untuk membahas laporan yang masuk dan meminta tindak lanjut KPI
 
 Hasil aktual hingga laporan ini dibuat:
-* Jumlah pengunjung AKUMASSA.ORG saat ini adalah 1000 pengunjung per hari. Jumlah sebelumnya 700 (unique visitor) setiap hari.
 
-* Jumlah tulisan dari kontributor lokal menjadi meningkat. Sebelumnya hanya 5 tulisan per bulan, saat ini lebih dari 10 tulisan per bulan.
-
-* Jumlah penulis AKUMASSA mengalami peningkatan yang cukup signifikan; muncul penulis-penulis dari berbagai daerah seperti; Yogyakarta, Aceh, Jember, Sukabumi, Depok, Surabaya, Padang Panjang, Lombok Utara, Ciputat Tangerang Selatan, Serpong Tangerang Selatan, Tasikmalaya, dan lain-lain. Sebagian besar dari kontributor tersebut adalah penulis-penulis baru di AKUMASSA.ORG.
-
-* Hingga saat ini telah terkumpul data pemantauan harian selam 6 bulan tentang aktifitas bermedia di 10 lokasi program. Terhitung sejak Pebruari 2012 (16 minggu) telah terkumpul data sebanyak 2100 data mentah pemantauan dalam bentuk tabel, dan 160 data laporan naratif yang diunggah ke website http://rekammedia.akumassa.org.
-
-* Ada inisiatif dari beberapa komunitas yang membangun medianya sendiri.
-
-* Antar komunitas saling tukar informasi tentang aktifitas bermedia. Terjadi kerjasama antar komunitas; seperti melakukan sharing inforamasi; memuat berbagai konten lokal di media masing-masing. Seperti Komunitas Djuanda memuat informasi dan konten dari Komunitas Kinetik di Surabaya di www.galeritangsel.com. Juga terjadi kerjasma aktivitas di berbagai komunitas, seperti melakukan presentasi media audiovisual di masing-masing lokasi dengan konten dari berbagai jaringan AKUMASSA.
 
 **4. Tujuan dan Sasaran**
 
 Silahkan anda jelaskan apa yang telah anda berhasil peroleh dengan hibah ini yang berkaitan dengan tujuan yang lebih besar yang anda harapkan dapat anda capai Sasaran-sasaran yang diharapkan dapat dicapai:
 
-1. Meningkatkan fasilitas pelayanan www.akumassa.org berupa perbaikan tampilan, penambahan kapasitas server (hosting), penambahan aplikasi konten, dan website system, sehingga diharapkan terjadi peningkatan jumlah pembaca (saat ini www.akumassa.org dibaca oleh 700 pembaca per hari dilihat dari catatan unique visitor website www.akumassa.org) hingga mencapai 1500 pembaca per hari.
 
-2. Meningkatkan jumlah penulis dan pelaku bermedia yang aktif di komunitas (dari 9 lokasi program dan 13 lokasi diluar program) menjadi dua kali lipat jumlahnya (kontributor/penulis) saat program ini berjalan.
-
-3. Meningkatkan kemampuan bermedia dalam memproduksi konten lokal para kontributor/penulis dari komunitas, serta mendorong mereka untuk menjadikan potensi tersebut dalam merekam/me-monitoring terhadap media massa (terutama media cetak/elektronik yang terjangkau di wilayahnya masing-masing) dengan acuan pada objektifitas informasi, independensi, etika/moral, dan aturan hukum yang berlaku serta budaya masyarakat setempat.
-
-4. Menjadikan www.akumassa.org ruang informasi dan pengetahuan yang terbuka (Open Source), dapat didistribusikan ulang semua lapisan masyarakat, diharapkan muncul inisiatif oleh komunitas, kelompok, dan masyarakat, untuk mereplikasi dan memodifikasi aktifitas ini, untuk Indonesia bermedia yang lebih baik.
-
-5. Melakukan proyek AKUMASSA.ORG dengan pelaporan yang baik, transparasi penggunaan dana ke publik dan sistem administrasi profesional terpusat.
 
 Tujuan yang berhasil dicapai hingga saat ini:
-* Perbaikan tampilan www.akumassa.org sudah tercapai. Penambahan server sudah dilakukan. Penambahan aplikasi konten juga sudah dilakukan (radio akumassa dan pemantauan media). Hingga saat ini pengunjung akumassa menjacapai 1000 pengunjung per hari yang sebelumnya 700 pengunjung.
 
-* Sudah terjadi peningkatan jumlah penulis. Yang sebelumnya ada 131 penulis bertambah 20 penulis aktif baru.
-
-* Sudah terjadi. Indikatornya banyak produksi konten dari berbagai daerah. Dan juga terjadi pelaporan pemantauan secara reguler ditambah dengan laporan mingguan dari 10 lokasi pemantauan.
-
-* Sedang dilakukan. Di beberapa lokasi, komunitas mulai mengembangkan media mereka sendiri berupa blog, dan membangun kerjasama dengan berbagai pihak dalam pengembangan bermedia yang sehat. Di beberapa daerah, seperti daerah Pemenang Lombok Utara, Komunitas Pasir Putih bahkan mendapat dukungan dari pemerintah daerah untuk membangun media center. Begitu juga yang terjadi di Padang Panjang.
-
-* Pelaporan yang transparan sedang dilakukan oleh AKUMASSA.ORG. Ini dapat dilihat posting dan dokumentasi kegiatan di wikimedia
-
-* Perubahan Lingkup Organisasi/ Lingkungan Sekitar
 
 Tolong jabarkan perubahan perubahan signifikan yang organisasi anda dapatkan yang memiliki dampak pada pekerjaan anda pada periode pelaporan yang anda lakukan untuk saat ini. Masukkan secara deskriptif bagaimana anda menangani perubahan perubahan tersebut dan bagaimana perencanaan anda berubah sebagai hasilnya.
 
-* Tidak ada perubahan signifikan dari pekerjaan yang kami lakukan, karena secara organisasi Forum Lenteng telah menyiapkan program ini jauh-jauh hari.
+
 
 **5. Tantangan/ masalah organisasi/ pengelolaan yang dihadapi**
 
 Isu-isu manajemen atau organisasi apakah yang anda hadapi pada saat anda menuliskan laporan ini (apakah ada perubahan signifikan pada komposisi staf/ dewan atau anggota tim anda. Apakah ada faktor-faktor lain yang dapat membatasi kemampuan organisasi/ komunitas anda untuk mengumpulkan data dan menerjemahkan data data keuangan atau aktifitas yang terkait dengan program dalam tujuan awal). Bila mungkin juga tuliskan dan tekankan kebutuhan yang belum terpenuhi/ teridentifikasi sebelumnya dalam menangani penguatan organisasi/ komunitas anda:
 
-* Tidak ada perubahan komposisi tim kerja AKUMASSA.ORG
+
 
 **6. Keberagaman**
 
 Silahkan ditulis perubahan perubahan yang berpengaruh dalam keberagaman (contohnya apabila anggota komunitas, dewan, atau komposisi staf anda mulai beragam dari sisi jenis kelaminnya, suku, pendidikan, umur, budaya, agama, latar belakang asal lokasinya, bahasanya, dan lain sebagainya) dalam periode pelaporan ini. Apabila organisasi/ komunitas anda mengalami tantangan keberagaman, silahkan tuliskan juga pendapat anda:
 
-* Tidak ada perubahan. Komposisi gender adalah 60 % pria dan 40% wanita.
 
 **7. Laporan keuangan**
 
@@ -131,7 +114,7 @@ Saya, sebagai penandatangan, menyatakan bahwa saya adalah individu yang berwenan
 
 Tertanda: Lokasi dan tanggal:
 
-Jakarta, 29 Juni 2012
+Jakarta, 20 Oktober 2015
 
 
-Otty Widasari
+**Muhamad Heychael**
