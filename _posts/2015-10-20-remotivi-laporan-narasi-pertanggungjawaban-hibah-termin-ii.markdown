@@ -83,31 +83,61 @@ Hasil aktual hingga laporan ini dibuat:
 
 Silahkan anda jelaskan apa yang telah anda berhasil peroleh dengan hibah ini yang berkaitan dengan tujuan yang lebih besar yang anda harapkan dapat anda capai Sasaran-sasaran yang diharapkan dapat dicapai:
 
+**Tujuan pada proposal**
 
+* Lebih dikenal dan diberdayakannya KPI sebagai alat publik untuk menuntut haknya atas muatan TV yang sehat, benar, dan mendidik.
+* Mahasiwa dan orang tua muda menjadi kritis terhadap TV sekaligus partisipatif dalam mengadukannya.
+* Stasiun dan pekerja TV bekerja dengan lebih menempatkan kepentingan publik pada prioritas kerjanya.
+  
+**Sasaran pada proposal**
 
-Tujuan yang berhasil dicapai hingga saat ini:
+Mahasiswa dan orang tua muda pengguna ponsel cerdas di beberapa kota besar di Indonesia.
+
+Tujuan dan sasaran yang berhasil dicapai hingga saat ini:
 
 
 Tolong jabarkan perubahan perubahan signifikan yang organisasi anda dapatkan yang memiliki dampak pada pekerjaan anda pada periode pelaporan yang anda lakukan untuk saat ini. Masukkan secara deskriptif bagaimana anda menangani perubahan perubahan tersebut dan bagaimana perencanaan anda berubah sebagai hasilnya.
 
 
 
-**5. Tantangan/ masalah organisasi/ pengelolaan yang dihadapi**
+**5. Perubahan Lingkup Organisasi/ Lingkungan Sekitar**
 
-Isu-isu manajemen atau organisasi apakah yang anda hadapi pada saat anda menuliskan laporan ini (apakah ada perubahan signifikan pada komposisi staf/ dewan atau anggota tim anda. Apakah ada faktor-faktor lain yang dapat membatasi kemampuan organisasi/ komunitas anda untuk mengumpulkan data dan menerjemahkan data data keuangan atau aktifitas yang terkait dengan program dalam tujuan awal). Bila mungkin juga tuliskan dan tekankan kebutuhan yang belum terpenuhi/ teridentifikasi sebelumnya dalam menangani penguatan organisasi/ komunitas anda:
+Tolong jabarkan perubahan perubahan signifikan yang organisasi anda dapatkan yang memiliki dampak pada pekerjaan anda pada periode pelaporan yang anda lakukan untuk saat ini. Masukkan secara deskriptif bagaimana anda menangani perubahan perubahan tersebut dan bagaimana perencanaan anda berubah sebagai hasilnya.
 
+Sejauh ini belum ada perubahan yang signifikan terjadi dalam organisasi kami.
 
+Beberapa hal yang baru terjadi seiring program ini adalah rutinitas pekerjaan kami yang bertambah untuk mengelola Rapotivi dengan 
+pertama-tama memverifikasi seluruh aduan yang masuk tiap harinya—sesuatu yang tidak kami lakukan sebelumnya.
+
+Di luar itu, melalui program ini kami membuat jalur komunikasi baru dengan lembaga lain seperti kelompok mahasiswa dan Kementerian Komunikasi dan Informatika.
+
+Dengan pengalaman-pengalaman yang ada, kami belum menemui kesulitan berarti yang menganggu pekerjaan kami.
+
+Isu-isu manajemen atau organisasi apakah yang anda hadapi pada saat anda menuliskan laporan ini (apakah ada perubahan signifikan pada komposisi staf/ dewan atau anggota tim anda. Apakah ada faktor-faktor lain yang dapat membatasi kemampuan organisasi/ komunitas anda untuk mengumpulkan data dan menerjemahkan data data keuangan atau aktivitas yang terkait dengan program dalam tujuan awal). Bila mungkin juga tuliskan dan tekankan kebutuhan yang belum terpenuhi/ teridentifikasi sebelumnya dalam menangani penguatan organisasi/ komunitas anda
+
+**Tantangan/ masalah organisasi/ pengelolaan yang dihadapi**
+
+Terkait isu manajemen organisasi, di bulan Agustus ada perubahan penanggungjawab program Rapotivi, yang awalnya dipegang oleh Roy Thaniago kemudian diteruskan oleh Muhamad Heychael.
+
+Hal ini dikarenakan perubahan direktur Remotivi sesuai dengan AD/ART organisasi serta keberangkatan Roy Thaniago untuk melanjutkan studi ke Swedia.
+
+Namun, perubahan manajerial organisasi ini tidak terlalu menganggu atau berdampak negatif pada pengelolaan Rapotivi.
+
+Dari lingkungan eksternal, tantangan dan hambatan kami dapatkan dari pihak KPI yang belum merespon pekerjaan kami. Respon KPI tentu sangat mempengaruhi tingkat kepercayaan masyarakat terhadap lembaga negara ini dan juga Rapotivi.
+
+Masyarakat akan merasa aduan yang masuk melalui Rapotivi berdampak jika KPI merespon aduan tersebut dengan menjatuhkan sanksi jika memang tayangan yang diadukan melanggar. Namun, kenyataannya hingga saat laporan ini ditulis, dari total 713 aduan yang diteruskan ke KPI, tak lebih dari 3%-nya yang mendapat sanksi tindak lanjut dari KPI.
 
 **6. Keberagaman**
 
 Silahkan ditulis perubahan perubahan yang berpengaruh dalam keberagaman (contohnya apabila anggota komunitas, dewan, atau komposisi staf anda mulai beragam dari sisi jenis kelaminnya, suku, pendidikan, umur, budaya, agama, latar belakang asal lokasinya, bahasanya, dan lain sebagainya) dalam periode pelaporan ini. Apabila organisasi/ komunitas anda mengalami tantangan keberagaman, silahkan tuliskan juga pendapat anda:
 
+Tim Rapotivi terdiri dari berbagai latar belakang, tapi tentu hal ini tidak menghalangi pekerjaan karena perspektifnya dalam mengawal isu penyiaran sudah sepaham dan satu frekuensi.
 
 **7. Laporan keuangan**
 
   Silahkan masukkan pranala laporan keuangan anda disini:
 
-[http://ciptamedia.org/wiki/Akumassa.org/Laporan_Penggunaan_Dana](http://ciptamedia.org/wiki/Akumassa.org/Laporan_Penggunaan_Dana)
+[Pranala Laporan Penggunaan Dana(http://wiki.ciptamedia.org/wiki/Remotivi:_Laporan_Masyarakat_Mengenai_Acara_TV/Laporan_Penggunaan_Dana)
 
 **8. Pengesahan**
 Saya, sebagai penandatangan, menyatakan bahwa saya adalah individu yang berwenang untuk menyerahkan laporan ini atas nama komunitas/ organisasi saya sesuai dengan persyaratan yang dicantumkan pada Perjanjian Hibah Cipta Media Bersama yang telah ditandatangani sebelumnya dan seluruh dana yang dibelanjakan telah dibelanjakan sesuai dengan tujuan-tujuan yang tercantum dalam permohonan hibah.
