@@ -34,6 +34,83 @@ Setelah peluncuran aplikasi Rapotivi pada 21 Februari 2015, kegiatan Rapotivi di
 
 **b. Luar Jabodetabek**
 
+* dokumentasi kegiatan diskusi kampus dapat dilihat di [sini](http://wiki.ciptamedia.org/wiki/Remotivi:_Laporan_Masyarakat_Mengenai_Acara_TV/Laporan_Aktivitas)
+
+Kampus-kampus tersebut kami pilih menjadi rekanan dalam diskusi publik, selain karena kemudahan akses komunikasi yang kami temui atau respon terhadap ajakan kami dalam menyelenggarakan diskusi, juga kesiapan panitia dan peserta dalam mengadakan diskusi bertema penyiaran dalam kurun waktu yang telah ditentukan.
+
+**Pelatihan Relawan**
+
+* Untuk memperkenalkan aplikasi ini ke masyarakat yang jauh lebih luas, maka kami akan melakukan pelatihan relawan Rapotivi. Relawan berperan dalam kampanye Rapotivi baik offline maupun online, dengan turut serta melaporkan pelanggaran tayangan televisi minimal sekali seminggu, mempromosikan Rapotivi lewat media sosial, dan turut membantu kegiatan kampanye offline Rapotivi.
+* Dalam pelatihan ini, peserta diberikan materi berupa pengenalan Remotivi, pemetaan permasalahan televisi di Indonesia, pengenalan Rapotivi dan simulasi penggunaan Rapotivi.
+* Ada lebih dari 30 orang yang tertarik untuk menjadi relawan Rapotivi. Namun, karena pelatihan dilaksanakan satu hari di Jakarta, banyak calon relawan yang berhalangan hadir.
+* Di hari H pelatihan, ada 10 calon relawan yang mengikutinya dan secara otomatis menjadi relawan Rapotivi.
+* Para peserta pelatihan ini merupakan mahasiswa dari berbagai bidang keilmuan, antara lain Manajemen, Pertanian, Komunikasi, Keguruan, Ekonomi Syariah, Hubungan Internasional dan juga ibu rumah tangga.
+* Selama beberapa bulan ini, relawan menunjukan pengaruh yang positif.
+* Terlihat dari semakin banyak yang mengenal Rapotivi dan menggunakan aplikasi ini karena relawan memperkenalkan aplikasi ini ke lingkungan sekitar dan rekan-rekannya.
+
+**Rekanan Media Kampus**
+
+* Media kampus menjadi rekanan Rapotivi mengingat target sasaran utama pengguna aplikasi ini adalah mahasiswa. Banyak media kampus (pers mahasiswa) yang menjadi rekanan Rapotivi, baik pers Jabodetabek, maupun luar Jabodetabek.
+* Bentuk rekanan ini yaitu dengan mempublikasikan info terkait Rapotivi sebagai aplikasi pengaduan tayangan televisi melalui media-media yang dikelola oleh pers mahasiswa di kampus, misalnya buletin, website, media sosial, serta majalah.
+* Media kampus yang menjadi rekanan Rapotivi antara lain:
+ 1. Pers Mahasiswa Univ. Sumatra Utara
+ 2. Pers Mahasiswa Univ. Paramadina Jakarta
+ 3. Pers Mahasiswa Univ. Indraprasta Jakarta
+ 4. Era Komunikasi
+ 5. Rasida FM, Radio UIN Sunan Kalijaga Jogjakarta
+ 6. Pers Mahasiswa UIN Imam Bonjol, Padang (Suara Kampus)
+ 7. Pers Mahasiswa Univ. Muhammadiyah Surakarta (LPM Pabelan)
+ 8. dll
+
+[Car Free Day](http://rapotivi.org/index.php?r=home/kabar&id=35)
+
+* Senayan dan sekitarnya merupakan salah satu titik yang ramai dikunjungi masyarakat dalam acara Car Free Day (CFD) tiap hari minggu pagi. Rapotivi berkunjung ke CFD di Senayan ini dalam rangka memperkenalkan Rapotivi ke masyarakat yang lebih luas lagi. Selain mengajak masyarakat untuk mengunduh atau mendaftarkan akun ke website Rapotivi, Rapotivi juga membawa photoboth yang bisa digunakan oleh masyarakat untuk berfoto.
+* Photoboth yang membawa pesan "Tayangan TV Merugikanmu? Adukan Saja" ini diharapkan mampu viral ke media sosial. Untuk membuat hal ini menjadi viral, kami mengajak masyarakat yang berfoto di photoboth ini mengupload gambarnya ke twitter dan mention @Rapotivi. Animo masyarakat di CFD untuk tahu lebih jauh tentang Rapotivi cukup besar. Banyak respon yang diberikan masyarakat menanggapi adanya Rapotivi karena semakin banyaknya tayangan televisi yang tak sehat.
+* Selain di Car Free Day, Rapotivi juga hadir di acara-acara komunitas. Misalnya saat Greenpeace Indonesia mengadakan acara komunitas di Taman Krida Loka, GBK, Rapotivi membuka booth bersama dengan komunitas lainnya yang juga memperkenalkan komunitas masing-masing. Banyak masyarakat yang berkunjung dan “mengeluh” tentang tayangan televisi yang terlihat banyak potensi pelanggaran.
+* Dokumentasi dapat dilihat di [sini](http://wiki.ciptamedia.org/wiki/Remotivi:_Laporan_Masyarakat_Mengenai_Acara_TV/Laporan_Aktivitas#2_Agustus_2015)
+
+[Lomba Menulis Notes di FB Rapotivi](http://rapotivi.org/index.php?r=home/kabar&id=29)
+
+* Lomba Menulis Notes FB Rapotivi merupakan salah satu kegiatan untuk memperkenalkan Rapotivi pada khalayak internet (netizen) secara lebih luas.
+* Lomba dilaksanakan pada tanggal 5 Juni - 8 Juli 2015 dengan tema: **“Hidupkan Televisimu, Hidupkan Pikiranmu, Bagikan Ceritamu”**.
+* Pilihan topik tulisan: Kebiasaan menonton televisi di keluarga atau lingkunganmu, Mengulas tayangan televisi yang menurutmu bermasalah, Pentingnya mengadukan tayangan televisi bermasalah.
+* Juri lomba: Maman Suherman, Penulis Buku; Arman Dhani, Blogger; Perdana Putri, Tim Rapotivi
+* Jumlah tulisan masuk: 235
+* Jumlah akun peserta: 209 (1 akun bisa mengirim lebih dari 1 tulisan)
+* Tulisan dinilai: 214
+* Didiskualifikasi: 21 (diskualifikasi terjadi karena tidak memenuhi syarat dan ketentuan yang telah ditetapkan, seperti: dikirim setelah tenggat waktu pengiriman karya berakhir, tidak ditulis dalam bentuk notes, panjang tulisan tidak sesuai ketentuan, dan sebagainya).
+* Pemenang:
+ * Juara I Dlaify Bruinsma “Teliti Menonton Komedi” Hadiah sebesar Rp 500,000;
+ * Juara II Hina Yana “Keluh Kesah Sumpah Serapah Tayangan Televisi. Kemana Kami Mengadu?” Hadiah sebesar Rp 350,000;
+ * Juara III Heroe Purnomo “Alasan Penting Mengadukan Tayangan Televisi” Hadiah sebesar Rp 250,000;
+ * Juara Favorit I Chezar Dwi Vidya “Pentingnya Mengadukan Tayangan Televisi Bermasalah” Hadiah sebesar Rp 200,000;
+ * Juara Favorit II Djie El Quro R Nafist “Mari Kita Miliki Televisi” Hadiah sebesar Rp 200,000
+
+[Sayembara Komik](http://rapotivi.org/index.php?r=home/kabar&id=39)
+
+* Salah satu konten yang diproduksi oleh Rapotivi untuk ditampilkan di aplikasi android ini adalah komik yang merupakan hasil visualisasi Pedoman Perilaku Penyiaran dan Standar Program Siaran (P3SPS).
+* Untuk menjaring komikus muda yang dapat menghasilkan karya dengan visual yang bagus, tapi tetap engage dengan isu yang diusung Rapotivi yakni tentang tayangan televisi, maka Rapotivi mengadakan Sayembara Komik.
+* Ini bertujuan untuk mendapatkan karya-karya yang tidak monoton dibanding dengan menggunakan satu komikus saja.
+* Sayembara yang dilaksanakan selama bulan Agustus ini mendapat respon positif ditunjukan dengan banyaknya karya yang masuk. Tapi mempertimbangkan hasil visual dan tetap pada koridor yang telah ditetapkan dalam sayembara ini, maka tidak semua karya yang masuk cocok dan akan dipublikasikan di Rapotivi.
+* Karya masuk: 41
+* Pengirim: 18 (rata-rata kirim 2-3 komik)
+* Karya yang akan dipublikasikan oleh Rapotivi: 7
+
+**Promosi di Twitter (Q&A, kuis, kultweet)**
+
+* Untuk promosi Rapotivi secara online, kami melakukan beberapa kegiatan rutin di media sosial Rapotivi, baik Twitter maupun Facebook antara lain dengan melakukan Q&A dengan buzzer dan kuis interaktif dengan hadiah merchandise Rapotivi. Q&A dilakukan dua minggu sekali, berselang-seling dengan kegiatan kuis interaktif di twitter.
+* Tujuan dari Q&A ini untuk memperluas pengetahuan follower Rapotivi tentang berbagai isu yang diangkat yang berkaitan dengan media dan juga memperluas jangkauan Rapotivi.
+* Beberapa buzzer yang pernah diajak untuk Q&A bersama Rapotivi antara lain Saras Dewi (dosen, pemerhati isu perempuan), Maman Suherman (pemerhati media), Sammy (stand up comedian, pekerja di media)
+* Sambutan Q&A dari follower cukup hangat terlihat dari banyaknya retweet terhadap jawaban narasumber dan menambah followers Rapotivi. Sehingga dapat disimpulkan bahwa kegiatan ini cukup efektif jika tepat dalam pemilihan isu dan buzzer yang diajak.
+* Sedangkan kuis interaktif yang dilakukan media sosial Rapotivi antara mengajukan pertanyaan-pertanyaan substansial terkait isu media dan frekuensi milik publik dan follower dapat menjawabnya dengan membalas tweet tersebut.
+* Selain kuis interaktif yang berisi pertanyaan substansial, kuis interkatif juga kadang berupa ajakan kepada para followers, misalnya ajakan mengunggah foto harapan pribadi untuk televisi Indonesia ke depan.
+* Kesulitan/Kendala
+ * Kesulitan ataupun kendala Rapotivi dalam melakukan kegiatan-kegiatan di atas khususnya ditemui saat harus bekerja sama dengan komunitas atau pihak lain.
+  * Misalnya dalam kegiatan diskusi kampus/diskusi publik, di mana kami butuh bekerja sama dengan komunitas atau institusi setempat agar diskusi dapat dilaksanakan di temapt yang kami rencanakan.
+  * Berbagai macam respon dari komunitas menanggapi ajakan kami untuk bekerja sama menggelar diskusi. Selain itu, jika diskusi dilakukan di kampus dan bekerja sama dengan mahasiswa, maka butuh waktu yang lebih panjang untuk mengeksekusi diskusi ini karena banyaknya kegiatan mahasiswa yang bersangkutan dan juga kesiapan ruangan yang akan digunakan untuk berdiskusi.
+  * Selain itu, perlu mempertimbangkan waktu libur semester para mahasiswa, sehingga kegiatan diskusi baru dapat dilaksanakan setelah masa libur berakhir.
+  * Kendala lainnya terkait Q&A dengan para buzzer. Selain tantangan dalam menentukan waktu yang sesuai untuk dapat berbincang dengan buzzer di twitter, juga sinyal internet menjadi tantangan tersendiri saat melakukan Q&A. Tak jarang Q&A harus ditunda beberapa saat karena salah satu pihak kesulitan mendapat sinyal internet.
+
 **2. Aktivitas/ Isu yang Anda usung dan mencoba atasi**
 
 Berikut adalah aktivitas dan isu-isu yang anda masukkan pada permohonan hibah anda:
