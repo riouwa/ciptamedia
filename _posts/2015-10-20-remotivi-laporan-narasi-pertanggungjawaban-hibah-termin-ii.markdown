@@ -77,6 +77,32 @@ Aktifitas dan isu yang anda atasi:
 * Setiap bulannya ada minimal satu artikel singkat (kabar), satu infografis, dan satu komik yang ditayangkan.
 * Berikut data lengkapnya:
 
+|**Infografis**|**Tanggal**|
+|---|---|
+|Kekerasan dalam Sinetron|12 Maret 2015|
+|Apa Kata Orang Tua tentang Televisi|26 Maret 2015|
+|Frekuensi Punya Siapa?|17 April 2015|
+|Periksa Klasifikasi Sebelum Menonton Televisi|30 April 2015|
+|KPI, Saluran Negara yang Diabaikan|25 Mei 2015|
+|Stasiun Televisi Mana yang Paling Banyak Diadukan|8 Juni 2015|
+|Siapa Sponsor Pesbukers?|15 Juni 2015|
+|Tayangan Lokal VS Mancanegara di TV Indonesia|7 Juli 2015|
+|Seberapa Jauh Kenal KPI?|31 Agustus 2015|
+|Sanksi KPI Hanya Basa-Basi|2 Oktober 2015|
+
+|**Komik**|**Tanggal**|
+|---|---|
+|Kekerasan dalam Sinetron|12 Maret 2015|
+|Apa Kata Orang Tua tentang Televisi|26 Maret 2015|
+|Frekuensi Punya Siapa?|17 April 2015|
+|Periksa Klasifikasi Sebelum Menonton Televisi|30 April 2015|
+|KPI, Saluran Negara yang Diabaikan|25 Mei 2015|
+|Stasiun Televisi Mana yang Paling Banyak Diadukan|8 Juni 2015|
+|Siapa Sponsor Pesbukers?|15 Juni 2015|
+|Tayangan Lokal VS Mancanegara di TV Indonesia|7 Juli 2015|
+|Seberapa Jauh Kenal KPI?|31 Agustus 2015|
+|Sanksi KPI Hanya Basa-Basi|2 Oktober 2015|
+
 **3. Indikator sukses anda dalam permohonan hibah**
 
  * Pengunduh aplikasi mencapai 5.000 orang
@@ -88,11 +114,11 @@ Aktifitas dan isu yang anda atasi:
  * Aplikasi “RAPOTIVI” di ponsel berjenis Andoid
  * Situs RAPOTIVI.ORG
  * Pengisian konten untuk aplikasi dan situs:
-   * P3SPS, data-data penelitian, dan informasi seputar TV yang dibuat dalam wujud komik, trivia, artikel singkat, dan infografik
-   * Rekapitulasi laporan pengaduan warga dan membuat pemeringkatan
+  * P3SPS, data-data penelitian, dan informasi seputar TV yang dibuat dalam wujud komik, trivia, artikel singkat, dan infografik
+  * Rekapitulasi laporan pengaduan warga dan membuat pemeringkatan
  * Promosi:
-   * 3 video promosi di YouTube
-   * Merchandising: kaos, buku saku, dan stiker
+  * 3 video promosi di YouTube
+  * Merchandising: kaos, buku saku, dan stiker
  * Advokasi: mengadakan audiensi bulanan dengan KPI untuk membahas laporan yang masuk dan meminta tindak lanjut KPI
 
 Hasil aktual hingga laporan ini dibuat:
