@@ -78,6 +78,132 @@ Aktifitas dan isu yang anda atasi:
 
 Hasil aktual hingga laporan ini dibuat:
 
+* Sejak diluncurkan, berikut jumlah aduan yang masuk melalui Rapotivi setiap bulannya
+
+**Jumlah aduan**
+
+{% include table-fix.html %}
+<table border="1">
+  <tbody>
+    <tr>
+      <th align="center" width="20%">Bulan</th>
+      <th align="center" width="20%">Aduan masuk</th>
+      <th align="center" width="20%">Aduan Terverifikasi</th>
+      <th align="center" width="20%">Aduan Ditolak</th>
+    </tr>
+    <tr>
+      <td>Februari</td>
+      <td align="center" style="background-color: #12C5E3">66</td>
+      <td align="center">43 (65%)</td>
+      <td align="center">23 (35%)</td>
+    </tr>
+    <tr>
+      <td>Maret</td>
+      <td align="center" style="background-color: #E78486">43 (-35%)</td>
+      <td align="center">22 (51%)</td>
+      <td align="center">21 (49%)</td>
+    </tr>
+    <tr>
+      <td>April</td>
+      <td align="center" style="background-color: #12C5E3">60 (+29%)</td>
+      <td align="center">51 (85%)</td>
+      <td align="center">9 (15%)</td>
+    </tr>
+    <tr>
+      <td>Mei</td>
+      <td align="center" style="background-color: #12C5E3">74 (+12%)</td>
+      <td align="center">58 (78%)</td>
+      <td align="center">16 (22%)</td>
+    </tr>
+    <tr>
+      <td>Juni</td>
+      <td align="center" style="background-color: #12C5E3">115 (+64%)</td>
+      <td align="center">95 (79%)</td>
+      <td align="center">20 (21%)</td>
+    </tr>
+    <tr>
+      <td>Juli</td>
+      <td align="center" style="background-color: #12C5E3">181 (+63%)</td>
+      <td align="center">139 (70%)</td>
+      <td align="center">42 (30%)</td>
+    </tr>
+    <tr>
+      <td>Agustus</td>
+      <td align="center" style="background-color: #12C5E3">279 (+65%)</td>
+      <td align="center">206 (65%)</td>
+      <td align="center">73 (35%)</td>
+    </tr>
+    <tr>
+      <td>Sept</td>
+      <td align="center" style="background-color: #E78486">130 (-46%)</td>
+      <td align="center">99 (75%)</td>
+      <td align="center">25 (25%)</td>
+    </tr>
+    <tr style="background-color: #7AF72C">
+      <td align="center">Total</td>
+      <td align="center">948</td>
+      <td align="center">713</td>
+      <td align="center">235</td>
+    </tr>
+  </tbody>
+</table>
+
+**Pengunduh dan pengguna**
+
+Pengunduh-: 1726
+Pengguna--: 2551
+- Pengunduh merupakan akun yang mengunduh aplikasi Rapotivi melalui Google Playstore
+--Pengguna merupakan akun yang mendaftar melalui website www.rapotivi.org
+
+**Penonton video**
+
+<table border="1">
+  <tbody>
+    <tr>
+      <th align="center" width="30%">Video</th>
+      <th align="center" width="30%">Youtube <br>
+        (Jumlah View)</th>
+      <th align="center" width="30%">Facebook <br>
+        (Jumlah View)</th>
+    </tr>
+    <tr>
+      <td>Apa dan Bagaimana Rapotivi</td>
+      <td align="center" style="background-color:#F8FD40">426</td>
+      <td align="center" style="background-color:#F8FD40">1,475</td>
+    </tr>
+    <tr>
+      <td>Tayangan Berita</td>
+      <td align="center" style="background-color:#F8FD40">497</td>
+      <td align="center" style="background-color:#F8FD40">4,054</td>
+    </tr>
+    <tr>
+      <td>Tayangan Anak</td>
+      <td align="center" style="background-color:#F8FD40">619</td>
+      <td align="center" style="background-color:#F8FD40">13,297</td>
+    </tr>
+    <tr>
+      <td>Total penonton video</td>
+      <td colspan="2" align="center" style="background-color:#7AF05D">20,368</td>
+    </tr>
+  </tbody>
+</table>
+
+**Merchandising**
+
+* Segala keperluan promosi offline seperti materi promosi dan merchandising untuk hadiah gamifikasi telah diproduksi, seperti mug, kaos, booknotes, sticker, serta brosur.
+
+* Hingga September 2015, kami memproduksi:
+ * mug sebanyak 160 buah
+ * kaos 300 buah
+ * booknotes 70 buah
+ * sticker 1000 buah
+ * dan brosur 5 rim (250 buah)
+
+Hinga saat ini, lebih dari 80% materi promosi dan merchandise telah didistribusikan, baik melalui acara-acara yang digelar oleh Rapotivi, dikirim ke pers mahasiswa yang menjadi rekanan Rapotivi, maupun didistribusikan oleh relawan.
+
+**Audiensi**
+
+Audiensi dengan KPI yang awalnya dijadwalkan dapat terlaksana sebulan sekali, hingga bulan ini hanya terlaksana sebanyak satu kali. Hal ini dikarenakan respon KPI yang lambat mengenai permintaan audiensi dari Rapotivi. Audiensi yang terlaksana pada tanggal 6 April 2015 lalu setelah surat permohonan audiensi dari Rapotivi yang dikirim tanggal 24 Februari 2015. ([Pranala berita lengkap](http://rapotivi.org/index.php?r=home/kabar&id=18)).
 
 **4. Tujuan dan Sasaran**
 
@@ -95,10 +221,19 @@ Mahasiswa dan orang tua muda pengguna ponsel cerdas di beberapa kota besar di In
 
 Tujuan dan sasaran yang berhasil dicapai hingga saat ini:
 
+* Jenis pelanggaran yang diadukan oleh masyarakat beragam dan diluar yang kami perkirakan. Ini membuktikan bahwa masyarakat peduli terhadap apa yang mereka tonton dan sadar akan adanya potensi pelanggaran yang muncul di layar kaca.
 
-Tolong jabarkan perubahan perubahan signifikan yang organisasi anda dapatkan yang memiliki dampak pada pekerjaan anda pada periode pelaporan yang anda lakukan untuk saat ini. Masukkan secara deskriptif bagaimana anda menangani perubahan perubahan tersebut dan bagaimana perencanaan anda berubah sebagai hasilnya.
+* Untuk melihat ada tidaknya potensi pelanggaran dalamaduan yang akan diverifikasi, kami berpatokan pada ketentuan dalam Pedoman Perilaku Penyiaran dan Standar Program Siaran (P3SPS). Namun, beberapa aduan memiliki potensi pelanggaran yang belum diatur dalam P3SPS 2012.
+
+ * Beberapa potensi pelanggaran tersebut antara lain:
+  * eksploitasi terhadap korban tindak kriminal. Misalnya kasus kematian Angeline yang diangkat TV One setiap hari dalam beberapa tayangan selama kurang lebih seminggu dan terkadang tanpa informasi tambahan untuk kepentingan masyarakat
+  * misrepresentasi. Penggambaran yang keliru mengenai profesi atau hubungan tertentu dalam kehidupan masyarakat. Misalnya ibu tiri yang selalu digambarkan seseorang yang jahat dan selalu berusaha menyingkirkan anak tirinya; penggambaran guru di sekolah yang selalu di-bully dan hubungan percintaan guru-siswa secara vulgar/gamblang.
+  * durasi. Durasi acara yang terlalu panjang. Misal D’Academy yang disiarkan dari jam 18.00-22.00 bahkan hingga tengah malam yang lebih banyak menampilkan gurauan-gurauan para juri dan pembawa acara dibanding kompetisi menyanyinya.
+
+* Secara garis besar, berikut jenis pelanggaran yang banyak diaduakan oleh pengguna Rapotivi periode Maret-Agustus:
 
 
+*Lihat [Tabulasi data aduan terverifikasi per bulan](http://rapotivi.org/index.php?r=home/tabulasi&m=3&y=20150)*
 
 **5. Perubahan Lingkup Organisasi/ Lingkungan Sekitar**
 
