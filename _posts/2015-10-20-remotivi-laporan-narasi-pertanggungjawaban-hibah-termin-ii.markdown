@@ -103,6 +103,19 @@ Aktifitas dan isu yang anda atasi:
 |Seberapa Jauh Kenal KPI?|31 Agustus 2015|
 |Sanksi KPI Hanya Basa-Basi|2 Oktober 2015|
 
+|**Kabar**|**Tanggal**|
+|---|---|
+|Kekerasan dalam Sinetron|12 Maret 2015|
+|Apa Kata Orang Tua tentang Televisi|26 Maret 2015|
+|Frekuensi Punya Siapa?|17 April 2015|
+|Periksa Klasifikasi Sebelum Menonton Televisi|30 April 2015|
+|KPI, Saluran Negara yang Diabaikan|25 Mei 2015|
+|Stasiun Televisi Mana yang Paling Banyak Diadukan|8 Juni 2015|
+|Siapa Sponsor Pesbukers?|15 Juni 2015|
+|Tayangan Lokal VS Mancanegara di TV Indonesia|7 Juli 2015|
+|Seberapa Jauh Kenal KPI?|31 Agustus 2015|
+|Sanksi KPI Hanya Basa-Basi|2 Oktober 2015|
+
 **3. Indikator sukses anda dalam permohonan hibah**
 
  * Pengunduh aplikasi mencapai 5.000 orang
