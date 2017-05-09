@@ -150,10 +150,10 @@ Hasil aktual hingga laporan ini dibuat:
 
 **Pengunduh dan pengguna**
 
-Pengunduh-: 1726
-Pengguna--: 2551
-- Pengunduh merupakan akun yang mengunduh aplikasi Rapotivi melalui Google Playstore
---Pengguna merupakan akun yang mendaftar melalui website www.rapotivi.org
+Pengunduh: 1726
+Pengguna: 2551
+* Pengunduh merupakan akun yang mengunduh aplikasi Rapotivi melalui Google Playstore
+* Pengguna merupakan akun yang mendaftar melalui website www.rapotivi.org
 
 **Penonton video**
 
@@ -232,6 +232,25 @@ Tujuan dan sasaran yang berhasil dicapai hingga saat ini:
 
 * Secara garis besar, berikut jenis pelanggaran yang banyak diaduakan oleh pengguna Rapotivi periode Maret-Agustus:
 
+|Jenis pelanggaran|Jumlah|
+|---|---|
+|**Privasi** <br> (menjadikan detail urusan pribadi sebagai materi utama tayangan; menampilkan rekaman kamera tersembunyi yang tidak ada hubungannya dengan kepentingan publik)|160|
+|**Kekerasan** <br> 
+(Menampilkan detail peristiwa kekerasan; adegan berbahaya; pembenaran terhadap bullying; menampilkan darah secara vulgar)|155|
+|**Politik** <br> 
+(eksploitasi media untuk kepentingan pemilik)|117|
+|**Malpraktik Jurnalisme** <br>
+(berita tidak akurat; tidak ada sumber; menampilkan identitas/wajah korban/keluarga korban tindak kriminal; menampilkan wajah/identitas pelaku kriminal yang belum diputus bersalah)|80|
+|**Klasifikasi tayangan** <br>
+(klasifikasi tayangan tidak sesuai dengan isi tayangan)|53|
+|**Kesusilaan & Kesopanan** <br>
+(menampilkan kata-kata kasar/cabul); menampilkan adegan menjijikan)|48|
+|**Pelecehan** <br>
+(Pelecehan terhadap kelompok masyarakat tertentu; pelecehan atas institusi pendidikan; pelecehan atas agama)|42|
+|**Eksploitasi seksual** <br>
+(menampilkan gerakan tubuh/tarian erotis di luar jam dewasa; kamera fokus pada bagian tubuh tertentu seperti dada, paha dan bokong; menampilkan percakapan tentang aktivitas seks diluar pembicaraan kesehatan atau semacamnya)|19|
+|**Lainnya** <br>
+(iklan/tayangan yang disponsori oleh perusahaan rokok, menampilkan tayangan mistik/supranatural/kesurupan tanpa mempertimbangkan norma-norma dalam masyarakat; Lain-lain)|83|
 
 *Lihat [Tabulasi data aduan terverifikasi per bulan](http://rapotivi.org/index.php?r=home/tabulasi&m=3&y=20150)*
 
