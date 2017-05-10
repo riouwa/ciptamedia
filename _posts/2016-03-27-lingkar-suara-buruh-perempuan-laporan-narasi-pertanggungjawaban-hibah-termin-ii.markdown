@@ -220,7 +220,7 @@ Tulisan
  4. Tulisan ["NASIB BURUH KONTRAK HAMIL"](http://www.marsinahfm.com/nasib-buruh-kontrak-hamil/) di like & share 123 kali
  5. Tulisan ["Kami Mau Bekerja, Tapi Kami Tidak Mau Ditindas"](http://www.marsinahfm.com/kami-mau-bekerja-tapi-kami-tidak-mau-ditindas/) di like & share 186 kali
 
-2. Siaran tentang Kespro, KDRT, pengasuhan anak, hak normatif buruh perempuan, kekerasan seksual di tempat kerja, tuntutan dan alasan kesejahteraan buruh 
+ 2. Siaran tentang Kespro, KDRT, pengasuhan anak, hak normatif buruh perempuan, kekerasan seksual di tempat kerja, tuntutan dan alasan kesejahteraan buruh 
 
 **Ukuran**
 
