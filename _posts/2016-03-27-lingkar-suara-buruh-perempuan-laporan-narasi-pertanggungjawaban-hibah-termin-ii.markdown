@@ -222,7 +222,7 @@ Tulisan
 
 2. Siaran tentang Kespro, KDRT, pengasuhan anak, hak normatif buruh perempuan, kekerasan seksual di tempat kerja, tuntutan dan alasan kesejahteraan buruh 
 
-**Ukuran **
+**Ukuran**
 
 sepuluh (10) acara siaran
 
@@ -243,11 +243,11 @@ rekaman
 
 3. Audio tentang Kespro, KDRT, pengasuhan anak, hak normatif buruh perempuan, kekerasan seksual di tempat kerja, tuntutan dan alasan kesejahteraan buruh 
 
-**Ukuran **
+**Ukuran**
 
 empat (4) file audio 
 
-**Sumber **
+**Sumber**
 
 siaran & [soundcloud](https://soundcloud.com/radio-marsinah) (21 follower, 63 track, terakhir diperbaharui Desember 2015)
 
@@ -257,7 +257,7 @@ siaran & [soundcloud](https://soundcloud.com/radio-marsinah) (21 follower, 63 tr
 
 dua (2) video 
 
-**Sumber **
+**Sumber**
 
 Youtube
 [Lensa buruh Marsinah FM](https://www.youtube.com/channel/UCivFKah0BgGuQpWPK31zpBw) (48 video terakhir di perbaharui 8 Mei 2015]
@@ -283,7 +283,7 @@ Facebook
 
 Dua (2) sms per siaran 
 
-**Sumber **
+**Sumber**
 
 Data SMS
 
