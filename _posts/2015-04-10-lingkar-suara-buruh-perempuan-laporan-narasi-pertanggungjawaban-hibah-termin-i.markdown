@@ -127,33 +127,49 @@ Penggalangan tanda tangan dan dukungan untuk kasus atau persoalan buruh perempua
 
 Aktivitas dan isu yang anda atasi:
 
-Pembentukan grup–grup diskusi WA dan FB
+**Pembentukan grup–grup diskusi WA dan FB**
+
 Sejauh ini, grup diskusi yang terbentuk baru dua, yaitu
-grup WA berjudul Pojok Sehat Buruh yang mendiskusikan tentang berbagai persoalan buruh terkait kesehatan, dari cuti hamil, melahirkan, ijin sakit, pensiun, PHK karena sakit dll. Dikelola oleh Dian Septi di nomor WA. Bagi yang mau ikut bergabung bisa hubungi no Marsinah FM
-Grup FB berjudul Curhat Buruh yang mendiskusikan beragam persoalan buruh. Admin adalah Atly Serita, yang mau bergabung bisa hubungi Atly Serita di 085773021615
-Pembentukan SMS Centre
+ 1. grup WA berjudul Pojok Sehat Buruh yang mendiskusikan tentang berbagai persoalan buruh terkait kesehatan, dari cuti hamil, melahirkan, ijin sakit, pensiun, PHK karena sakit dll. Dikelola oleh Dian Septi di nomor WA. Bagi yang mau ikut bergabung bisa hubungi no Marsinah FM
+ 2. Grup FB berjudul Curhat Buruh yang mendiskusikan beragam persoalan buruh. Admin adalah Atly Serita, yang mau bergabung bisa hubungi Atly Serita di 085773021615
+
+**Pembentukan SMS Centre**
+
 Sejauh ini, SMS Centre belum efektif karena sering error,dimana sms justru masuk ke inbox modem bukan ke inbox sms centre sehingga sistem tidak berfungsi. Terakhir , pembuat setting SMS Centre datang dan sudah memperbaiki di bulan Maret 2015, namun setelahnya kadang masih error.Error sebelumnya adalah di bulan November, yang mana terkena virus setelah diinstall. Sehingga, sejak itu pengiriman informasi dan berita dikirim via WhatssApp dan dishare di halaman FB Marsinah FM.
 Program SMS centre masih diupayakan kembali untuk berjalan. Meski informasi sudah dikirim via WA dan dipublikasikan di page FB.
+
 Kini, di bulan April 2015, SMS Centre sudah tidak error, dan akan diupayakan berfungsi sebagai tempat pengaduan dan berkirim berita dengan rencana sebagai berikut:
-Membuat publikasi pengaduan kasus dengan kode lapor (spasi) isi SMS dan dikirim ke no sms centre 085711833000 dan mengirim berita dengan kode info (spasi) isi SMS dan dikirim ke no sms centre
-FBLP dan Marsinah FM sebelumnya mempunyai program Lingkar – lingkar belajar berupa diskusi hunian di tempat – tempat tinggal buruh untuk saling curhat (tatap muka) setiap hari sepulang kerja. Ajang ini akan digunakan untuk mensosialisasikan cara mengadu kasus dan mendapatkan berita sms dengan mendaftarkan nomor hpnya menjadi anggota grup SMS Centre.
-Ekspresi Langsung Melalui Rekaman Audio
-Buruh Perempuan merekam laporannya terkait situasi yang sedang dihadapi dan dikirim ke Marsinah FM untuk disiarkan secara daring (online).Salah satu bentuk ekspresi langsung ini merupakan bagian keterlibatan buruh perempuan untuk berbagi tentang persoalannya maupun pengalaman menyelesaikan persoalan. Ekspresi ini sekaligus untuk memunculkan kepercayaan diri untuk berbicara bukan hanya tentang persoalannya tapi ajakan, dukungan bagi sesamanya yang mengalami persoalan sama. Ekspresi langsung ini berupa wawancara buruh perempuan tentang persoalan buruh dan perempuan, kelestarian alam dsb. Hasil audio kemudian diedit menjadi program Suara Buruh, diputar di radio dan ditayangkan di souncloud, https://soundcloud.com/you/sets dan website marsinahfm.com.
-Ekspresi Langsung Melalui Rekaman Video
-Ekspresi langsung ini berupa wawancara buruh perempuan tentang persoalan buruh dan perempuan, kelestarian alam dsb. Atau melaporkan peristiwa yang ada di sekitarnya baik dalam bentuk wawancara atau tanpa wawancara. Hasil video kemudian diedit menjadi program Lensa Buruh Marsinah, diupload di youtube https://www.youtube.com/channel/UCivFKah0BgGuQpWPK31zpBw dan tampil di website marsinahfm.com
-FGD untuk Pengelola Program
+ 1. Membuat publikasi pengaduan kasus dengan kode lapor (spasi) isi SMS dan dikirim ke no sms centre 085711833000 dan mengirim berita dengan kode info (spasi) isi SMS dan dikirim ke no sms centre
+ 2, FBLP dan Marsinah FM sebelumnya mempunyai program Lingkar – lingkar belajar berupa diskusi hunian di tempat – tempat tinggal buruh untuk saling curhat (tatap muka) setiap hari sepulang kerja. Ajang ini akan digunakan untuk mensosialisasikan cara mengadu kasus dan mendapatkan berita sms dengan mendaftarkan nomor hpnya menjadi anggota grup SMS Centre.
+
+**Ekspresi Langsung Melalui Rekaman Audio**
+
+Buruh Perempuan merekam laporannya terkait situasi yang sedang dihadapi dan dikirim ke Marsinah FM untuk disiarkan secara daring (online).Salah satu bentuk ekspresi langsung ini merupakan bagian keterlibatan buruh perempuan untuk berbagi tentang persoalannya maupun pengalaman menyelesaikan persoalan. Ekspresi ini sekaligus untuk memunculkan kepercayaan diri untuk berbicara bukan hanya tentang persoalannya tapi ajakan, dukungan bagi sesamanya yang mengalami persoalan sama. Ekspresi langsung ini berupa wawancara buruh perempuan tentang persoalan buruh dan perempuan, kelestarian alam dsb. Hasil audio kemudian diedit menjadi program Suara Buruh, diputar di radio dan ditayangkan di souncloud, [https://soundcloud.com/you/sets](https://soundcloud.com/you/sets) dan website marsinahfm.com.
+
+**Ekspresi Langsung Melalui Rekaman Video**
+
+Ekspresi langsung ini berupa wawancara buruh perempuan tentang persoalan buruh dan perempuan, kelestarian alam dsb. Atau melaporkan peristiwa yang ada di sekitarnya baik dalam bentuk wawancara atau tanpa wawancara. Hasil video kemudian diedit menjadi program Lensa Buruh Marsinah, diupload di youtube [https://www.youtube.com/channel/UCivFKah0BgGuQpWPK31zpBw](https://www.youtube.com/channel/UCivFKah0BgGuQpWPK31zpBw) dan tampil di website marsinahfm.com
+
+**FGD untuk Pengelola Program**
+
 Pada 7 September 2014, LSBP mengadakan FGD atau Focus Grup Discussion untuk mematangkan program LSBP dan merumuskan tahapan kerja
-Pelatihan–Pelatihan
+
+**Pelatihan–Pelatihan**
+
 Terdapat dua jenis pelatihan, yakni pelatihan untuk anggota grup dan kru Marsinah FM.
-Pelatihan untuk kru Marsinah FM atau pengelola program dibagi dalam tiga kali pelatihan:
-28 September 2014, pelatihan pengelola program berupa pelatihan jurnalistik tentang membuat berita sms, berita audio dan berita video, serta bagaimana mengelola grup diskusi media sosial
-2 November 2014, pelatihan pengelola grup berupa pelatihan jurnalistik foto untuk meningkatkan kapasitas pengelola program dalam mengambil foto bermuatan jurnalistik untuk ditampilkan di website.
-28 Februari 2015, pelatihan mengelola grup media sosial dengan menghadirkan pengelola grup dan peserta dari luar daerah, yang dihadiri oleh Samarinda, Tangerang dan Sragen. Materi yang disampaikan adalah (1) memahami persoalan buruh perempuan; (2) mengorganisir buruh perempuan melalui grup diskusi media sosial; (3) RTL atau Rencana Tindak Lanjut berupa pembuatan grup diskusi media sosial.
-Pelatihan untuk anggota grup
-Belum dilaksanakan karena pembentukan grup media sosial pelaksanaannya mundur sehingga harus ditunda.
-Konferensi Perwakilan 5 kota
+ 1. Pelatihan untuk kru Marsinah FM atau pengelola program dibagi dalam tiga kali pelatihan:
+ * 28 September 2014, pelatihan pengelola program berupa pelatihan jurnalistik tentang membuat berita sms, berita audio dan berita video, serta bagaimana mengelola grup diskusi media sosial
+ * 2 November 2014, pelatihan pengelola grup berupa pelatihan jurnalistik foto untuk meningkatkan kapasitas pengelola program dalam mengambil foto bermuatan jurnalistik untuk ditampilkan di website.
+ * 28 Februari 2015, pelatihan mengelola grup media sosial dengan menghadirkan pengelola grup dan peserta dari luar daerah, yang dihadiri oleh Samarinda, Tangerang dan Sragen. Materi yang disampaikan adalah (1) memahami persoalan buruh perempuan; (2) mengorganisir buruh perempuan melalui grup diskusi media sosial; (3) RTL atau Rencana Tindak Lanjut berupa pembuatan grup diskusi media sosial.
+ 2. Pelatihan untuk anggota grup
+ Belum dilaksanakan karena pembentukan grup media sosial pelaksanaannya mundur sehingga harus ditunda.
+
+**Konferensi Perwakilan 5 kota**
+
 Belum dilaksanakan karena komunikasi grup WA belum terbentuk, dan akhirnya tertunda proses ini. Namun Konferensi Perempuan Pekerja Jabotabek sudah dilaksanakan berbasiskan pada jaringan yang sudah dimiliki sebelumnya, diselenggarakan pada 21 Desember 2014, dihadiri oleh individu- individu dari berbagai serikat seperti FSP2KI, SPASI, SPN, FSBI, dan individu – individu buruh yang belum berserikat. Salah satu keputusannya adalah membentuk grup diskusi media sosial namun belum berjalan.
-Petisi Daring (Online)
+
+**Petisi Daring (Online)**
+
 Petisi online belum terlaksana, namun ada pembicaraan untuk membuat petisi online Menuntut pemerintah membentuk Posko Pembelaan Buruh Perempuan di kawasan industri, terutama di KBN Cakung karena banyaknya pelanggaran yang terjadi di KBN Cakung, seperti upah di bawah ketentuan, penyimpangan kontrak dan pelecehan seksual di tempat kerja.
 
 **3. Indikator sukses anda dalam permohonan hibah**
