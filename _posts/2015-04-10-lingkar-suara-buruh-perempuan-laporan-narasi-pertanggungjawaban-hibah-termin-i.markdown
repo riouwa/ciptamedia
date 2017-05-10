@@ -78,7 +78,6 @@ Silahkan tuliskan pembelajaran, acara-acara yang anda buat/ alami yang dapat mem
 
 Berikut adalah aktivitas dan isu-isu yang anda masukkan pada permohonan hibah anda:
 
-
 * 4000 Buruh perempuan di Indonesia, terutama di 5 kota yang minim informasi tentang hak seputar kesejahteraan yakni soal upah layak, hak lembur yang dibayarkan, sistem kontrak/outsourcing, hak cuti hamil dan melahirkan, penangguhan upah.
 
 * 4000 Buruh perempuan di Indonesia, terutama di 5 kota yang minim informasi tentang hak seputar kesetaraan yakni hak bebas dari kekerasan seksual, pelecehan seksual, Kekerasan Dalam Rumah Tangga beserta aspek hukumnya
@@ -126,6 +125,37 @@ Komunikasi media sosial melalui grup WA membutuhkan pertemuan tatap muka untuk m
 
 Penggalangan tanda tangan dan dukungan untuk kasus atau persoalan buruh perempuan yang melibatkan buruh perempuan, melalui petisi daring (online). Petisi online adalah alat untuk menggalang solidaritas sesama buruh perempuan di berbagai kota di Indonesia.
 
+Aktivitas dan isu yang anda atasi:
+
+Pembentukan grup–grup diskusi WA dan FB
+Sejauh ini, grup diskusi yang terbentuk baru dua, yaitu
+grup WA berjudul Pojok Sehat Buruh yang mendiskusikan tentang berbagai persoalan buruh terkait kesehatan, dari cuti hamil, melahirkan, ijin sakit, pensiun, PHK karena sakit dll. Dikelola oleh Dian Septi di nomor WA. Bagi yang mau ikut bergabung bisa hubungi no Marsinah FM
+Grup FB berjudul Curhat Buruh yang mendiskusikan beragam persoalan buruh. Admin adalah Atly Serita, yang mau bergabung bisa hubungi Atly Serita di 085773021615
+Pembentukan SMS Centre
+Sejauh ini, SMS Centre belum efektif karena sering error,dimana sms justru masuk ke inbox modem bukan ke inbox sms centre sehingga sistem tidak berfungsi. Terakhir , pembuat setting SMS Centre datang dan sudah memperbaiki di bulan Maret 2015, namun setelahnya kadang masih error.Error sebelumnya adalah di bulan November, yang mana terkena virus setelah diinstall. Sehingga, sejak itu pengiriman informasi dan berita dikirim via WhatssApp dan dishare di halaman FB Marsinah FM.
+Program SMS centre masih diupayakan kembali untuk berjalan. Meski informasi sudah dikirim via WA dan dipublikasikan di page FB.
+Kini, di bulan April 2015, SMS Centre sudah tidak error, dan akan diupayakan berfungsi sebagai tempat pengaduan dan berkirim berita dengan rencana sebagai berikut:
+Membuat publikasi pengaduan kasus dengan kode lapor (spasi) isi SMS dan dikirim ke no sms centre 085711833000 dan mengirim berita dengan kode info (spasi) isi SMS dan dikirim ke no sms centre
+FBLP dan Marsinah FM sebelumnya mempunyai program Lingkar – lingkar belajar berupa diskusi hunian di tempat – tempat tinggal buruh untuk saling curhat (tatap muka) setiap hari sepulang kerja. Ajang ini akan digunakan untuk mensosialisasikan cara mengadu kasus dan mendapatkan berita sms dengan mendaftarkan nomor hpnya menjadi anggota grup SMS Centre.
+Ekspresi Langsung Melalui Rekaman Audio
+Buruh Perempuan merekam laporannya terkait situasi yang sedang dihadapi dan dikirim ke Marsinah FM untuk disiarkan secara daring (online).Salah satu bentuk ekspresi langsung ini merupakan bagian keterlibatan buruh perempuan untuk berbagi tentang persoalannya maupun pengalaman menyelesaikan persoalan. Ekspresi ini sekaligus untuk memunculkan kepercayaan diri untuk berbicara bukan hanya tentang persoalannya tapi ajakan, dukungan bagi sesamanya yang mengalami persoalan sama. Ekspresi langsung ini berupa wawancara buruh perempuan tentang persoalan buruh dan perempuan, kelestarian alam dsb. Hasil audio kemudian diedit menjadi program Suara Buruh, diputar di radio dan ditayangkan di souncloud, https://soundcloud.com/you/sets dan website marsinahfm.com.
+Ekspresi Langsung Melalui Rekaman Video
+Ekspresi langsung ini berupa wawancara buruh perempuan tentang persoalan buruh dan perempuan, kelestarian alam dsb. Atau melaporkan peristiwa yang ada di sekitarnya baik dalam bentuk wawancara atau tanpa wawancara. Hasil video kemudian diedit menjadi program Lensa Buruh Marsinah, diupload di youtube https://www.youtube.com/channel/UCivFKah0BgGuQpWPK31zpBw dan tampil di website marsinahfm.com
+FGD untuk Pengelola Program
+Pada 7 September 2014, LSBP mengadakan FGD atau Focus Grup Discussion untuk mematangkan program LSBP dan merumuskan tahapan kerja
+Pelatihan–Pelatihan
+Terdapat dua jenis pelatihan, yakni pelatihan untuk anggota grup dan kru Marsinah FM.
+Pelatihan untuk kru Marsinah FM atau pengelola program dibagi dalam tiga kali pelatihan:
+28 September 2014, pelatihan pengelola program berupa pelatihan jurnalistik tentang membuat berita sms, berita audio dan berita video, serta bagaimana mengelola grup diskusi media sosial
+2 November 2014, pelatihan pengelola grup berupa pelatihan jurnalistik foto untuk meningkatkan kapasitas pengelola program dalam mengambil foto bermuatan jurnalistik untuk ditampilkan di website.
+28 Februari 2015, pelatihan mengelola grup media sosial dengan menghadirkan pengelola grup dan peserta dari luar daerah, yang dihadiri oleh Samarinda, Tangerang dan Sragen. Materi yang disampaikan adalah (1) memahami persoalan buruh perempuan; (2) mengorganisir buruh perempuan melalui grup diskusi media sosial; (3) RTL atau Rencana Tindak Lanjut berupa pembuatan grup diskusi media sosial.
+Pelatihan untuk anggota grup
+Belum dilaksanakan karena pembentukan grup media sosial pelaksanaannya mundur sehingga harus ditunda.
+Konferensi Perwakilan 5 kota
+Belum dilaksanakan karena komunikasi grup WA belum terbentuk, dan akhirnya tertunda proses ini. Namun Konferensi Perempuan Pekerja Jabotabek sudah dilaksanakan berbasiskan pada jaringan yang sudah dimiliki sebelumnya, diselenggarakan pada 21 Desember 2014, dihadiri oleh individu- individu dari berbagai serikat seperti FSP2KI, SPASI, SPN, FSBI, dan individu – individu buruh yang belum berserikat. Salah satu keputusannya adalah membentuk grup diskusi media sosial namun belum berjalan.
+Petisi Daring (Online)
+Petisi online belum terlaksana, namun ada pembicaraan untuk membuat petisi online Menuntut pemerintah membentuk Posko Pembelaan Buruh Perempuan di kawasan industri, terutama di KBN Cakung karena banyaknya pelanggaran yang terjadi di KBN Cakung, seperti upah di bawah ketentuan, penyimpangan kontrak dan pelecehan seksual di tempat kerja.
+
 **3. Indikator sukses anda dalam permohonan hibah**
 
 Untuk mengukur keberhasilan program maka dirumuskan hasil dan indikator sebagai berikut: Hasil yang diharapkan:
@@ -151,44 +181,79 @@ Indikator keberhasilan
 Hasil aktual hingga laporan ini dibuat:
 
 Hasil yang diharapkan:
-Terbentuknya SMS Centre Marsinah FM Menjawab
-Sudah terbentuk tapi belum efektif karena persoalan tekhnis
-Bertambahnya pengunjung channel “Lensa Buruh Perempuan” di Youtube, setiap video dilihat 50 kali dalam setahun.
-Sejauh ini, jumlah penyuka paling banyak untuk Lensa Buruh Marsinah adalah video tentang situasi banjir di KBN Cakung, sebanyak 286 kali.
 
-Sementara video lain rata – rata dilihat sebanyak 20 sampai 200an kali. Bisa dilihat di https://www.youtube.com/channel/UCivFKah0BgGuQpWPK31zpBw
-Terbentuk 12 Grup WA dan FB, dengan minimal tiap grup terdiri atas 25 orang. Grup tersebut dibangun berdasarkan 4 tema yaitu (1) Perempuan dan Kesejahteraan; (2) Perempuan, Lingkungan dan Alam; (3) Kesetaraan dalam hidup sehari-hari; (4) Kekerasan Seksual di Tempat Kerja. Tiap Tema, dibentuk 3 grup WA.
-Belum tercapai karena program ini mundur dari jadwal, dengan kesulitan dan hambatan yang sudah dijelaskan di atas.
-260 rekaman audio tentang informasi seputar (1) kesejahteraan (upah layak, hak lembur yang dibayarkan, sistem kontrak/outsourcing, hak cuti hamil dan melahirkan, penangguhan upah); (2) Kesetaraan (hak bebas dari kekerasan seksual, pelecehan seksual, Kekerasan Dalam Rumah Tangga beserta aspek hukumnya); (3) Lingkungan (hak mendapatkan akses air bersih di tempat kerja dan tempat tinggal, tempat tinggal sehat, dampak kerusakan lingkungan terhadap kesehatan reproduksi)
-Baru ada 10 paket berita Suara Buruh, setiap paket berita terdiri dari 3 berita, artinya baru 30 berita audio yang diproduksi
-20 rekaman audio karya buruh perempuan tentang Sosok Buruh Perempuan yang berani berjuang untuk upah layak, cuti hamil dan melahirkan, melawan penangguhan upah, sistem kontrak/outsourcing, melawan KDRT (Kekerasan Dalam Rumah Tangga), pelecehan seksual dan kekerasan seksual, berjuang mendapatkan air bersih di tempat kerja, akses air bersih di tempat tinggal, lingkungan tempat tinggal yang lebih sehat.
-Belum terlaksana, namun aktivitas wawancara buruh perempuan sedang berlangsung
-1 rekaman audio kumpulan pengalaman juang buruh perempuan dalam bentuk berita feature untuk memberikan informasi tentang pengalaman tiap buruh perempuan dalam mengatasi persoalannya.
-Belum terlaksana
-260 rekaman video berupa laporan terkait situasi buruh perempuan di 5 kota seputar kondisi upah, penangguhan upah, sistem kontrak, KDRT, kekerasan seksual, pelecehan seksual, lingkungan tidak sehat, akses air bersih yang minim di tempat kerja dan tempat tinggal.
-Belum terlaksana
-2 teks SMS (via SMS Centre) per hari kepada 100 buruh berisi informasi seputar hak–hak buruh perempuan (upah layak, upah lembur, hak cuti hamil dan melahirkan, KDRT, pelacehan seksual, kekerasan seksual, lingkungan tidak sehat, akses air bersih yang minim di tempat kerja dan di tempat tinggal)
-Belum berjalan, karena set up sms centre baru selesai perbaikan di bulan Maret. Sebelumnya error dan akhirnya mengirim berita via WhattsApp dan dipublikasikan di FB namun belum dihitung jumlah berita rata-rata per harinya. Berikut alamat halaman FB
-Meningkatnya jumlah pendengar radio Marsinah FM menjadi 50 orang tiap siaran di 4 bulan pertama siaran online, 100 orang di 4 bulan ke dua bersiaran online, dan 150 pendengar di 4 bulan ke tiga bersiaran online.
-Belum bisa berjalan karena radio online yang error dan baru bulan April setelah banjir selesai perbaikan. Sebelumnya berjalan lancar, kemudian error dan kini lancar lagi. Sehingga menghambat penambahan jumlah pendengar.
-1 Petisi online untuk menggalang solidaritas dan dukungan terhadap persoalan yang sedang dihadapi buruh perempuan, seperti kasus penangguhan upah dan lembur tidak dibayar yang marak menimpa buruh perempuan.
-Belum bisa berjalan karena radio online yang error dan baru bulan April setelah banjir selesai perbaikan. Sebelumnya berjalan lancar, kemudian error dan kini lancar lagi. Sehingga menghambat penambahan jumlah pendengar.
+1. Terbentuknya SMS Centre Marsinah FM Menjawab
+ Sudah terbentuk tapi belum efektif karena persoalan tekhnis
+
+2. Bertambahnya pengunjung channel “Lensa Buruh Perempuan” di Youtube, setiap video dilihat 50 kali dalam setahun.
+ Sejauh ini, jumlah penyuka paling banyak untuk Lensa Buruh Marsinah adalah video tentang situasi banjir di KBN Cakung, sebanyak 286 kali.
+ * [https://www.youtube.com/watch?v=Va5UdONZ5uc](https://www.youtube.com/watch?v=Va5UdONZ5uc)
+ * Sementara video lain rata – rata dilihat sebanyak 20 sampai 200an kali. Bisa dilihat di [https://www.youtube.com/channel/UCivFKah0BgGuQpWPK31zpBw](https://www.youtube.com/channel/UCivFKah0BgGuQpWPK31zpBw)
+ 
+3. Terbentuk 12 Grup WA dan FB, dengan minimal tiap grup terdiri atas 25 orang. Grup tersebut dibangun berdasarkan 4 tema yaitu (1) Perempuan dan Kesejahteraan; (2) Perempuan, Lingkungan dan Alam; (3) Kesetaraan dalam hidup sehari-hari; (4) Kekerasan Seksual di Tempat Kerja. Tiap Tema, dibentuk 3 grup WA.
+ Belum tercapai karena program ini mundur dari jadwal, dengan kesulitan dan hambatan yang sudah dijelaskan di atas.
+
+4. 260 rekaman audio tentang informasi seputar (1) kesejahteraan (upah layak, hak lembur yang dibayarkan, sistem kontrak/outsourcing, hak cuti hamil dan melahirkan, penangguhan upah); (2) Kesetaraan (hak bebas dari kekerasan seksual, pelecehan seksual, Kekerasan Dalam Rumah Tangga beserta aspek hukumnya); (3) Lingkungan (hak mendapatkan akses air bersih di tempat kerja dan tempat tinggal, tempat tinggal sehat, dampak kerusakan lingkungan terhadap kesehatan reproduksi)
+ Baru ada 10 paket berita Suara Buruh, setiap paket berita terdiri dari 3 berita, artinya baru 30 berita audio yang diproduksi
+
+5. 20 rekaman audio karya buruh perempuan tentang Sosok Buruh Perempuan yang berani berjuang untuk upah layak, cuti hamil dan melahirkan, melawan penangguhan upah, sistem kontrak/outsourcing, melawan KDRT (Kekerasan Dalam Rumah Tangga), pelecehan seksual dan kekerasan seksual, berjuang mendapatkan air bersih di tempat kerja, akses air bersih di tempat tinggal, lingkungan tempat tinggal yang lebih sehat.
+ Belum terlaksana, namun aktivitas wawancara buruh perempuan sedang berlangsung
+
+6. 1 rekaman audio kumpulan pengalaman juang buruh perempuan dalam bentuk berita feature untuk memberikan informasi tentang pengalaman tiap buruh perempuan dalam mengatasi persoalannya.
+ Belum terlaksana
+
+7. 260 rekaman video berupa laporan terkait situasi buruh perempuan di 5 kota seputar kondisi upah, penangguhan upah, sistem kontrak, KDRT, kekerasan seksual, pelecehan seksual, lingkungan tidak sehat, akses air bersih yang minim di tempat kerja dan tempat tinggal.
+ Belum terlaksana
+
+8. 2 teks SMS (via SMS Centre) per hari kepada 100 buruh berisi informasi seputar hak–hak buruh perempuan (upah layak, upah lembur, hak cuti hamil dan melahirkan, KDRT, pelacehan seksual, kekerasan seksual, lingkungan tidak sehat, akses air bersih yang minim di tempat kerja dan di tempat tinggal)
+ Belum berjalan, karena set up sms centre baru selesai perbaikan di bulan Maret. Sebelumnya error dan akhirnya mengirim berita via WhattsApp dan dipublikasikan di FB namun belum dihitung jumlah berita rata-rata per harinya. Berikut alamat halaman FB
+
+9. Meningkatnya jumlah pendengar radio Marsinah FM menjadi 50 orang tiap siaran di 4 bulan pertama siaran online, 100 orang di 4 bulan ke dua bersiaran online, dan 150 pendengar di 4 bulan ke tiga bersiaran online.
+ Belum bisa berjalan karena radio online yang error dan baru bulan April setelah banjir selesai perbaikan. Sebelumnya berjalan lancar, kemudian error dan kini lancar lagi. Sehingga menghambat penambahan jumlah pendengar.
+
+10. 1 Petisi online untuk menggalang solidaritas dan dukungan terhadap persoalan yang sedang dihadapi buruh perempuan, seperti kasus penangguhan upah dan lembur tidak dibayar yang marak menimpa buruh perempuan.
+ Belum bisa berjalan karena radio online yang error dan baru bulan April setelah banjir selesai perbaikan. Sebelumnya berjalan lancar, kemudian error dan kini lancar lagi. Sehingga menghambat penambahan jumlah pendengar.
+
+Indikator keberhasilan:
+
+1. Terselenggaranya konferensi perwakilan 5 kota sebagai bagian dari proses grup di WA dan FB.
+ Belum terselenggara, namun sudah berlangsung satu kali konferensi perempuan pekerja berbasiskan jaringan awal dan menghasilkan kesepakatan untuk membentuk grup diskusi media sosial Cuma belum berjalan.
+
+2. Terbentuk 3 koresponden Marsinah FM (teks, audio video) di setiap 5 kota yang mengirimkan rekaman (teks, audio, video) berisi informasi di kotanya seputar kesejahteraan (Upah layak, penangguhan upah, cuti hamil dan melahirkan, sistem kontrak/outsourcing); kesetaraan (KDRT, pelecehan seksual, kekerasan seksual), lingkungan (akses air bersih di tempat kerja dan tempat tinggal, lingkungan sehat)
+ Belum tercpai. Radio online yang belum berjalan, proses web yang lambat dan problem lainnya akhirnya membuat proses merekrut 3 koresponden Marsinah FM juga terhambat.
+
+3. Terbentuk 1 CD/DVD kumpulan pengalaman buruh perempuan yang pernah berjuang melawan upah murah, penangguhan upah, sistem kontrak, memperoleh cuti hamil dan melahirkan, melawan KDRT, pelecehan seksual dan kekerasan seksual, memperoleh akses air besih di tempat kerja dan tempat tinggal . CD ini digandakan menjadi 500 keping dan didistribusikan ke 500 buruh di 5 kota.
+ Belum tercapai
+
+4. 1 CD/DVD kumpulan rekaman audio 20 sosok buruh perempuan yang berani melawan dan digandakan sebanyak 500 keping untuk 500 buruh di 5 kota.
+ Belum tercapai
+
+5. 5000 tanda tangan dukungan di petisi online mendukung dan bersolidaritas atas kasus yang menimpa buruh perempuan.
+ Belum tercapai
 
 **4. Tujuan dan Sasaran**
 
-Silahkan anda jelaskan apa yang telah anda berhasil peroleh dengan hibah ini yang berkaitan dengan tujuan yang lebih besar yang anda harapkan dapat anda capai Sasaran-sasaran yang diharapkan dapat dicapai:
+Silahkan anda jelaskan apa yang telah anda berhasil peroleh dengan hibah ini yang berkaitan dengan tujuan yang lebih besar yang anda harapkan dapat anda capai.
 
+**Tujuan pada proposal**
 
+a. 4000 buruh perempuan di Indonesia, terutama di 5 kota (Jakarta, Tangerang, Surakarta, Semarang, Sidoarjo dan sekitarnya) mendapatkan informasi tentang hak seputar kesejahteraan, yakni upah layak, hak lembur yang dibayarkan, sistem kontrak/outsourcing, hak cuti hamil dan melahirkan, penangguhan upah.
 
-Tujuan yang berhasil dicapai hingga saat ini:
+b. 4000 buruh perempuan di Indonesia, terutama di 5 kota (Jakarta, Tangerang, Surakarta, Semarang, Sidoarjo dan sekitarnya) mendapatkan informasi tentang hak seputar kesetaraan, yakni tentang upah layak dan setara, bebas dari kekerasan seksual dan pelecehan seksual, penanganan KDRT (Kekerasan Dalam Rumah Tangga) beserta aspek hukumnya.
+
+c. 4000 buruh perempuan di Indonesia, terutama di 5 kota (Jakarta, Tangerang, Surakarta, Semarang, Sidoarjo dan sekitarnya) mendapatkan informasi tentang hak seputar lingkungan, yakni tentang hak mendapatkan akses air bersih di tempat kerja, minum air bersih, tempat tinggal sehat, dampak lingkungan terhadap kesehatan reproduksi.
+
+d. 4000 buruh perempuan di Indonesia, terutama di 5 kota (Jakarta, Tangerang, Surakarta, Semarang, Sidoarjo dan sekitarnya) mendapatkan informasi tentang berbagai sosok buruh perempuan yang berani berjuang untuk upah layak, melawan penangguhan upah, KDRT, kekerasan seksual dan pelecehan seksual, akses air bersih di tempat kerja dan tempat tinggal, lingkungan sehat.
+
+e. 4000 buruh perempuan di Indonesia, terutama di 5 kota (Jakarta, Tangerang, Surakarta, Semarang, Sidoarjo dan sekitarnya) saling memberi solidaritas dan dukungan ketika menghadapi persoalan sebagai buruh perempuan, di tempat kerja, keluarga, masyarakat.
+
+**Sasaran pada proposal**
+
+Buruh Perempuan di Indonesia, terutama di 5 kota yakni (1) Jakarta dan sekitarnya ; (2) Tangerang dan sekitarnya; (3) Surakarta dan sekitarnya; (4) Semarang dan sekitarnya; (5) Sidoarjo dan sekitarnya
+
+Tujuan dan sasaran yang berhasil dicapai hingga saat ini:
 
 Tujuan dan sasaran yang baru dicapai masih sebatas Jakarta, artinya belum ada perluasan dari sasaran sebelumnya
-
-* Perubahan Lingkup Organisasi/ Lingkungan Sekitar
-
-Tolong jabarkan perubahan perubahan signifikan yang organisasi anda dapatkan yang memiliki dampak pada pekerjaan anda pada periode pelaporan yang anda lakukan untuk saat ini. Masukkan secara deskriptif bagaimana anda menangani perubahan perubahan tersebut dan bagaimana perencanaan anda berubah sebagai hasilnya.
-
-* Tidak ada perubahan signifikan dari pekerjaan yang kami lakukan, karena secara organisasi Forum Lenteng telah menyiapkan program ini jauh-jauh hari.
 
 **5. Perubahan Lingkup Organisasi/ Lingkungan Sekitar**
 
