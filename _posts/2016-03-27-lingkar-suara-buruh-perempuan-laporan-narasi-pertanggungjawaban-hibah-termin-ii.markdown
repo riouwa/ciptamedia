@@ -205,7 +205,7 @@ Indikator keberhasilan:
 
 1. Tulisan informasi tentang Kespro, KDRT, pengasuhan anak, hak normatif buruh perempuan, kekerasan seksual di tempat kerja, tuntutan dan alasan kesejahteraan buruh 
 
-**Ukuran **
+**Ukuran**
 
 lima (5) tulisan dalam dua bulan 
 
