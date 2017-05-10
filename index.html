@@ -156,7 +156,7 @@ Hibah ini bertujuan untuk memberi rasa aman bagi seniwati, seniman, dan pejuang 
         </div>
         
         <div class="row">
-        {% for post in site.posts limit:8 %}
+        {% for post in site.posts%}
 	{% unless post.categories contains 'laporan' %}
 	{% assign loopindex = forloop.index %}
             <div class="col-md-6">
