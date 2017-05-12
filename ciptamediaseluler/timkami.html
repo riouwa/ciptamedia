@@ -27,7 +27,7 @@ layout: info
                             <img class="img-responsive" src="{{ timcms.foto }}">
                         </div>
                         
-                        <div class="card-content" style="height:310px;">
+                        <div class="card-content" style="height:360px;">
                             <h2>{{ timcms.name }}</h2>
                             <br/>
                             {% for timcms in timcms.posisi %}
@@ -36,12 +36,32 @@ layout: info
                             <hr>
                             {{ timcms.bio | truncatewords:20 }}
                             <hr>
-                            <a href="#">selengkapnya</a>
+                            <a data-toggle="modal" data-target="#{{ timcms.name | remove: " " }}">selengkapnya</a>
                         </div>
                     </div>
                 </div>
             </div>
 
+        </div>
+        
+        <div id="{{ timcms.name | remove: " " }}" class="modal fade" role="dialog">
+            <div class="modal-dialog">
+
+            <!-- Modal content-->
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal">&times;</button>
+                        <h4 class="modal-title">Modal Header</h4>
+                    </div>
+                    <div class="modal-body">
+                        <p>{{ timcms.bio }}</p>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                    </div>
+                </div>
+
+            </div>
         </div>
             {% assign ifindex = counter | modulo: 4 %}
             {% if ifindex == 0 %}
