@@ -24,10 +24,10 @@ layout: info
                 <div class="col-sm-12">
                     <div class="card">
                         <div class="card-image">
-                            <img class="img-responsive" src="{{ timcms.foto }}">
+                            <img class="img-responsive center-block" src="{{ timcms.foto }}">
                         </div>
                         
-                        <div class="card-content" style="height:360px;">
+                        <div class="card-content">
                             <h2>{{ timcms.name }}</h2>
                             <br/>
                             {% for timcms in timcms.posisi %}
@@ -51,13 +51,20 @@ layout: info
                 <div class="modal-content">
                     <div class="modal-header">
                         <button type="button" class="close" data-dismiss="modal">&times;</button>
-                        <h4 class="modal-title">Modal Header</h4>
+                        <h4 class="modal-title">{{ timcms.name }}</h4>
                     </div>
                     <div class="modal-body">
-                        <p>{{ timcms.bio }}</p>
+                        <div class="row">
+                            <div class="col-sm-4">
+                                <img class="img-responsive center-block" src="{{ timcms.foto }}">
+                            </div>
+                            <div class="col-sm-8">
+                                <p>{{ timcms.bio }}</p>
+                            </div>
+                        </div>
                     </div>
                     <div class="modal-footer">
-                        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                        <button type="button" class="btn btn-default" data-dismiss="modal">Tutup</button>
                     </div>
                 </div>
 
