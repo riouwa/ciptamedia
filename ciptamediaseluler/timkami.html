@@ -15,7 +15,7 @@ layout: info
 
     <div class="row m-b-lg">
         <br/>
-        {% for member in site.data.members %}
+        {% for timcms in site.data.timcms %}
         {% assign counter = counter | plus: 1 %}
         <div class="col-md-3 m-b-lg">
 
@@ -24,15 +24,17 @@ layout: info
                 <div class="col-sm-12">
                     <div class="card">
                         <div class="card-image">
-                            <a href="{{ member.halaman }}"><img class="img-responsive" src="{{ member.foto }}"></a>
+                            <img class="img-responsive" src="{{ timcms.foto }}">
                         </div>
                         
                         <div class="card-content" style="height:170px;">
-                            <a href="{{ member.halaman }}"><h2>{{ member.name }}</h2></a>
+                            <h2>{{ timcms.name }}</h2>
                             <br/>
-                            {% for member in member.posisi %}
-                                <h4>{{ member }}</h4>
+                            {% for timcms in timcms.posisi %}
+                                <h4>{{ timcms }}</h4>
                             {% endfor %}
+                            <hr>
+                            {{ timcms.bio | truncatewords:20 }}
                         </div>
                     </div>
                 </div>
