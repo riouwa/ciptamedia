@@ -27,7 +27,8 @@ layout: laporancmb
 * [Dona](http://wiki.ciptamedia.org/wiki/Dona)
 * [Atin](http://wiki.ciptamedia.org/wiki/Atin)
 * [Richi](http://wiki.ciptamedia.org/wiki/Richi)
-* [Ampi](http://wiki.ciptamedia.org/wiki/30_orang)
+* [Ampi](http://wiki.ciptamedia.org/wiki/Ampi)
+* [30 orang](http://wiki.ciptamedia.org/wiki/30_orang)
 
 
 **Ringkasan** : 
