@@ -17,7 +17,7 @@ layout: laporancmb
 
 **Alamat** : Kompleks Depdikbud Kavling B5, No.20 Pejaten Barat, Pasar Minggu
 
-**Jam** :10:00 WIB - 17:00 WIB
+**Jam** : 10:00 WIB - 17:00 WIB
 
 **Hadir** : 
 * [Dian Septi Trisnanti](http://wiki.ciptamedia.org/wiki/Dian_Septi_Trisnanti)
