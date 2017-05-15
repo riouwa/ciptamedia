@@ -25,7 +25,7 @@ layout: laporancmb
 
 **Hadir** : 
 * [Dias](http://wiki.ciptamedia.org/wiki/Dias)
-* [Cimol](http://wiki.ciptamedia.org/wiki/Memey)
+* [Cimol](http://wiki.ciptamedia.org/wiki/Cimol)
 
 **Ringkasan** : 
 * Tema perempuan pelita kali ini adalah SK. Trimurti, yang merupakan aktivis buruh perempuan dan menteri perburuhan pertama di Indonesia
