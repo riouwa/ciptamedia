@@ -24,7 +24,7 @@ layout: laporancmb
 *	Nanang Setiawan
 
 **Ringkasan** :	
-Untuk koordinasi awal setelah pengumuman penerima hibah dari Ciptamedia diadakan rapat anggota 1000guru Kediri dengan agenda sebagai berikut :
+* Untuk koordinasi awal setelah pengumuman penerima hibah dari Ciptamedia diadakan rapat anggota 1000guru Kediri dengan agenda sebagai berikut :
 *	Informasi seputar Cipta Media Bersama dan Hpku Teman Belajarku
 *	Paparan rencana kegiatan selama satu tahun
 *	Paparan rencana dan pelaksanaan pelatihan pelaksana
