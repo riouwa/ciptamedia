@@ -690,7 +690,8 @@
       Sebuah proyek pembelajaran klasikal secara marathon di setiap komunitas dengan durasi 2 JP/sesi
   lokasi: Bandung, Jawa Barat
   tipe: retas
-  seleksi: false
+  seleksi: true
+  publik: true
   gambar: /static/img/hibahcmb/069.png
   link: /hibahcmb/069
      
@@ -810,7 +811,7 @@
       Pelatihan penggunaan aplikasi android tingkat dasar
   lokasi: DKI Jakarta
   tipe: adil
-  seleksi: false
+  seleksi: true
   gambar: /static/img/hibahcmb/081.png
   link: /hibahcmb/081  
          
@@ -860,7 +861,7 @@
       Sebuah proyek untuk mendata jumlah abuse internet (security insiden) yang terjadi di Indonesia
   lokasi: Bandung, Jawa Barat
   tipe: pantau
-  seleksi: false
+  seleksi: true
   gambar: /static/img/hibahcmb/086.png
   link: /hibahcmb/086  
                
@@ -1240,7 +1241,7 @@
       KBR68H melalui situs www.kbr68h.com akan memfasilitasi ratusan radio daerah yang tergabung dalam jaringannya untuk membuat atau mengaktifkan (bagi yang sudah memiliki) situs web mereka. Di situs-situs web itu, masing-masing radio bisa meng-update program-program siaran sekaligus mengisinya dengan konten-konten lokal. Selain itu, situs-situs radio daerah ini bisa memperoleh news-feed dari konten yang tersedia dari www.kbr68h.com secara gratis. Dengan fasilitas ini, pertukaran informasi antardaerah maupun antara pusat-daerah dan sebaliknya tak hanya dilakukan melalui siaran radio, melainkan juga melalui satu portal internet secara dinamis
   lokasi: Jakarta Pusat, DKI Jakarta
   tipe: retas
-  seleksi: false
+  seleksi: true
   gambar: /static/img/hibahcmb/124.png
   link: /hibahcmb/124  
                                        
@@ -1500,7 +1501,7 @@
       Proyek pembuatan aplikasi untuk keperluan edukasi sebagai tools presentasi, game, kreatifitas, fun, learning tool & Digital Multimedia Book dengan basis Apple, Android dan Java
   lokasi: DI Yogyakarta
   tipe: bebas
-  seleksi: false
+  seleksi: true
   gambar: /static/img/hibahcmb/150.png
   link: /hibahcmb/150
                                            
@@ -2086,7 +2087,8 @@
       Meningkatnya keinginan menulis masyarakat Indonesia dari berbagai rentang usia dan latar belakang pendidikan menimbulkan kebutuhan ruang belajar, informasi dan tutorial yang bisa didapatkan kapan saja, di mana saja dan gratis! Para calon penulis memerlukan bimbingan dari mereka yang telah terjun lebih dahulu atau punya pengalaman di dunia tulis menulis. Setelah bisa menulis, para penulis baru itu juga perlu ruang untuk menuliskan hasil belajar mereka. Forumlingkarpena.net dalam perkembangan nantinya membagi halaman situsnya menjadi: Tips Menulis (berbagai trik dan tips menulis), Ruang Karya (halaman bagi anggota situs untuk menulis), Kegiatan Menulis (berbagai informasi acara kepenulisan luar dan dalam negeri), Lomba (Kompetisi Menulis), Bacaan Penunjang (berbagai buku atau bacaan untuk asupan menulis), Dokumentasi Media (karya-karya yang dimuat media massa cetak/elektronik), Pelatihan (ruang untuk belajar menulis online/daring) yang sekaligus berfungsi sebagai SEKOLAH MENULIS ONLINE untuk anggota Forum Lingkar Pena yang saat ini beranggotakan lebih dari 5000 orang di cabang 30 propinsi dan luar negeri (Arab Saudi, Jepang, Sudan, Mesir, Hongkong, Malaysia, Amerika/Kanada) dan masih terbuka bagi siapapun yang ingin menjadi anggota.
   lokasi: Jakarta Timur
   tipe: retas
-  seleksi: false
+  seleksi: true
+  publik: true
   gambar: /static/img/hibahcmb/207.png
   link: /hibahcmb/207
  
@@ -2146,7 +2148,8 @@
       Ketua DKM dan pengurus masjid seharusnyalah mengetahui kebutuhan warganya akan kemampuan berwirausaha dan membantu mereka mengakses dana yang dibutuhkan. Mereka bisa mengisi formulir melalui MosqueLife.Com. Selanjutnya masjid-masjid dengan dana lebih bisa mengirimkan dana ke masjid-masjid yang membutuhkan. Dana ini didorong untuk kegiatan produktif seperti peternakan dan kerajinan. Dengan peningkatan ekonomi diharapkan permasalahan kemiskinan terpenuhi dan rakyat mempunyai dana untuk membayar pendidikan, kesehatan dll.
   lokasi: Jakarta
   tipe: adil
-  seleksi: false
+  seleksi: true
+  publik: true
   gambar: /static/img/hibahcmb/213.png
   link: /hibahcmb/213 
     
@@ -2289,7 +2292,7 @@
       Sebuah program media literasi (melek media) yang mengajak perguruan tinggi terlibat aktif menjadi pengamat media, yakni dengan membuat lembaga independen yang melakukan kegiatan pemantauan media, dokumentasi (perekaman) media, pelatihan media literasi, advokasi, dan publikasi riset temuan pelanggaran media. Lembaga-lembaga yang dibentuk ini nantinya membuat jaringan media watch antar lembaga dan bersama-sama melakukan pengamatan terhadap media cetak, TV, radio dan internet, baik media lokal maupun nasional. Lembaga ini akan bekerjasama dengan KPI Pusat dan daerah, Depkominfo RI dan Dewan Pers, yang sekaligus mensosialisasikan UU no 32 tahun 2002, P3SPS, UU Pers no 40 tahun 1999
   lokasi: Malang, Jawa Timur
   tipe: pantau
-  seleksi: false
+  seleksi: true
   gambar: /static/img/hibahcmb/227.png
   link: /hibahcmb/227
         
@@ -2383,7 +2386,7 @@
       Berbarengan dengan itu ada pula kegiatan-kegiatan pendukung yang akan dilakukan, yakni menyediakan layanan bantuan kepada masyarakat terkait pemanfaatan Ambon Cyber Society, pendampingan masyarakat terkait peningkatan kemampuan dalam mengelola informasi, sambil tetap menjalankan fungsi-fungsi organisasi
   lokasi: Maluku Satu Media
   tipe: adil
-  seleksi: false
+  seleksi: true
   gambar: /static/img/hibahcmb/236.png
   link: /hibahcmb/236   
           
@@ -2820,7 +2823,7 @@
       Misi komikoo.com adalah membantu komikus mempublikasikan karyanya dan pada akhirnya membuat komik Indonesia menjadi tuan rumah di negeri sendiri. Komikoo.com berniat membangun sebuah platform dimana para komikus dan para pecinta komik dapat berdiskusi secara langsung, membentuk sebuah komunitas yang kuat, dan melakukan aktifitas ekonomi (jual-beli) dengan nyaman dan adil. Komikoo.com adalah situs komik karya member pertama yang memberikan kesempatan untuk para komikus mempublikasikan karyanya. Setiap komikus dipersilakan untuk mengupload karyanya walaupun saat ini sudah ada situs komik lain yang menyalin fitur-fiturnya, namun komikoo.com tetap konsisten dalam menjalankan misinya
   lokasi: Bandung, Jawa Barat
   tipe: retas
-  seleksi: false
+  seleksi: true
   gambar: /static/img/hibahcmb/279.png
   link: /hibahcmb/279  
               
@@ -3226,7 +3229,8 @@
       Target dari proyek ini terciptanya budaya yang sehat dalam pemanfaatan Hp utamanya di lingkungan pendidikan, tidak adalagi pelarangan pemanfaatan Hp di lembaga pendidikan yang sudah siap, dan terciptanya 1000 konten video pembelajaran berformat 3gp
   lokasi: Kediri
   tipe: bebas
-  seleksi: false
+  seleksi: true
+  publik: true
   gambar: /static/img/hibahcmb/318.png
   link: /hibahcmb/318 
      
@@ -3324,7 +3328,7 @@
       Sebuah proyek publikasi hasil survey persepsi wartawan Indonesia terhadap Islam pada tahun 2009, update publikasi tersebut, pembuatan buku covering Islam, dan penguatan NU online. Media dalam memberitakan Lapindo sangat bias apalagi medianya Bakrie. Karenanya perlu ada media watch untuk kasus Lapindo.
   lokasi: Kebayoran Lama, Jakarta Selatan
   tipe: pantau
-  seleksi: false
+  seleksi: true
   gambar: /static/img/hibahcmb/327.png
   link: /hibahcmb/327 
        
@@ -3386,7 +3390,7 @@
       Tujuan majalah Bhinneka adalah mengubah cara berpikir masyarakat. Karenanya, kami ingin mendapat pembaca sebanyak mungkin dengan membagikannya gratis dan menyebarluaskann melalui internet. Dengan strategi ini, kami berharap bisa mempengaruhi pola pikir masyarakat secara tidak langsung, sehingga mereka berangsur mempertanyakan pola-pola baku yang mereka imani.
   lokasi: Surabaya, Jawa Timur
   tipe: retas
-  seleksi: false
+  seleksi: true
   gambar: /static/img/hibahcmb/333.png
   link: /hibahcmb/333  
                                                                        
@@ -3543,7 +3547,7 @@
       KNR dikelola oleh tim media Posko Keselamatan Korban Lapindo, Porong, Sidoarjo. KBT FM dikelola pemuda/i Desa Besuki Timur. KNR telah melakukan berbagai kerjasama di antaranya dengan Yayasan Tifa, Lapis Budaya, Walhi Jawa Timur, Air Putih, MediaLink dan Combine Resource Institute.
   lokasi: Porong Sidoarjo, Jawa Timur
   tipe: retas
-  seleksi: false
+  seleksi: true
   gambar: /static/img/hibahcmb/348.png
   link: /hibahcmb/348  
       
@@ -3563,7 +3567,7 @@
       Proyek akan terbagi beberapa bagian. Pemantauan media adalah satu dari beberapa kegiatan yang akan dijalankan. Sistem pemantauan dilakukan secara berskala atau tergantung dari isu yang ada. Selain pemantauan media juga dilakukan diskusi terbatas untuk memberikan pencerahan dan pemahaman terhadap etika pemberitaan syariat Islam di Aceh. kegiatan lainnya pemberian penghargaan kepada jurnalis dan media yang melakukan liputan dan pemberitaan yang profesional dan proporsional. menghormati HAM dan tidak bisa terhapa pelaku atau korban terhadap pelanggaran syariat Islam
   lokasi: Banda Aceh
   tipe: pantau
-  seleksi: false
+  seleksi: true
   gambar: /static/img/hibahcmb/350.png
   link: /hibahcmb/350    
          
@@ -3917,7 +3921,8 @@
       Writing Revolution telah memiliki jaringan yang sangat luas dengan anggota berasal dari hampir seluruh kota di Indonesia serta luar negeri. Dengan adanya jaringan yang luas ini, diharapkan program pendampingan menulis dan membaca akan lebih efektif dan tepat sasaran dengan hasil yang lebih maksimal.
   lokasi: Pekanbaru, Riau
   tipe: adil
-  seleksi: false
+  seleksi: true
+  publik: true
   gambar: /static/img/hibahcmb/384.png
   link: /hibahcmb/384 
                                  
@@ -4320,7 +4325,7 @@
       Radio Buruh Perempuan di Semper Jakarta Utara adalah program komunitas yang menarik dan bermanfaat karena dapat memberi informasi, membangun kesadaran dan keberanian, menjadi media interaksi dan partisipasi, khususnya bagi sekitar 100.000 perempuan yang bekerja di Kawasan Berikat Nusantara Cakung yang hampir keseluruhan tinggal di daerah Semper. Di tengah kebisuan perempuan buruh yang punya pengalaman diskriminasi dan pelecehan di tempat kerja, keluarga dan di masyarakat. Radio Buruh Perempuan ini akan dikelola oleh buruh perempuan, memuat kepentingan dan pengalaman sehari-hari, menjadi media pelatihan, ekspresi dan komunikasi, sekaligus membangun keberanian dan partisipasi setiap buruh untuk menyuarakan kepentingannya sebagai perempuan. Dipadukan dengan penggunaan HandPhone, keberadaaan Radio Buruh Perempuan ini sekaligus sebagai posko pengaduan dan pusat informasi bagi buruh perempuan. Media hiburan dan sekaligus advokasi perempuan buruh, kenapa tidak?
   lokasi: Jakarta Utara, Jakarta
   tipe: adil
-  seleksi: false
+  seleksi: true
   gambar: /static/img/hibahcmb/423.png
   link: /hibahcmb/423   
                       
@@ -5202,7 +5207,7 @@
       3. Kerjasama dengan pemda dan atau dinas terkait
   lokasi: Kendari, Sulawesi Tenggara
   tipe: adil
-  seleksi: false
+  seleksi: true
   gambar: /static/img/hibahcmb/505.png
   link: /hibahcmb/505 
                        
@@ -5489,7 +5494,7 @@
       KeberadaanIni merupakan proyek penerbitan media online INDEPENDEN yang dulu berbentuk majalah dan terbit -underground- pada zaman Orde Baru. Majalah ini sempat vakum selama beberapa tahun. INDEPENDEN Online akan dihidupkan lagi dalam format baru, sebagai media kampanye kebebasan pers dan pemantau etika jurnalisme. Konten media ini meliputi liputan mendalam (in-depth) tema kebebasan media dan pelanggaran etika jurnalistik dalam era media baru. Media ini dirancang dengan konsep mingguan online dilengkapi ulasan pakar dan praktisi media dalam dan luar negeri. INDEPENDEN Online akan mengulas berbagai perkembangan media baru yang melahirkan masalah baru seperti penggunaan media sosial sebagai sumber berita, dikorbankannya akurasi demi kecepatan, pelanggaran hak cipta seperti pengambilan gambar, pengutipan, dan plagiarisme oleh media online. Media INDEPENDEN juga didesain dalam aplikasi-mobile dan memiliki fitur interaktif.
   lokasi: DKI Jakarta
   tipe: bebas
-  seleksi: false
+  seleksi: true
   gambar: /static/img/hibahcmb/532.png
   link: /hibahcmb/532
                             
@@ -5569,7 +5574,7 @@
       50+ komunitas Gusdurian di >30 kota di Indonesia saat ini menjadi motor penggerak/penguat forum-forum persaudaraan lintas iman, yang mati suri sejak tahun 2005 ketika Pemerintah ‘menasionalisasi’ forum kerukunan umat beragama (FKUB). Semangat menabur benih menuai persaudaraan kembali digaungkan dengan strategi dialog karya pengejawantahan nilai-nilai Pancasila secara riil, utamanya melalui program-program lokal. Semua ini merupakan upaya pemulihan dari kekalahan identitas Indonesia saat ini atas identitas alternatif yang secara progresif dikampanyekan dalam dua dasawarsa terakhir. Sikap penuh prasangka antar kelompok, pendekatan kekerasan, dan rentannya solidaritas sosial adalah wujud kekalahan tersebut. Ide proyek ini adalah memperkuat kampanye Bhinneka Tunggal Ika secara nasional dengan mendorong dan memperkuat upaya forum-forum persaudaraan menyuguhkan warta kebhinnekaan lokal melalui medium internet secara tersindikasi. Bila warta bernafas kearifan lokal ini semakin membanjir melalui internet, kesamaan tujuan berbangsa dan bernegara diharapkan semakin menguat.
   lokasi: Jakarta Selatan
   tipe: retas
-  seleksi: false
+  seleksi: true
   gambar: /static/img/hibahcmb/540.png
   link: /hibahcmb/540
                              
@@ -5682,7 +5687,7 @@
       Ibu rumah tangga di perdesaan menjadi kelompok paling rentan yang menjadi “korban” TV melalui tayangan gosip dan sinetron. Mereka menjadi lebih peduli terhadap perkembangan cerita sinetron dan kasus artis ketimbang memikirkan solusi kelangkaan minyak tanah yang menyebabkan uang belanja dapur mereka menipis. Keberadaan radio komunitas (rakom) di perdesaan dapat menjadi jembatan bagi ibu rumah tangga dan masyarakat dalam mengkritisi media TV. Dengan rakom, ibu rumah tangga dapat menyampaikan keluhan dan protesnya terhadap tayangan TV. Dalam hal ini rakom menginisiasikan adanya program siaran khusus untuk ibu rumah tangga bersuara tentang keluhan/protes tayangan TV, ruang ekspresi dan ajang “cari solusi” bagi masalah yang mereka hadapi. Selain itu, rakom berperan mendidik ibu rumah tangga perdesaan “melek” media untuk meliterasi media. Sebagai strategi memperkuat, rakom dapat menjembatani peran pemerintah di perdesaan. Rakom dan pemerintah dapat mendorong adanya 1 jam khusus untuk mematikan TV dan mengisinya dengan kegiatan “belajar” yang bertujuan menggali potensi perdesaan dan ibu rumah tangga.
   lokasi: Bandar Lampung
   tipe: pantau
-  seleksi: false
+  seleksi: true
   gambar: /static/img/hibahcmb/551.png
   link: /hibahcmb/551 
 
@@ -5794,7 +5799,7 @@
       Sekolah Fundraising PIRAC berikhtiar untuk membantu mengatasi persoalan pendanaan media komunitas dengan mengembangkan beragam skema pendanaan dan strategi mobilisasi sumber daya yang inovatif untuk keberlanjutan media komunitas. Upaya ini juga dibarengi dengan peningkatan kapasitas dan akuntabilitas para pengelola media komunitas dalam memobilisasi sumber daya. Pada saat yang sama, juga dilakukan pendampingan untuk membantu mereka dalam melakukan fundraising dan mengalang kemitraan dengan para mitra dan donatur potensial yang berasal dari perusahaan, yayasan amal/filantropi, dan pemerintah.
   lokasi: Depok, Jawa Barat
   tipe: retas
-  seleksi: false
+  seleksi: true
   gambar: /static/img/hibahcmb/562.png
   link: /hibahcmb/562
     
@@ -5831,7 +5836,7 @@
       Untuk mewujudkan ISAD, RESPECTA akan menyelenggarakan Indonesian Street Art Awards (ISAA), sebuah penghargaan yang diberikan kepada para pelaku street art baik dari dalam maupun luar negeri yang berkarya di Indonesia. Apresiasi juga diberikan kepada mereka yang bukan street artists namun intens mendokumentasikan aktivitas street art di Indonesia (dalam bentuk foto, video, audio, dan teks). Data yang diterima akan disimpan dalam ISAD untuk kemudian dikembangkan ke dalam berbagai program produksi pengetahuan, seperti penerbitan buku, jurnal, workshop, dan festival.
   lokasi: Jakarta
   tipe: retas
-  seleksi: false
+  seleksi: true
   gambar: /static/img/hibahcmb/564.png
   link: /hibahcmb/564
     
@@ -5898,7 +5903,8 @@
       Penggerak proyek ini adalah komunitas berbasis IT yang terdiri dari kaum muda tunanetra. Oleh karena itu, realisasi hasil dari proyek ini akan lebih efisien karena pelaksana adalah para pemuda yang penuh semangat, inovatif serta sangat memahami isu yang diperjuangkan.
   lokasi: DKI Jakarta
   tipe: retas
-  seleksi: false
+  seleksi: true
+  publik: true
   gambar: /static/img/hibahcmb/571.png
   link: /hibahcmb/571
        
@@ -5991,7 +5997,7 @@
       3. Kerjasama dengan pihak lain dalam bentuk pesan layanan masyarakat melalui SMS broadcast
   lokasi: Bantul, Yogyakarta
   tipe: adil
-  seleksi: false
+  seleksi: true
   gambar: /static/img/hibahcmb/579.png
   link: /hibahcmb/579   
                
@@ -6180,7 +6186,7 @@
       Next G, berusaha memantau video games, menganalisisnya, memberinya label (ratting), dan mempublikasikan hasilnya. Berbeda dengan para ‘watcher’ lainnya, Next G tidak memiliki ‘peluit’ apalagi ‘kentongan’ berupa regulasi. Bagi Next G, hal itu akan sangat sulit, karena itu jalur pendidikan (literasi media) menjadi pilihan. Next G tidak akan menegur para publisher/ developer video games bila ternyata permainan mereka ‘sakit’. Tapi, pendekatan akan dilakukan pada user (biasanya anak-anak) dan para pendidik (orang tua dan guru) agar lebih ‘melek’ media –khususnya video games.
   lokasi: Bandung
   tipe: pantau
-  seleksi: false
+  seleksi: true
   gambar: /static/img/hibahcmb/597.png
   link: /hibahcmb/597 
                                  
@@ -6301,7 +6307,7 @@
       Namun demikian, perubahan signifikan ini belum sepenuhnya diikuti dengan meningkatnya pemahaman publik pada umumnya, tentang pentingnya perlindungan hak asasi. Ini dikarenakan minimnya sumber yang dapat diakses dan dapat dimengerti publik secara mudah. Diskursus hak asasi, baik teori, instrumen maupun implementasi, hanya dipahami oleh sekelompok orang semata, khususnya mereka para aktivis hak asasi manusia. Untuk itu, kegiatan ini menjadi penting dalam rangka mempromosikan hak asasi manusia di kalangan warga pada umumnya. Kegiatan ini diharapkan akan memperbanyak konten lokal tentang hak asasi manusia dari beragam sudut pandang, sehingga memperbanyak sumber pengetahuan tentang HAM, dan semakin banyak orang memahami apa itu HAM. Selain itu, dengan banyaknya pihak yang terlibat dalam promosi hak asasi, juga akan menjadikan nilai-nilai HAM dimengerti sebagai nilai-nilai kewargaan yang dapat dipahami secara umum.
   lokasi: Jakarta
   tipe: bebas
-  seleksi: false
+  seleksi: true
   gambar: /static/img/hibahcmb/608.png
   link: /hibahcmb/608 
         
@@ -6531,7 +6537,7 @@
       Proyek ini adalah sebuah proyek pembuatan feature dokumenter yang akan bercerita tentang bagaimana pers Indonesia bekerja dalam melakukan pemberitaan. Film ini akan terbagi dalam dua fase. Fase pertama yaitu 4 tahun lalu, tepatnya bulan Januari 2008 dimana kebetulan saya berada di tengah ratusan wartawan dalam dan luar negeri yang melakukan reportase krisisnya mantan presiden indonesia, diktator soeharto, sampai dengan ia meninggal – dan kebetulan saya melakukan pengambilan gambar seputar kinerja mereka. Berita tentang soeharto bukan hanya mendominasi pemberitaan media selama lebih dari 3 minggu berturut-turut tapi juga membuat hilang berita-berita yang seharusnya lebih penting untuk diangkat, waktu itu. Adapun fase kedua adalah 4 tahun kemudian atau bagaimana pers saat ini. Masihkah kinerjanya sama? (cenderung tertarik pada kontroversi). Untuk siapakah sebenarnya pers dan jurnalisme di Indonesia bekerja? Bagaimanakah kini wajah pers kita di era dimana internet memungkinkan komunitas atau seseorang yang memiliki laptop dan modem bisa mengklaim diri melakukan kerja jurnalisme dan masyarakat lebih percaya pada mereka daripada dengan pers? Masih perlukah sensor? Sadarkah para jurnalis tersebut kalau warga memperhatikan dan menilai kinerja mereka?
   lokasi: Jakarta
   tipe: bebas
-  seleksi: false
+  seleksi: true
   gambar: /static/img/hibahcmb/629.png
   link: /hibahcmb/629  
                           
@@ -6841,7 +6847,7 @@
       2. Video wawancara perspektif wartawan peliput kasus minoritas
   lokasi: Jawa Barat
   tipe: pantau
-  seleksi: false
+  seleksi: true
   gambar: /static/img/hibahcmb/655.png
   link: /hibahcmb/655  
            
@@ -7553,7 +7559,7 @@
       Proyek aldepe.com ini juga akan mensupport kerja-kerja advokasi HAM yang dilakukan ALDP serta NGO lainnya di Papua.
   lokasi: Papua
   tipe: adil
-  seleksi: false
+  seleksi: true
   gambar: /static/img/hibahcmb/712.png
   link: /hibahcmb/712
 
@@ -7563,7 +7569,7 @@
       Report2DewanPers adalah sistem pelaporan ke Dewan Pers yang diintegrasikanke seluruh media siber (website berita) di Indonesia, baik nasional maupun lokal. Dengan sistem ini, maka dalam setiap halaman berita website berita akan terdapat tombol “Lapor ke Dewan Pers” (report2dewanpers). Mirip seperti tombol Facebook atau Twitter yang tersebar di berbagai macam website.
   lokasi: DKI Jakarta
   tipe: pantau
-  seleksi: false
+  seleksi: true
   gambar: /static/img/hibahcmb/713.png
   link: /hibahcmb/713
   
@@ -7628,7 +7634,7 @@
       Proyek ini berbentuk Fasiliasi komunitas bloger perbatasan Kalimantan Barat, untuk menyuarakan permasalahan-permalahan perbatasan langsung dari warga, terutama untuk early warning sistem. Para blogger di perbatasan bisa melaporkan langsung melalui teknologi HP (dengan SMS pendek dengan unsure 5W+H) atau membulish-nya di situs blog pribadi yang langsung terintegrasi pada aggregate situs blog komunitas perbatasan. Aktivitas proyek ini berupa pelatihan blog dan jurnalisme warga bagi warga perbatasan.
   lokasi: Pontianak
   tipe: adil
-  seleksi: false
+  seleksi: true
   gambar: /static/img/hibahcmb/719.png
   link: /hibahcmb/719 
    
@@ -7709,7 +7715,7 @@
       Program ini bertujuan untuk membangun Interfaith Weather Station yang akan berfungsi sebagai platform atau instrumen dalam memonitor dan menganalisis pemberitaan di tingkat nasional maupun daerah mengenai hubungan antar umat beragama di Indonesia. Tujuan dari Interfaith Weather Station ini diharapkan akan menjadi early warning signal (alat pendeteksian dini) di Indonesia dalam proses memantau dan menganalis perkembangan hubungan agama di Indonesia. Objektif lain dari program ini adalah memberikan sensitization kepada para pegiat media, baik yang profesional maupun citizens’ journalism, dalam meningkatkan kapasitas dan profesionalitas dalam pemberitaan mengenai isu-isu sensitif yang menyangkut hubungan intra maupun antar umat beragama.
   lokasi: Yogyakarta
   tipe: pantau
-  seleksi: false
+  seleksi: true
   gambar: /static/img/hibahcmb/727.png
   link: /hibahcmb/727  
         
@@ -7912,6 +7918,7 @@
   tipe: adil
   seleksi: false
   gambar: /static/img/hibahcmb/747.png
+
   link: /hibahcmb/747
                 
 - nomor: '748'
@@ -8688,4 +8695,4 @@
   tipe: retas
   seleksi: false
   gambar: /static/img/hibahcmb/823.png
-  link: /hibahcmb/823  
+  link: /hibahcmb/823
