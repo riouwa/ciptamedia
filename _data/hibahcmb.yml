@@ -4164,7 +4164,8 @@
   deskripsi: |
       Pulsa kesehatan merupakan produk sosial yang ditujukan untuk menghambat laju penularan HIV dan AIDS dengan menyediakan layanan kesehatan dan informasi bagi para perempuan yang rentan tertular Iinfeksi Menular Seksula (IMS), HIV dan AIDS sehingga rutin periksa ke klinik kesehatan, minimal sebulan sekali. Untuk mendapatkan produk pulsa kesehatan, peserta hanya perlu membayar Rp 1000,- per hari selama sebulan/30 hari. Dengan iuran harian yang terasa ringan, peserta setiap bulan dapat keuntungan berupa periksa kesehatan ke klinik yang menjadi mitra program tanpa harus membayar dan pulsa senilai Rp 10.000,- yang dikirim langsung ke hand phone-nya.
   lokasi: DKI Jakarta
-  tipe: adilseleksi: false
+  tipe: adil
+  seleksi: false
   gambar: /static/img/hibahcmb/407.png
   link: /hibahcmb/407 
             
