@@ -26,20 +26,56 @@ layout: info
         	<p>Dalam proses penilaian Tim Seleksi Awal memutuskan bahwa program hibah saja tidak cukup dalam merespon kebutuhan masyarakat untuk perbaikan media. Pembelajaran ini akan ditindak lanjuti dengan melakukan peningkatan kemampuan melalui lokakarya pelatihan media dan teknologi untuk pemohon hibah yang tertarik, serta penawaran kerjasama antar komunitas pemohon hibah lintas lokasi sehingga dapat berbagi sumberdaya dan infrastruktur.</p>
         </div>
     </div>
-    
+
+{% for hibahcmb in site.data.hibahcmb %}
+	{% if hibahcmb.tipe == 'retas' %}
+		{% assign retas = retas | plus: 1 %}
+	{% endif %}
+	{% if hibahcmb.tipe == 'retas' and hibahcmb.seleksi %}
+		{% assign counter-retas = counter-retas | plus: 1 %}
+	{% endif %}
+{% endfor %}
+	
+{% for hibahcmb in site.data.hibahcmb %}
+	{% if hibahcmb.tipe == 'adil' %}
+		{% assign retas = adil | plus: 1 %}
+	{% endif %}
+	{% if hibahcmb.tipe == 'adil' and hibahcmb.seleksi %}
+		{% assign counter-adil = counter-retas | plus: 1 %}
+	{% endif %}
+{% endfor %}
+	
+{% for hibahcmb in site.data.hibahcmb %}
+	{% if hibahcmb.tipe == 'bebas' %}
+		{% assign retas = bebas | plus: 1 %}
+	{% endif %}
+	{% if hibahcmb.tipe == 'bebas' and hibahcmb.seleksi %}
+		{% assign counter-bebas = counter-retas | plus: 1 %}
+	{% endif %}
+{% endfor %}
+	
+{% for hibahcmb in site.data.hibahcmb %}
+	{% if hibahcmb.tipe == 'pantau' %}
+		{% assign retas = pantau | plus: 1 %}
+	{% endif %}
+	{% if hibahcmb.tipe == 'pantau' and hibahcmb.seleksi %}
+		{% assign counter-pantau = counter-retas | plus: 1 %}
+	{% endif %}
+{% endfor %}
+	
     <div class="row m-b-lg">
         <div class="col-md-12">
             <h2>Permintaan Hibah</h2>
 		<div class="row m-b-lg">
 		    <h3>Meretas batas kebhinekaan bermedia</h3>
 		    <div class="col-md-3 text-center">
-		       <a href="hibahcms-retas.html" class="btn btn-danger btn-lg">Pendaftar <span class="badge">375</span></a>
+		       <a href="hibahcms-retas.html" class="btn btn-danger btn-lg">Pendaftar <span class="badge">{{ retas }}</span></a>
 		    </div>
 			<div class="col-md-1 text-center">
 				<i class="fa fa-angle-double-right fa-3x" aria-hidden="true"></i>
 			</div>
 		    <div class="col-md-3 text-center">
-		       <a href="seleksi-retas.html" class="btn btn-danger btn-lg">Seleksi Awal <span class="badge">10</span></a>
+		       <a href="seleksi-retas.html" class="btn btn-danger btn-lg">Seleksi Awal <span class="badge">{{ counter-retas }}</span></a>
 		    </div>
 			<div class="col-md-1 text-center">
 				<i class="fa fa-angle-double-right fa-3x" aria-hidden="true"></i>
@@ -53,13 +89,13 @@ layout: info
 		<div class="row m-b-lg">
 		    <h3>Keadilan dan kesetaraan akses terhadap media</h3>
 		    <div class="col-md-3 text-center">
-		       <a href="hibahcms-adil.html" class="btn btn-danger btn-lg">Pendaftar <span class="badge">274</span></a>
+		       <a href="hibahcms-adil.html" class="btn btn-danger btn-lg">Pendaftar <span class="badge">{{ adil }}</span></a>
 		    </div>
 			<div class="col-md-1 text-center">
 				<i class="fa fa-angle-double-right fa-3x" aria-hidden="true"></i>
 			</div>
 		    <div class="col-md-3 text-center">
-		       <a href="seleksi-adil.html" class="btn btn-danger btn-lg">Seleksi Awal <span class="badge">9</span></a>
+		       <a href="seleksi-adil.html" class="btn btn-danger btn-lg">Seleksi Awal <span class="badge">{{ counter-adil }}</span></a>
 		    </div>
 			<div class="col-md-1 text-center">
 				<i class="fa fa-angle-double-right fa-3x" aria-hidden="true"></i>
@@ -73,13 +109,13 @@ layout: info
 		<div class="row m-b-lg">
 		    <h3>Kebebasan dan etika bermedia</h3>
 		    <div class="col-md-3 text-center">
-		       <a href="hibahcms-bebas.html" class="btn btn-danger btn-lg">Pendaftar <span class="badge">91</span></a>
+		       <a href="hibahcms-bebas.html" class="btn btn-danger btn-lg">Pendaftar <span class="badge">{{ bebas }}</span></a>
 		    </div>
 			<div class="col-md-1 text-center">
 				<i class="fa fa-angle-double-right fa-3x" aria-hidden="true"></i>
 			</div>
 		    <div class="col-md-3 text-center">
-		       <a href="seleksi-bebas.html" class="btn btn-danger btn-lg">Seleksi Awal <span class="badge">3</span></a>
+		       <a href="seleksi-bebas.html" class="btn btn-danger btn-lg">Seleksi Awal <span class="badge">{{ counter-bebas }}</span></a>
 		    </div>
 			<div class="col-md-1 text-center">
 				<i class="fa fa-angle-double-right fa-3x" aria-hidden="true"></i>
@@ -93,13 +129,13 @@ layout: info
 		<div class="row m-b-lg">
 		    <h3>Pemantauan media</h3>
 		    <div class="col-md-3 text-center">
-		       <a href="hibahcms-pantau.html" class="btn btn-danger btn-lg">Pendaftar <span class="badge">76</span></a>
+		       <a href="hibahcms-pantau.html" class="btn btn-danger btn-lg">Pendaftar <span class="badge">{{ pantau }}</span></a>
 		    </div>
 			<div class="col-md-1 text-center">
 				<i class="fa fa-angle-double-right fa-3x" aria-hidden="true"></i>
 			</div>
 		    <div class="col-md-3 text-center">
-		       <a href="seleksi-pantau.html" class="btn btn-danger btn-lg">Seleksi Awal <span class="badge">9</span></a>
+		       <a href="seleksi-pantau.html" class="btn btn-danger btn-lg">Seleksi Awal <span class="badge">{{ counter-pantau }}</span></a>
 		    </div>
 			<div class="col-md-1 text-center">
 				<i class="fa fa-angle-double-right fa-3x" aria-hidden="true"></i>
