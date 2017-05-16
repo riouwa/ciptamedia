@@ -26,40 +26,52 @@ layout: info
         	<p>Dalam proses penilaian Tim Seleksi Awal memutuskan bahwa program hibah saja tidak cukup dalam merespon kebutuhan masyarakat untuk perbaikan media. Pembelajaran ini akan ditindak lanjuti dengan melakukan peningkatan kemampuan melalui lokakarya pelatihan media dan teknologi untuk pemohon hibah yang tertarik, serta penawaran kerjasama antar komunitas pemohon hibah lintas lokasi sehingga dapat berbagi sumberdaya dan infrastruktur.</p>
         </div>
     </div>
-
+	
 {% for hibahcmb in site.data.hibahcmb %}
 	{% if hibahcmb.tipe == 'retas' %}
 		{% assign retas = retas | plus: 1 %}
 	{% endif %}
+{% endfor %}
+	
+{% for hibahcmb in site.data.hibahcmb %}
+	{% if hibahcmb.tipe == 'adil' %}
+		{% assign adil = adil | plus: 1 %}
+	{% endif %}
+{% endfor %}
+	
+{% for hibahcmb in site.data.hibahcmb %}
+	{% if hibahcmb.tipe == 'bebas' %}
+		{% assign bebas = bebas | plus: 1 %}
+	{% endif %}
+{% endfor %}
+	
+{% for hibahcmb in site.data.hibahcmb %}
+	{% if hibahcmb.tipe == 'pantau' %}
+		{% assign pantau = pantau | plus: 1 %}
+	{% endif %}
+{% endfor %}
+	
+{% for hibahcmb in site.data.hibahcmb %}
 	{% if hibahcmb.tipe == 'retas' and hibahcmb.seleksi %}
 		{% assign counter-retas = counter-retas | plus: 1 %}
 	{% endif %}
 {% endfor %}
 	
 {% for hibahcmb in site.data.hibahcmb %}
-	{% if hibahcmb.tipe == 'adil' %}
-		{% assign retas = adil | plus: 1 %}
-	{% endif %}
 	{% if hibahcmb.tipe == 'adil' and hibahcmb.seleksi %}
-		{% assign counter-adil = counter-retas | plus: 1 %}
+		{% assign counter-adil = counter-adil | plus: 1 %}
 	{% endif %}
 {% endfor %}
 	
 {% for hibahcmb in site.data.hibahcmb %}
-	{% if hibahcmb.tipe == 'bebas' %}
-		{% assign retas = bebas | plus: 1 %}
-	{% endif %}
 	{% if hibahcmb.tipe == 'bebas' and hibahcmb.seleksi %}
-		{% assign counter-bebas = counter-retas | plus: 1 %}
+		{% assign counter-bebas = counter-bebas | plus: 1 %}
 	{% endif %}
 {% endfor %}
 	
 {% for hibahcmb in site.data.hibahcmb %}
-	{% if hibahcmb.tipe == 'pantau' %}
-		{% assign retas = pantau | plus: 1 %}
-	{% endif %}
 	{% if hibahcmb.tipe == 'pantau' and hibahcmb.seleksi %}
-		{% assign counter-pantau = counter-retas | plus: 1 %}
+		{% assign counter-pantau = counter-pantau | plus: 1 %}
 	{% endif %}
 {% endfor %}
 	
