@@ -62,7 +62,7 @@ Sasaran dari proyek ini terbagi menjadi dua pihak:
 **Latar Belakang**
  **Keterkaitan pada tujuan Cipta Media Seluler**
 
-    Proyek monitoring hutan adat Dodaga akan mendorong masyarakat adat Dodaga untuk proaktif menginformasikan masalah hutan mereka dan berbagai konten masalah lainnya lewat sistem sms gateway. Informasi yang disampaikan oleh masyarakat adat ini akan diolah langsung oleh AMAN untuk menjadi data dan berita lalu dikirim ke media cetak dan online serta pihak – pihat tekait yang menjadi sasaran. Sebaliknya juga konten berita lain diluar yang tersebar di media/forum diskusi akan di distribusikan ke komunitas dengan system sms gateway, sepanjang konten itu bisa menciptakan perubahan sosial, kultural dan kebijakan.
+Proyek monitoring hutan adat Dodaga akan mendorong masyarakat adat Dodaga untuk proaktif menginformasikan masalah hutan mereka dan berbagai konten masalah lainnya lewat sistem sms gateway. Informasi yang disampaikan oleh masyarakat adat ini akan diolah langsung oleh AMAN untuk menjadi data dan berita lalu dikirim ke media cetak dan online serta pihak – pihat tekait yang menjadi sasaran. Sebaliknya juga konten berita lain diluar yang tersebar di media/forum diskusi akan di distribusikan ke komunitas dengan system sms gateway, sepanjang konten itu bisa menciptakan perubahan sosial, kultural dan kebijakan.
 
 Dengan pengawasan dan proaktifnya masyarakat adat menginformasikan masalah yang mereka hadapi maka akan menciptakan perubahan sosial, kultural dan kebijakan pembangunan pada sector sumberdaya alam, salah satunya pada pengelolaan sumberdaya hutan Tobelo Dalam Dodaga agar berlanjutan dan bermanfaat bagi kehidupan masyarakat adat itu sendiri serta public secara umum.
 
@@ -120,6 +120,7 @@ Dengan pengawasan dan proaktifnya masyarakat adat menginformasikan masalah yang 
  **Demografi Pelaku Proyek**
 
   Nama : Munadi Kilkoda
+  
   Jabatan	: Ketua Badan Pelaksana Harian AMAN Maluku Utara
 
 Aliansi Masyarakat Adat Nusantara (AMAN) Maluku Utara merupakan organisasi masyarakat adat yang terbentuk pada 10 Mei 2010 yang berkedudukan di Ternate dan memiliki 49 komunitas masyarakat adat di berbagai kabupaten/kota di Maluku Utara. Wilayah aktifitas organisasi adalah Maluku Utara.
