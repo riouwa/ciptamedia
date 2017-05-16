@@ -27,4 +27,4 @@ layout: laporancmb
 * [Cimol](http://wiki.ciptamedia.org/wiki/Cimol)
 
 **Ringkasan**  
-*    Tema rubrik perempuan pelita kali ini adalah tentang Aung San Suu Kyi, seorang aktivis perempuan Myanmar yang selama puluhan tahun berjuang untuk demokrasi melawan kediktatoran
+* Tema rubrik perempuan pelita kali ini adalah tentang Aung San Suu Kyi, seorang aktivis perempuan Myanmar yang selama puluhan tahun berjuang untuk demokrasi melawan kediktatoran
