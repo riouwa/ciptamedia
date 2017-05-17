@@ -26,6 +26,7 @@ layout: laporancmb
 *	25 ibu rumahtangga perdesaan
 
 **Ringkasan** :	
+
 **Hari Pertama**
 *	Hari pertama pelatihan tahap dua dilakukan dari pukul 09.00 hingga pukul 16.00 Wib pada tanggal 27 Februari 2012 di salah satu rumah warga yang disewa bernama Datuk Ali. Peserta pelatihan hadir sebelum acara dimulai yang diawali dengan pengisian daftar hadir dan pembagian alat tulis sebagai perlengkapan pelatihan. Pelatihan ini diikuti oleh 25 perempuan dari Desa Pahmungan. Pelatihan resmi dibuka oleh Effendi selaku Dewan Penyiaran Komunitas Radio Komunitas Radio Komunitas Suara Petani 107.7 FM.
 *	Dalam sambutannya Effendi mengatakan bahwa pelatihan akan dilakukan selama tiga hari. Effendi menambahkan bahwa pelatihan ini memberikan pemahaman tentang media sekaligus menilai tayangan media televisi, sehingga peserta dapat bijaksana dalam menonton tayangan televisi.
