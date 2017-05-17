@@ -7,7 +7,7 @@ categories:
 layout: laporancmb	
 ---	
 	
-![2200px-Juni_26_2012_JRKL_Diskusi_Terarah_Pemantauan_Tayangan_TV_di_RKSP_FM.JPG](/uploads/200px-Juni_26_2012_JRKL_Diskusi_Terarah_Pemantauan_Tayangan_TV_di_RKSP_FM.JPG){: .img-responsive .center-block }	
+![200px-Juni_26_2012_JRKL_Diskusi_Terarah_Pemantauan_Tayangan_TV_di_RKSP_FM.JPG](/uploads/200px-Juni_26_2012_JRKL_Diskusi_Terarah_Pemantauan_Tayangan_TV_di_RKSP_FM.JPG){: .img-responsive .center-block }	
 	
 **Tujuan** :	Diskusi Terarah Pemantauan dan Pengkritisan Tayangan Televisi di RKSP FM
 	
