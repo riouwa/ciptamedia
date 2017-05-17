@@ -25,7 +25,7 @@ layout: laporancmb
 *	Diskusi bebas mengenai hak reproduksi wanita serta haknya untuk menolak bereproduksi.
 
 
-*8Kode** :
+**Kode** :
 *	BNK-X
 
 **Rincian** :
