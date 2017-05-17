@@ -27,6 +27,7 @@ layout: laporancmb
 *	25 ibu rumahtangga perdesaan
 
 **Ringkasan** :	
+
 **Hari Pertama**
 *	Peserta pelatihan hadir 10 menit sebelum pelatihan dimulai, panitia langsung meminta pada peserta yang sudah hadir mengisi daftar hadir dan membagikan alat tulis. Pelatihan hari pertama ini, diikuti oleh 25 perempuan dari kampung Siliwangi.
 *	Pelatihan dimulai pukul 09.10 Wib, secara resmi dibuka oleh Agus Kuntoro selaku ketua Radio Komunitas Gema Lestari 107.7 FM.
