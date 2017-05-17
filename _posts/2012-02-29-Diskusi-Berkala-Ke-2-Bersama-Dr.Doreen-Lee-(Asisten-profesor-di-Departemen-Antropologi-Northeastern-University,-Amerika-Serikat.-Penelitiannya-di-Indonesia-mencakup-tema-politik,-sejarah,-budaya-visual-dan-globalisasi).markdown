@@ -24,7 +24,7 @@ layout: laporancmb
 *	Jasser Alif
 *	Isrol Triono
 *	Asep Topan
-*	+ - 23 orang peserta diskusi
+*	- + 23 orang peserta diskusi
 
 **Ringkasan** :	
 *	Tema Diskusi Street Art: Ekspresi Politis, Pencarian Jati Diri Anak Muda dan Kuasa Pasar
