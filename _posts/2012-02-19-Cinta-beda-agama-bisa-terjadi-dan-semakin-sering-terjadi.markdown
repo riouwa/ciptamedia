@@ -7,7 +7,7 @@ categories:
 layout: laporancmb	
 ---	
 	
-!200px-19_Februari_2012_Interfaith_Love_1.jpg](/uploads/200px-19_Februari_2012_Interfaith_Love_1.jpg){: .img-responsive .center-block }	
+![200px-Febuari_19_2012_Bhinneka_Diskusi_Interfaith_Love_1.JPG](/uploads/200px-Febuari_19_2012_Bhinneka_Diskusi_Interfaith_Love_1.JPG){: .img-responsive .center-block }
 ![200px-Febuari_19_2012_Bhinneka_Diskusi_Interfaith_Love_3.JPG](/uploads/200px-Febuari_19_2012_Bhinneka_Diskusi_Interfaith_Love_3.JPG){: .img-responsive .center-block }
 ![200px-Febuari_19_2012_Bhinneka_Diskusi_Interfaith_Love_4.JPG](/uploads/200px-Febuari_19_2012_Bhinneka_Diskusi_Interfaith_Love_4.JPG){: .img-responsive .center-block }
 ![200px-Febuari_19_2012_Bhinneka_Diskusi_Interfaith_Love_5.JPG](/uploads/200px-Febuari_19_2012_Bhinneka_Diskusi_Interfaith_Love_5.JPG){: .img-responsive .center-block }		
