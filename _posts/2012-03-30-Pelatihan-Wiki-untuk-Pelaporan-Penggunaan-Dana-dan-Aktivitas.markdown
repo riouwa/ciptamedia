@@ -23,6 +23,7 @@ layout: laporancmb
 *	Hendra Prastiawan (Wikimedia Indonesia)
 
 **Ringkasan** :	
+
 **Proses Kegiatan**
 *	Pelatihan sempat terkendala hujan sehingga penjemputan pelatih, dari hotel ke sekretariat JRKL, terkendala.
 *	Pelatihan sempat terkendala jaringan internet yang tiba-tiba hilang.
