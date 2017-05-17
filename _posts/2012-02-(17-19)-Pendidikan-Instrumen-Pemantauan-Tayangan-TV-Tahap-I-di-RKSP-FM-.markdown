@@ -7,7 +7,7 @@ categories:
 layout: laporancmb	
 ---	
 	
-![200px-Februari_17-19_2012_JRKL_Pendidikan_Instrumen_Pemantauan_Tayangan_TV_-_Tahap_I_-_RKSP_01_.JPG](/uploads/200px-Februari_17-19_2012_JRKL_Pendidikan_Instrumen_Pemantauan_Tayangan_TV_-_Tahap_I_-_RKSP_01_.JPG){: .img-responsive .center-block }	
+!200px-Februari_21_2012_FGD_RGL_FM.JPG](/uploads/200px-Februari_21_2012_FGD_RGL_FM.JPG){: .img-responsive .center-block }	
 	
 **Tujuan** :	Pendidikan Instrumen Pemantauan Tayangan TV Tahap I di RKSP FM
 	
