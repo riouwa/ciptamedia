@@ -1,5 +1,5 @@
 ---	
-title: 	etak Banner untuk Kampanye Publik Pemantauan Tayangan Televisi
+title: 	Cetak Banner untuk Kampanye Publik Pemantauan Tayangan Televisi
 date: 	2012-02-06
 categories:	
 - laporan	
