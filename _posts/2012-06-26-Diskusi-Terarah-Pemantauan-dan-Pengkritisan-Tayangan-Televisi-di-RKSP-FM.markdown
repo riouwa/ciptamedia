@@ -7,7 +7,7 @@ categories:
 layout: laporancmb	
 ---	
 	
-![250px-Januari_19_2012_Akumassa_Pelatihan-Wiki.jpg](/uploads/250px-Januari_19_2012_Akumassa_Pelatihan-Wiki.jpg){: .img-responsive .center-block }	
+![2200px-Juni_26_2012_JRKL_Diskusi_Terarah_Pemantauan_Tayangan_TV_di_RKSP_FM.JPG](/uploads/200px-Juni_26_2012_JRKL_Diskusi_Terarah_Pemantauan_Tayangan_TV_di_RKSP_FM.JPG){: .img-responsive .center-block }	
 	
 **Tujuan** :	Diskusi Terarah Pemantauan dan Pengkritisan Tayangan Televisi di RKSP FM
 	
@@ -26,6 +26,7 @@ layout: laporancmb
 *	23 orang ibu rumahtangga perdesaan
 
 **Ringkasan** :	
+
 **Proses Kegiatan**
 *	Ibu rumahtangga yang diundang mulai hadir sejak 18.45 wib, kemudian melakukan registrasi(mengisi absensi). Kegiatan diskusi ini dimulai pukul 19.10 wib, dibuka oleh Erwin Benni yang sekaligus memfasilitasi diskusi ini.
 *	Saat pembukaan, Erwin mengatakan bahwa diskusi yang akan dilakukan ini menggunakan bahasa daerah(Lampung) dengan harapan lebih mudah dipahami.
