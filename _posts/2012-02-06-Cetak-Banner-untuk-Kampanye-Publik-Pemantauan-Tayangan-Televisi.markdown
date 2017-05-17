@@ -21,7 +21,8 @@ layout: laporancmb
 *	Rifky Indrawan (JRKL)
 *	Manda (JRKL)
 
-**Ringkasan** :	Diawali dengan diskusi ide tentang isi dan gambar sticker.
+**Ringkasan** :	
+* 	Diawali dengan diskusi ide tentang isi dan gambar sticker.
 *	Dirumuskan isi tulisan 4 macam banner yang akan dicetak.
 *	Pencetakan dan desain banner dilakukan oleh percetakan.
 *	Banner dibagikan ke RGL FM dan RKSP FM untuk dipergunakan dalam setiap kegiatan Kampanye Publik Pemantauan Tayangan Televisi.
