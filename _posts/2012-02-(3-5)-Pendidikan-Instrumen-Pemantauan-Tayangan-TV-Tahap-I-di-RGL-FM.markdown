@@ -62,5 +62,6 @@ layout: laporancmb
 **Berita Terkait** 
 *	Berita Terkait 1 http://jrklampung.org/why-not-learn-more-about-services
 *	Berita Terkait 2 http://jrklampung.org/what-has-changed-recently-with-resources
+
 **Foto Kegiatan** 
 *	Foto Terkait https://plus.google.com/photos/106181618311296291808/albums/5733046211786536849?banner=pwa#photos/106181618311296291808/albums/5733046211786536849
