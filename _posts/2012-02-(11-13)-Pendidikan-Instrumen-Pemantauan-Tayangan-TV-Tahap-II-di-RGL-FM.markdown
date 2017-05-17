@@ -1,6 +1,6 @@
 ---	
 title: 	Pendidikan Instrumen Pemantauan Tayangan TV Tahap II di RGL FM
-date: 	(2012-02-11-13)
+date: 	2012-02-(11-13)
 categories:	
 - laporan	
 - JRKL	
