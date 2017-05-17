@@ -46,20 +46,113 @@ KBB di migrasi ke pasca bayar dengan nomor panggilan yang tidak berubah. Dalam m
 
 Berikut adalah aktivitas dan isu-isu yang anda masukkan pada permohonan hibah anda:
 
+* Masalah: Data laporan isu KBB yang belum melingkupi seluruh wilayah Indonesia.
 
-Aktifitas dan isu yang anda atasi:
+  * **Aktivitas 1**: Memantau isu KBB di seluruh wilayah Indonesia
 
+* Masalah: Laporan dari jaringan pemantau di daerah dan distribusi hasil pemantauan lambat.
+
+  * **Aktivitas 2**: Membuat situs m-Pantau KBB berbasis ushahidi dan menyebarkan hasil pemantauan dengan SMS gateway dan internet.
+
+* Masalah: Kurangnya kapasitas staff Wahid Institute dalam menggunakan teknologi ushaidi dan SMS gateway.
+
+  * **Aktivitas 3**: Melatih staff wahid Institute untuk menjadi operator ushahidi m-Pantau KBB;
+
+* Masalah: Pemantau lapangan belum memiliki kapasitas melaporkan dengan SMS gateway dan menggunakan Ushahidi.
+
+  * **Aktivitas 4**: Mensosialisasikan tutorial pemantauan KBB berbasis seluler.
+
+* Masalah: Masyarakat kurang mengetahui adanya media untuk melaporkan kasus-kasus KBB, dan publikasi data jumlah kasus KBB tiap bulan dan tiap tahun.
+
+  * **Aktivitas 5**: Sosialisasi pemantauan melalui jaringan pemantau di 13 provinsi yaitu: 5 provinsi basis, 4 provinsi resiko tinggi pelanggaran KBB dan 4 provinsi lainnya.
+
+Aktivitas dan isu yang anda atasi hingga pelaporan ini dibuat:
+
+**Aktivitas 1: Memantau isu KBB di seluruh wilayah Indonesia**
+
+Pemantauan isu-isu KBB sudah dilaksanakan di seluruh Wilayah Indonesia. Selama masa pemantauan dari Januari hingga Juli 2015 tercatat:
+1. Pelanggaran KBB dengan pelaku non Negara sebanyak 43 kasus;
+2. Pelanggaran KBB dengan pelaku Negara sebanyak 31 kasus;dan
+3. 56 laporan praktek baik hubungan antar umat beragama
+
+**Aktivitas 2: Membuat situs m-Pantau KBB berbasis ushahidi dan menyebarkan hasil pemantauan dengan SMS gateway dan internet**
+
+1. Membangun SMS Center pemantauan MPantau KBB nomor 0821-2000-1900. Laporan ditampilkan dalam www.pantaukbb.org dengan kategorisasi laporan dibagi 3:
+  1. Pelaku oleh Non Negara: Kategori ini memuat kasus-kasus pelanggaran kebebasan beragama dan berkeyakinan yang dilakukan oleh masyarakat, individu atau bukan aparat Negara. Seperti aksi sepihak menutup rumah ibadah oleh ormas dll
+  2. Pelaku oleh Negara: Dalam kategori ini pelanggaran kebebasan beragama dan berkeyakinan dilakukan oleh aparat-aparat Negara. Seperti penerbitan peraturan peraturan daerah bernuansa agama, pelarangan beribadah oleh polisi dan satpol PP, pernyataan pelarangan oleh pejabat pemerintah dll.
+  3. Praktek Baik: Pada kategori ini tercatat praktek-praktek baik hubungan anatar umat beragama di Indonesia. Antara lain, Saling bantu antar umat beragama dalam mengentaskan masalah social, Kerjasama antar umat beragama saat perayaan keagamaan agama lain, pernyataan dari pejabat pemerintah, tokoh ormas agama yang mendukung terciptanya harmonisasi umat beragama di Indonesia, dll.
+2. Hasil pemantauan juga disosialisasikan melalui SMS Center & Social Media Wahid Institute
+
+**Aktivitas 3: Melatih staff wahid Institute untuk menjadi operator ushahidi m-Pantau KBB**
+
+Selama proyek berlangsung, Wahid Institute telah melatih 5 staf dalam 4 kali pelatihan untuk menjadi operator ushahidi. Staf yang dilatih adalah: Gamal Ferdhi, Alamsyah, Andi Irawan, Siti Kholisoh & M. Subhi Azhari.
+
+**Aktivitas 4: Mensosialisasikan tutorial pemantauan KBB berbasis seluler.**
+
+Sosialisasi tutorial pemantauan lewat stiker dan social media milik Wahid Institute. Stiker disebarkan dalam setiap kesempatan acara-acara Wahid institute yang mengundang jaringan maupun massa.
+
+**Aktivitas 5: Sosialisasi pemantauan melalui jaringan pemantau di 13 provinsi yaitu: 5 provinsi basis, 4 provinsi resiko tinggi pelanggaran KBB dan 4 provinsi lainnya**
+
+Melalui 5 lembaga jejaring Wahid Institute yang berada di Jawa Barat, Jawa Tengah & Jogjakarta, Jawa Timur, Lombok (NTB) & Sulawesi Selatan. Wahid Institute juga memperluas jejaring dengan membangun kerjasama dengan lembaga lembaga di dua daerah rawan isu KBB yaitu Banda Aceh (NAD) & Kupang (NTT) juga satu daerah tambahan yaitu Sulawesi Utara (Manado & Sangihe)
 
 **3. Indikator sukses anda dalam permohonan hibah**
 
+Untuk mengukur keberhasilan program maka dirumuskan hasil dan indikator sebagai berikut:
 
-Hasil aktual hingga laporan ini dibuat:
+1. Pengunjung m-Pantau KBB meningkat 100 pengunjung per bulan;
+2. Tersedia tutorial m-Pantau KBB yang bisa diunduh di situs m-Pantau KBB ;
+3. Tiga orang pengelola m-Pantau KBB mengikuti seluruh proses inhouse training dan memahami materi yang diberikan;
+4. Masyarakat melaporkan kasus dan praktek baik terkait isu KBB melalui layanan sms gateway dan situs MPantau KBB;
+5. Minimal 100 undangan dan 5 perwakilan lembaga negara yang terkait dengan isu KBB menghadiri peluncuran di akhir tahun 2015;
+6. Terpublikasikannya peluncuran m-Pantau KBB minimal di dua media nasional;
+7. Hasil laporan bulanan dan tahunan terpublikasi di m-Pantau KBB, akun media sosial Wahid Institute dan website Wahid Institute. Rekapitulasi laporan juga dapat diakses oleh para pengunjung situs mPantau KBB dan aparat pemeritah.
 
+  1. Berikut data pengunjung website mulai Januari 2015 hingga Juli 2015
+  2. Tutorial sudah tersedia di situs MPantau KBB. Tutorial tertulis dalam bentuk nomor telpon pelapotan. Tutorial juga dicetak dalam   bentuk stiker dan dibagian dalam setiap kegiatan-kegiatan yang diselenggarakan Wahid Institute.
+  3. Lima pengelola MpAntau sudah mengikuti pelatihan. Mereka adalah: gamal Ferdhi, Alamsyah M. Dja’Far, Andi Irawan, Siti Kholisoh dan Puspita
+  4. Masyarakat sudah melaporkan lewat SMS gateway. Namun karena kerusakan teknis pada computer penerima semua data penerimaan hilang. Smenetar laporan lewat situs MPantau KBB hingga laporan ini ditulis baru sebanyak 4 laporan yang diverifikasi. Laporan-laporan lain banyak masuk melalui email info@wahidinstitute.org dan laporan via situs sosial media pribadi pengelola MPantauKBB.
+  5. Peluncuran akan dilaksanakan pada awal tahun 2016.
+  6. Terpublikasinya peluncuran dapat dinilai setelah peluncuran dilaksanakan
+  7. Laporan bulanan sudah dipublikasi dalam website wahid Institute (PRANALA?) Sementara laporan tahunan akan tersedia pada akhir tahun 2015.
+  
 **4. Tujuan dan Sasaran**
 
-Silahkan anda jelaskan apa yang telah anda berhasil peroleh dengan hibah ini yang berkaitan dengan tujuan yang lebih besar yang anda harapkan dapat anda capai Sasaran-sasaran yang diharapkan dapat dicapai:
+Silahkan anda jelaskan apa yang telah anda berhasil peroleh dengan hibah ini yang berkaitan dengan tujuan yang lebih besar yang anda harapkan dapat anda capai.
 
-Tujuan yang berhasil dicapai hingga saat ini:
+**Tujuan**
+
+* Meningkatnya partisipasi masyarakat dalam pemantauan isu kebebasan beragama dan berkeyakinan (KBB);
+* Meningkatnya pemahaman pemantau yang berada dalam koordinasi Wahid Institute dalam memanfaatkan teknologi seluler untuk melaporkan kasus-kasus KBB;
+
+Sasaran 
+a. Korban kekerasan yang berkaitan dengan isu KBB 
+b. NGO dan masyarakat anti kekerasan 
+c. Pemantau di 13 provinsi 
+d. Peneliti dan akademisi 
+
+Tujuan dan sasaran yang berhasil dicapai hingga saat ini
+
+Pemantau yang telah menggunakan teknologi seluler adalah pemantau-pemantau yang berada di daerah jejaring awal Wahid Institute yaitu Jogjakarta/ Jawa Tengah, Jawa Timur, Jawa Barat. Untuk daerah Lombok dan Makassar belum ada laporan pelanggaran KBB maupun praktek baik hubungan anatar umat beragama di dua daerah tersebut. Empat daerah-daerah lain yang masuk dalam lingkup proyek yaitu hanya Aceh dan NTT yang sudah melaporkan praktek-praktek baik di daerahnya. Sementara Ambon dan Denpasar belum dilakukan sosialisasi daerah tersebut.
+
+Sedangkan empat daerah yang masuk dalam pemantauan insidental yang melakukan laporan adalah Papua dan Sulawesi Utara.
+
+Sasaran:
+
+**a. Korban kekerasan yang berkaitan dengan isu KBB**
+
+Masyarakat adat Samin dan Sunda Wiwitan sudah menggunakan fasilitas pelaporan melalui SMS gateway ini. Sistem pelaporan ini bekerjasama dengan Pemda Blora untuk membuka pusat pelaporan isu-isu KBB di kabupaten tersebut. Untuk korban kekerasan atas nama agama, Komunitas Ahmadiyah di daerah Jawa Barat yang sering melaporkan kejadian-kejadian yang menimpa komunitasnya.
+
+**b. NGO dan masyarakat anti kekerasan**
+
+NGO & masyarakat yang telah membangun kerjasama pemantauan KBB adalah Lensa Sukabumi, CMars Surabaya, Universitas Desk KBB KOMNAS HAM, Jaringan Gusdurian Indonesia dan Abdurrahman Wahid Center menjadi dua NGO yang membangun kerjasama jaringan pemantauan di MPantau KBB. Untuk masyarakat anti kekerasan, Jaringan Muda Lintas Iman Bogor mengadakan kerjasama denganWahid Institute untuk pelatihan pemantauan KBB di daerah Bogor sekitarnya. Sementara Jaringan Radio KBR di Jakarta berencana bekerjasama dengan Wahid Institute untuk melakukan sosialisasi pemantauan di daerah-daerah yang belum tercakup dalam proyek. Masih ada beberapa NGO lagi yag memanfaatkan data-data pemantauan yang dipublikasi di situs MPantau KBB. Karena sifat penyajian data yang terbuka dan boleh diakses oleh siapapun, maka tidak ada ijin penggunaan data, yang bsa dijadikan alat ukur untuk melihat berapa jumlah pengguna data-data tersebut. Benedict Rogers, tim leader bagian Asia Timur pada International human rights organisation Christian Solidarity Worldwide (CSW).
+
+**c. Pemantau di 13 provinsi**
+
+Pemantau yang sudah memanfaatkan MPantau KBB berada di 5 jaringan awal Wahid Institute yaitu: Jawa Barat, Jakarta, Jawa Timur, Jawa Tengah/ Jogjakarta, Makassar dan NTB. Dua daerah khusus yaitu NAD dan NTT dan dua daerah incidental yaitu: Papua dan Sulawesi Utara.
+
+**d. Peneliti dan akademisi**
+
+Dari Januari hingga Juli 2015, Berikut adalah nama-nama dan lembaga yang datang ke Wahid Institute untuk membahas perkembangan isu KBB di Wahid Institute: Peneliti dari Pusat Kajian Radikalisme dan Deradikalisasi (PAKAR). Greg Barton, akademisi dari Universitas Monash Australia juga hadir membicarakan soal perkembangan KBB dengan Wahid Institute. Juga peneliti dari Dutch University of Groningen.
 
 **5. Perubahan Lingkup Organisasi/ Lingkungan Sekitar**
 
