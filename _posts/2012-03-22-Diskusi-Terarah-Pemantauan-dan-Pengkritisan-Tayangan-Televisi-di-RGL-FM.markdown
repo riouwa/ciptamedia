@@ -23,6 +23,7 @@ layout: laporancmb
 *	25 orang ibu rumahtangga perdesaan
 
 **Ringkasan** :	
+
 **Proses Kegiatan**
 *	Acara ini dibuka oleh Agus Guntoro selaku pengurus radio sekaligus tokoh masyarakat di Desa Hanura. Agus menyatakan bahwa peserta diskusi telah mengaplikasikan hasil dari pelatihan ke dalam keluarga. Hal tersebut dikatakan berdasarkan pantauan Agus pasca pelatihan. Agus mengatakan bahwa diskusi ini akan mempertajam pengetahuan dan sebagai sarana berbagi pengalaman antar peserta diskusi.
 *	Diskusi terarah difasilitasi oleh Susmiadi selaku fasilitator lokal yang juga Pegiat Radio RGL. Fasilitator mengajak ibu-ibu peserta diskusi mengingat materi pendidikan pada 11-13 lalu, guna menajamkan ingatan peserta.
