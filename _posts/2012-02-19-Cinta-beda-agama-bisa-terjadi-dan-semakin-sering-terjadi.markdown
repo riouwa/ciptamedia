@@ -8,12 +8,12 @@ layout: laporancmb
 ---	
 	
 !200px-19_Februari_2012_Interfaith_Love_1.jpg](/uploads/200px-19_Februari_2012_Interfaith_Love_1.jpg){: .img-responsive .center-block }	
-![200px-Febuari_19_2012_Bhinneka_Diskusi_Interfaith_Love_5.JPG](/uploads/200px-Febuari_19_2012_Bhinneka_Diskusi_Interfaith_Love_5.JPG){: .img-responsive .center-block }	
-!200px-Febuari_19_2012_Bhinneka_Diskusi_Interfaith_Love_3.JPG](/uploads/200px-Febuari_19_2012_Bhinneka_Diskusi_Interfaith_Love_3.JPG){: .img-responsive .center-block }	
-![200px-Febuari_19_2012_Bhinneka_Diskusi_Interfaith_Love_4.JPG](/uploads/200px-Febuari_19_2012_Bhinneka_Diskusi_Interfaith_Love_4.JPG){: .img-responsive .center-block }	
-![200px-Febuari_19_2012_Bhinneka_Diskusi_Interfaith_Love_8.JPG](/uploads/200px-Febuari_19_2012_Bhinneka_Diskusi_Interfaith_Love_8.JPG){: .img-responsive .center-block }	
+![200px-Febuari_19_2012_Bhinneka_Diskusi_Interfaith_Love_3.JPG](/uploads/200px-Febuari_19_2012_Bhinneka_Diskusi_Interfaith_Love_3.JPG){: .img-responsive .center-block }
+![200px-Febuari_19_2012_Bhinneka_Diskusi_Interfaith_Love_4.JPG](/uploads/200px-Febuari_19_2012_Bhinneka_Diskusi_Interfaith_Love_4.JPG){: .img-responsive .center-block }
+![200px-Febuari_19_2012_Bhinneka_Diskusi_Interfaith_Love_5.JPG](/uploads/200px-Febuari_19_2012_Bhinneka_Diskusi_Interfaith_Love_5.JPG){: .img-responsive .center-block }		
 ![200px-Febuari_19_2012_Bhinneka_Diskusi_Interfaith_Love_7.JPG](/uploads/200px-Febuari_19_2012_Bhinneka_Diskusi_Interfaith_Love_7.JPG){: .img-responsive .center-block }	
-![2200px-Febuari_19_2012_Bhinneka_Diskusi_Interfaith_Love_9.JPG](/uploads/200px-Febuari_19_2012_Bhinneka_Diskusi_Interfaith_Love_9.JPG{: .img-responsive .center-block }	
+![200px-Febuari_19_2012_Bhinneka_Diskusi_Interfaith_Love_8.JPG](/uploads/200px-Febuari_19_2012_Bhinneka_Diskusi_Interfaith_Love_8.JPG){: .img-responsive .center-block }	
+![200px-Febuari_19_2012_Bhinneka_Diskusi_Interfaith_Love_9.JPG](/uploads/200px-Febuari_19_2012_Bhinneka_Diskusi_Interfaith_Love_9.JPG){: .img-responsive .center-block }	
 	
 **Tujuan** :	Cinta beda agama bisa terjadi dan semakin sering terjadi. Namun, secara hukum di Indonesia, pernikahan seperti ini tidak bisa disahkan oleh Negara. Jadi, pada surat nikah seringkali mereka menyatakan mempunyai agama yang sama, sekedar untuk mendapat formulir resmi dari Negara. Hukum ini adalah bagian dari politik "Devide et Impera". Karena itulah, lembaga Bhinneka mengadakan diskusi khusus membahas topik ini.
 	
