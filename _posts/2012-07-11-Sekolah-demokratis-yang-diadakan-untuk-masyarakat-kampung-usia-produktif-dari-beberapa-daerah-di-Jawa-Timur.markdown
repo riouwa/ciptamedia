@@ -1,6 +1,6 @@
 ---	
 title: 	Sekolah demokratis yang diadakan untuk masyarakat kampung usia produktif dari beberapa daerah di Jawa Timur dengan tujuan membentuk kader-kader yang mampu menyebarkan toleransi dalam semangat keberagaman.
-date: 	2012-07-10
+date: 	2012-07-11
 categories:	
 - laporan	
 - Bhinneka	
