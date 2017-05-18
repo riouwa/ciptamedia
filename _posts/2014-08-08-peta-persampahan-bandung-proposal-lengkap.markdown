@@ -224,8 +224,17 @@ Kegiatan dalam proposal ini didasarkan inspirasi serta hasil-hasil pembahasan da
 **Hasil yang diharapkan dan indikator keberhasilan**
    
 Tujuan 1: Partisipasi dan kontribusi masyarakat dalam mengelola dan mengurangi sampah di sumber meningkat.
+
+|Indikator pengukuran|Hasil yang diharapkan|Tujuan antara|
+|---|---|---|
+|* Jumlah masyarakat yang berpartisipasi memberikan masukan melalui survey berkala setiap 3 bulan minimal 150 orang, 50% diantaranya adalah perwakilan komunitas, hingga akhir tahun proyek.<br>
+* Adanya bahan promosi melalu media (artikel koran, leaflet, buku elektronik, media interaktif penggunaan perangkat lunak, dan lainnya).<br>
+* Proseeding kegiatan-kegiatan promosi sekaligus sosialisasi Gerakan (seminar, lokakarya, pelatihan).|Meningkatnya jumlah dan kualitas pertukaran informasi dan data melalui piranti lunak yang berdampak juga pada meningkatnya jumlah serta keterlibatan agen perubahan di masyarakat & kualitas koordinasi antar agen perubahan tersebut, khususnya terkait perbaikan sistem persampahan (self-organized).|Tersedianya informasi tentang pengetahuan & sumber daya untuk pengolahan sampah mandiri oleh masyarakat.|
    
 Tujuan dan tujuan antara 2: Mekanisme akuntabilitas sosial Pemerintah sebagai penanggung jawab sistem persampahan meningkat.
+
+|Indikator pengukuran|Hasil yang diharapkan|Tujuan antara|
+|---|---|---|
 
 **Durasi waktu aktifitas dilaksanakan:**
     
