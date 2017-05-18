@@ -7,7 +7,7 @@ categories:
 layout: laporancmb	
 ---	
 	
-![200px-Juni_16_2012_Bhinneka_Kelas_kritik_sastra.JPG](/uploads/200px-Juni_16_2012_Bhinneka_Kelas_kritik_sastra.JPG){: .img-responsive .center-block }	
+![200px-Juni_1_2012_Bhinneka_Program_Lingkar_Puisi_dan_Prosa.JPG](/uploads/200px-Juni_1_2012_Bhinneka_Program_Lingkar_Puisi_dan_Prosa.JPG){: .img-responsive .center-block }	
 	
 **Tujuan** :	Meingkatkan kesadaran sosial dan politik dengan kegiatan tulis menulis. Tema-tema yang diangkat adalah kemanusiaan, kesetaraan dan juga dampak kekerasan agama di seputar kita
 	
