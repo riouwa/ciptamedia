@@ -71,17 +71,22 @@
   <script src= "/static/js/js.js"></script>
   <!--<script id= "dsq-count-scr" src="//jalpc.disqus.com/count.js" async></script>-->
   <script>
-        $(function(){
-          /* initiate the plugin */
-          $("div.pag-holder").jPages({
-              containerID  : "pag-itemContainer",
-              perPage      : 5,  /* num of items per page */
-              startPage    : 1,
-              startRange   : 1,
-              midRange     : 3,
-              endRange     : 1
-          });
-      });
+  /* when document is ready */
+  $(function() {
+    /* initiate plugin */
+    $("#holder").jPages({
+      containerID : "itemContainer",
+      perPage : 9,
+      startPage: 1,
+      startRange: 1,
+      midRange: 3,
+      endRange: 1
+    });
+    $("button").click(function(){
+      var page = parseInt( $("input").val() );
+      $("#holder").jPages( page );
+    });
+  });
   </script>
 
 </head>
