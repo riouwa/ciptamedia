@@ -33,6 +33,7 @@ layout: laporancmb
 **Ringkasan** :	
 
 **Bertujuan untuk menjadikan para peserta kader-kader keberagaman dalam kehidupan sehari-hari dengan permainan**
+
 **Ringkasan permainan Multikultural** :
 *	Mula-mula, 2 fasilitator membagi peserta menjadi dua kelompok, masing-masing bernama Suku Alpha dan Suku Victoria.
 *	Fasilitator memilih dua orang sebagai Kepala Suku untuk masing-masing suku.
