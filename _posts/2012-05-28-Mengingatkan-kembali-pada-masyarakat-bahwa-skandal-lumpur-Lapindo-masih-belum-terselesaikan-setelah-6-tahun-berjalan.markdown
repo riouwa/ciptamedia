@@ -39,6 +39,6 @@ layout: laporancmb
 **Kode** :
 * BNK-X
 
-**Rincian
+**Rincian** :
 * Biaya saweran sewa tempat dan konsumsi Rp. 300.000
 
