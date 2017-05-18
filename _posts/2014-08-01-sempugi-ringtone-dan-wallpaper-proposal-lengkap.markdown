@@ -6,7 +6,7 @@ categories:
 - Sempugi - Ringtone dan Wallpaper
 ---
 
-![250px-Akumassa.jpg](/uploads/250px-Akumassa.jpg){: .img-responsive .center-block }
+![Andi_Rahmat_Munawar_042_Ringtone,_Wallpaper,_NSP.jpg](/uploads/Andi_Rahmat_Munawar_042_Ringtone,_Wallpaper,_NSP.jpg){: .img-responsive .center-block }
 
 **Final 1 Agustus 2014**
 
