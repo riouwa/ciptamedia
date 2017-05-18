@@ -102,11 +102,13 @@ Aktifitas dan isu yang anda atasi:
    2. Melalui website [http://informatics.surya.ac.id/elearning/](http://informatics.surya.ac.id/elearning/)
    3. Saling berbagi dengan peserta yang telah mendapatkan pelatihan
    4. Dapat meminta langsung kepada tim openBTS
+   
   2. Kurikulum konfigurasi dasar OpenBTS sudah selesai dan akan disebarkan pada saat pelatihan pertama diselenggarakan melalui.
    1. Flashdisk yang dibagikan kepada para peserta training
    2. Melalui website [http://informatics.surya.ac.id/elearning/](http://informatics.surya.ac.id/elearning/)
    3. Saling berbagi dengan peserta yang telah mendapatkan pelatihan
    4. Dapat meminta langsung kepada tim openBTS
+   
   3. Kurikulum installasi OpenBTS - selesai, akan disebarluaskan pada Januari 2015 melalui
    1. Flashdisk yang dibagikan kepada para peserta training
    2. Melalui website [http://informatics.surya.ac.id/elearning/](http://informatics.surya.ac.id/elearning/)
