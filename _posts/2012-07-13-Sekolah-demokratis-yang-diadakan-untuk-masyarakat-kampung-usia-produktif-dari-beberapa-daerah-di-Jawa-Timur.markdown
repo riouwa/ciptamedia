@@ -8,9 +8,9 @@ layout: laporancmb
 ---	
 	
 ![200px-12_Juli_2012_Semar_02-01.jpg](/uploads/200px-12_Juli_2012_Semar_02-01.jpg){: .img-responsive .center-block }
-![200px-12_Juli_2012_Semar_02-02.jpg](/uploads/200px-10_Juli_2012_Semar_02-02.jpg){: .img-responsive .center-block }
-![200px-12_Juli_2012_Semar_02-03.jpg](/uploads/200px-10_Juli_2012_Semar_02-03.jpg){: .img-responsive .center-block }
-![200px-12_Juli_2012_Semar_02-04.jpg](/uploads/200px-10_Juli_2012_Semar_02-04.jpg){: .img-responsive .center-block }
+![200px-12_Juli_2012_Semar_02-02.jpg](/uploads/200px-12_Juli_2012_Semar_02-02.jpg){: .img-responsive .center-block }
+![200px-12_Juli_2012_Semar_02-03.jpg](/uploads/200px-12_Juli_2012_Semar_02-03.jpg){: .img-responsive .center-block }
+![200px-12_Juli_2012_Semar_02-04.jpg](/uploads/200px-12_Juli_2012_Semar_02-04.jpg){: .img-responsive .center-block }
 
 	
 **Tujuan** :	Sekolah demokratis yang diadakan untuk masyarakat kampung usia produktif dari beberapa daerah di Jawa Timur dengan tujuan membentuk kader-kader yang mampu menyebarkan toleransi dalam semangat keberagaman.
