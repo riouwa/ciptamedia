@@ -225,16 +225,80 @@ Kegiatan dalam proposal ini didasarkan inspirasi serta hasil-hasil pembahasan da
    
 Tujuan 1: Partisipasi dan kontribusi masyarakat dalam mengelola dan mengurangi sampah di sumber meningkat.
 
-|Indikator pengukuran|Hasil yang diharapkan|Tujuan antara|
-|---|---|---|
-|Jumlah masyarakat yang berpartisipasi memberikan masukan melalui survey berkala setiap 3 bulan minimal 150 orang, 50% diantaranya adalah perwakilan komunitas, hingga akhir tahun proyek.<br>
-Adanya bahan promosi melalu media (artikel koran, leaflet, buku elektronik, media interaktif penggunaan perangkat lunak, dan lainnya).<br>
-Proseeding kegiatan-kegiatan promosi sekaligus sosialisasi Gerakan (seminar, lokakarya, pelatihan).|Meningkatnya jumlah dan kualitas pertukaran informasi dan data melalui piranti lunak yang berdampak juga pada meningkatnya jumlah serta keterlibatan agen perubahan di masyarakat & kualitas koordinasi antar agen perubahan tersebut, khususnya terkait perbaikan sistem persampahan (self-organized).|Tersedianya informasi tentang pengetahuan & sumber daya untuk pengolahan sampah mandiri oleh masyarakat.|
+<table>
+  <tbody>
+    <tr>
+      <th>Indikator pengukuran</th>
+      <th>Hasil yang diharapkan</th>
+      <th>Tujuan antara</th>
+    </tr>
+    <tr>
+      <td><ul>
+        <li>Jumlah masyarakat yang berpartisipasi memberikan masukan melalui survey berkala setiap 3 bulan minimal 150 orang, 50% diantaranya adalah perwakilan komunitas, hingga akhir tahun proyek.</li>
+        <li>Adanya bahan promosi melalu media (artikel koran, leaflet, buku elektronik, media interaktif penggunaan perangkat lunak, dan lainnya).</li>
+        <li><em>Proseeding</em> kegiatan-kegiatan promosi sekaligus sosialisasi Gerakan (seminar, lokakarya, pelatihan).</li>
+      </ul></td>
+      <td>Meningkatnya jumlah dan kualitas pertukaran informasi dan data melalui piranti lunak yang berdampak juga pada meningkatnya jumlah serta keterlibatan agen perubahan di masyarakat &amp; kualitas koordinasi antar agen perubahan tersebut, khususnya terkait perbaikan sistem persampahan (<em>self-organized</em>).</td>
+      <td>Tersedianya informasi tentang pengetahuan &amp; sumber daya untuk pengolahan sampah mandiri oleh masyarakat.</td>
+    </tr>
+    <tr>
+      <td><ul>
+        <li>Terbentuknya platform online partisipasi masyarakat yang dinamis dalam isu persampahan yang dapat diakses dari berbagai media (SMS, Android, iOS, situs web).</li>
+        <li>Terbentuknya Gerakan bersama untuk menyuksesi proyek ini, lengkap dengan perencanaan media, profil hingga media sosialnya.</li>
+        <li>Diadakannya 5 kali pameran di ruang publik dan 20 kunjungan ke media massa, untuk peningkatan informasi dan sosialisasi gerakan.</li>
+      </ul></td>
+      <td>Terbangun dan berjalannya fungsi piranti lunak produksi proyek ini (SMS Gateway, Aplikasi dan Website Peta Persampahan) dalam menyediakan informasi tentang pengetahuan &amp; sumber daya untuk pengolahan sampah mandiri oleh masyarakat.</td>
+      <td>Tersedianya wadah melalui sistem piranti lunak (<em>online platform</em>) untuk peran aktif masyarakat dalam penyediaan berbagai informasi pengelolaan sampah mandiri.</td>
+    </tr>
+    <tr>
+      <td><ul>
+        <li>Terdata 151 kontak yang mewakili 151 kelurahan yang merupakan basis pengelolaan sampah di masing-masing lokasi dan basis gerakan yang terdesentralisasi. Serta aktif menggunakan sistem piranti lunak yang terbangun di proyek ini.</li>
+        <li>Adanya laporan yang menunjukkan peningkatan pengguna piranti lunak oleh komunitas masyarakat serta agen perubahan.</li>
+        <li>Adanya forum online dalam portal website yang menjadi media interaksi dukungan peningkatan peran aktif masyarakat dan media penukaran informasi pengelolaan sampah.</li>
+      </ul></td>
+      <td>Gerakan terbentuk dalam memetakan peran aktif masyarakat memperbaiki kinerja pengelolaan sampah mandiri di lokasi masing-masing dalam kota Bandung.</td>
+      <td>Meningkatnya peran aktif masyarakat dalam mendorong kinerja pengelolaan sampah mandiri di lokasi masing-masing.</td>
+    </tr>
+  </tbody>
+</table>
    
 Tujuan dan tujuan antara 2: Mekanisme akuntabilitas sosial Pemerintah sebagai penanggung jawab sistem persampahan meningkat.
 
-|Indikator pengukuran|Hasil yang diharapkan|Tujuan antara|
-|---|---|---|
+<table>
+  <tbody>
+    <tr>
+      <th>Indikator pengukuran</th>
+      <th>Hasil yang diharapkan</th>
+      <th>Tujuan antara</th>
+    </tr>
+    <tr>
+      <td><ul>
+        <li>Jumlah masyarakat menerima informasi langsung mengenai info layanan persampahan melalui kegiatan dan sosialisasi piranti lunak yang ada hingga 3.000 orang sampai dengan akhir proyek.</li>
+        <li>Jumlah institusi pemerintah yang menyediakan informasi terkait layanan persampahan melalui piranti lunak Peta Persampahan ini sebanyak minimal 3 SKPD (Badan Pengelolaan Lingkungan Hidup, Perusahaan Daerah Kebersihan, Dinas Komunikasi dan Informatika)</li>
+      </ul></td>
+      <td>Terbangun dan berjalannya fungsi piranti lunak dalam proyek Peta Persampahan ini, dalam menyediakan informasi informasi tentang layanan persampahan pemerintah.</td>
+      <td>Tersedianya informasi tentang layanan persampahan Pemerintah yang transparan.</td>
+    </tr>
+    <tr>
+      <td><ul>
+        <li>Jumlah orang yang menyalurkan informasi (pengguna) dari SMS Gateway, Aplikasi Telepon Selular dan Website hingga 750 orang sampai di akhir proyek.</li>
+        <li>Jumlah masyarakat yang berpartisipasi memberikan masukan melalui survey berkala minimal 150 orang setiap 3 bulan, hingga akhir tahun proyek.</li>
+      </ul></td>
+      <td>Terbangun dan berjalannya fungsi piranti lunak dalam proyek Peta Persampahan ini, dalam menyinergiskan, mengawasi, dan memberi input perbaikan layanan persampahan di kota Bandung.</td>
+      <td>Meningkatnya peran aktif masyarakat dalam mengawasi dan mendorong kinerja sistem layanan persampahan Pemerintah.</td>
+    </tr>
+    <tr>
+      <td><ul>
+        <li>Adanya 1 paket Kajian dan Dokumen tertulis kesepakatan optimalisasi peran Lembaga (Dewan) Persampahan Kota Bandung, serta komitmen untuk melanjutkan proyek ini.</li>
+        <li>Diadakannya 1 kali Konferensi pers ke khalayak umum khususnya rekan-rekan media oleh Lembaga (Dewan) Persampahan Kota Bandung mengenai pemantapan bentuk dan dukungan terhadap keberlanjutan proyek ini, di akhir tahun proyek.</li>
+        <li>1 paket dokumentasi (foto dan video) hasil seluruh proses proyek dari awal hingga akhir, yang turut disebarluaskan melalui media sosial dan Gerakan.</li>
+        <li>Adanya dokumen tentang kesepakatan bersama di antara lembaga persampahan dalam menyinergiskan, mengawasi, dan memberi input perbaikan layanan persampahan di kota Bandung ini.</li>
+      </ul></td>
+      <td>Tercapainya kesepakatan dan berjalannya optimalisasi peran Lembaga Persampahan menyinergiskan, mengawasi, dan memberi input perbaikan layanan persampahan di kota Bandung ini.</td>
+      <td>Tersedianya media yang dapat menyinergiskan, mengawasi, dan memberi input perbaikan layanan persampahan.</td>
+    </tr>
+  </tbody>
+</table>
 
 **Durasi waktu aktifitas dilaksanakan:**
     
