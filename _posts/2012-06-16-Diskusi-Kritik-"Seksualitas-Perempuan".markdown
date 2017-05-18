@@ -16,8 +16,9 @@ layout: laporancmb
 **Alamat** : 	Lingkar puisi dan prosa - Lembaga Bhinneka
 	
 **Hadir** :	
-*	Shinta Miranda (moderator)
-*	Sekitar 60 peserta
+*	Soe Tjen Marching (moderator)
+* Hendri Yulius (moderator)
+* Sekitar 50 peserta
 
 **Ringkasan** :	
 *	Membahas tentang penulisan puisi dan teknik penulisan
