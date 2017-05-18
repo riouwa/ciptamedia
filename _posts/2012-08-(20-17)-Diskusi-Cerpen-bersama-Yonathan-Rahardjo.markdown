@@ -15,7 +15,7 @@ layout: laporancmb
 	
 **Alamat** : 	Lingkar puisi dan prosa - Lembaga Bhinneka
 	
-**Jam** :	online
+**Jam** :	Online
 	
 **Hadir** :	
 *	Yonathan Rahardjo (moderator)
