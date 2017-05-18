@@ -9,9 +9,9 @@ layout: laporancmb
 		
 **Tujuan** :	Mengangkat kembali isu-isu diskriminasi dan pelecehan seksual terhadap wanita di tempat-tempat kerja melalui bercermin pada kasus pelecehan buruh tambang di Minnesota, Amerika Serikat, di tahun 70-an.	
 
-**Lokasi** :	Sekretariat GAYa Nusantara	Konsumsi
-		
-**Alamat** : 	Jl. Mojokidul 1/11A, Surabaya	200px
+**Lokasi** :	Sekretariat GAYa Nusantara	
+
+**Alamat** : 	Jl. Mojokidul 1/11A, Surabaya	
 		
 **Jam** :	10.00–13.00 WIB	
 		
