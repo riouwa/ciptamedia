@@ -3,25 +3,6 @@ title: Blog
 layout: blog
 ---
 
-<script>
-/* when document is ready */
-$(function() {
-	/* initiate plugin */
-	$("#holder").jPages({
-		containerID : "itemContainer",
-		perPage : 9,
-		startPage: 1,
-		startRange: 1,
-		midRange: 3,
-		endRange: 1
-	});
-	$("button").click(function(){
-		var page = parseInt( $("input").val() );
-		$("#holder").jPages( page );
-	});
-});
-</script>
-
 <div class="container" style="margin-top: 10px;">
 
 	<div class="row">
