@@ -57,6 +57,7 @@ b. Terdesiminasikannya informasi mengenai sampah Bandung secara meluas.
 c. Terdatanya komplain dan input dari masyarakat.
 d. Secara rutin melakukan pengecekan kinerja persampahan melalui semacam survey terbatas kepada target group representasif dari masyarakat.
 e. Dewan Sampah terbentuk untuk merespon masukan dan umpan balik dari masyarakat untuk perbaikan sistem persampahan.
+
 Output dari kegiatan ini adalah:
 
 * Terbangun dan berjalannya sistem piranti lunak SMS gateway.
