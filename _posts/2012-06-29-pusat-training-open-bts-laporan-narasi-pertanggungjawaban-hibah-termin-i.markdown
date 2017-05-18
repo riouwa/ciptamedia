@@ -98,22 +98,22 @@ Aktifitas dan isu yang anda atasi:
 1. Kurikulum pelatihan
  Penyusunan kurikulum pelatihan yang telah selesai, akan disebarluaskan pada minggu ketiga Januari 2015 melalui
   1. Kurikulum pengoperasian OpenBTS sudah selesai dan akan disebarkan melalui
-   1. Flashdisk yang dibagikan kepada para peserta training
-   2. Melalui website [http://informatics.surya.ac.id/elearning/](http://informatics.surya.ac.id/elearning/)
-   3. Saling berbagi dengan peserta yang telah mendapatkan pelatihan
-   4. Dapat meminta langsung kepada tim openBTS
+   * Flashdisk yang dibagikan kepada para peserta training
+   * Melalui website [http://informatics.surya.ac.id/elearning/](http://informatics.surya.ac.id/elearning/)
+   *  Saling berbagi dengan peserta yang telah mendapatkan pelatihan
+   *  Dapat meminta langsung kepada tim openBTS
    
   2. Kurikulum konfigurasi dasar OpenBTS sudah selesai dan akan disebarkan pada saat pelatihan pertama diselenggarakan melalui.
-   1. Flashdisk yang dibagikan kepada para peserta training
-   2. Melalui website [http://informatics.surya.ac.id/elearning/](http://informatics.surya.ac.id/elearning/)
-   3. Saling berbagi dengan peserta yang telah mendapatkan pelatihan
-   4. Dapat meminta langsung kepada tim openBTS
+   * Flashdisk yang dibagikan kepada para peserta training
+   * Melalui website [http://informatics.surya.ac.id/elearning/](http://informatics.surya.ac.id/elearning/)
+   * Saling berbagi dengan peserta yang telah mendapatkan pelatihan
+   * Dapat meminta langsung kepada tim openBTS
    
   3. Kurikulum installasi OpenBTS - selesai, akan disebarluaskan pada Januari 2015 melalui
-   1. Flashdisk yang dibagikan kepada para peserta training
-   2. Melalui website [http://informatics.surya.ac.id/elearning/](http://informatics.surya.ac.id/elearning/)
-   3. Saling berbagi dengan peserta yang telah mendapatkan pelatihan
-   4. Dapat meminta langsung kepada tim openBTS
+   * Flashdisk yang dibagikan kepada para peserta training
+   * Melalui website [http://informatics.surya.ac.id/elearning/](http://informatics.surya.ac.id/elearning/)
+   * Saling berbagi dengan peserta yang telah mendapatkan pelatihan
+   * Dapat meminta langsung kepada tim openBTS
 
 2. Sertifikasi: Soal-soal latihan sebagai indikator pemahaman peserta training terhadap materi yang terkait dengan sertifikasi - masih dibuat, diharapkan akan selesai pada bulan Mei 2015. Pranala penyebarannya melalui website [http://informatics.surya.ac.id/elearning/](http://informatics.surya.ac.id/elearning/)
 
