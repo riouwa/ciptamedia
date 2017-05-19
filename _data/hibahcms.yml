@@ -740,7 +740,7 @@
   long: 112.745579
   lat: -7.26424
   tipe: software
-  seleksi: false
+  seleksi: true
   gambar: /static/img/hibahcms/061.jpg
   link: /hibahcms/061
 
@@ -764,7 +764,7 @@
   long: 109.899399
   lat: -7.362109
   tipe: konten
-  seleksi: false
+  seleksi: true
   gambar: /static/img/hibahcms/063.jpg
   link: /hibahcms/063
 
@@ -788,7 +788,7 @@
   long: 110.368797
   lat: -7.797224
   tipe: hardware
-  seleksi: false
+  seleksi: true
   gambar: /static/img/hibahcms/065.jpg
   link: /hibahcms/065
 
@@ -1227,7 +1227,7 @@
   long: 119.487567
   lat: -5.416249
   tipe: hardware
-  seleksi: false
+  seleksi: true
   gambar: /static/img/hibahcms/101.jpg
   link: /hibahcms/101
 
@@ -1469,7 +1469,7 @@
   long: 106.830069
   lat: -6.388877
   tipe: konten
-  seleksi: false
+  seleksi: true
   gambar: /static/img/hibahcms/121.jpg
   link: /hibahcms/121
 
@@ -1511,7 +1511,7 @@
   long: 106.996952
   lat: -6.249028
   tipe: konten
-  seleksi: false
+  seleksi: true
   gambar: /static/img/hibahcms/124.jpg
   link: /hibahcms/124
 
@@ -1655,7 +1655,7 @@
   long: 106.830069
   lat: -6.388877
   tipe: konten
-  seleksi: false
+  seleksi: true
   gambar: /static/img/hibahcms/136.jpg
   link: /hibahcms/136
 
@@ -1679,7 +1679,7 @@
   long: 106.845599
   lat: -6.208763
   tipe: konten
-  seleksi: false
+  seleksi: true
   gambar: /static/img/hibahcms/138.jpg
   link: /hibahcms/138
 
@@ -2051,7 +2051,7 @@
   long: 140.717
   lat: -2.533
   tipe: konten
-  seleksi: false
+  seleksi: true
   gambar: /static/img/hibahcms/168.jpg
   link: /hibahcms/168
 
@@ -2555,7 +2555,7 @@
   long: 102.261996
   lat: -3.792067
   tipe: konten
-  seleksi: false
+  seleksi: true
   gambar: /static/img/hibahcms/cms-placeholder.jpg
   link: /hibahcms/209
 
@@ -2748,7 +2748,7 @@
   long: 95.316667
   lat: 5.55
   tipe: konten
-  seleksi: false
+  seleksi: true
   gambar: /static/img/hibahcms/225.jpg
   link: /hibahcms/225
 
@@ -2833,7 +2833,7 @@
   long: 135.980085
   lat: -1.038102
   tipe: konten
-  seleksi: false
+  seleksi: true
   gambar: /static/img/hibahcms/232.png
   link: /hibahcms/232
 
@@ -2918,7 +2918,7 @@
   long: 110.370527
   lat: -7.797068
   tipe: konten
-  seleksi: false
+  seleksi: true
   gambar: /static/img/hibahcms/239.png
   link: /hibahcms/239
 
@@ -3003,7 +3003,7 @@
   long: 110.222427
   lat: -7.46398
   tipe: konten
-  seleksi: false
+  seleksi: true
   gambar: /static/img/hibahcms/245.jpg
   link: /hibahcms/245
 
@@ -3164,7 +3164,7 @@
   long: 110.370527
   lat: -7.797068
   tipe: konten
-  seleksi: false
+  seleksi: true
   gambar: /static/img/hibahcms/258.png
   link: /hibahcms/258
 
@@ -3200,7 +3200,7 @@
   long: 106.947666
   lat: -6.121428
   tipe: konten
-  seleksi: false
+  seleksi: true
   gambar: /static/img/hibahcms/261.jpg
   link: /hibahcms/261
 
@@ -3249,7 +3249,7 @@
   long: 116.116686
   lat: -8.581948
   tipe: konten
-  seleksi: false
+  seleksi: true
   gambar: /static/img/hibahcms/cms-placeholder.jpg
   link: /hibahcms/265
 
@@ -3300,7 +3300,7 @@
   long: 106.845599
   lat: -6.208763
   tipe: software
-  seleksi: false
+  seleksi: true
   gambar: /static/img/hibahcms/269.png
   link: /hibahcms/269
 
@@ -3694,6 +3694,7 @@
   long: 113.001199
   lat: 0.83367
   tipe: konten
+  seleksi: true
   gambar: /static/img/hibahcms/cms-placeholder.jpg
   link: /hibahcms/301
 
@@ -3710,6 +3711,7 @@
   long: 140.717
   lat: -2.533
   tipe: konten
+  seleksi: false
   gambar: /static/img/hibahcms/302.jpg
   link: /hibahcms/302
 
@@ -3721,6 +3723,7 @@
   long: 109.005909
   lat: -7.727989
   tipe: konten
+  seleksi: false
   gambar: /static/img/hibahcms/cms-placeholder.jpg
   link: /hibahcms/303
 
@@ -3733,6 +3736,7 @@
   long: 107.63633
   lat: -6.893749
   tipe: software
+  seleksi: false
   gambar: /static/img/hibahcms/304.jpg
   link: /hibahcms/304
 
@@ -3744,6 +3748,7 @@
   long: 109.473507
   lat: -0.353394
   tipe: konten
+  seleksi: false
   gambar: /static/img/hibahcms/cms-placeholder.jpg
   link: /hibahcms/305
 
@@ -3755,6 +3760,7 @@
   long: 127.808769
   lat: 1.570999
   tipe: konten
+  seleksi: true
   gambar: /static/img/hibahcms/306.jpg
   link: /hibahcms/306
 
@@ -3766,6 +3772,7 @@
   long: 107.337579
   lat: -6.32273
   tipe: software
+  seleksi: false
   gambar: /static/img/hibahcms/307.jpg
   link: /hibahcms/307
 
@@ -3777,6 +3784,7 @@
   long: 106.631889
   lat: -6.178306
   tipe: software
+  seleksi: false
   gambar: /static/img/hibahcms/308.png
   link: /hibahcms/308
 
@@ -3788,6 +3796,7 @@
   long: 107.608242
   lat: -6.914864
   tipe: software
+  seleksi: false
   gambar: /static/img/hibahcms/309.png
   link: /hibahcms/309
 
@@ -3803,6 +3812,7 @@
   long: 112.621394
   lat: -7.983908
   tipe: konten
+  seleksi: false
   gambar: /static/img/hibahcms/310.jpg
   link: /hibahcms/310
 
@@ -3814,6 +3824,7 @@
   long: 106.806039
   lat: -6.268991
   tipe: software
+  seleksi: false
   gambar: /static/img/hibahcms/cms-placeholder.jpg
   link: /hibahcms/311
 
@@ -3825,6 +3836,7 @@
   long: 106.845599
   lat: -6.208763
   tipe: hardware
+  seleksi: false
   gambar: /static/img/hibahcms/cms-placeholder.jpg
   link: /hibahcms/312
 
@@ -3836,6 +3848,7 @@
   long: 98.308844
   lat: 3.865392
   tipe: software
+  seleksi: false
   gambar: /static/img/hibahcms/313.png
   link: /hibahcms/313
 
@@ -3848,6 +3861,7 @@
   long: 112.717339
   lat: -7.453028
   tipe: konten
+  seleksi: false
   gambar: /static/img/hibahcms/cms-placeholder.jpg
   link: /hibahcms/314
 
@@ -3859,6 +3873,7 @@
   long: 95.316667
   lat: 5.55
   tipe: software
+  seleksi: false
   gambar: /static/img/hibahcms/cms-placeholder.jpg
   link: /hibahcms/315
 
@@ -3870,6 +3885,7 @@
   long: 106.871485
   lat: -6.132055
   tipe: hardware
+  seleksi: false
   gambar: /static/img/hibahcms/cms-placeholder.jpg
   link: /hibahcms/316
 
@@ -3882,6 +3898,7 @@
   long: 110.222427
   lat: -7.46398
   tipe: software
+  seleksi: false
   gambar: /static/img/hibahcms/317.jpg
   link: /hibahcms/317
 
@@ -3893,6 +3910,7 @@
   long: 115.216667
   lat: -8.65
   tipe: software
+  seleksi: false
   gambar: /static/img/hibahcms/318.png
   link: /hibahcms/318
 
@@ -3904,6 +3922,7 @@
   long: 106.845599
   lat: -6.208763
   tipe: software
+  seleksi: false
   gambar: /static/img/hibahcms/319.png
   link: /hibahcms/319
 
@@ -3917,6 +3936,7 @@
   long: 95.316667
   lat: 5.55
   tipe: hardware
+  seleksi: false
   gambar: /static/img/hibahcms/cms-placeholder.jpg
   link: /hibahcms/320
 
@@ -3928,6 +3948,7 @@
   long: 112.621394
   lat: -7.983908
   tipe: konten
+  seleksi: false
   gambar: /static/img/hibahcms/cms-placeholder.jpg
   link: /hibahcms/321
 
@@ -3939,6 +3960,7 @@
   long: 112.011867
   lat: -7.82284
   tipe: software
+  seleksi: false
   gambar: /static/img/hibahcms/322.png
   link: /hibahcms/322
 
@@ -3950,6 +3972,7 @@
   long: 108.533333
   lat: -7.366667
   tipe: software
+  seleksi: false
   gambar: /static/img/hibahcms/cms-placeholder.jpg
   link: /hibahcms/323
 
@@ -3961,6 +3984,7 @@
   long: 109.005909
   lat: -7.727989
   tipe: konten
+  seleksi: true
   gambar: /static/img/hibahcms/324.jpg
   link: /hibahcms/324
 
@@ -3973,6 +3997,7 @@
   long: 112.621394
   lat: -7.983908
   tipe: software
+  seleksi: false
   gambar: /static/img/hibahcms/cms-placeholder.jpg
   link: /hibahcms/325
 
@@ -3984,6 +4009,7 @@
   long: 112.5239
   lat: -7.8671
   tipe: software
+  seleksi: false
   gambar: /static/img/hibahcms/326.png
   link: /hibahcms/326
 
@@ -3995,6 +4021,7 @@
   long: 110.370527
   lat: -7.797068
   tipe: software
+  seleksi: false
   gambar: /static/img/hibahcms/cms-placeholder.jpg
   link: /hibahcms/327
 
@@ -4006,6 +4033,7 @@
   long: 110.334111
   lat: -7.884611
   tipe: konten
+  seleksi: false
   gambar: /static/img/hibahcms/cms-placeholder.jpg
   link: /hibahcms/328
 
@@ -4017,6 +4045,7 @@
   long: 96.749399
   lat: 4.695135
   tipe: software
+  seleksi: false
   gambar: /static/img/hibahcms/329.png
   link: /hibahcms/329
 
@@ -4028,6 +4057,7 @@
   long: 109.005909
   lat: -7.727989
   tipe: konten
+  seleksi: false
   gambar: /static/img/hibahcms/cms-placeholder.jpg
   link: /hibahcms/330
 
@@ -4039,6 +4069,7 @@
   long: 107.44994
   lat: -6.538681
   tipe: software
+  seleksi: false
   gambar: /static/img/hibahcms/331.jpg
   link: /hibahcms/331
 
@@ -4051,6 +4082,7 @@
   long: 106.8
   lat: -6.6
   tipe: software
+  seleksi: false
   gambar: /static/img/hibahcms/cms-placeholder.jpg
   link: /hibahcms/332
 
@@ -4062,6 +4094,7 @@
   long: 106.830069
   lat: -6.388877
   tipe: software
+  seleksi: false
   gambar: /static/img/hibahcms/333.png
   link: /hibahcms/333
 
@@ -4073,6 +4106,7 @@
   long: 110.498817
   lat: -7.33683
   tipe: konten
+  seleksi: false
   gambar: /static/img/hibahcms/334.jpg
   link: /hibahcms/334
 
@@ -4084,6 +4118,7 @@
   long: 106.845599
   lat: -6.208763
   tipe: software
+  seleksi: false
   gambar: /static/img/hibahcms/cms-placeholder.jpg
   link: /hibahcms/335
 
@@ -4095,6 +4130,7 @@
   long: 106.845599
   lat: -6.208763
   tipe: software
+  seleksi: false
   gambar: /static/img/hibahcms/336.png
   link: /hibahcms/336
 
@@ -4109,6 +4145,7 @@
   long: 106.8
   lat: -6.6
   tipe: software
+  seleksi: false
   gambar: /static/img/hibahcms/cms-placeholder.jpg
   link: /hibahcms/337
 
@@ -4120,6 +4157,7 @@
   long: 113.92
   lat: -2.21
   tipe: konten
+  seleksi: false
   gambar: /static/img/hibahcms/cms-placeholder.jpg
   link: /hibahcms/338
 
@@ -4131,6 +4169,7 @@
   long: 112.011867
   lat: -7.82284
   tipe: konten
+  seleksi: false
   gambar: /static/img/hibahcms/339.jpg
   link: /hibahcms/339
 
@@ -4143,6 +4182,7 @@
   long: 113.702222
   lat: -8.168889
   tipe: software
+  seleksi: false
   gambar: /static/img/hibahcms/340.png
   link: /hibahcms/340
 
@@ -4154,6 +4194,7 @@
   long: 107.608242
   lat: -6.914864
   tipe: konten
+  seleksi: true
   gambar: /static/img/hibahcms/341.jpg
   link: /hibahcms/341
 
@@ -4166,6 +4207,7 @@
   long: 106.996952
   lat: -6.249028
   tipe: konten
+  seleksi: false
   gambar: /static/img/hibahcms/cms-placeholder.jpg
   link: /hibahcms/342
 
@@ -4177,6 +4219,7 @@
   long: 116.116686
   lat: -8.581948
   tipe: konten
+  seleksi: false
   gambar: /static/img/hibahcms/cms-placeholder.jpg
   link: /hibahcms/343
 
@@ -4188,6 +4231,7 @@
   long: 107.608242
   lat: -6.914864
   tipe: hardware
+  seleksi: false
   gambar: /static/img/hibahcms/344.png
   link: /hibahcms/344
 
@@ -4199,6 +4243,7 @@
   long: 112.90666
   lat: -7.639617
   tipe: software
+  seleksi: false
   gambar: /static/img/hibahcms/345.jpg
   link: /hibahcms/345
 
@@ -4210,6 +4255,7 @@
   long: 112.621394
   lat: -7.983908
   tipe: konten
+  seleksi: false
   gambar: /static/img/hibahcms/346.jpg
   link: /hibahcms/346
 
@@ -4221,6 +4267,7 @@
   long: 106.830069
   lat: -6.388877
   tipe: konten
+  seleksi: false
   gambar: /static/img/hibahcms/347.jpg
   link: /hibahcms/347
 
@@ -4232,6 +4279,7 @@
   long: 112.621394
   lat: -7.983908
   tipe: software
+  seleksi: false
   gambar: /static/img/hibahcms/348.png
   link: /hibahcms/348
 
@@ -4243,6 +4291,7 @@
   long: 99.142848
   lat: 2.377957
   tipe: software
+  seleksi: false
   gambar: /static/img/hibahcms/349.jpg
   link: /hibahcms/349
 
@@ -4254,6 +4303,7 @@
   long: 107.533869
   lat: -6.899541
   tipe: software
+  seleksi: true
   gambar: /static/img/hibahcms/350.png
   link: /hibahcms/350
 
@@ -4265,6 +4315,7 @@
   long: 112.15
   lat: -8.1
   tipe: software
+  seleksi: false
   gambar: /static/img/hibahcms/351.png
   link: /hibahcms/351
 
@@ -4276,6 +4327,7 @@
   long: 110.498817
   lat: -7.33683
   tipe: software
+  seleksi: false
   gambar: /static/img/hibahcms/352.png
   link: /hibahcms/352
 
@@ -4287,6 +4339,7 @@
   long: 106.845599
   lat: -6.208763
   tipe: konten
+  seleksi: false
   gambar: /static/img/hibahcms/353.png
   link: /hibahcms/353
 
@@ -4298,6 +4351,7 @@
   long: 101.706829
   lat: 0.293347
   tipe: konten
+  seleksi: false
   gambar: /static/img/hibahcms/354.png
   link: /hibahcms/354
 
@@ -4310,6 +4364,7 @@
   long: 106.806039
   lat: -6.268991
   tipe: software
+  seleksi: true
   gambar: /static/img/hibahcms/cms-placeholder.jpg
   link: /hibahcms/355
 
@@ -4322,6 +4377,7 @@
   long: 106.845599
   lat: -6.208763
   tipe: software
+  seleksi: false
   gambar: /static/img/hibahcms/356.jpg
   link: /hibahcms/356
 
@@ -4334,6 +4390,7 @@
   long: 106.845599
   lat: -6.208763
   tipe: software
+  seleksi: false
   gambar: /static/img/hibahcms/357.jpg
   link: /hibahcms/357
 
@@ -4345,6 +4402,7 @@
   long: 107.608242
   lat: -6.914864
   tipe: software
+  seleksi: false
   gambar: /static/img/hibahcms/358.jpg
   link: /hibahcms/358
 
@@ -4356,6 +4414,7 @@
   long: 107.608242
   lat: -6.914864
   tipe: software
+  seleksi: true
   gambar: /static/img/hibahcms/cms-placeholder.jpg
   link: /hibahcms/359
 
@@ -4370,6 +4429,7 @@
   long: 106.996952
   lat: -6.249028
   tipe: konten
+  seleksi: false
   gambar: /static/img/hibahcms/360.jpg
   link: /hibahcms/360
 
@@ -4381,6 +4441,7 @@
   long: 106.8
   lat: -6.6
   tipe: konten
+  seleksi: false
   gambar: /static/img/hibahcms/361.jpg
   link: /hibahcms/361
 
@@ -4392,6 +4453,7 @@
   long: 110.833333
   lat: -6.8
   tipe: konten
+  seleksi: false
   gambar: /static/img/hibahcms/362.jpg
   link: /hibahcms/362
 
@@ -4403,6 +4465,7 @@
   long: 106.806039
   lat: -6.268991
   tipe: software
+  seleksi: true
   gambar: /static/img/hibahcms/363.png
   link: /hibahcms/363
 
@@ -4414,6 +4477,7 @@
   long: 106.793259
   lat: -6.394447
   tipe: software
+  seleksi: false
   gambar: /static/img/hibahcms/364.jpg
   link: /hibahcms/364
 
@@ -4425,6 +4489,7 @@
   long: 124.842843
   lat: 1.491701
   tipe: software
+  seleksi: false
   gambar: /static/img/hibahcms/cms-placeholder.jpg
   link: /hibahcms/365
 
@@ -4436,6 +4501,7 @@
   long: 106.845599
   lat: -6.208763
   tipe: software
+  seleksi: false
   gambar: /static/img/hibahcms/366.jpg
   link: /hibahcms/366
 
@@ -4447,6 +4513,7 @@
   long: 106.996952
   lat: -6.249028
   tipe: software
+  seleksi: false
   gambar: /static/img/hibahcms/367.jpg
   link: /hibahcms/367
 
@@ -4458,5 +4525,6 @@
   long: 112.621394
   lat: -7.983908
   tipe: software
+  seleksi: false
   gambar: /static/img/hibahcms/368.jpg
   link: /hibahcms/368
