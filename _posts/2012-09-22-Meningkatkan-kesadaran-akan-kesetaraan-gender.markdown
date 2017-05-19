@@ -1,6 +1,6 @@
 ---	
 title: 	Meningkatkan kesadaran akan kesetaraan gender
-date: 	2012-09-(30-22)
+date: 	2012-09-22
 categories:	
 - laporan	
 - Bhinneka	
@@ -15,7 +15,7 @@ layout: laporancmb
 	
 **Alamat** : 	Lingkar puisi dan prosa - Lembaga Bhinneka
 	
-**Jam** :	Online
+**Jam** :	Online (22-30 September 2012)
 	
 **Hadir** :	
 *	Soe Tjen Marching (juri)
