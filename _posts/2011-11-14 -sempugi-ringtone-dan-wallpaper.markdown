@@ -6,7 +6,7 @@ categories:
 - Sempugi - Ringtone dan Wallpaper
 ---
 
-*Sempugi: Ringtone dan Wallpaper**
+**Sempugi: Ringtone dan Wallpaper**
 
 **Wikimedia Indonesia**
 
@@ -49,7 +49,8 @@ Kesulitan yang diatasi
 
 Aktifitas dan isu yang anda atasi:
 
-Lagu tradisional (NN) yang terancam punah
+**1. Lagu tradisional (NN) yang terancam punah**
+
 Lagu direkam
 Telah merekam 12 lagu tradisional daerah Sulawesi Selatan yang terdiri dari 6 lagu aransemen modern dan 6 lagu aransemen full etnis. Lagu ini berasal dari Lomba yang telah dilaksanakan kemudian Pemenang lomba yang difasilitasi untuk rekaman. Adapun judul lagu yang direkam antara lain
 Aransemen Modern
@@ -70,7 +71,8 @@ Dijadikan ringtone
 Proses perekaman dilakukan di Studio Musik Fantazhi Home Recording. Dilakukan selama 15 hari antara 25 Oktober 2014 hingga 09 November 2014. Hasil rekaman dalam format Mp3 kemudian diupload di soundcloud resmi SEMPUGI dengan lisensi CC Semua lagu tersebut telah dijadikan ringtone. Telah ada penyampaian pada band/sanggar bersangkutan yaitu Vertikal Band dan UKM 9 bahwa lagu yang mereka buat telah dijadikan ringtone. Berpartisipasi dalam penyebaran melalui Facebook.
 Disebarkan secara gratis
 Sementara ini kami telah menyimpan lagu tradisional dalam bentuk MP3 di soundcloud dan ringtone di server sempugi. Kemudian memanfaatkan sosial media seperti facebook, google + dan twitter dalam penyebarannya.
-Beberapa atraksi budaya mulai langka
+
+2. Beberapa atraksi budaya mulai langka
 6 atraksi budaya langka sudah dijadikan wallpaper
 ma’nene (upacara kematian)- toraja
 tingoro’ tedong (potong kerbau) - toraja
@@ -79,7 +81,8 @@ tari pano’ berre (tari suka cita menyambut musim tanam) - bone
 ma’raga (permainan ketangkasan bola raga) - makassar
 sandeq (lomba perahu layar) - mandar
 Foto tersebut merupakan hasil lomba dan disimpan di server sempugi. Dapat diunduh secara gratis http://sempugi.org/wallpaper-atraksi-budaya/
-Potensi obyek wisata yang kurang dikenal diabadikan dan dijadikan wallpaper kemudian disebar secara gratis
+
+**3. Potensi obyek wisata yang kurang dikenal diabadikan dan dijadikan wallpaper kemudian disebar secara gratis**
 16 potensi obyek wisata telah dijadikan wallpaper
 Air terjun barambang → Sinjai (2 Wallpaper)
 Air terjun bissapu → Bantaeng
@@ -96,7 +99,9 @@ Pulau Liukang Loe → Bulukumba
 Rammang–Rammang → Maros
 Pantai Semboang → Bulukumba
 Wallpaper potensi obyek wisata ini disimpan di server sempugi kemudian disebar, media sosial twitter, google+ dan facebook. Target sebaran adalah anggota grup diskusi
-Semboyan, slogan, dan petuah bijak yang kurang dikenal didesain menjadi wallpaper. Kemudian dibagikan secara gratis. Dengan demikian semboyan, slogan dan petuah bijak tersebut kembali dikenal
+
+**4. Semboyan, slogan, dan petuah bijak yang kurang dikenal didesain menjadi wallpaper. Kemudian dibagikan secara gratis. Dengan demikian semboyan, slogan dan petuah bijak tersebut kembali dikenal**
+
 Wallpaper ini dibuat oleh desainer yaitu Kudrianto (Kudesign) ada 20 semboyan dan petuah bijak telah dijadikan wallpaper. Keduapuluh wallpaper ini masing masing terdiri 2 ukuran, untuk desktop dan smartphone dengan rincian; 10 untuk seluler dan 10 untuk desktop.
 Makassar 4
 http://sempugi.org/ku-soronna-biseangku/
@@ -124,7 +129,8 @@ Kajang 1
 http://sempugi.org/petuah-kajang/
 Toraja 1
 http://sempugi.org/mesa-kada-dipatuo/
-wallpaper petuah bijak ini disimpan di server Sempugi dan disebar di media sosial Twitter dan Facebook serta Google+. Target sebaran adalah anggota diskusi grup.
+
+**wallpaper petuah bijak ini disimpan di server Sempugi dan disebar di media sosial Twitter dan Facebook serta Google+. Target sebaran adalah anggota diskusi grup.**
 
 **3. Indikator sukses anda dalam permohonan hibah**
 
@@ -174,35 +180,35 @@ Untuk sementara, tujuan sesuai proposal belum tercapai. Saat ini masih diusahaka
 **Pendataan**
 
 1. Didapatkannya lagu tradisional NN sebanyak 12 lagu dengan perincian :
-  * toraja 3 lagu berjudul TOME PARE, LEMBANG SURA, PENANGMU PENANGKU,
-  * luwu 1 lagu berjudul LEMBATA TANA LUWU
+  * toraja 3 lagu berjudul TOME PARE, [LEMBANG SURA](http://sempugi.org/lembang-sura), [PENANGMU PENANGKU](http://sempugi.org/penammu-penangku),
+  * luwu 1 lagu berjudul [LEMBATA TANA LUWU](http://sempugi.org/lembata-tana-luwu)
   * bugis 5 lagu berjudul ANA MASERI, DENDANG LANCIRANG, GANDONG-GANDONG, MARENNI-RENNI, PUTE CANGKA,
-  * kajang 1 berjudul PABBITTE PASSAPU,
+  * kajang 1 berjudul [PABBITTE PASSAPU](http://sempugi.org/lagu-kajang-2),
   * enrekang 1 lagu berjudul BAMBAPUANG,
   * pinrang 1 lagu berjudul BESSE BUNGKO
-2. Didapatkannya potensi wisata yang belum digarap sebanyak 12 yang tersebar di beberapa kabupaten
-3. Didapatkannya tokoh adat/budayawan yang tersebar dibeberapa kabupaten
-4. Didapatkannya petuah bijak sebanyak 20
+2. [Didapatkannya potensi wisata yang belum digarap sebanyak 12 yang tersebar di beberapa kabupaten](http://sempugi.org/wallpaper-objek-wisata-alam)
+3. Didapatkannya [tokoh adat/budayawan](http://ciptamedia.org/wiki/Sempugi:_Ringtone_dan_Wallpaper/Laporan_Aktivitas) yang tersebar dibeberapa kabupaten
+4. Didapatkannya [petuah bijak sebanyak 20](http://sempugi.org/wallpaper-petuah-bijak-untuk-desktop)
 
-**Lomba**
+**[Lomba](http://lomba.sempugi.org/)**
 
 1. Adanya 93 (sembilan puluh tiga) foto obyek wisata dan 84 (delapan puluh empat) foto atraksi budaya
-2. Adanya 12 pemenang lomba foto dengan perincian, 6 pemenang untuk kategori atraksi budaya dan 6 untuk kategori obyek wisata alam
+2. Adanya 12 pemenang lomba foto dengan perincian, [6 pemenang untuk kategori atraksi budaya](http://sempugi.org/wallpaper-atraksi-budaya) dan [6 untuk kategori obyek wisata alam](http://sempugi.org/wallpaper-objek-wisata-alam)
 3. Adanya 22 lagu yang demo dan terpilih 12 lagu masuk studio rekaman
-4. Adanya 6 pemenang lomba rearansemen lagu dengan perincian, 3 untuk kategori full etnik dan 3 untuk kategori modern.
+4. Adanya 6 pemenang lomba rearansemen lagu dengan perincian, [3 untuk kategori full etnik](http://sempugi.org/alat-musik-tradisional) dan [3 untuk kategori modern](http://sempugi.org/alat-musik-modern/).
 5. Adapun rincian pemenang
   
-  * Lomba Foto
+  * [Lomba Foto](http://ciptamedia.org/wiki/Sempugi:_Ringtone_dan_Wallpaper/Laporan_Aktivitas#11_November_2014)
   1. Kategori Atraksi Budaya
-   * Juara 1 Resjan Manaya (tingoro tedong)
-   * Juara 2 Firman Mahmud (pepe ri makka)
-   * Juara 3 Jasmin Hamid (pano berre)
+   * [Juara 1 Resjan Manaya (tingoro tedong)](http://sempugi.org/matingoro-tedong)
+   * [Juara 2 Firman Mahmud (pepe ri makka)](http://sempugi.org/pepe-pepeka-ri-makka)
+   * [Juara 3 Jasmin Hamid (pano berre)](http://sempugi.org/pano-berre)
   2. Kategori Potensi Obyek Wisata
-   * Ruslin Halim
-   * Firman Noi
-   * Akbar Jaya
+   * [Ruslin Halim](http://sempugi.org/juara-1-lomba-photo-potensi-objek-wisata)
+   * [Firman Noi](http://sempugi.org/air-terjun-ketemu-jodoh)
+   * [Akbar Jaya](http://sempugi.org/pulau-badi-eksotisme-dari-spermonde)
 
-  * Lomba Rearansemen
+  * [Lomba Rearansemen](http://sempugi.org/juara-lomba-re-aransemen-sempugi-diumumkan-pada-malam-anugerah)
   1. Kategori Full Etnik
    * Sanggar Bunda
    * Sanggar Lontara
@@ -222,23 +228,23 @@ Untuk sementara, tujuan sesuai proposal belum tercapai. Saat ini masih diusahaka
    * Tindoki Band
    * Iwank & Friends Band
    * Moexin n Tami
-  2. Telah melewati proses mixing dan mastering 12 lagu yang terdiri 6 kategori full etnik dan 6 kategori modern dalam bentuk MP3
-  3. Telah disimpan di Soundcloud dan Server sempugi
-  4. Telah diproses menjadi ringtone http://sempugi.org/category/lagu-nada-dering/
+  2. Telah melewati proses mixing dan mastering 12 lagu yang terdiri [6 kategori full etnik](http://sempugi.org/alat-musik-tradisional) dan [6 kategori modern](http://sempugi.org/alat-musik-modern) dalam bentuk MP3
+  3. Telah disimpan di [Soundcloud](https://soundcloud.com/sempugi) dan [Server sempugi](http://sempugi.org/category/lagu-nada-dering)
+  4. Telah diproses menjadi ringtone [http://sempugi.org/category/lagu-nada-dering/](http://sempugi.org/category/lagu-nada-dering/)
   5. Telah disebar di sosial media, Facebook, Google+ dan Twitter
 
-  * Wallpaper. Produksi Wallpaper sebanyak 44 terdiri dari
-  1. Hasil dari lomba sebanyak 12 foto, atraksi budaya dan wisata alam
-  2. Desain wallpaper petuah bijak sebanyak 20
+  * [Wallpaper](http://sempugi.org/category/wall-paper-photo). Produksi Wallpaper sebanyak 44 terdiri dari
+  1. Hasil dari lomba sebanyak 12 foto, [atraksi budaya](http://sempugi.org/wallpaper-atraksi-budaya/) dan [wisata alam](http://sempugi.org/wallpaper-objek-wisata-alam/)
+  2. [Desain wallpaper petuah bijak sebanyak 20](http://sempugi.org/wallpaper-petuah-bijak-untuk-desktop)
 
   * Hasil Wawancara (3 buah petuah bijak)
-  1. Kajang 1
-  2. Makassar 1
-  3. Selayar 1
+  1. [Kajang 1](http://ciptamedia.org/wiki/Sempugi:_Ringtone_dan_Wallpaper/Laporan_Aktivitas#04_Oktober_2014)
+  2. [Makassar 1](http://ciptamedia.org/wiki/Sempugi:_Ringtone_dan_Wallpaper/Laporan_Aktivitas#02_September_2014)
+  3. [Selayar 1](http://ciptamedia.org/wiki/Sempugi:_Ringtone_dan_Wallpaper/Laporan_Aktivitas#04_September_2014)
 
   * Hasil Dokumen (17 buah)
   1. Partisipasi komunitas fotografi 12 foto (Komunitas Kapolo dan Komunitas Toberu)
-  2. Penyebaran wallpaper dengan cara menautkan pranala http://sempugi.org/category/wall-paper-photo di situs jejaring sosial seperti Facebook, Google + dan Twitter
+  2. Penyebaran wallpaper dengan cara menautkan pranala [http://sempugi.org/category/wall-paper-photo](http://sempugi.org/category/wall-paper-photo) di situs jejaring sosial seperti Facebook, Google + dan Twitter
 
 **5. Perubahan Lingkup Organisasi/ Lingkungan Sekitar**
 
