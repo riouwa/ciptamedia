@@ -1,6 +1,6 @@
 ---	
 title: 	Lomba menulis artikel Opini
-date: 	2012-09-(22-10)
+date: 	2012-09-10
 categories:	
 - laporan	
 - Bhinneka	
@@ -15,7 +15,7 @@ layout: laporancmb
 	
 **Alamat** : 	Lingkar puisi dan prosa - Lembaga Bhinneka
 	
-**Jam** :	Online
+**Jam** :	Online (10-22 September 2012)
 	
 **Hadir** :	
 *	Soe Tjen Marching (juri)
