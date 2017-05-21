@@ -13,7 +13,7 @@ layout: laporancmb
 ![200px-Januari_13_2013_-_tembang_kenangan_2.jpg](/uploads/200px-Januari_13_2013_-_tembang_kenangan_2.jpg){: .img-responsive .center-block }
 
 
-**Tujuan** : Rubrik KPOP 
+**Tujuan** : Rubrik tembang kenangan 
 
 **Lokasi** : Studio Marsinah fm 
 
