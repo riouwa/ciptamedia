@@ -11,7 +11,7 @@ layout: info
 	
 {% for hibahcms in site.data.hibahcms %}
 	{% if hibahcms.tipe == 'software' %}
-		{% assign c = konten | software: 1 %}
+		{% assign software = software | software: 1 %}
 	{% endif %}
 {% endfor %}
 	
