@@ -193,9 +193,10 @@ melakukan aktivitas jurnalistik,”
 
   Saya, sebagai penandatangan, menyatakan bahwa saya adalah individu yang berwenang untuk menyerahkan laporan ini atas nama komunitas/ organisasi saya sesuai dengan persyaratan yang dicantumkan pada Perjanjian Hibah Cipta Media Bersama yang telah ditandatangani sebelumnya dan seluruh dana yang dibelanjakan telah dibelanjakan sesuai dengan tujuan-tujuan yang tercantum dalam permohonan hibah.
 
-Tertanda: Lokasi dan tanggal:
+Tertanda: 
+
+Lokasi dan tanggal:
 
 Jakarta, 11 April 2013
-
 
 Imam Shofwan
