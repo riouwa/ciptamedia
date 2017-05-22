@@ -14,11 +14,11 @@ Wikimedia Indonesia mengharuskan seluruh penerima hibah melaporkan kegiatan mere
 
 Laporan dapat dikirimkan melalui surel atau dokumen asli
 
-Penerima hibah	     :	**YAYASAN PANTAU (IMAM SHOFWAN)**
+Penerima hibah: **YAYASAN PANTAU (IMAM SHOFWAN)**
 
-Periode Laporan	     :	**12 Desember 2012 hingga 30 Maret 2013**
+Periode Laporan: **12 Desember 2012 hingga 30 Maret 2013**
 
-Proyek	             :	**Follow up Survey Persepsi Wartawan Indonesia Terhadap Islam**
+Proyek: **Follow up Survey Persepsi Wartawan Indonesia Terhadap Islam**
 
 **1. Pembelajaran**
 
