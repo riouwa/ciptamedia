@@ -1072,6 +1072,7 @@
   lat: -6.388877
   tipe: software
   seleksi: false
+  publik: true
   gambar: /static/img/hibahcms/088.jpg
   link: /hibahcms/088
 
@@ -1168,6 +1169,7 @@
   lat: -6.92405
   tipe: software
   seleksi: false
+  publik: true
   gambar: /static/img/hibahcms/096.jpg
   link: /hibahcms/096
 
@@ -3910,6 +3912,7 @@
   lat: -8.65
   tipe: software
   seleksi: false
+  publik: true
   gambar: /static/img/hibahcms/318.png
   link: /hibahcms/318
 
