@@ -2159,7 +2159,7 @@
   lokasi: Lumajang, Jawa Timur
   long: 113.226601
   lat: -8.137022
-  tipe: sofware
+  tipe: software
   seleksi: false
   gambar: /static/img/hibahcms/cms-placeholder.jpg
   link: /hibahcms/177
@@ -2212,7 +2212,7 @@
     - Dapat menampilkan informasi lokasi dari gps handset
     - Overlay tampilan peta dari google map sehingga selalu uptodate
   lokasi: Sumedang Utara, Jawa Barat
-  tipe: sotfware
+  tipe: software
   seleksi: false
   gambar: /static/img/hibahcms/cms-placeholder.jpg
   link: /hibahcms/181
