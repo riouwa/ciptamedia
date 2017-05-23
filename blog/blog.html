@@ -68,14 +68,16 @@ $(function() {
 			<div class="row m-b-lg">
 				<div class="col-md-12">
 				  <div class="dropdown">
-				    <button class="btn btn-danger dropdown-toggle" type="button" data-toggle="dropdown">Category
+				    <button class="btn btn-danger btn-block btn-lg dropdown-toggle" type="button" data-toggle="dropdown">Category
 				    <span class="caret"></span></button>
 				    <ul class="dropdown-menu">
 				      <li class="dropdown-header"><h3>Cipta Media Seluler</h3></li>
+				      <hr>
 				      {% for CMS in site.data.CMS %}
 				      <li><a href="{{ CMS.href }}"><h4>{{ CMS.name }}</h4></a></li>
 				      {% endfor %}
 				      <li class="dropdown-header"><h3>Cipta Media Berita</h3></li>
+				      <hr>
 				      {% for CMB in site.data.CMB %}
 				      <li><a href="{{ CMB.href }}"><h4>{{ CMB.name }}</h4></a></li>
 				      {% endfor %}
