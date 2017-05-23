@@ -72,12 +72,12 @@ $(function() {
 				    <a class="btn btn-danger btn-block btn-lg dropdown-toggle" data-toggle="dropdown">Kategori
 				    <span class="caret"></span></a>
 				    <ul class="dropdown-menu">
-				      <li class="dropdown-header"><h3><a href="blogcms.html">Cipta Media Seluler</a></h3></li>
+				      <li class="dropdown-header"><h3><a href="/blogcms/">Cipta Media Seluler</a></h3></li>
 				      {% for CMS in site.data.CMS %}
 				      <li><a href="{{ CMS.href }}"><h4>{{ CMS.name }}</h4></a></li>
 				      {% endfor %}
 					<hr>
-				      <li class="dropdown-header"><h3><a href="blogcmb.html">Cipta Media Berita</a></h3></li>
+				      <li class="dropdown-header"><h3><a href="/blogcmb/">Cipta Media Berita</a></h3></li>
 				      {% for CMB in site.data.CMB %}
 				      <li><a href="{{ CMB.href }}"><h4>{{ CMB.name }}</h4></a></li>
 				      {% endfor %}
@@ -92,7 +92,7 @@ $(function() {
 		    	<div class="pag-holder" id="holder"></div>
 		</div>
 		<div class="col-md-12">
-			<input type="number" value="5" style="width: 40px; text-align: center;">
+			<input type="number" value="1" style="width: 40px; text-align: center;">
 			<button>Lompat ke bagian ini</button>
 		</div>
 	</div>
