@@ -71,12 +71,12 @@ $(function() {
 				    <a class="btn btn-danger btn-block btn-lg dropdown-toggle" data-toggle="dropdown">Kategori
 				    <span class="caret"></span></a>
 				    <ul class="dropdown-menu">
-				      <li class="dropdown-header"><h3>Cipta Media Seluler</h3></li>
+				      <li class="dropdown-header"><h3><a href="blogcms.html">Cipta Media Seluler</a></h3></li>
 				      {% for CMS in site.data.CMS %}
 				      <li><a href="{{ CMS.href }}"><h4>{{ CMS.name }}</h4></a></li>
 				      {% endfor %}
-					    <hr>
-				      <li class="dropdown-header"><h3>Cipta Media Berita</h3></li>
+					<hr>
+				      <li class="dropdown-header"><h3><a href="blogcmb.html">Cipta Media Berita</a></h3></li>
 				      {% for CMB in site.data.CMB %}
 				      <li><a href="{{ CMB.href }}"><h4>{{ CMB.name }}</h4></a></li>
 				      {% endfor %}
