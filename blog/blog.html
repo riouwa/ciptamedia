@@ -34,7 +34,7 @@ $(function() {
 	</div>
 
 	<div class="row m-b-lg">
-		<div class="col-md-8">
+		<div class="col-md-10">
 			<div class="row m-b-lg">
 				<div id="itemContainer">
 				{% for post in site.posts%}
@@ -64,16 +64,16 @@ $(function() {
 				</div>
 			</div>
 		</div>
-		<div class="col-md-4">
+		<div class="col-md-2">
 			<div class="row m-b-lg">
-				<div class="col-md-12 text-center">
+				<div class="col-md-12">
 					<h3>Cipta Media Seluler</h3>
 					<hr>
 					{% for CMS in site.data.CMS %}
 						<a href="{{ CMS.href }}"><h4>{{ CMS.name }}</h4></a>
 					{% endfor %}
 				</div>
-				<div class="col-md-12 text-center">
+				<div class="col-md-12">
 					<h3>Cipta Media Berita</h3>
 					<hr>
 					{% for CMB in site.data.CMB %}
