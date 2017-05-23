@@ -28,4 +28,4 @@ layout: laporancmb
 * Yayan (Nine Savana)
 
 **Ringkasan**  
-*    Breifing ini untuk memaparkan tujuan studi yang terkait dengan pengumpulan berbagai info tentang perkembangan rakom di Jabar dan mendokumentasikan praktek fundraising. selain itu juga menfinalisasi jadwal serta alur pengambilan data lapangan, pertanyaan-pertanyaan yang akan diajukan dan bentuk akhir/hasil dari studi dan dokumentasi ini.
+* Breifing ini untuk memaparkan tujuan studi yang terkait dengan pengumpulan berbagai info tentang perkembangan rakom di Jabar dan mendokumentasikan praktek fundraising. selain itu juga menfinalisasi jadwal serta alur pengambilan data lapangan, pertanyaan-pertanyaan yang akan diajukan dan bentuk akhir/hasil dari studi dan dokumentasi ini.
