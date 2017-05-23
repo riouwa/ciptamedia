@@ -67,18 +67,21 @@ $(function() {
 		<div class="col-md-2">
 			<div class="row m-b-lg">
 				<div class="col-md-12">
-					<h3>Cipta Media Seluler</h3>
-					<hr>
-					{% for CMS in site.data.CMS %}
-						<a href="{{ CMS.href }}"><h4>{{ CMS.name }}</h4></a>
-					{% endfor %}
-				</div>
-				<div class="col-md-12">
-					<h3>Cipta Media Berita</h3>
-					<hr>
-					{% for CMB in site.data.CMB %}
-						<a href="{{ CMB.href }}"><h4>{{ CMB.name }}</h4></a>
-					{% endfor %}
+				  <div class="dropdown">
+				    <button class="btn btn-danger dropdown-toggle" type="button" data-toggle="dropdown">Category
+				    <span class="caret"></span></button>
+				    <ul class="dropdown-menu">
+				      <li class="dropdown-header"><h3>Cipta Media Seluler</h3></li>
+				      {% for CMS in site.data.CMS %}
+				      <li><a href="{{ CMS.href }}"><h4>{{ CMS.name }}</h4></a></li>
+				      {% endfor %}
+				      <li class="dropdown-header"><h3>Cipta Media Berita</h3></li>
+				      {% for CMB in site.data.CMB %}
+				      <li><a href="{{ CMB.href }}"><h4>{{ CMB.name }}</h4></a></li>
+				      {% endfor %}
+				      <li><a href="#">About Us</a></li>
+				    </ul>
+				  </div>
 				</div>
 			</div>
 		</div>
