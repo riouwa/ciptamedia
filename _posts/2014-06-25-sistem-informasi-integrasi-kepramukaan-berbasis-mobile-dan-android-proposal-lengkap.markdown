@@ -6,7 +6,7 @@ categories:
 - Pandu App 
 ---
 
-![250px-Akumassa.jpg](/uploads/250px-Akumassa.jpg){: .img-responsive .center-block }
+![250px-Sistem_Informasi_Integrasi_Kepramukaan_Berbasis_Mobile_dan_Android.jpg](/uploads/250px-Sistem_Informasi_Integrasi_Kepramukaan_Berbasis_Mobile_dan_Android.jpg){: .img-responsive .center-block }
 
 **Final 25 Juni 2014**
 
