@@ -15,7 +15,7 @@ layout: laporancmb
 ![200px-Juli_4_2013_PRC_pemaparan_mtas.JPG](/uploads/200px-Juli_4_2013_PRC_pemaparan_mtas.JPG){: .img-responsive .center-block }
 
 
-**Tujuan** :Diskusi Publik diseminasi hasil studi Fundraising Radio Komunitas “Menuju Keberlanjutan Radio Komunitas” 
+**Tujuan** : Diskusi Publik diseminasi hasil studi Fundraising Radio Komunitas “Menuju Keberlanjutan Radio Komunitas” 
 
 **Lokasi** : Aula KPID JABAR, 
 
