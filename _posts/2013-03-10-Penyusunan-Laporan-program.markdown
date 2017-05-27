@@ -15,7 +15,7 @@ layout: laporancmb
 
 **Alamat** :  Sekretariat Mata Enggang 
 
-**Jam** :  10.00-15.30 
+**Jam** :  10 -17 Maret, 10.00-15.30 
 
 **Hadir** :
 * Asriyadi Alexander Mering, Basilius Andreas Gas, Bosio
