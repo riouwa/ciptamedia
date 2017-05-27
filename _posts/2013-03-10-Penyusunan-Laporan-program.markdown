@@ -1,6 +1,6 @@
 ---
 title:  Penyusunan Laporan program 
-date: 2013-17-10
+date: 2013-03-10
 categories:
 - laporan
 - Border Blogger Movement
