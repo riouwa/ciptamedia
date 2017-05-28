@@ -1,12 +1,15 @@
 ---
-title: Hari ke-2 Pelatihan Jurnalistik "Menulis untuk Kesederajatan" (II)
+title: Hari ke-2 Pelatihan Jurnalistik
 date: 2012-03-20
 categories:
 - laporan
 - LenteraTimur.com - Menyingi Identitas Indonesia
+layout: laporancmb
 ---
 
+
 ![200px-Maret_20_2012_LenteraTimur.com_Suasana_pelatihan_hari_kedua_di_Gorontalo.jpg](/uploads/200px-Maret_20_2012_LenteraTimur.com_Suasana_pelatihan_hari_kedua_di_Gorontalo.jpg){: .img-responsive .center-block }
+
 
 **Tujuan** : Hari ke-2 Pelatihan Jurnalistik "Menulis untuk Kesederajatan" (II)
 
