@@ -1,10 +1,12 @@
 ---
-title: Update naskah rubrik Sastra, "Sajak-Sajak Irwanto" (Kontributor - Irwanto)
+title: Update naskah rubrik Sastra
 date: 2012-04-12
 categories:
 - laporan
 - LenteraTimur.com – Menyigi Identitas Indonesia
+layout: laporancmb
 ---
+
 
 **Tujuan** : Update naskah rubrik Sastra, "Sajak-Sajak Irwanto" (Kontributor - Irwanto)
 
