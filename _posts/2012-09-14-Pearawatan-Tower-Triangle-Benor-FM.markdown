@@ -1,6 +1,6 @@
 ---	
 title: Pearawatn Tower Triangle Benor FM di Studio Benor FM desa Bukit Suban Kec. Air Hitam Kab. Sarolangun
-date: 2012-09-140
+date: 2012-09-14
 categories:	
 - laporan	
 - Benor_FM- Wiki Cipta Media Seluler	
