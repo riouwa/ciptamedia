@@ -1,11 +1,11 @@
 ---
-title: Update naskah rubrik Bernala, "Antara Bogor dan Hamas" (Penulis - TM Dhani Iqbal)
+title: Update naskah rubrik Bernala
 date: 2012-02-10
 categories:
 - laporan
 - LenteraTimur.com – Menyigi Identitas Indonesia
+layout: laporancmb
 ---
-
 
 
 **Tujuan** : Update naskah rubrik Bernala, "Antara Bogor dan Hamas" (Penulis - TM Dhani Iqbal)
