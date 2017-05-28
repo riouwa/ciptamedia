@@ -1,10 +1,12 @@
 ---
-title: Update naskah rubrik Agenda, "27 April 2012, Jakarta – Diskusi Novel Pramoedya Ananta Toer “Bukan Pasar Malam”" (Penulis - Redaksi)
+title: Update naskah rubrik Agenda
 date: 2012-04-25
 categories:
 - laporan
 - LenteraTimur.com – Menyigi Identitas Indonesia
+layout: laporancmb
 ---
+
 
 **Tujuan** : Update naskah rubrik Agenda, "27 April 2012, Jakarta – Diskusi Novel Pramoedya Ananta Toer “Bukan Pasar Malam”" (Penulis - Redaksi)
 
