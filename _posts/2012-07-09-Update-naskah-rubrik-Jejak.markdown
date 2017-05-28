@@ -1,10 +1,12 @@
 ---
-title: Update naskah rubrik Jejak, "Kamus Bahasa Inggris-Bugis-Melayu" (Kontributor - Ade Viankakrisna)
+title: Update naskah rubrik Jejak
 date: 2012-07-09
 categories:
 - laporan
 - LenteraTimur.com – Menyigi Identitas Indonesia
+layout: laporancmb
 ---
+
 
 **Tujuan** : Update naskah rubrik Jejak, "Kamus Bahasa Inggris-Bugis-Melayu" (Kontributor - Ade Viankakrisna)
 
