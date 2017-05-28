@@ -1,12 +1,14 @@
 ---
-title: Update naskah rubrik Jelajah, "Dari Timur Banua Borneo" (Penulis - TM Dhani Iqbal)
+title: Update naskah rubrik Boga
 date: 2012-06-29
 categories:
 - laporan
 - LenteraTimur.com – Menyigi Identitas Indonesia
+layout: laporancmb
 ---
 
-**Tujuan** : Update naskah rubrik Jelajah, "Dari Timur Banua Borneo" (Penulis - TM Dhani Iqbal)
+
+**Tujuan** : Update naskah rubrik Boga, "Kapah Itu Bapaknya Tudai" (Kontributor: Fadil Sumarwan) 
 
 **Lokasi** : Sekretariat Lentera Timur 
 
