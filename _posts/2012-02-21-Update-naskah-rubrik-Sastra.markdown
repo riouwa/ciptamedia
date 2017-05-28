@@ -1,10 +1,12 @@
 ---
-title: Update naskah rubrik Sastra, "Ayah" (Kontributor - Geger D. Praha)
+title: Update naskah rubrik Sastra
 date: 2012-02-21
 categories:
 - laporan
 - LenteraTimur.com – Menyigi Identitas Indonesia
+layout: laporancmb
 ---
+
 
 **Tujuan** : Update naskah rubrik Sastra, "Ayah" (Kontributor - Geger D. Praha)
 
