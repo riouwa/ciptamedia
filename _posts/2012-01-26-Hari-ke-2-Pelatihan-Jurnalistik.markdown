@@ -1,13 +1,17 @@
 ---
-title: Hari ke-2 Pelatihan Jurnalistik "Menulis untuk Kesederajatan" (I) 
+title: Hari ke-2 Pelatihan Jurnalistik
 date: 2012-01-26
 categories:
 - laporan
 - LenteraTimur.com – Menyigi Identitas Indonesia
+layout: laporancmb
 ---
 
+
 ![200px-Januari_26_2012_LenteraTimur.com_Tengku_Dhani_Iqbal_mempertegas_paparan_soal_lokalitas_dengan_visualisasi_pada_tayangan.jpg](/uploads/200px-Januari_26_2012_LenteraTimur.com_Tengku_Dhani_Iqbal_mempertegas_paparan_soal_lokalitas_dengan_visualisasi_pada_tayangan.jpg){: .img-responsive .center-block }
+
 ![200px-Januari_26_2012_LenteraTimur.com_Soffa_Ihsan_berbagi_refleksi_atas_filosofi_dan_kasus-kasus_marjinalitas..jpg](/uploads/200px-Januari_26_2012_LenteraTimur.com_Soffa_Ihsan_berbagi_refleksi_atas_filosofi_dan_kasus-kasus_marjinalitas..jpg){: .img-responsive .center-block }
+
 
 **Tujuan** : Hari ke-2 Pelatihan Jurnalistik "Menulis untuk Kesederajatan" (I) 
 
