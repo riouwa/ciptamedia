@@ -1,10 +1,12 @@
 ---
-title: Update naskah rubrik Kasatmata, "Jurnalisme dan Trubadur dari Gorontalo" (Penulis - Martin Aleida)
+title: Update naskah rubrik Kasatmata
 date: 2012-04-03
 categories:
 - laporan
 - LenteraTimur.com – Menyigi Identitas Indonesia
+layout: laporancmb
 ---
+
 
 **Tujuan** : Update naskah rubrik Kasatmata, "Jurnalisme dan Trubadur dari Gorontalo" (Penulis - Martin Aleida)
 
