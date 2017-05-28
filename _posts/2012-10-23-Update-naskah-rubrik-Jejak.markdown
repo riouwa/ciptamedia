@@ -1,10 +1,12 @@
 ---
-title: Update naskah rubrik Jejak "Jejak Sang Panglima, dari Pasai Hingga Deli" (Kontributor - Tengku Muhammad Dicky)
+title: Update naskah rubrik Jejak
 date: 2012-10-23
 categories:
 - laporan
 - LenteraTimur.com – Menyigi Identitas Indonesia
+layout: laporancmb
 ---
+
 
 **Tujuan** : Update naskah rubrik Jejak "Jejak Sang Panglima, dari Pasai Hingga Deli" (Kontributor - Tengku Muhammad Dicky)
 
