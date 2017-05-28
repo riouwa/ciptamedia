@@ -1,10 +1,12 @@
 ---
-title: Update naskah rubrik Agenda, "5 Mei 2012, Jakarta – “Bincang Semarang” (Diskusi novel Ann Arnellis “Now and Then”)" (Penulis - Redaksi)
+title: Update naskah rubrik Agenda
 date: 2012-05-02
 categories:
 - laporan
 - LenteraTimur.com – Menyigi Identitas Indonesia
+layout: laporancmb
 ---
+
 
 **Tujuan** : Update naskah rubrik Agenda, "5 Mei 2012, Jakarta – “Bincang Semarang” (Diskusi novel Ann Arnellis “Now and Then”)" (Penulis - Redaksi)
 
