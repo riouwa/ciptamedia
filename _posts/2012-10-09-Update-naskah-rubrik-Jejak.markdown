@@ -1,10 +1,12 @@
 ---
-title: Update naskah rubrik Jejak "Susur Galur Melayu Bugis" (Kontributor - Rasyid Asba)
+title: Update naskah rubrik Jejak
 date: 2012-10-09
 categories:
 - laporan
 - LenteraTimur.com – Menyigi Identitas Indonesia
+layout: laporancmb
 ---
+
 
 **Tujuan** : Update naskah rubrik Jejak "Susur Galur Melayu Bugis" (Kontributor - Rasyid Asba)
 
