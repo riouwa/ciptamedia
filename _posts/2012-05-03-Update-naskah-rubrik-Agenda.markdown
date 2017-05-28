@@ -1,10 +1,12 @@
 ---
-title: Update naskah rubrik Agenda, "4 Mei 2012, Jakarta – Bedah Buku “Lelaki Pencari Langit”" (Penulis - Redaksi)
+title: Update naskah rubrik Agenda
 date: 2012-05-03
 categories:
 - laporan
 - LenteraTimur.com – Menyigi Identitas Indonesia
+layout: laporancmb
 ---
+
 
 **Tujuan** : Update naskah rubrik Agenda, "4 Mei 2012, Jakarta – Bedah Buku “Lelaki Pencari Langit”" (Penulis - Redaksi)
 
