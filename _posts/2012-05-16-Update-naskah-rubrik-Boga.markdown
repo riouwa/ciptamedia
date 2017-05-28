@@ -1,10 +1,12 @@
 ---
-title: Update naskah rubrik Boga, "Lima Dekade Es Krim Domino" (Penulis - Arman Dhani)
+title: Update naskah rubrik Boga
 date: 2012-05-16
 categories:
 - laporan
 - LenteraTimur.com – Menyigi Identitas Indonesia
+layout: laporancmb
 ---
+
 
 **Tujuan** : Update naskah rubrik Boga, "Lima Dekade Es Krim Domino" (Penulis - Arman Dhani)
 
