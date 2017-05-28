@@ -1,10 +1,12 @@
 ---
-title: Update naskah rubrik Sastra, "Sajak-Sajak Okky Tirto" (Kontributor - Okky Tirto)
+title: Update naskah rubrik Sastra
 date: 2012-03-09
 categories:
 - laporan
 - LenteraTimur.com - Menyingi Identitas Indonesia
+layout: laporancmb
 ---
+
 
 **Tujuan** : Update naskah rubrik Sastra, "Sajak-Sajak Okky Tirto" (Kontributor - Okky Tirto)
 
