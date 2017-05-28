@@ -1,9 +1,10 @@
 ---
-title: Update naskah rubrik Kasatmata, "ISI Bersatu Tak Bisa Dikalahkan, ISBI Ditolak Tak Bisa Ditetapkan" (Penulis - Arif Budiman)	
+title: Update naskah rubrik Kasatmata
 date: 2012-03-02
 categories:
 - laporan
 - LenteraTimur.com - Menyingi Identitas Indonesia
+layout: laporancmb
 ---
 
 **Tujuan** : Update naskah rubrik Kasatmata, "ISI Bersatu Tak Bisa Dikalahkan, ISBI Ditolak Tak Bisa Ditetapkan" (Penulis - Arif Budiman)	
