@@ -1,10 +1,12 @@
 ---
-title: Update naskah rubrik Jejak "Kantor Pos Besar Medan, Saksi Kejayaan Sebuah Negeri" (Kontributor - Adela Eka Putra Marza)
+title: Update naskah rubrik Jejak
 date: 2012-08-10
 categories:
 - laporan
 - LenteraTimur.com – Menyigi Identitas Indonesia
+layout: laporancmb
 ---
+
 
 **Tujuan** : Update naskah rubrik Jejak "Kantor Pos Besar Medan, Saksi Kejayaan Sebuah Negeri" (Kontributor - Adela Eka Putra Marza)
 
