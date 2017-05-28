@@ -1,10 +1,12 @@
 ---
-title: Update naskah rubrik Potret, "Bahtera Laju Ke Utara" (Penulis - Redaksi)
+title: Update naskah rubrik Potret
 date: 2012-06-22
 categories:
 - laporan
 - LenteraTimur.com – Menyigi Identitas Indonesia
+layout: laporancmb
 ---
+
 
 **Tujuan** : Update naskah rubrik Potret, "Bahtera Laju Ke Utara" (Penulis - Redaksi)
 
