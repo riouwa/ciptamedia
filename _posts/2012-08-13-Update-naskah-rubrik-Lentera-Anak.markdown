@@ -1,10 +1,12 @@
 ---
-title: Update naskah rubrik Lentera Anak "Inilah Peta Sumateraku" (Kontributor - Maula Mazin)
+title: Update naskah rubrik Lentera Anak
 date: 2012-08-13
 categories:
 - laporan
 - LenteraTimur.com – Menyigi Identitas Indonesia
+layout: laporancmb
 ---
+
 
 **Tujuan** : Update naskah rubrik Lentera Anak "Inilah Peta Sumateraku" (Kontributor - Maula Mazin)
 
