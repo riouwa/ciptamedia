@@ -1,10 +1,12 @@
 ---
-title: Update naskah rubrik Kasatmata, "Tabir Laga Senjata di Gorontalo" (Penulis - Christopel Paino) 
+title: Update naskah rubrik Kasatmata
 date: 2012-04-24
 categories:
 - laporan
 - LenteraTimur.com – Menyigi Identitas Indonesia
+layout: laporancmb
 ---
+
 
 **Tujuan** : Update naskah rubrik Kasatmata, "Tabir Laga Senjata di Gorontalo" (Penulis - Christopel Paino) 
 
