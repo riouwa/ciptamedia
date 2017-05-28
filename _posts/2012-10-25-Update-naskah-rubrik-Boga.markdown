@@ -1,5 +1,5 @@
 ---
-title: Update naskah rubrik Boga "Katupek Gulai Tunjang" (Kontributor - Rizky Januar)
+title: Update naskah rubrik Boga
 date: 2012-10-25
 categories:
 - laporan
