@@ -1,9 +1,10 @@
 ---
-title: Update naskah rubrik Sastra, "Sajak-Sajak Dino Umahuk" (Kontributor - Dino Umahuk)
+title: Update naskah rubrik Sastra
 date: 2011-12-23
 categories:
 - laporan
 - LenteraTimur.com - Menyingi Identitas Indonesia
+layout: laporancmb
 ---
 
 **Tujuan** : Update naskah rubrik Sastra, "Sajak-Sajak Dino Umahuk" (Kontributor - Dino Umahuk)
