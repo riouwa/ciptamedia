@@ -1,10 +1,12 @@
 ---
-title: Update naskah rubrik Agenda, "6 April 2012, Jakarta – Diskusi Novel “Anak Danau”" (Penulis - Redaksi)
+title: Update naskah rubrik Agenda
 date: 2012-04-04
 categories:
 - laporan
 - LenteraTimur.com – Menyigi Identitas Indonesia
+layout: laporancmb
 ---
+
 
 **Tujuan** : Update naskah rubrik Agenda, "6 April 2012, Jakarta – Diskusi Novel “Anak Danau”" (Penulis - Redaksi)
 
