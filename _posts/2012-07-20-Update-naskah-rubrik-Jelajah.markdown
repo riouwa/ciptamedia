@@ -1,10 +1,12 @@
 ---
-title: Update naskah rubrik Jelajah, "Setapak Surabaya" (Kontributor - Ester Pandiangan)
+title: Update naskah rubrik Jelajah
 date: 2012-07-20
 categories:
 - laporan
 - LenteraTimur.com – Menyigi Identitas Indonesia
+layout: laporancmb
 ---
+
 
 **Tujuan** : Update naskah rubrik Jelajah, "Setapak Surabaya" (Kontributor - Ester Pandiangan)
 
