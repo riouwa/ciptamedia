@@ -1,11 +1,11 @@
 ---
-title: Update naskah rubrik Sastra, "Episode Sebuah Riwayat Panjang" (Kontributor - Soeprijadi Tomodihardjo) 
+title: Update naskah rubrik Sastra
 date: 2012-02-09
 categories:
 - laporan
 - LenteraTimur.com – Menyigi Identitas Indonesia
+layout: laporancmb
 ---
-
 
 
 **Tujuan** : Update naskah rubrik Sastra, "Episode Sebuah Riwayat Panjang" (Kontributor - Soeprijadi Tomodihardjo) 
