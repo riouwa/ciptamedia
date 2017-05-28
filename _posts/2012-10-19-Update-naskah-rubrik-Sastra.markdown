@@ -1,10 +1,12 @@
 ---
-title: Update naskah rubrik Sastra "Ketabo, Kita Berangkat!" (Kontributor - Setiadi R. Saleh)
+title: Update naskah rubrik Sastra
 date: 2012-10-19
 categories:
 - laporan
 - LenteraTimur.com – Menyigi Identitas Indonesia
+layout: laporancmb
 ---
+
 
 **Tujuan** : Update naskah rubrik Sastra "Ketabo, Kita Berangkat!" (Kontributor - Setiadi R. Saleh)
 
