@@ -1,9 +1,10 @@
 ---
-title: Update naskah rubrik Agenda, "10 Desember 2011, Banda Aceh – Diskusi Buku "Demokrasi untuk Indonesia" karya Hasan Tiro" (Penulis - Redaksi)
+title: Update naskah rubrik Agenda
 date: 2011-12-08
 categories:
 - laporan
 - LenteraTimur.com - Menyingi Identitas Indonesia
+layout: laporancmb
 ---
 
 **Tujuan** : Update naskah rubrik Agenda, "10 Desember 2011, Banda Aceh – Diskusi Buku "Demokrasi untuk Indonesia" karya Hasan Tiro" (Penulis - Redaksi)
