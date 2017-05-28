@@ -1,9 +1,10 @@
 ---
-title: Update naskah rubrik Boga, "Sate Padang di Tanah Deli" (Kontributor - Adela Eka Putra Marza)
+title: Update naskah rubrik Boga
 date: 2012-01-13
 categories:
 - laporan
 - LenteraTimur.com – Menyigi Identitas Indonesia
+layout: laporancmb
 ---
 
 **Tujuan** : Update naskah rubrik Boga, "Sate Padang di Tanah Deli" (Kontributor - Adela Eka Putra Marza)
