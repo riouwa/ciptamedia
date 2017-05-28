@@ -1,9 +1,10 @@
 ---
-title: Update naskah rubrik Lentera TV "Ngaben Massal di Bali" (Kontributor - I Putu Gede Pageh U)
+title: Update naskah rubrik Lentera TV
 date: 2012-09-26
 categories:
 - laporan
 - LenteraTimur.com – Menyigi Identitas Indonesia
+layout: laporancmb
 ---
 
 **Tujuan** : Update naskah rubrik Lentera TV "Ngaben Massal di Bali" (Kontributor - I Putu Gede Pageh U)
