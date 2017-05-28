@@ -1,10 +1,12 @@
 ---
-title: Update naskah rubrik Kasatmata "“Televisi Seperti Ngomong Sendiri”" (Penulis - Fajar Riadi)
+title: Update naskah rubrik Kasatmata
 date: 2012-10-05
 categories:
 - laporan
 - LenteraTimur.com – Menyigi Identitas Indonesia
+layout: laporancmb
 ---
+
 
 **Tujuan** : Update naskah rubrik Kasatmata "“Televisi Seperti Ngomong Sendiri”" (Penulis - Fajar Riadi)
 
