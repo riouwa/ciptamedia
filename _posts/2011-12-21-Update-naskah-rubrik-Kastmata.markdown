@@ -1,9 +1,10 @@
 ---
-title: Update naskah rubrik Kasatmata, "Bergabung Tak Berarti Melebur" (Penulis - Arif Budiman)
+title: Update naskah rubrik Kasatmata
 date: 2011-12-21
 categories:
 - laporan
 - LenteraTimur.com - Menyingi Identitas Indonesia
+layout: laporancmb
 ---
 
 **Tujuan** : Update naskah rubrik Kasatmata, "Bergabung Tak Berarti Melebur" (Penulis - Arif Budiman)
