@@ -1,10 +1,12 @@
 ---
-title: Update naskah rubrik Nukilan, "Di Timur Matahari" (Kontributor - Arif Budiman)
+title: Update naskah rubrik Nukilan
 date: 2012-07-04
 categories:
 - laporan
 - LenteraTimur.com – Menyigi Identitas Indonesia
+layout: laporancmb
 ---
+
 
 **Tujuan** : Update naskah rubrik Nukilan, "Di Timur Matahari" (Kontributor - Arif Budiman)
 
