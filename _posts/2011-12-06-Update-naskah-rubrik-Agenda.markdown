@@ -1,9 +1,10 @@
 ---
-title: Update naskah rubrik Agenda, "10 Desember 2011, Jakarta - Seminar - Orang Papua dan Penentuan Diri Sendiri" (Penulis - Redaksi) dan naskah rubrik Bernala "Kehendak Hati yang Lain" (Penulis - Martin Aleida)
+title: Update naskah rubrik Agenda
 date: 2011-12-06
 categories:
 - laporan
 - LenteraTimur.com - Menyingi Identitas Indonesia
+layout: laporancmb
 ---
 
 **Tujuan** : Update naskah rubrik Agenda, "10 Desember 2011, Jakarta - Seminar - Orang Papua dan Penentuan Diri Sendiri" (Penulis - Redaksi) dan naskah rubrik Bernala "Kehendak Hati yang Lain" (Penulis - Martin Aleida)
