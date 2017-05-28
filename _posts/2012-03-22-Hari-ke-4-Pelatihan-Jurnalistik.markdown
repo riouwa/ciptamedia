@@ -1,14 +1,19 @@
 ---
-title: Hari ke-4 Pelatihan Jurnalistik "Menulis untuk Kesederajatan" (II)	
+title: Hari ke-4 Pelatihan Jurnalistik
 date: 2012-03-22
 categories:
 - laporan
 - LenteraTimur.com - Menyingi Identitas Indonesia
+layout: laporancmb
 ---
 
+
 ![200px-Maret_22_2012_LenteraTimur.com_Pemateri_memandu_pembahasan_rencana_peliputan_peserta.jpg](/uploads/200px-Maret_22_2012_LenteraTimur.com_Pemateri_memandu_pembahasan_rencana_peliputan_peserta.jpg){: .img-responsive .center-block }
+
 ![200px-Maret_22_2012_LenteraTimur.com_Diskusi_Manajemen_Media_menjelang_akhir_penutupan_pelatihan.jpg](/uploads/200px-Maret_22_2012_LenteraTimur.com_Diskusi_Manajemen_Media_menjelang_akhir_penutupan_pelatihan.jpg){: .img-responsive .center-block }
+
 ![200px-Maret_22_2012_LenteraTimur.com_Foto_bersama_seluruh_peserta_pada_penutupan_pelatihan_di_Gorontalo.jpg](/uploads/200px-Maret_22_2012_LenteraTimur.com_Foto_bersama_seluruh_peserta_pada_penutupan_pelatihan_di_Gorontalo.jpg){: .img-responsive .center-block }
+
 
 **Tujuan** : Hari ke-4 Pelatihan Jurnalistik "Menulis untuk Kesederajatan" (II)	
 
