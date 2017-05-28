@@ -1,13 +1,17 @@
 ---
-title: Hari ke-3 Pelatihan Jurnalistik "Menulis untuk Kesederajatan" (I) 
+title: Hari ke-3 Pelatihan Jurnalistik
 date: 2012-01-27
 categories:
 - laporan
 - LenteraTimur.com – Menyigi Identitas Indonesia
+layout: laporancmb
 ---
 
+
 ![200px-Januari_27_2012_LenteraTimur.com_Review_praktik_penulisan_oleh_Martin_Aleida.jpg](/uploads/200px-Januari_27_2012_LenteraTimur.com_Review_praktik_penulisan_oleh_Martin_Aleida.jpg){: .img-responsive .center-block }
+
 ![200px-Januari_27_2012_LenteraTimur.com_Pelatihan_Luar_Kelas_di_Universitas_Sumatera_Utara.jpg](/uploads/200px-Januari_27_2012_LenteraTimur.com_Pelatihan_Luar_Kelas_di_Universitas_Sumatera_Utara.jpg){: .img-responsive .center-block }
+
 
 **Tujuan** : Hari ke-3 Pelatihan Jurnalistik "Menulis untuk Kesederajatan" (I) 
 
