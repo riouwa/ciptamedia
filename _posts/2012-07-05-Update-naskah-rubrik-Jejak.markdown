@@ -1,10 +1,12 @@
 ---
-title: Update naskah rubrik Jejak, "100 Tahun Istana Lima Laras" (Kontributor - Setiadi R. Saleh)
+title: Update naskah rubrik Jejak
 date: 2012-07-05
 categories:
 - laporan
 - LenteraTimur.com – Menyigi Identitas Indonesia
+layout: laporancmb
 ---
+
 
 **Tujuan** : Update naskah rubrik Jejak, "100 Tahun Istana Lima Laras" (Kontributor - Setiadi R. Saleh)
 
