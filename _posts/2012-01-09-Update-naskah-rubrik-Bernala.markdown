@@ -1,9 +1,10 @@
 ---
-title: Update naskah rubrik Bernala, "2011 - Catatan di Bawah Lentera" (Penulis - Martin Aleida)
+title: Update naskah rubrik Bernala
 date: 2012-01-09
 categories:
 - laporan
 - LenteraTimur.com – Menyigi Identitas Indonesia
+layout: laporancmb
 ---
 
 **Tujuan** : Update naskah rubrik Bernala, "2011 - Catatan di Bawah Lentera" (Penulis - Martin Aleida)
