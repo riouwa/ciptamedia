@@ -1,10 +1,12 @@
 ---
-title: Update naskah rubrik Potret, "“Mentjintai Negara Soematera Timoer!” (Majalah Pengawal, 1949)" (Kontributor - Tengku Mansoer Adil Mansoer)
+title: Update naskah rubrik Potret
 date: 2012-05-02
 categories:
 - laporan
 - LenteraTimur.com – Menyigi Identitas Indonesia
+layout: laporancmb
 ---
+
 
 **Tujuan** : Update naskah rubrik Potret, "“Mentjintai Negara Soematera Timoer!” (Majalah Pengawal, 1949)" (Kontributor - Tengku Mansoer Adil Mansoer)
 
