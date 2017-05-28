@@ -1,10 +1,12 @@
 ---
-title: Update naskah rubrik LenteraTV, "Surat Cinta untuk Sang Prada, Sang Juara South to South Film Festival 2012" (Penulis - Ken Miryam Vivekananda Fadlil)
+title: Update naskah rubrik LenteraTV
 date: 2012-02-29
 categories:
 - laporan
 - LenteraTimur.com – Menyigi Identitas Indonesia
+layout: laporancmb
 ---
+
 
 **Tujuan** : Update naskah rubrik LenteraTV, "Surat Cinta untuk Sang Prada, Sang Juara South to South Film Festival 2012" (Penulis - Ken Miryam Vivekananda Fadlil)
 
