@@ -1,10 +1,12 @@
 ---
-title: Update naskah rubrik Kasatmata, "Kau Menambang, Kami yang Tumbang" (Penulis - Christopel Paino)
+title: Update naskah rubrik Kasatmata
 date: 2012-03-06
 categories:
 - laporan
 - LenteraTimur.com - Menyingi Identitas Indonesia
+layout: laporancmb
 ---
+
 
 **Tujuan** : Update naskah rubrik Kasatmata, "Kau Menambang, Kami yang Tumbang" (Penulis - Christopel Paino)
 
