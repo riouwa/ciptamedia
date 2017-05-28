@@ -1,9 +1,10 @@
 ---
-title: Update naskah rubrik Agenda, "25 – 28 Januari 2012, Medan – Pelatihan Jurnalistik “Menulis untuk Kesederajatan” (I)" (Penulis - Redaksi) 
+title: Update naskah rubrik Agenda
 date: 2012-01-18
 categories:
 - laporan
 - LenteraTimur.com – Menyigi Identitas Indonesia
+layout: laporancmb
 ---
 
 **Tujuan** : Update naskah rubrik Agenda, "25 – 28 Januari 2012, Medan – Pelatihan Jurnalistik “Menulis untuk Kesederajatan” (I)" (Penulis - Redaksi) 
