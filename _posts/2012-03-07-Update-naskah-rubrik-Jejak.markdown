@@ -1,10 +1,12 @@
 ---
-title: Update naskah rubrik Jejak, "Ekonomi dan Tata Negara Soematera Timoer" (Kontributor - Tengku Mansoer Adil Mansoer)	
+title: Update naskah rubrik Jejak
 date: 2012-03-07
 categories:
 - laporan
 - LenteraTimur.com - Menyingi Identitas Indonesia
+layout: laporancmb
 ---
+
 
 **Tujuan** : Update naskah rubrik Jejak, "Ekonomi dan Tata Negara Soematera Timoer" (Kontributor - Tengku Mansoer Adil Mansoer)	
 
