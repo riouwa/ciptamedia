@@ -1,10 +1,12 @@
 ---
-title: Update naskah rubrik Sastra "Sepasang Cicak di Dinding Kamar Baba Gani" (Kontributor - Syam Terrajana)
+title: Update naskah rubrik Sastra
 date: 2012-08-14
 categories:
 - laporan
 - LenteraTimur.com – Menyigi Identitas Indonesia
+layout: laporancmb
 ---
+
 
 **Tujuan** : Update naskah rubrik Sastra "Sepasang Cicak di Dinding Kamar Baba Gani" (Kontributor - Syam Terrajana)
 
