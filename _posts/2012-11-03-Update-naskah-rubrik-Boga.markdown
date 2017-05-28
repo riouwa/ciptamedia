@@ -1,10 +1,12 @@
 ---
-title: Update naskah rubrik Boga "Sumber Hidangan, Menghela Silam di Masa Kini" (Kontributor - Nuran Wibisono)
+title: Update naskah rubrik Boga
 date: 2012-11-03
 categories:
 - laporan
 - LenteraTimur.com – Menyigi Identitas Indonesia
+layout: laporancmb
 ---
+
 
 **Tujuan** : Update naskah rubrik Boga "Sumber Hidangan, Menghela Silam di Masa Kini" (Kontributor - Nuran Wibisono)
 
