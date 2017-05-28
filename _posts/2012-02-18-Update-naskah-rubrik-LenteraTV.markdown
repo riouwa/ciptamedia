@@ -1,11 +1,11 @@
 ---
-title: Update naskah rubrik LenteraTV, "Samarinda Meradang" (Penulis - Christopel Paino)
+title: Update naskah rubrik LenteraTV
 date: 2012-02-18
 categories:
 - laporan
 - LenteraTimur.com – Menyigi Identitas Indonesia
+layout: laporancmb
 ---
-
 
 
 **Tujuan** : Update naskah rubrik LenteraTV, "Samarinda Meradang" (Penulis - Christopel Paino)
