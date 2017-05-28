@@ -1,10 +1,12 @@
 ---
-title: Update naskah rubrik Agenda "18 – 21 September 2012, Padang – Pelatihan Jurnalistik “Menulis untuk Kesederajatan (IV)" (Penulis - Admin)
+title: Update naskah rubrik Agenda
 date: 2012-09-13
 categories:
 - laporan
 - LenteraTimur.com – Menyigi Identitas Indonesia
+layout: laporancmb
 ---
+
 
 **Tujuan** : Update naskah rubrik Agenda "18 – 21 September 2012, Padang – Pelatihan Jurnalistik “Menulis untuk Kesederajatan (IV)" (Penulis - Admin)
 
