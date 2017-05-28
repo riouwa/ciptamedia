@@ -1,10 +1,12 @@
 ---
-title: Update naskah rubrik Kasatmata, "29 Mei 2012, Berserentak Menolak Tambang" (Penulis - TM Dhani Iqbal)
+title: Update naskah rubrik Kasatmata
 date: 2012-05-29
 categories:
 - laporan
 - LenteraTimur.com – Menyigi Identitas Indonesia
+layout: laporancmb
 ---
+
 
 **Tujuan** : Update naskah rubrik Kasatmata, "29 Mei 2012, Berserentak Menolak Tambang" (Penulis - TM Dhani Iqbal)
 
