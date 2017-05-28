@@ -1,10 +1,12 @@
 ---
-title: Update naskah rubrik Kasatmata "Indonesia dan Australia Mengapungkan Nasib “Anak-anak Perahu”" (Penulis - TM Dhani Iqbal)
+title: Update naskah rubrik Kasatmata
 date: 2012-09-11
 categories:
 - laporan
 - LenteraTimur.com – Menyigi Identitas Indonesia
+layout: laporancmb
 ---
+
 
 **Tujuan** : Update naskah rubrik Kasatmata "Indonesia dan Australia Mengapungkan Nasib “Anak-anak Perahu”" (Penulis - TM Dhani Iqbal)
 
