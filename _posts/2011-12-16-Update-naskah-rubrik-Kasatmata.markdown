@@ -1,9 +1,10 @@
 ---
-title: Update naskah rubrik Kasatmata, "Federasi, Jalan Ketiga Indonesia – Papua?" (Penulis - Ken Miryam Vivekananda)
+title: Update naskah rubrik Kasatmata
 date: 2011-12-16
 categories:
 - laporan
 - LenteraTimur.com - Menyingi Identitas Indonesia
+layout: laporancmb
 ---
 
 **Tujuan** : Update naskah rubrik Kasatmata, "Federasi, Jalan Ketiga Indonesia – Papua?" (Penulis - Ken Miryam Vivekananda)
