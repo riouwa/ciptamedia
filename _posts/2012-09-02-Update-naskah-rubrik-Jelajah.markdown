@@ -1,10 +1,12 @@
 ---
-title: Update naskah rubrik Jelajah "Erotika Solo" (Penulis - Ester Pandiangan)
+title: Update naskah rubrik Jelajah
 date: 2012-09-02
 categories:
 - laporan
 - LenteraTimur.com – Menyigi Identitas Indonesia
+layout: laporancmb
 ---
+
 
 **Tujuan** : Update naskah rubrik Jelajah "Erotika Solo" (Penulis - Ester Pandiangan)
 
