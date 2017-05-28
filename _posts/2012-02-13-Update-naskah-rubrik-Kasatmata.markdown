@@ -1,11 +1,11 @@
 ---
-title: Update naskah rubrik Kasatmata, "Nazar yang Tak Mengakar" (Kontributor - Arman Dhani)
+title: Update naskah rubrik Kasatmata
 date: 2012-02-13
 categories:
 - laporan
 - LenteraTimur.com – Menyigi Identitas Indonesia
+layout: laporancmb
 ---
-
 
 
 **Tujuan** : Update naskah rubrik Kasatmata, "Nazar yang Tak Mengakar" (Kontributor - Arman Dhani)
