@@ -1,10 +1,12 @@
 ---
-title: Update naskah rubrik Potret, "Api Suci dari Dua Candi" (Kontributor - Rizky Januar)
+title: Update naskah rubrik Potret
 date: 2012-05-07
 categories:
 - laporan
 - LenteraTimur.com – Menyigi Identitas Indonesia
+layout: laporancmb
 ---
+
 
 **Tujuan** : Update naskah rubrik Potret, "Api Suci dari Dua Candi" (Kontributor - Rizky Januar)
 
