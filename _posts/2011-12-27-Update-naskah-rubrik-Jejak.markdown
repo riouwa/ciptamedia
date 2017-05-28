@@ -1,9 +1,10 @@
 ---
-title: Update naskah rubrik Jejak, "Konstitusi Republik Indonesia Serikat" (Penulis - TM. Dhani Iqbal)
+title: Update naskah rubrik Jejak
 date: 2011-12-27
 categories:
 - laporan
 - LenteraTimur.com - Menyingi Identitas Indonesia
+layout: laporancmb
 ---
 
 **Tujuan** : Update naskah rubrik Jejak, "Konstitusi Republik Indonesia Serikat" (Penulis - TM. Dhani Iqbal)
