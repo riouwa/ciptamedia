@@ -1,10 +1,12 @@
 ---
-title: Update naskah rubrik Jejak "Memartabatkan Kembali Hukum Adat" (Penulis - Ken Miryam Vivekananda)
+title: Update naskah rubrik Jejak
 date: 2012-10-18
 categories:
 - laporan
 - LenteraTimur.com – Menyigi Identitas Indonesia
+layout: laporancmb
 ---
+
 
 **Tujuan** : Update naskah rubrik Jejak "Memartabatkan Kembali Hukum Adat" (Penulis - Ken Miryam Vivekananda)
 
