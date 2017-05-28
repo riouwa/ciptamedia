@@ -1,10 +1,12 @@
 ---
-title: Update naskah rubrik Kasatmata, "Bara Borneo untuk Jakarta" (Penulis - Christopel Paino)
+title: Update naskah rubrik Kasatmata
 date: 2012-05-14
 categories:
 - laporan
 - LenteraTimur.com – Menyigi Identitas Indonesia
+layout: laporancmb
 ---
+
 
 **Tujuan** : Update naskah rubrik Kasatmata, "Bara Borneo untuk Jakarta" (Penulis - Christopel Paino)
 
