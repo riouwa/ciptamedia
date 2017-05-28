@@ -4,6 +4,7 @@ date: 2012-10-25
 categories:
 - laporan
 - LenteraTimur.com – Menyigi Identitas Indonesia
+layout: laporancmb
 ---
 
 **Tujuan** : Update naskah rubrik Boga "Katupek Gulai Tunjang" (Kontributor - Rizky Januar)
