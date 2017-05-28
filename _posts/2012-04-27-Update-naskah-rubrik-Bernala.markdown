@@ -1,10 +1,12 @@
 ---
-title: Update naskah rubrik Bernala, "Antara Magnis-Suseno dan Sulastomo" (Penulis - Martin Aleida)
+title: Update naskah rubrik Bernala
 date: 2012-04-27
 categories:
 - laporan
 - LenteraTimur.com – Menyigi Identitas Indonesia
+layout: laporancmb
 ---
+
 
 **Tujuan** : Update naskah rubrik Bernala, "Antara Magnis-Suseno dan Sulastomo" (Penulis - Martin Aleida)
 
