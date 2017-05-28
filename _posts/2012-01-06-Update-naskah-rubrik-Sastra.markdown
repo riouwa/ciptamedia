@@ -1,9 +1,10 @@
 ---
-title: Update naskah rubrik Sastra, "Selamat" (Kontributor - Teuku Rifnu Wikana )
+title: Update naskah rubrik Sastra
 date: 2012-01-06
 categories:
 - laporan
 - LenteraTimur.com – Menyigi Identitas Indonesia
+layout: laporancmb
 ---
 
 **Tujuan** : Update naskah rubrik Sastra, "Selamat" (Kontributor - Teuku Rifnu Wikana )
