@@ -1,11 +1,11 @@
 ---
-title: Update naskah rubrik Jelajah, "(LenteraTimur) Journey to Deli" (Penulis - Redaksi)
+title: Update naskah rubrik Jelajah
 date: 2012-02-06
 categories:
 - laporan
 - LenteraTimur.com – Menyigi Identitas Indonesia
+layout: laporancmb
 ---
-
 
 
 **Tujuan** : Update naskah rubrik Jelajah, "(LenteraTimur) Journey to Deli" (Penulis - Redaksi)
