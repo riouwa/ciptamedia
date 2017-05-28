@@ -1,9 +1,10 @@
 ---
-title: Update naskah rubrik Eksklusif, "Siapa Makan Daging, Siapa Berebut Tulang" (Penulis - Ken Miryam Vivekananda Fadlil)	
+title: Update naskah rubrik Eksklusif
 date: 2011-12-31
 categories:
 - laporan
 - LenteraTimur.com - Menyingi Identitas Indonesia
+layout: laporancmb
 ---
 
 **Tujuan** : Update naskah rubrik Eksklusif, "Siapa Makan Daging, Siapa Berebut Tulang" (Penulis - Ken Miryam Vivekananda Fadlil)	
