@@ -1,10 +1,12 @@
 ---
-title: Update naskah rubrik Kasatmata, "Festival Ningkam Haumeni - “Kami Tidak Menjual Apa yang Tidak Kami Buat”" (Penulis - TM Dhani Iqbal)
+title: Update naskah rubrik Kasatmata
 date: 2012-07-24
 categories:
 - laporan
 - LenteraTimur.com – Menyigi Identitas Indonesia
+layout: laporancmb
 ---
+
 
 **Tujuan** : Update naskah rubrik Kasatmata, "Festival Ningkam Haumeni - “Kami Tidak Menjual Apa yang Tidak Kami Buat”" (Penulis - TM Dhani Iqbal)
 
