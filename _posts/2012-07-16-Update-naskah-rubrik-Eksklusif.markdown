@@ -1,10 +1,12 @@
 ---
-title: Update naskah rubrik Eksklusif, "Kala Orang Minang Berganti Nama" (Kontributor - Arif Budiman)
+title: Update naskah rubrik Eksklusif
 date: 2012-07-16
 categories:
 - laporan
 - LenteraTimur.com – Menyigi Identitas Indonesia
+layout: laporancmb
 ---
+
 
 **Tujuan** : Update naskah rubrik Eksklusif, "Kala Orang Minang Berganti Nama" (Kontributor - Arif Budiman)
 
