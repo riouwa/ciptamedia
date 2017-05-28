@@ -1,10 +1,12 @@
 ---
-title: Update naskah rubrik Sastra, "Sajak-Sajak Shafwan Nizar" (Kontributor - Shafwan Nizar)
+title: Update naskah rubrik Sastra
 date: 2012-06-02
 categories:
 - laporan
 - LenteraTimur.com – Menyigi Identitas Indonesia
+layout: laporancmb
 ---
+
 
 **Tujuan** : Update naskah rubrik Sastra, "Sajak-Sajak Shafwan Nizar" (Kontributor - Shafwan Nizar)
 
