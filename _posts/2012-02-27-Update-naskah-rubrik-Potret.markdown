@@ -1,10 +1,12 @@
 ---
-title: Update naskah rubrik Potret, "Menguras Perut Bumi Hulondhalo" (Penulis - Christopel Paino)
+title: Update naskah rubrik Potret
 date: 2012-02-27
 categories:
 - laporan
 - LenteraTimur.com – Menyigi Identitas Indonesia
+layout: laporancmb
 ---
+
 
 **Tujuan** : Update naskah rubrik Potret, "Menguras Perut Bumi Hulondhalo" (Penulis - Christopel Paino)
 
