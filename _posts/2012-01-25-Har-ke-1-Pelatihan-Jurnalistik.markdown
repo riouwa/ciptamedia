@@ -1,14 +1,19 @@
 ---
-title: Hari ke-1 Pelatihan Jurnalistik "Menulis untuk Kesederajatan" (I) 
+title: Hari ke-1 Pelatihan Jurnalistik
 date: 2012-01-25
 categories:
 - laporan
 - LenteraTimur.com – Menyigi Identitas Indonesia
+layout: laporancmb
 ---
 
+
 ![200px-Januari_25_2012_LenteraTimur.com_Suasana_registrasi_peserta.jpg](/uploads/200px-Januari_25_2012_LenteraTimur.com_Suasana_registrasi_peserta.jpg){: .img-responsive .center-block }
+
 ![200px-Januari_25_2012_LenteraTimur.com_Modul_pelatihan,_pulpen,_kartu_tanda_peserta_&_konsumsi_gratis_untuk_seluruh_peserta.jpg](/uploads/200px-Januari_25_2012_LenteraTimur.com_Modul_pelatihan,_pulpen,_kartu_tanda_peserta_&_konsumsi_gratis_untuk_seluruh_peserta.jpg){: .img-responsive .center-block }
+
 ![200px-Januari_25_2012_LenteraTimur.com_Sessi_diskusi,_salah_seorang_peserta_dari_Laskar_Melayu_Hang_Tuah_bertanya.jpg](/uploads/200px-Januari_25_2012_LenteraTimur.com_Sessi_diskusi,_salah_seorang_peserta_dari_Laskar_Melayu_Hang_Tuah_bertanya.jpg){: .img-responsive .center-block }
+
 
 **Tujuan** : Hari ke-1 Pelatihan Jurnalistik "Menulis untuk Kesederajatan" (I) 
 
