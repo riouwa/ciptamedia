@@ -1,11 +1,11 @@
 ---
-title: Update naskah rubrik Agenda, "22 – 26 Februari 2012, Jakarta – South to South Film Festival “Semangat Tanpa Batas”" (Penulis - Redaksi)
+title: Update naskah rubrik Agenda
 date: 2012-02-17
 categories:
 - laporan
 - LenteraTimur.com – Menyigi Identitas Indonesia
+layout: laporancmb
 ---
-
 
 
 **Tujuan** : Update naskah rubrik Agenda, "22 – 26 Februari 2012, Jakarta – South to South Film Festival “Semangat Tanpa Batas”" (Penulis - Redaksi)
