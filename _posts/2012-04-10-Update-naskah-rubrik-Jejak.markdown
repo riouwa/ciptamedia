@@ -1,10 +1,12 @@
 ---
-title: Update naskah rubrik Jejak, "Dari Kolong Rumah Panggung" (Kontributor - Rivon Paino)
+title: Update naskah rubrik Jejak
 date: 2012-04-10
 categories:
 - laporan
 - LenteraTimur.com – Menyigi Identitas Indonesia
+layout: laporancmb
 ---
+
 
 **Tujuan** : Update naskah rubrik Jejak, "Dari Kolong Rumah Panggung" (Kontributor - Rivon Paino)
 
