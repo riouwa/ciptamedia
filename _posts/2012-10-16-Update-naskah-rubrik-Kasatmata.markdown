@@ -1,10 +1,12 @@
 ---
-title: Update naskah rubrik Kasatmata "MIFEE Datang Tanah Pun Hilang" (Penulis - Fajar Riadi)
+title: Update naskah rubrik Kasatmata
 date: 2012-10-16
 categories:
 - laporan
 - LenteraTimur.com – Menyigi Identitas Indonesia
+layout: laporancmb
 ---
+
 
 **Tujuan** : Update naskah rubrik Kasatmata "MIFEE Datang Tanah Pun Hilang" (Penulis - Fajar Riadi)
 
