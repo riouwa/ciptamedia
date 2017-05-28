@@ -1,10 +1,11 @@
 ---
-title: Update naskah rubrik Kasatmata "Ketika Kapal Perang Menjadi Alat Transportasi Tambang" (Penulis - TM Dhani Iqbal)
+title: Update naskah rubrik Kasatmata
 date: 2012-08-30
 categories:
 - laporan
 - LenteraTimur.com – Menyigi Identitas Indonesia
 ---
+
 
 **Tujuan** : Update naskah rubrik Kasatmata "Ketika Kapal Perang Menjadi Alat Transportasi Tambang" (Penulis - TM Dhani Iqbal)
 
