@@ -1,10 +1,12 @@
 ---
-title: Update naskah rubrik Sastra, "Manekin" (Kontributor - Berto Tukan)
+title: Update naskah rubrik Sastra
 date: 2012-07-07
 categories:
 - laporan
 - LenteraTimur.com – Menyigi Identitas Indonesia
+layout: laporancmb
 ---
+
 
 **Tujuan** : Update naskah rubrik Sastra, "Manekin" (Kontributor - Berto Tukan)
 
