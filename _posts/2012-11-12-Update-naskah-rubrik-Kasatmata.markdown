@@ -1,10 +1,12 @@
 ---
-title: Update naskah rubrik Kasatmata "Surakarta - Republik Terus Menguji Kesabaran Kami" (Kontributor - Wahyu Indro Sasongko)
+title: Update naskah rubrik Kasatmata
 date: 2012-11-12
 categories:
 - laporan
 - LenteraTimur.com – Menyigi Identitas Indonesia
+layout: laporancmb
 ---
+
 
 **Tujuan** : Update naskah rubrik Kasatmata "Surakarta - Republik Terus Menguji Kesabaran Kami" (Kontributor - Wahyu Indro Sasongko)
 
