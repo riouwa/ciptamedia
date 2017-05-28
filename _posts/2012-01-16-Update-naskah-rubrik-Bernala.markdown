@@ -1,9 +1,10 @@
 ---
-title: Update naskah rubrik Bernala, "Islam Tanpa Syiah" (Kontributor - Rumadi)
+title: Update naskah rubrik Bernala
 date: 2012-01-16
 categories:
 - laporan
 - LenteraTimur.com – Menyigi Identitas Indonesia
+layout: laporancmb
 ---
 
 **Tujuan** : Update naskah rubrik Bernala, "Islam Tanpa Syiah" (Kontributor - Rumadi)
