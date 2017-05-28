@@ -1,10 +1,12 @@
 ---
-title: Update naskah rubrik Agenda, "19 – 22 Maret 2012, Gorontalo – Pelatihan Jurnalistik “Menulis untuk Kesederajatan” (II)" (Penulis - Redaksi)	
+title: Update naskah rubrik Agenda
 date: 2012-03-13
 categories:
 - laporan
 - LenteraTimur.com - Menyingi Identitas Indonesia
+layout: laporancmb
 ---
+
 
 **Tujuan** : Update naskah rubrik Agenda, "19 – 22 Maret 2012, Gorontalo – Pelatihan Jurnalistik “Menulis untuk Kesederajatan” (II)" (Penulis - Redaksi)	
 
