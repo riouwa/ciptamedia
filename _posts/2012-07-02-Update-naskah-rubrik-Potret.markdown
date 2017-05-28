@@ -1,10 +1,12 @@
 ---
-title: Update naskah rubrik Potret, "Sampah Mereka Kampung Kami" (Kontributor - Rizky Januar)
+title: Update naskah rubrik Potret
 date: 2012-07-02
 categories:
 - laporan
 - LenteraTimur.com – Menyigi Identitas Indonesia
+layout: laporancmb
 ---
+
 
 **Tujuan** : Update naskah rubrik Potret, "Sampah Mereka Kampung Kami" (Kontributor - Rizky Januar)
 
