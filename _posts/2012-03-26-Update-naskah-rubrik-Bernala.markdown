@@ -1,10 +1,12 @@
 ---
-title: Update naskah rubrik Bernala, "Sultan Hamid II, Meneroka Akar Perkara Makar" (Kontributor - Anshari Dimyati)
+title: Update naskah rubrik Bernala
 date: 2012-03-26
 categories:
 - laporan
 - LenteraTimur.com – Menyigi Identitas Indonesia
+layout: laporancmb
 ---
+
 
 **Tujuan** : Update naskah rubrik Bernala, "Sultan Hamid II, Meneroka Akar Perkara Makar" (Kontributor - Anshari Dimyati)
 
