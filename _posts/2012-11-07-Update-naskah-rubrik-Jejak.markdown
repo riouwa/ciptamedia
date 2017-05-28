@@ -1,10 +1,12 @@
 ---
-title: Update naskah rubrik Jejak "Orang Seberang di Tanah Bertuan, Tak Sekadar Selayang Pandang" (Penulis - Fajar Riadi)
+title: Update naskah rubrik Jejak
 date: 2012-11-07
 categories:
 - laporan
 - LenteraTimur.com – Menyigi Identitas Indonesia
+layout: laporancmb
 ---
+
 
 **Tujuan** : Update naskah rubrik Jejak "Orang Seberang di Tanah Bertuan, Tak Sekadar Selayang Pandang" (Penulis - Fajar Riadi)
 
