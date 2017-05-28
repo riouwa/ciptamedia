@@ -1,10 +1,12 @@
 ---
-title: Update naskah rubrik Kasatmata, "Minyak dan Tradisi Kekerasan" (Penulis - Christopel Paino)
+title: Update naskah rubrik Kasatmata
 date: 2012-06-01
 categories:
 - laporan
 - LenteraTimur.com – Menyigi Identitas Indonesia
+layout: laporancmb
 ---
+
 
 **Tujuan** : Update naskah rubrik Kasatmata, "Minyak dan Tradisi Kekerasan" (Penulis - Christopel Paino)
 
