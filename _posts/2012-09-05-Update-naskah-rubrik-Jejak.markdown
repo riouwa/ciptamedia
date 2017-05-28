@@ -1,10 +1,12 @@
 ---
-title: Update naskah rubrik Jejak "Menyungkit Kisah Si Kain Emas" (Penulis - Tengku Muhammad Dicky)
+title: Update naskah rubrik Jejak
 date: 2012-09-05
 categories:
 - laporan
 - LenteraTimur.com – Menyigi Identitas Indonesia
+layout: laporancmb
 ---
+
 
 **Tujuan** : Update naskah rubrik Jejak "Menyungkit Kisah Si Kain Emas" (Penulis - Tengku Muhammad Dicky)
 
