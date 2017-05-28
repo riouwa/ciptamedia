@@ -1,5 +1,5 @@
 ---
-title: Update naskah rubrik Jejak, "Samin dan Pembangkangan" (Kontributor - Darmo Subekti)
+title: Update naskah rubrik Jejak
 date: 2012-01-04
 categories:
 - laporan
