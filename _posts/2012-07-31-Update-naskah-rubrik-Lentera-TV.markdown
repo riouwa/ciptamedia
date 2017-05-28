@@ -1,10 +1,12 @@
 ---
-title: Update naskah rubrik Lentera TV, "Dayak-Melayu dalam Pertunjukkan" (Kontributor - Sukma Ardiansyah)
+title: Update naskah rubrik Lentera TV
 date: 2012-07-31
 categories:
 - laporan
 - LenteraTimur.com – Menyigi Identitas Indonesia
+layout: laporancmb
 ---
+
 
 **Tujuan** : Update naskah rubrik Lentera TV, "Dayak-Melayu dalam Pertunjukkan" (Kontributor - Sukma Ardiansyah)
 
