@@ -1,10 +1,12 @@
 ---
-title: Update naskah rubrik Jejak, "Sayupnya Raung Harimau Sumatera" (Kontributor - Setiadi R. Saleh)
+title: Update naskah rubrik Jejak
 date: 2012-07-30
 categories:
 - laporan
 - LenteraTimur.com – Menyigi Identitas Indonesia
+layout: laporancmb
 ---
+
 
 **Tujuan** : Update naskah rubrik Jejak, "Sayupnya Raung Harimau Sumatera" (Kontributor - Setiadi R. Saleh)
 
