@@ -1,10 +1,12 @@
 ---
-title: Update naskah rubrik Bernala, "Bernala Di Pangkuan Benua" (Penulis - Martin Aleida)
+title: Update naskah rubrik Bernala
 date: 2012-07-06
 categories:
 - laporan
 - LenteraTimur.com – Menyigi Identitas Indonesia
+layout: laporancmb
 ---
+
 
 **Tujuan** : Update naskah rubrik Bernala, "Bernala Di Pangkuan Benua" (Penulis - Martin Aleida)
 
