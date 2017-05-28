@@ -1,10 +1,12 @@
 ---
-title: Update naskah rubrik Sastra, "Sajak-Sajak Ishak Sambayang" (Kontributor - Ishak Sambayang)
+title: Update naskah rubrik Sastra
 date: 2012-05-11
 categories:
 - laporan
 - LenteraTimur.com – Menyigi Identitas Indonesia
+layout: laporancmb
 ---
+
 
 **Tujuan** : Update naskah rubrik Sastra, "Sajak-Sajak Ishak Sambayang" (Kontributor - Ishak Sambayang)
 
