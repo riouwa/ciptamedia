@@ -1,10 +1,12 @@
 ---
-title: “Pulang”" (Kontributor - Ishak Sambayang)
+title: Pulang
 date: 2012-07-12
 categories:
 - laporan
 - LenteraTimur.com – Menyigi Identitas Indonesia
+layout: laporancmb
 ---
+
 
 **Tujuan** : “Pulang”" (Kontributor - Ishak Sambayang)
 
