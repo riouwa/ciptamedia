@@ -4,7 +4,7 @@ date: 2012-02-14
 categories:
 - laporan
 - Border Blogger Movement
-layout: laporancmb
+layout:laporancmb
 ---
 
 ![250px-FEBRUARI_14_2012_SOSIALISASI_LANJUTAN_BBM_DI_KAPUAS_HU.jpg](/_uploads/250px-FEBRUARI_14_2012_SOSIALISASI_LANJUTAN_BBM_DI_KAPUAS_HU.jpg){: .img-responsive .center-block }
