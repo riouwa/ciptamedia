@@ -5,6 +5,7 @@ categories:
 - laporan
 - mentoring
 - Kartunet.com: Media Online Sosialisasi dan Pengembangan Komunitas Pemuda dengan Disabilitas
+layout: laporancmb
 ---
 
 Oleh [Anggara](http://wiki.ciptamedia.org/index.php?title=Pengguna:Anggara&action=edit&redlink=1), Jagongan Media Rakyat (Yogyakarta)
