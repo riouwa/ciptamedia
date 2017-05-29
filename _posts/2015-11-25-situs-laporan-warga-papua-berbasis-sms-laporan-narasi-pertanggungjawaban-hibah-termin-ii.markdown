@@ -75,7 +75,7 @@ Aktifitas dan isu yang anda atasi:
 Berikut adalah aktivitas dan isu-isu yang anda masukkan pada permohonan hibah anda:
 
 1. Aktivitas 1 - Menyediakan fasilitas yang bisa dimanfaatkan oleh masyarakat umum dengan memanfaatkan peluang yang disediakan oleh kemajuan teknologi seluler dan internet serta pengetahuan dasar jurnalistik 
- **Hasil** - SMS hotline 082113989706 dan situs laporan warga telah tersedia dengan [enam kategori pelaporan](http://tabloidjubi.com/hotspot/reports/#) (lihat [Laporan I](http://wiki.ciptamedia.org/wiki/Situs_Laporan_Warga_Papua_Berbasis_SMS/Laporan) untuk kategori lengkapnya). Dari kategori ini selama periode 15 Maret - 1 Desember 2015 terdapat:
+ **Hasil** - SMS hotline 082113989706 dan situs laporan warga <font color="red">telah tersedia dengan [enam kategori pelaporan](http://tabloidjubi.com/hotspot/reports/#) (lihat [Laporan I](http://wiki.ciptamedia.org/wiki/Situs_Laporan_Warga_Papua_Berbasis_SMS/Laporan) untuk kategori lengkapnya). Dari kategori ini selama periode 15 Maret - 1 Desember 2015 terdapat:</font>
 * 496 laporan ALL REPORTS
 * 344 Forum pembaca
 * 50 Kekerasan aparat
@@ -89,18 +89,18 @@ Berikut adalah aktivitas dan isu-isu yang anda masukkan pada permohonan hibah an
 
 2. Aktivitas 2 - Memberikan pengetahuan dasar kepada masyarakat untuk membuat laporan warga dengan Menggunakan fasilitas SMS dan MMS yang murah dan ramah pengguna (user friendly) 
  **Hasil**
-1. Leaflet sudah pada Laporan I dan CMS tidak dimasukkan lagi kesini karena mengulang
-2. (Ada 4 sesi jurnalistik pada laporan dikirimkan, dan tiga tidak bisa masuk lagi karena mengulang) Sesi jurnalistik tentang cara membuat laporan dengan menggunakan format 5W+1H (Adisikamba = Apa, Dimana, Siapa, Kenapa, Bagaimana, dan Mengapa). 
+1. <font color="red">Leaflet sudah pada Laporan I dan CMS tidak dimasukkan lagi kesini karena mengulang</font>
+2. <font color="red">(Ada 4 sesi jurnalistik pada laporan dikirimkan, dan tiga tidak bisa masuk lagi karena mengulang)</font> Sesi jurnalistik tentang cara membuat laporan dengan menggunakan format 5W+1H (Adisikamba = Apa, Dimana, Siapa, Kenapa, Bagaimana, dan Mengapa). 
  Pelatihan Jurnalisme Warga diselenggarakan Jaringan Kerja Rakyat (Jerat) Papua bekerjasama dengan Kinerja USAID. Pelatihan yang dilakukan selama dua hari (09 – 10 April 2015) dan dihadiri oleh 15 peserta ini bertujuan untuk menguatkan kapasitas jurnalis warga, petugas kesehatan dan masyarakat yang tergabung dalam multistakeholder forum kesehatan dari 4 kota/kabupaten di Papua yang merupakan wilayah target Kinerja USAID, yakni Kota Jayapura, Kabupaten Jayapura, Kabupaten Jayawijaya dan Kabupaten Mimika. 
  Dalam kesempatan ini, Perkumpulan Jujur Bicara memberikan **pelatihan tentang SMS Gateaway, Managemen Administrasi dan Pengelolaan CMS (content management system) Ushahidi**, serta membagikan pengalaman tentang mengelola situs laporan warga Papua berbasis SMS. Kepada jurnalis warga, Perkumpulan Jujur Bicara memberikan **materi penyegaran tentang penulisan laporan jurnalistik dasar**.
 3. Mensosialisasikan Situs Laporan Warga Papua Berbasis SMS kepada Komunitas Jurnalis Warga Cycloops dan Komunitas Pencinta Alam dan Lingkungan Hidup di Sentani, Kabupaten Jayapura pada 25 Maret 2015. Pada kesempatan ini, tokoh mayarakat Sentani dan Dinas Kesehatan Kabupaten Jayapura berpartisipasi membagikan pengetahuan dan pengalaman dengan peserta sosialisasi yang berjumlah 13 orang.
-4. Seminar penutupan 20 Desember 2015 tidak bisa dimasukkan karena belum terjadi
-5. Umpan balik dan tantangan tidak bisa dimasukkan karena pengulangan dari Laporan I
+4. <font color="red">Seminar penutupan 20 Desember 2015 tidak bisa dimasukkan karena belum terjadi</font>
+5. <font color="red">Umpan balik dan tantangan tidak bisa dimasukkan karena pengulangan dari Laporan I</font>
 
 3. Aktivitas 3 - Menyediakan situs laporan warga menggunakan platform Ushahidi dan Frontline SMS. 
  Situs berfungsi sebagai media laporan warga yang bisa diakses oleh publik sekaligus menjadi database informasi tentang Papua yang kredible dan bertanggungjawab.
  **Hasil**
-* Situs laporan warga telah tersedia dengan enam kategori pelaporan (lihat Laporan I untuk kategori lengkapnya).
+* Situs laporan warga <font color="red">telah tersedia dengan enam kategori pelaporan (lihat Laporan I untuk kategori lengkapnya).</font>
 * Rubrik SMS warga dapat diakses via www.tabloidjubi.com. 
 * Pertanyaan: Saya cari rubrik ini di situs Jubi tidak ada, yang ada malah Surat Pembaca dan Saya komen yang lalu masuk ke situs lain, serta Laporan Warga yang kembali lagi ke situs ushaidi dengan statistik diatas. Jadi yang mana persisnya rubrik SMS Warga di situs Jubi?
 * Laporan warga juga dimuat di rubrik Laporan Warga via SMS di Koran Jubi. 
@@ -109,7 +109,7 @@ Berikut adalah aktivitas dan isu-isu yang anda masukkan pada permohonan hibah an
 4. Aktivitas 4 - Menyediakan administrator situs laporan warga. 
  Administrator situs berfungsi sebagai pengelola informasi yang dikirimkan oleh warga. Selain itu, administrator juga berfungsi sebagai distributor (membagikan informasi) kepada publik melalui system SMS frontline maupun media sosial.
  **Hasil**
- * Tidak dimasukkan karena repetitif, adakah yang bisa dilaporkan pada periode ini yang berbeda dengan periode sebelumnya?
+ * <font color="red">Tidak dimasukkan karena repetitif, adakah yang bisa dilaporkan pada periode ini yang berbeda dengan periode sebelumnya?</font>
 
 5. Aktivitas 5 - Menyediakan Local verificator. 
  Local verificator akan berfungsi untuk menindaklanjuti laporan warga untuk menghasilkan laporan yang lebih komperehensif dan kredibel agar bisa dikonsumsi oleh publik tanpa keraguan (verified). 
@@ -118,12 +118,12 @@ Berikut adalah aktivitas dan isu-isu yang anda masukkan pada permohonan hibah an
 * Verifikator lokal adalah kontributor daerah yang direkrut untuk menindaklanjuti laporan warga yang telah disetujui administrator dan dipublikasikan di situs. Verifikator lokal bertanggung jawab untuk memverifikasi laporan dari ‘tangan pertama’ dan melaporkan kembali dalam bentuk laporan yang lebih komprehensif dan kredibel untuk dikonsumsi publik dan memberikan dampak kepada masyarakat dalam bentuk berita yang dimuat di tabloidjubi.com dan Koran Jubi.
 * Jumlah verifikator yang direkrut di bawah hibah berjumlah 10 orang, 8 orang direkrut pada periode pelaporan pertama, dan 2 orang tambahan pada periode kedua. Pertimbangan merekrut kontributor daerah adalah untuk mengoptimalkan kegiatan verifikasi terkait dengan pengetahuan dan ketrampilan jurnalistik yang memadai serta profesionalisme dan keamanan di lapangan saat melakukan verifikasi kepada warga. Dalam beberapa kasus, para verifikator lokal dibantu wartawan Jubi dan jurnalis warga.
 * Para verifikator lokal dan jurnalis warga mendapatkan kompensasi berdasarkan jumlah laporan yang diverifikasi dan jumlah berita yang dibuat berdasarkan laporan yang telah diverifikasi dan ditindaklanjuti. 
-* Pertanyaan yang sama dengan aktivitas 1 - verifikasi justru tidak terbaharui dan kategori verifikasi justru penuh dengan SMS yang belum diverifikasi
+* <font color="red">Pertanyaan yang sama dengan aktivitas 1 - verifikasi justru tidak terbaharui dan kategori verifikasi justru penuh dengan SMS yang belum diverifikasi</font>
 
 6. Aktivitas 6 - Training local verificator. 
  Pelatihan untuk local verificator bertujuan untuk membekali masyarakat lokal dalam memproduksi informasi yang kredibel dan bertanggungjawab.
  **Hasil**
- * Pengulangan narasi. Tidak bisa dimuat. Mungkinkah ada pelatihan lain yang terjadi? Mengingat ada perekrutan dua verifikator baru pada periode ini? Dan mungkin lokasi dari verifikator tersebut?
+ * <font color="red">Pengulangan narasi. Tidak bisa dimuat. Mungkinkah ada pelatihan lain yang terjadi? Mengingat ada perekrutan dua verifikator baru pada periode ini? Dan mungkin lokasi dari verifikator tersebut?</font>
 
 7. Aktivitas 7 - Pengembangan informasi yang diproduksi (content) dari upaya yang sebelumnya, pelaku dan penerima manfaat. 
  **Hasil**
@@ -132,18 +132,18 @@ Berikut adalah aktivitas dan isu-isu yang anda masukkan pada permohonan hibah an
 
 8. Aktivitas 8 - Melakukan sosialisasi dan kampanye proyek secara masif melalui berbagai bahan sosialisasi dan kampanye antara lain produksi buku panduan, T-Shirt, Stiker, Nomor HP Hotline, dan produk sms.
  **Hasil**
- * Tidak dimasukkan karena repetitif, adakah yang bisa dilaporkan pada periode ini yang berbeda dengan periode sebelumnya?
+ * <font color="red">Tidak dimasukkan karena repetitif, adakah yang bisa dilaporkan pada periode ini yang berbeda dengan periode sebelumnya?</font>
 
 9. Aktivitas 9 - Memberikan insentif bagi local verificator berupa kesempatan bertukar pengalaman dengan pengguna platform Ushahidi dan frontline SMS di tempat lain. 
  **Insentif juga diberikan dalam bentuk perangkat teknologi informasi bagi para warga** yang konsisten terlibat dalam proyek laporan warga ini.
  **Hasil**
- 1. Berdasarkan proposal yang disetujui, kegiatan ini melibatkan 3 verifikator lokal, namun dengan pertimbangan untuk pengembangan proyek ke depan, serta ketercukupan anggaran, maka manajemen memutuskan untuk mengirim 3 orang tambahan, yakni program officer, administrator (staf proyek) dan wartawan dengan kinerja terbaik untuk ikut berpartisipasi dalam program pertukaran pengalaman dengan rekan-rekan dari lembaga media Wartani di Pattani, Thailand.Pertanyaan: Apakah ini berarti yang pergi total 6 orang? 
+ 1. Berdasarkan proposal yang disetujui, kegiatan ini melibatkan 3 verifikator lokal, namun dengan pertimbangan untuk pengembangan proyek ke depan, serta ketercukupan anggaran, maka manajemen memutuskan untuk mengirim 3 orang tambahan, yakni program officer, administrator (staf proyek) dan wartawan dengan kinerja terbaik untuk ikut berpartisipasi dalam program pertukaran pengalaman dengan rekan-rekan dari lembaga media Wartani di Pattani, Thailand. <font color="red">Pertanyaan: Apakah ini berarti yang pergi total 6 orang?</font> 
  Verifikator lokal dipilih berdasarkan konsistensi dalam memverifikasi laporan, muatan laporan serta partisipasi komunitas pewarta di wilayah target. Verifikator lokal tersebut masing-masing dari Kabupaten Jayapura, Merauke dan Jayawijaya/Yahukimo. Yang terakhir menggantikan verifikator lokal Kabupaten Nabire yang mengundurkan diri karena melanjutkan studi.
  Lembaga media [Wartani](http://wartani.com/dev/) adalah organisasi sipil berbasis media yang menyuarakan ketidakadilan sosial dan kekerasan aparat keamanan yang dialami masyarakat minoritas Melayu Muslim di kawasan Patani (Provinsi Pattani, Yala, Narathiwat dan sebagian wilayah Provinsi Songkhla), Thailand. 
  Selain memproduksi berita online, video streaming, Wartani juga mengelola situs laporan warga dengan memadukan SMS frontline dan Ushahidi, yang diintegrasikan dengan situs laporan warga yang mereka kelola. 
  Kemiripan isu-isu yang diangkat, kesamaan program yang dijalankan, serta keadaan sosial-politik masyarakat minoritas Patani dibandingkan dengan masyarakat Papua menjadi pertimbangan Perkumpulan Jujur Bicara untuk melakukan kerjasama dengan lembaga media wartani.com. 
  Setelah berkomunikasi secara intensif dengan Wartani, lembaga memutuskan perjalanan staf Jubi ke Pattani dibagi menjadi 2 tahap, tahap 1 (12-21 Agustus 2015) dan tahap 2 (04-12 September 2015) dengan menggunakan jalur darat Kuala Lumpur – Hatyai untuk alasan keamanan. Selain untuk mengatasi persoalan SDM di lembaga, pembagian tim kerja juga bertujuan untuk menggali pengetahuan dan wawasan tentang pengalaman kerja wartani.com dari 2 perspektif yang berbeda: sospolkam dan ekosob.
- Selama program pertukaran pengalaman ini, kedua tim Jubi berkesempatan bertemu dengan organisasi-organisasi sipil yang bekerja di bidang sosial, pendidikan, politik dan budaya di kawasan Patani. Laporan perjalanan dirangkum dalam rangkaian berita yang dapat diakses di tabloidjubi.com, serta dimuat di Koran Jubi. Pranala? 
+ Selama program pertukaran pengalaman ini, kedua tim Jubi berkesempatan bertemu dengan organisasi-organisasi sipil yang bekerja di bidang sosial, pendidikan, politik dan budaya di kawasan Patani. Laporan perjalanan dirangkum dalam rangkaian berita yang dapat diakses di tabloidjubi.com, serta dimuat di Koran Jubi. <font color="red">Pranala?</font>
  Berikut beberapa tantangan dan pembelajaran yang didapat oleh Perkumpulan Jujur Bicara dalam program pertukaran pengalaman dengan lembaga media wartani.com: 
 
  **Tantangan:**
@@ -163,23 +163,23 @@ Berikut adalah aktivitas dan isu-isu yang anda masukkan pada permohonan hibah an
 
 10. Aktivitas 10 - Penulisan dan publikasi buku pengalaman mengelola proyek dari tahun 2010 (proyek mandiri) dan perkembangannya setelah proyek dilakukan bersama CMS.
  **Hasil**
- * Berdasarkan [Laporan I](vhttp://wiki.ciptamedia.org/wiki/Situs_Laporan_Warga_Papua_Berbasis_SMS/Laporan) dimana draft buku akan diluncurkan pada Agustus 2015]], pada periode laporan ini peluncuran buku diundur hingga akhir tahun (Desember 2015). Teks pada laporan narasi tidak dimasukkan karena repetitif, ini sebenarnya draft bukunya udah bener selesai belom ya? Dari laporan I bilangnya sudah selesai.
+ * Berdasarkan [Laporan I](vhttp://wiki.ciptamedia.org/wiki/Situs_Laporan_Warga_Papua_Berbasis_SMS/Laporan) dimana draft buku akan diluncurkan pada Agustus 2015]], pada periode laporan ini peluncuran buku diundur hingga akhir tahun (Desember 2015). <font color="red">Teks pada laporan narasi tidak dimasukkan karena repetitif, ini sebenarnya draft bukunya udah bener selesai belom ya? Dari laporan I bilangnya sudah selesai.</font>
 
 11. Aktivitas 11 - Monitoring dan evaluasi bulanan, tiga bulanan, enam bulan dan satu tahun
- * **Alinea pertama** - Tidak dimasukkan karena repetitif, adakah yang bisa dilaporkan pada periode ini yang berbeda dengan periode sebelumnya?
+ * <font color="red">**Alinea pertama** - Tidak dimasukkan karena repetitif, adakah yang bisa dilaporkan pada periode ini yang berbeda dengan periode sebelumnya?</font>
  * **Monitoring**, bertujuan untuk memantau perkembangan laporan warga yang masuk melalui SMS dan kunjungan warga ke Situs Laporan Warga Papua setiap bulan, dan waktu yang sudah ditetapkan. Hasil monitoring menjadi bahan evaluasi untuk menjaga konsistensi dan keberlangsungan proyek agar tujuan dan sasaran proyek dapat dicapai sesuai dengan indikator-indikator yang sudah ditetapkan. 
 
 ![200px-Statistik_1_Aktivitas_12_-_Data_Pengunjung_Situs_Laporan_Warga.png](/uploads/200px-Statistik_1_Aktivitas_12_-_Data_Pengunjung_Situs_Laporan_Warga.png){: .img-responsive .center-block }
 
-(Statistik diatas sebaiknya dilanjutkan hingga Desember 2015, apabila terlalu panjang, saran adalah untuk memotong data di awal, karena berdasarkan periode laporan "ujungnya" lebih relevan, sekaligus untuk menyimpulkan laporan I & II) 
+<font color="red">(Statistik diatas sebaiknya dilanjutkan hingga Desember 2015, apabila terlalu panjang, saran adalah untuk memotong data di awal, karena berdasarkan periode laporan "ujungnya" lebih relevan, sekaligus untuk menyimpulkan laporan I & II)</font>
 Berdasarkan monitoring yang dilakukan setiap akhir bulan berjalan selama periode hibah, jumlah pengunjung yang mengakses situs laporan warga Papua menunjukkan trend meningkat setiap bulan kecuali pada bulan November 2014 dan Maret 2015 dengan rata-rata 16 kunjungan setiap hari.
 * Pada triwulan pertama (Agustus – Oktober 2014) dalam pelaporan periode pertama, jumlah laporan warga yang masuk sebanyak 129, yang mana 77% (99) merupakan laporan berkategori forum pembaca. Pada periode ini, Perkumpulan Jujur Bicara belum menambahkan kategori pendidikan, kesehatan dan praktik cerdas pada situs, sehingga laporan yang berkaitan dengan isu-isu tersebut langsung dikategorikan ke dalam kategori forum pembaca. Sebagai rekomendasi hasil mentoring tahap 1 oleh mentor Akhmad Nasir pada 28 November 2014, Perkumpulan Jujur Bicara menambahkan ketiga kategori tersebut pada situs.
 * Pada triwulan kedua (November 2014 – Januari 2015), walaupun kategori forum pembaca masih merupakan laporan terbanyak yang masuk (74%), namun laporan tentang pendidikan dan kesehatan sudah mulai terkategorikan, masing-masing sebanyak 7% dan 2% dari total 307 laporan.
-* Sedangkan pada **triwulan ketiga (Februari – April 2015) dan keempat (Mei – Juli 2015)**, kategori pendidikan dan kesehatan, masing-masing sebanyak 10 % dan 9 % dan 4% dan 6%. (Sebaiknya data untuk triwulan tiga dan triwulan empat dipisah dan dimasukkan angka total untuk laporan, karena ini periode paling penting yang memang harus masuk laporan) 
+* Sedangkan pada **triwulan ketiga (Februari – April 2015) dan keempat (Mei – Juli 2015)**, kategori pendidikan dan kesehatan, masing-masing sebanyak 10 % dan 9 % dan 4% dan 6%. <font color="red">(Sebaiknya data untuk triwulan tiga dan triwulan empat dipisah dan dimasukkan angka total untuk laporan, karena ini periode paling penting yang memang harus masuk laporan)</font>
 
 ![225px-Statistik_2_Aktivitas_12_-_Jumlah_Laporan_Warga_Berdasarkan_Kategori.png](/uploads/225px-Statistik_2_Aktivitas_12_-_Jumlah_Laporan_Warga_Berdasarkan_Kategori.png){: .img-responsive .center-block }
 
-(Statistik diatas sebaiknya dilanjutkan hingga Desember 2015, apabila terlalu panjang, untuk dijadikan 2 screenshot berbeda)
+<font color="red">(Statistik diatas sebaiknya dilanjutkan hingga Desember 2015, apabila terlalu panjang, untuk dijadikan 2 screenshot berbeda)</font>
 * Pada periode semester pertama (Agustus 2014 – Januari 2015), jumlah laporan yang masuk adalah sebanyak 436 laporan, terdiri dari:
  * 327 kategori forum pembaca (75%)
  * 17 kategori trusted report (3,9%)
@@ -200,22 +200,22 @@ Berdasarkan monitoring yang dilakukan setiap akhir bulan berjalan selama periode
  * 7 praktik cerdas (1,3%), dan
  * 1 kategori none (0,2%).
 * Periode Semester Tiga (Agustus 2015 - November 2015) 
- (Data jumlah laporan sebaiknya dilanjutkan hingga Desember 2015, apabila belum ada (Desember) hingga November 2015 periode ini relevan pada laporan)
+ <font color="red">(Data jumlah laporan sebaiknya dilanjutkan hingga Desember 2015, apabila belum ada (Desember) hingga November 2015 periode ini relevan pada laporan)</font>
 * **Evaluasi** bertujuan untuk menilai apakah strategi yang dilakukan Perkumpulan Jujur Bicara telah sesuai dengan yang direncanakan, apakah strategi tersebut mampu meningkatkan partisipasi warga dalam mengirimkan laporan, langkah-langkah apa saja yang perlu diambil atau ditingkatkan sehubungan dengan hasil yang ingin dicapai. 
  Berikut hasil temuan Perkumpulan Jujur Bicara sehubungan dengan pengelolaan situs laporan warga Papua berbasis SMS selama periode hibah: 
 
 ![225px-Statistik_3_Aktivitas_12_-_Perbandingan_Jumlah_Laporan_Berdasarkan_Periode.png](/uploads/225px-Statistik_3_Aktivitas_12_-_Perbandingan_Jumlah_Laporan_Berdasarkan_Periode.png){: .img-responsive .center-block }
 
 * Jumlah laporan yang masuk pada periode hibah (Agustus 2014 – Juli 2015) signifikan meningkat dibandingkan dengan jumlah laporan yang masuk pada satu tahun terakhir sebelum periode hibah (Agustus 2013 – Juli 2014). Peningkatan jumlah laporan merupakan pencapaian dari strategi-strategi yang dilakukan Perkumpulan Jujur Bicara dengan dukungan Cipta Media Selular untuk memotivasi warga berpartisipasi mengirimkan laporan. Strategi-strategi tersebut meliputi kampanye melalui berbagai media, sosialisasi langsung kepada masyarakat, kerjasama dengan lembaga-lembaga pemberdayaan masyarakat, lembaga keagamaan, lembaga kemahasiswaan, serta pembentukan simpul komunitas warga dan pemberian insentif kepada pewarta aktif. (Data evaluasi sebaiknya dilanjutkan hingga Desember 2015, apabila belum ada (Desember) hingga November 2015 periode ini relevan pada laporan)
-* Laporan warga yang dikategorikan ke dalam forum pembaca merupakan laporan terbanyak yang diterima, yakni 67% dari total 973 laporan yang masuk. Laporan yang dikategorikan sebagai forum pembaca adalah laporan warga terkait isu kinerja pemerintah daerah, termasuk dalam menyediakan fasilitas dan layanan publik (di luar isu pendidikan dan kesehatan), seperti fasilitas jalan dan akses transportasi, listrik, air bersih, sanitasi dan lain-lain, kinerja legislatif, otonomi khusus, lingkungan hidup, hak ulayat dan masyarakat adat, serta Persipura.(Data evaluasi sebaiknya dilanjutkan hingga Desember 2015, apabila belum ada (Desember) hingga November 2015 periode ini relevan pada laporan) 
+* Laporan warga yang dikategorikan ke dalam forum pembaca merupakan laporan terbanyak yang diterima, yakni 67% dari total 973 laporan yang masuk. Laporan yang dikategorikan sebagai forum pembaca adalah laporan warga terkait isu kinerja pemerintah daerah, termasuk dalam menyediakan fasilitas dan layanan publik (di luar isu pendidikan dan kesehatan), seperti fasilitas jalan dan akses transportasi, listrik, air bersih, sanitasi dan lain-lain, kinerja legislatif, otonomi khusus, lingkungan hidup, hak ulayat dan masyarakat adat, serta Persipura.<font color="red">(Data evaluasi sebaiknya dilanjutkan hingga Desember 2015, apabila belum ada (Desember) hingga November 2015 periode ini relevan pada laporan)</font>
 
 ![225px-Statistik_4_Aktivitas_12_Laporan_Warga_Berdasarkan_Tema_Dalam_Periode_Hibah.png](/uploads/225px-Statistik_4_Aktivitas_12_Laporan_Warga_Berdasarkan_Tema_Dalam_Periode_Hibah.png){: .img-responsive .center-block }
 
-(Data statistik sebaiknya dilanjutkan hingga Desember 2015, apabila belum ada (Desember) hingga November 2015 periode ini relevan pada laporan)
-* Terkait dengan tema yang merupakan fokus Perkumpulan Jujur Bicara dalam periode hibah, kategori kekerasan aparat terhadap masyarakat sipil merupakan peristiwa paling dominan yang terjadi dan dilaporkan masyarakat, yakni 77 laporan. Dapat disimpulkan bahwa kekerasan aparat terjadi setiap bulan sepanjang tahun selama periode hibah. (Data statistik sebaiknya dilanjutkan hingga Desember 2015, apabila belum ada (Desember) hingga November 2015 periode ini relevan pada laporan)
-* Laporan terkait pendidikan mengalami peningkatan yang signifikan pada Januari 2015 dan Maret 2015 (Data statistik sebaiknya dilanjutkan hingga Desember 2015, apabila belum ada (Desember) hingga November 2015 periode ini relevan pada laporan) sebagai akibat dari sosialisasi langsung yang diberikan kepada masyarakat adat dan mahasiswa pada bulan-bulan tersebut, sementara laporan terkait kesehatan meningkat secara signifikan pada April 2015 setelah sosialisasi yang melibatkan mahasiswa. Dapat disimpulkan bahwa sosialisasi memberikan umpan baik yang positif pada peningkatan laporan terkait permasalahan pendidikan dan kesehatan apabila melibatkan target yang tepat. Berikut analisanya
+<font color="red">(Data statistik sebaiknya dilanjutkan hingga Desember 2015, apabila belum ada (Desember) hingga November 2015 periode ini relevan pada laporan)</font>
+* Terkait dengan tema yang merupakan fokus Perkumpulan Jujur Bicara dalam periode hibah, kategori kekerasan aparat terhadap masyarakat sipil merupakan peristiwa paling dominan yang terjadi dan dilaporkan masyarakat, yakni 77 laporan. Dapat disimpulkan bahwa kekerasan aparat terjadi setiap bulan sepanjang tahun selama periode hibah. <font color="red">(Data statistik sebaiknya dilanjutkan hingga Desember 2015, apabila belum ada (Desember) hingga November 2015 periode ini relevan pada laporan)</font>
+* Laporan terkait pendidikan mengalami peningkatan yang signifikan pada Januari 2015 dan Maret 2015 <font color="red">(Data statistik sebaiknya dilanjutkan hingga Desember 2015, apabila belum ada (Desember) hingga November 2015 periode ini relevan pada laporan)</font> sebagai akibat dari sosialisasi langsung yang diberikan kepada masyarakat adat dan mahasiswa pada bulan-bulan tersebut, sementara laporan terkait kesehatan meningkat secara signifikan pada April 2015 setelah sosialisasi yang melibatkan mahasiswa. Dapat disimpulkan bahwa sosialisasi memberikan umpan baik yang positif pada peningkatan laporan terkait permasalahan pendidikan dan kesehatan apabila melibatkan target yang tepat. <font color="red">Berikut analisanya</font>
 * Laporan yang berhasil diverifkasi pada periode sebelum hibah adalah sebanyak 60 laporan (71%) dari total 85 laporan. Pada periode sebelum hibah laporan terverifikasi adalah laporan yang berasal dari sumber internal Jubi, yakni para jurnalis warga yang telah dilatih dan diberikan otorisasi untuk akses langsung ke Situs Laporan Warga.
-* Pada periode hibah, (Data statistik sebaiknya dilanjutkan hingga Desember 2015, apabila belum ada (Desember) hingga November 2015 periode ini relevan pada laporan) laporan yang berhasil diverifikasi adalah sebanyak 108 (4%) dari total 957 laporan, sementara laporan mencapai 919 (89%) (Analisa dan berita yang diverifikasi untuk diperbaharui hingga November 2015). Sedikitnya jumlah laporan yang berhasil diverifikasi tidak saja berkaitan dengan kendala geografis ataupun kendala teknis, namun juga merupakan hasil dampak dari mekanisme approval dalam mengelola situs. ‘Laporan yang disetujui’ adalah laporan masuk yang pada prinsipnya dapat disetujui untuk dipublikasikan tanpa perlu diverifikasi lebih lanjut (tidak membutuhkan verifikasi), sementara ‘laporan yang diverifikasi’ adalah laporan masuk yang disetujui untuk dipublikasikan di situs, namun membutuhkan verifikasi lebih lanjut kepada pihak yang melapor untuk ditindaklanjut menjadi suatu laporan/berita yang kredibel untuk dipublokasikan di media cetak dan online dan/atau diteruskan kepada pemangku kepentingan atau pembuat kebijakan. Dalam beberapa kasus, meski anonimitas narasumber dipertahankan, ada pihak pelapor yang keberatan kasus yang dilaporkan ditindaklanjuti. 
+* Pada periode hibah, <font color="red">(Data statistik sebaiknya dilanjutkan hingga Desember 2015, apabila belum ada (Desember) hingga November 2015 periode ini relevan pada laporan)</font> laporan yang berhasil diverifikasi adalah sebanyak 108 (4%) dari total 957 laporan, sementara laporan mencapai 919 (89%) <font color="red">(Analisa dan berita yang diverifikasi untuk diperbaharui hingga November 2015)</font>. Sedikitnya jumlah laporan yang berhasil diverifikasi tidak saja berkaitan dengan kendala geografis ataupun kendala teknis, namun juga merupakan hasil dampak dari mekanisme approval dalam mengelola situs. ‘Laporan yang disetujui’ adalah laporan masuk yang pada prinsipnya dapat disetujui untuk dipublikasikan tanpa perlu diverifikasi lebih lanjut (tidak membutuhkan verifikasi), sementara ‘laporan yang diverifikasi’ adalah laporan masuk yang disetujui untuk dipublikasikan di situs, namun membutuhkan verifikasi lebih lanjut kepada pihak yang melapor untuk ditindaklanjut menjadi suatu laporan/berita yang kredibel untuk dipublokasikan di media cetak dan online dan/atau diteruskan kepada pemangku kepentingan atau pembuat kebijakan. Dalam beberapa kasus, meski anonimitas narasumber dipertahankan, ada pihak pelapor yang keberatan kasus yang dilaporkan ditindaklanjuti. 
 
 ![250px-Statistik_5_Aktivitas_12_Pie_Chart.png](/uploads/250px-Statistik_5_Aktivitas_12_Pie_Chart.png){: .img-responsive .center-block }
 
@@ -229,9 +229,9 @@ Berdasarkan monitoring yang dilakukan setiap akhir bulan berjalan selama periode
 * Dari pemaparan di atas, dapat disimpulkan bahwa dari laporan yang diterima Perkumpulan Jujur Bicara melaui proyek Situs Laporan Warga Berbasis SMS mengindikasikan bahwa persoalan yang dihadapi masyarakat di Papua tidak sedikit, namun perhatian masyarakat terhadap isi pendidikan dan kesehatan masih sangat kurang, sebagai akibat dari tekanan dari kebebasan untuk mengekspresikan pendapat juga berbagai kekerasan dan pelanggaran hak asasi yang dilakukan aparat terhadap masyarakat Papua.
 
 Dari temuan-temuan di atas, langkah-langkah yang harus diambil Perkumpulan Jujur Bicara sehubugan dengan hasil yang ingin dicapai melalui pengelolaan Situs Laporan Warga Papua Berbasis SMS ke depan adalah:
- 1. Menambah kategori maladministrasi dan pelayanan publik, isu gender dan kekerasan domestik, untuk periode berikutnya.Periode berikutnya kapan ya? Kalau periodenya habis Agustus seperti sebelumnya, hingga Desember (sekarang) belum ditambah di kategori situs laporan warga
+ 1. Menambah kategori maladministrasi dan pelayanan publik, isu gender dan kekerasan domestik, untuk periode berikutnya. <font color="red">Periode berikutnya kapan ya? Kalau periodenya habis Agustus seperti sebelumnya, hingga Desember (sekarang) belum ditambah di kategori situs laporan warga</font>
  2. Merencanakan dan melakukan sosialisasi langsung dengan masyarakat secara berkala, terutama mengenai isu-isu yang terkait dengan kesehatan, pendidikan dan praktik cerdas.
- 3. Mengupayakan pemberian insentif kepada warga untuk memotivasi mereka agar secara aktif berpartisipasi.Ini bukannya sudah via pulsa dan telpon genggam?
+ 3. Mengupayakan pemberian insentif kepada warga untuk memotivasi mereka agar secara aktif berpartisipasi. <font color="red">Ini bukannya sudah via pulsa dan telpon genggam?</font>
  4. Merevisi leaflet panduan untuk berpartisipasi melaporkan ke situs dengan menggunakan bahasa yang sederhana dan tampilan visual yang lebih menarik untuk dengan mudah dapat dipahami oleh semua kalangan di Papua.
 
 **3. Indikator sukses anda dalam permohonan hibah**
@@ -249,13 +249,13 @@ Untuk mengukur keberhasilan program maka dirumuskan hasil dan indikator sebagai 
 
 Hasil aktual hingga laporan ini dibuat:
 
-1. Sejak periode Juli 2014 sampai dengan periode laporan ini, Situs Laporan Warga Papua Berbasis SMS telah menerima rata-rata 81 laporan via SMS setiap bulan. **Tolong jumlah dan periodenya diperbaharui hingga Desember/ November**
+1. Sejak periode Juli 2014 sampai dengan periode laporan ini, Situs Laporan Warga Papua Berbasis SMS telah menerima rata-rata 81 laporan via SMS setiap bulan. <font color="red">Tolong jumlah dan periodenya diperbaharui hingga Desember/ November</font>
 2. Sebanyak 108 laporan warga telah diverifikasi oleh verifikator lokal dan ditindaklanjuti dalam bentuk berita di tabloidjubi.com dan Koran Jubi. 
-3. Laporan yang ditindaklanjuti secara berkala ditinjau dan diupdate perkembangannya dalam bentuk berita agar berdampak pada perubahan sosial di masyarakat. **Masukkan minimum lima pranala dari SMS ke berita online pada Tabloid Jubi sebagai contoh**
-4. Jumlah laporan yang meningkat secara signifikan 100% dari periode sebelum hibah. **Berapa jumlah laporan setelah Maret 2015 pada saat periode hibah hingga Desember 2015?**
-5. Situs laporan warga sampai dengan periode pelaporan ini telah diakses lebih dari 1000 pengunjung setiap hari langsung ke situs ataupun melalui media sosial. **Tolong diperbaharui angka rata rata hingga Desember/ November**
+3. Laporan yang ditindaklanjuti secara berkala ditinjau dan diupdate perkembangannya dalam bentuk berita agar berdampak pada perubahan sosial di masyarakat. <font color="red">Masukkan minimum lima pranala dari SMS ke berita online pada Tabloid Jubi sebagai contoh</font>
+4. Jumlah laporan yang meningkat secara signifikan 100% dari periode sebelum hibah. <font color="red">Berapa jumlah laporan setelah Maret 2015 pada saat periode hibah hingga Desember 2015?</font>
+5. Situs laporan warga sampai dengan periode pelaporan ini telah diakses lebih dari 1000 pengunjung setiap hari langsung ke situs ataupun melalui media sosial. <font color="red">Tolong diperbaharui angka rata rata hingga Desember/ November</font>
 6. Sebanyak 50 warga masyarakat adat, 36 pemuda gereja, 40 mahasiswa daerah (Papua) yang menempuh studi di Kota Jayapura, 8 verifikator lokal, 15 multistakeholder kesehatan Papua telah dilatih untuk mengaplikasikan jurnalisme warga.Tolong diperbaharui hingga Desember 2015
-7. Jumlah warga yang terlibat dalam proyek mengalami peningkatan setiap bulan. **Tolong berikan angka spesifik berapa peningkatannya**
+7. Jumlah warga yang terlibat dalam proyek mengalami peningkatan setiap bulan. <font color="red">Tolong berikan angka spesifik berapa peningkatannya</font>
 8. Terbentuknya 6 simpul komunitas jurnalis warga di kota/kab jayapura, kota wamena, merauke, nabire dari sepuluh yang ditargetkan.
 9. Berkonsultasi dan berupaya menjalankan rekomendasi-rekomendasi yang disarankan para mentor.
 10. Monitoring dan evaluasi satu bulanan dilakukan secara regular berdasarkan jadwal yang sudah ditentukan.
@@ -295,13 +295,13 @@ Tujuan dan sasaran yang berhasil dicapai hingga saat ini:
   5. pendidikan;
   6. kesehatan dan
   7. praktik cerdas. 
- Laporan warga dipublikasikan di [Situs Ushaidi Laporan Warga](http://tabloidjubi.com/hotspot/) dan [tabloidjubi.com](http://tabloidjubi.com/home/), Koran Jubi dan facebook PRANALA? dan twitter PRANALA
+ Laporan warga dipublikasikan di [Situs Ushaidi Laporan Warga](http://tabloidjubi.com/hotspot/) dan [tabloidjubi.com](http://tabloidjubi.com/home/), Koran Jubi dan facebook <font color="red">PRANALA?</font> dan twitter <font color="red">PRANALA</font>
 2. Tersedianya laporan warga yang kredibel dan dapat dipertanggungjawabkan yang dikemas dalam berita aktual dan terpercaya sehingga mampu mempengaruhi pengambilan keputusan atau penetapan kebijakan oleh aparatur negara sebagai kontrol publik terutama terhadap kualitas pelayanan publik dan pelanggaran/tindak kekerasan oleh aparat keamanan.
 3. Terbentuknya komunitas jurnalis warga yang mampu memotivasi masyarakat untuk mengenali hak dasar mereka sebagai warga negara dan mendorong warga untuk secara mandiri melaporkan informasi dan peristiwa yang terjadi di sekitar mereka.
 4. Terjalin kerjasama dengan berbagai pihak melalui koordinasi dan sinergi program untuk meningkatkan kapasitas dan partisipasi masyarakat terhadap pelayanan publik terkait hak memperoleh pendidikan dan layanan kesehatan yang lebih baik dan mendapatkan keadilan.
  Sementara sasaran yang tercapai dalam periode pelaporan ini adalah sebagai berikut:
  1. Partisipasi masyarakat untuk terlibat dalam proyek ini masih terbatas pada warga yang tinggal di wilayah perkotaan dengan konsentrasi di Kota Jayapura, Sentani, Wamena, Merauke, dan Nabire. Perkumpulan Jujur Bicara berupaya menjangkau masyarakat yang berada di pedalaman dan pesisir Tanah Papua.
- 2. Warga yang terlibat sebagian besar berjenis kelamin laki-laki, rentang usia mereka yang berpartisipasi adalah 15 – 40 tahun (usia produktif) dengan latar belakang pendidikan setingkat sekolah menengah atas dan perguruan tinggi. Keterlibatan perempuan untuk berpartisipasi dalam proyek ini masih harus ditingkatkan. Apakah tidak sebaiknya kalimat ini masuk pada pembelajaran?
+ 2. Warga yang terlibat sebagian besar berjenis kelamin laki-laki, rentang usia mereka yang berpartisipasi adalah 15 – 40 tahun (usia produktif) dengan latar belakang pendidikan setingkat sekolah menengah atas dan perguruan tinggi. <font color="red">Keterlibatan perempuan untuk berpartisipasi dalam proyek ini masih harus ditingkatkan.</font> Apakah tidak sebaiknya kalimat ini masuk pada pembelajaran?
 
 **5. Perubahan Lingkup Organisasi/ Lingkungan Sekitar**
 
@@ -325,7 +325,7 @@ Isu-isu manajemen atau organisasi apakah yang anda hadapi pada saat anda menulis
 
 Silahkan ditulis perubahan perubahan yang berpengaruh dalam keberagaman (contohnya apabila anggota komunitas, dewan, atau komposisi staf anda mulai beragam dari sisi jenis kelaminnya, suku, pendidikan, umur, budaya, agama, latar belakang asal lokasinya, bahasanya, dan lain sebagainya) dalam periode pelaporan ini. Apabila organisasi/ komunitas anda mengalami tantangan keberagaman, silahkan tuliskan juga pendapat anda:
 
-Perkumpulan Jujur Bicara merupakan organisasi non pemerintah yang beranggotakan jurnalis dan individu dengan latar belakang suku, agama, pendidikan, usia dan jenis kelamin Kalimat terpotong, mungkin maksudnya beragam? namun memiliki komitmen yang sama terhadap masalah jurnalisme, pers dan kebebasan berekspresi di Tanah Papua. 
+Perkumpulan Jujur Bicara merupakan organisasi non pemerintah yang beranggotakan jurnalis dan individu dengan latar belakang suku, agama, pendidikan, usia dan jenis kelamin <font color="red">Kalimat terpotong, mungkin maksudnya beragam?</font> namun memiliki komitmen yang sama terhadap masalah jurnalisme, pers dan kebebasan berekspresi di Tanah Papua. 
 
 Sejak awal terbentuk, Perkumpulan Jujur Bicara telah menjadi suatu representasi dari kemajemukan masyarakat di Tanah Papua dengan total anggota sebanyak 36 orang, yang terdiri dari 7 perempuan dan 29 laki-laki dengan usia 22 – 56 tahun. Sementara staf yang terlibat dalam Proyek Situs Laporan Warga Papua Berbasis SMS berjumlah 14 orang, terdiri dari 5 perempuan dan 9 laki-laki dengan rentang usia 25 – 56 tahun. 
 
