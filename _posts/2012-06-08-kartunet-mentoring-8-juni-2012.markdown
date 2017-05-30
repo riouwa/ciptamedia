@@ -15,12 +15,12 @@ laporan: laporancmb
 Secara programatik, dari 6 pelatihan offline Media Komunitas yang akan diadakan selama 1 tahun ini baru terselenggara 1 kali pelatihan yaitu training broadcasting yang diselenggarakan April 2012 di Kartunet yang dihadiri sekira 15 orang terdiri dari 13 pengurus dan 2 di luar pengurus
 
 **Materi yang disajikan:**
-# Pengenalan siaran radio
-# Mekanisme kerja di radio komunitas
-# Tata cara pembuatan iklan
-# Produk – produknya
-# Training disajikan oleh Rory dari Independent Resources Person, Training ini dilakukan selama 6 jam.
-# Training online melalui fasilitas forum di situs kartunet yang diadakan seharusnya 1 bulan sekali sudah dilakukan di Januari, Maret, dan April 2012 dengan sosialisasi training online melalui facebook
+* Pengenalan siaran radio
+* Mekanisme kerja di radio komunitas
+* Tata cara pembuatan iklan
+* Produk – produknya
+* Training disajikan oleh Rory dari Independent Resources Person, Training ini dilakukan selama 6 jam.
+* Training online melalui fasilitas forum di situs kartunet yang diadakan seharusnya 1 bulan sekali sudah dilakukan di Januari, Maret, dan April 2012 dengan sosialisasi training online melalui facebook
 
 **Saran:**
 
