@@ -8,7 +8,7 @@ categories:
 laporan: laporancmb
 ---
 
-* Dari [Tengku Muhammad Dhani](http://wiki.ciptamedia.org/wiki/Tengku_Muhammad_Dhani_Iqbal) Iqbal kepada [Eva Danayanti](http://wiki.ciptamedia.org/wiki/Eva_Danayanti)
+* Dari [Tengku Muhammad Dhani Iqbal](http://wiki.ciptamedia.org/wiki/Tengku_Muhammad_Dhani_Iqbal) kepada [Eva Danayanti](http://wiki.ciptamedia.org/wiki/Eva_Danayanti)
 
 Ibu Eva yang baik, Bersama email ini saya ingin menginformasikan beberapa hal terkait program LenteraTimur.com - Menyigi Identitas Indonesia. Berikut saya runutkan hal-hal tersebut. 
 
