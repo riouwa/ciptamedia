@@ -17,4 +17,4 @@ layout: laporancmb
 **Oleh**: Ken Miryam
 	
 **Ringkasan SMS**:
-  * LT|Ken Miryam mewakili LenteraTimur.com mengikuti "Lokakarya "USHAHIDI & FRONTLINE SMS" di Jagongan Media Rakyat. 
+  * LT | Ken Miryam mewakili LenteraTimur.com mengikuti "Lokakarya "USHAHIDI & FRONTLINE SMS" di Jagongan Media Rakyat. 
