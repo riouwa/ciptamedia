@@ -1,6 +1,6 @@
 ---	
 title: Save KPK
-date: 2012-10-08
+date: 2012-10-06
 categories:	
 - laporan
 - sms
