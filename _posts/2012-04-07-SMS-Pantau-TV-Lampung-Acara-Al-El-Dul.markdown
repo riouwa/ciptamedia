@@ -9,4 +9,4 @@ layout: laporancmb
 ---
 
 Laporan SMS:
-  * JRKL|Dalam acara AL,EL,DUL pada jam 08.00 Membenarkan gebut-gebutan padahal msih di bawah umur. 
+  * JRKL\|Dalam acara AL,EL,DUL pada jam 08.00 Membenarkan gebut-gebutan padahal msih di bawah umur. 
