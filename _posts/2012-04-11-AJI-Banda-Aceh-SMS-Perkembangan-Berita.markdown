@@ -13,5 +13,5 @@ layout: laporancmb
 **Lokasi** : Banda Aceh 
 
 **Ringkasan** : 
-  * msa|Pendataan (koding) berita syariat Islam memasuki bulan ketiga. Ada perubahan pemetaan media setelah hasil FGD 21 Maret 2012 lalu. Perubahan media terjadi pada kelompok media lokal, nasional, online dan mingguan dipetakan masing-masing. Pengurangan jumlah media, karena isu lokal tidak efektif dipantau di media nasional. 
-  * msa|Pendataan (koding) berita syariat Islam memasuki bulan ketiga. Ada perubahan pemetaan media setelah hasil FGD 21 Maret 2012 lalu. Perubahan media terjadi pada kelompok media lokal, nasional, online dan mingguan dipetakan masing-masing. Pengurangan jumlah meedia, karena isu lokal tidak efektif dipantau di media nasional. 
+  * msa\|Pendataan (koding) berita syariat Islam memasuki bulan ketiga. Ada perubahan pemetaan media setelah hasil FGD 21 Maret 2012 lalu. Perubahan media terjadi pada kelompok media lokal, nasional, online dan mingguan dipetakan masing-masing. Pengurangan jumlah media, karena isu lokal tidak efektif dipantau di media nasional. 
+  * msa\|Pendataan (koding) berita syariat Islam memasuki bulan ketiga. Ada perubahan pemetaan media setelah hasil FGD 21 Maret 2012 lalu. Perubahan media terjadi pada kelompok media lokal, nasional, online dan mingguan dipetakan masing-masing. Pengurangan jumlah meedia, karena isu lokal tidak efektif dipantau di media nasional. 
