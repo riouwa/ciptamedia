@@ -47,59 +47,65 @@ Berikut adalah aktivitas dan isu-isu yang anda masukkan pada permohonan hibah an
 
 Aktifitas dan isu yang anda atasi:
 
-Isu: Buruh tidak mendapatkan informasi dan pengetahuan perburuhan yang bersifat tandingan (alternatif) dan benar, baik dari media informasi arus-utama (mainstream) maupun dari komunitasnya seperti serikat buruh tempat ia beraktivitas
-Aktivitas 1 - Memproduksi dan menyebarluaskan informasi dan pengetahuan perburuhan yang bersifat tandingan (alternatif) dan benar.
-Mendirikan Media Center Solidaritas.net yang dilengkapi dengan akses internet yang beralamat: Jalan Kasuari Raya Ruko Roxy Plaza Blok S1 A No. 15, Pecenongan Square, Kawasan Jababeka 2, Cikarang Selatan, Kab. Bekasi, Jawa Barat.
-Memproduksi konten berupa teks dan video.
-Konten yang diproduksi pada periode ini sebanyak 1.149 yang dapat diakses di pranala ini dan Lowongan Kerja
-Konten video yang diproduksi untuk proyek ini sebanyak 20 video
-Menyebarluaskan informasi dan pengetahuan melalui:
-Facebook SolidaritasNews dengan jumlah fans yang meningkat dari 3.773 menjadi lebih dari 5600.
-Twitter
-Whats App: +6281943737903
-Blackberry Messenger dengan pin 7F96324B dengan jumlah pelanggan 980 kontak.
-SMS dengan nomor: 081943737903
-Aplikasi Android Solidaritas.net
-Menyelenggarakan diskusi bulanan membahas masalah aktual.
-Pertemuan serikat buruh se Jawa Barat. Dapat dilihat di pranala ini
-Pertemuan bulanan tentang kasus-kasus pelanggaran hak yang dialami oleh buruh, 15 Juni 2015
-Pertemuan bulanan tentang bedah kasus ketenagakerjaan, 26 Juni 2015
-Pertemuan bulanan membahas pentingnya berserikat, 2 Agustus 2015.
-Pertemuan bulanan sekaligus acara Halal bi Halal mendiskusikan mengenai persatuan, 9 Agustus 2015.
-Pertemuan bulanan mendiskusikan persoalan masalah pabrik, khusus buruh kontrak, 7 September 2015.
-Isu: Buruh membutuhkan informasi hukum untuk mengatasi masalahnya.
-Aktivitas 2 - Menyediakan konsultasi melalui tatap muka langsung dan media seluler (SMS, BBM dan Whats App).
-Hasil konsultasi dan jawabannya bisa diakses di: Halaman Konsultasi Solidaritas.net
-Isu: Buruh tidak memiliki kemampuan menulis dan membuat informasi.
-Aktivitas 3 - Menyelenggarakan pendidikan jurnalistik untuk buruh.
-Menyelenggarakan pendidikan jurnalistik dilakukan satu kali selama dua hari bekerjasama dengan Trade Union Rights Centre (TURC) pada 18-19 April 2015 - Hasil: disepakati untuk membuat blog penulis buruh Penulis yang berhasil direkrut sebagai berikut: 
+1. Isu: Buruh tidak mendapatkan informasi dan pengetahuan perburuhan yang bersifat tandingan (alternatif) dan benar, baik dari media informasi arus-utama (mainstream) maupun dari komunitasnya seperti serikat buruh tempat ia beraktivitas
+
+**Aktivitas 1 - Memproduksi dan menyebarluaskan informasi dan pengetahuan perburuhan yang bersifat tandingan (alternatif) dan benar.**
+
+* Mendirikan Media Center Solidaritas.net yang dilengkapi dengan akses internet yang beralamat: Jalan Kasuari Raya Ruko Roxy Plaza Blok S1 A No. 15, Pecenongan Square, Kawasan Jababeka 2, Cikarang Selatan, Kab. Bekasi, Jawa Barat.
+* Memproduksi konten berupa teks dan video.
+1. Konten yang diproduksi pada periode ini sebanyak 1.149 yang dapat diakses di pranala ini dan Lowongan Kerja
+2. Konten video yang diproduksi untuk proyek ini sebanyak 20 video
+* Menyebarluaskan informasi dan pengetahuan melalui:
+1. Facebook SolidaritasNews dengan jumlah fans yang meningkat dari 3.773 menjadi lebih dari 5600.
+2. Twitter
+3. Whats App: +6281943737903
+4. Blackberry Messenger dengan pin 7F96324B dengan jumlah pelanggan 980 kontak.
+5. SMS dengan nomor: 081943737903
+6. Aplikasi Android Solidaritas.net
+* Menyelenggarakan diskusi bulanan membahas masalah aktual.
+1. Pertemuan serikat buruh se Jawa Barat. Dapat dilihat di pranala ini
+2. Pertemuan bulanan tentang kasus-kasus pelanggaran hak yang dialami oleh buruh, 15 Juni 2015
+3. Pertemuan bulanan tentang bedah kasus ketenagakerjaan, 26 Juni 2015
+4. Pertemuan bulanan membahas pentingnya berserikat, 2 Agustus 2015.
+5. Pertemuan bulanan sekaligus acara Halal bi Halal mendiskusikan mengenai persatuan, 9 Agustus 2015.
+6. Pertemuan bulanan mendiskusikan persoalan masalah pabrik, khusus buruh kontrak, 7 September 2015.
+
+2. Isu: Buruh membutuhkan informasi hukum untuk mengatasi masalahnya.
+**Aktivitas 2 - Menyediakan konsultasi melalui tatap muka langsung dan media seluler (SMS, BBM dan Whats App).**
+* Hasil konsultasi dan jawabannya bisa diakses di: Halaman Konsultasi Solidaritas.net
+
+3. Isu: Buruh tidak memiliki kemampuan menulis dan membuat informasi.
+**Aktivitas 3 - Menyelenggarakan pendidikan jurnalistik untuk buruh.**
+* Menyelenggarakan pendidikan jurnalistik dilakukan satu kali selama dua hari bekerjasama dengan Trade Union Rights Centre (TURC) pada 18-19 April 2015 - Hasil: disepakati untuk membuat blog penulis buruh Penulis yang berhasil direkrut sebagai berikut: 
 Dari buruh
-Mujiyo
-Tarsono
-Jaelani
-Indra 
-(Tulisan buruh dapat di akses di kolom buruh menulis) 
-Penulis lepas
-Adela Eka Marza
-Riza Dian Kurnia
-Erniyanti
-Isu: Buruh tidak memiliki informasi dan pengetahuan untuk membela dirinya sendiri di Pengadilan Hubungan Industrial (PHI)
-Aktivitas 4 - Menyelenggarakan pendidikan hukum perburuhan untuk buruh dan melatih buruh untuk membela dirinya sendiri melalui simulasi Pengadilan Hubungan Industrial.
-Pendidikan advokasi berjalan selama 12 kali pertemuan
-Pada 21 Februari 2015 (3 jam)
-1 Maret 2015 (3 jam)
-7 Maret 2015 (3 jam)
-21 Maret 2015 (3 jam)
-28-29 Maret 2015 (24 jam)
-15 April 2015 (3 jam)
-1 Juni 2015 (3 jam)
-13 Juni 2015 (3 jam)
-16 Juni 2015 (3 jam)
-18 Agustus 2015 (3 jam)
-20 Agustus 2015 (3 jam)
-dan 6 September 2015 (3 jam) 
-Total 57 jam pendidikan.
-Isu: Buruh tidak memahami posisinya dalam hubungan industrial dan cara menggunakan kekuatan kolektifnya
+ 1. Mujiyo
+ 2. Tarsono
+ 3. Jaelani
+ 4. Indra 
+ (Tulisan buruh dapat di akses di kolom buruh menulis) 
+ Penulis lepas
+ 5. Adela Eka Marza
+ 6. Riza Dian Kurnia
+ 7. Erniyanti
+
+4. Isu: Buruh tidak memiliki informasi dan pengetahuan untuk membela dirinya sendiri di Pengadilan Hubungan Industrial (PHI)
+**Aktivitas 4 - Menyelenggarakan pendidikan hukum perburuhan untuk buruh dan melatih buruh untuk membela dirinya sendiri melalui simulasi Pengadilan Hubungan Industrial.**
+* Pendidikan advokasi berjalan selama 12 kali pertemuan
+1. Pada 21 Februari 2015 (3 jam)
+2. 1 Maret 2015 (3 jam)
+3. 7 Maret 2015 (3 jam)
+4. 21 Maret 2015 (3 jam)
+5. 28-29 Maret 2015 (24 jam)
+6. 15 April 2015 (3 jam)
+7. 1 Juni 2015 (3 jam)
+8. 13 Juni 2015 (3 jam)
+9. 16 Juni 2015 (3 jam)
+10. 18 Agustus 2015 (3 jam)
+11. 20 Agustus 2015 (3 jam)
+12. dan 6 September 2015 (3 jam) 
+Total **57 jam pendidikan.**
+
+5. Isu: Buruh tidak memahami posisinya dalam hubungan industrial dan cara menggunakan kekuatan kolektifnya
 Aktivitas 5 - Menyelenggarakan pendidikan ekonomi dan politik untuk buruh khususnya mengenai analisa pembukuan keuangan
 15 Maret 2015 (3 jam)
 12 April 2015 (3 jam)
@@ -119,7 +125,8 @@ Aktivitas 5 - Menyelenggarakan pendidikan ekonomi dan politik untuk buruh khusus
 20 September 2015 (3 jam)
 dan 2 Oktober 2015 (3 jam) 
 Total 84 jam pendidikan
-Isu: Buruh mengalami kasus-kasus ketenagakerjaan
+
+5. Isu: Buruh mengalami kasus-kasus ketenagakerjaan
 Aktivitas 6 - Mengadvokasi kasus-kasus buruh dan membentuk wadah-wadah advokasi yang dijalankan oleh buruh yang telah mendapatkan pendidikan dan latihan.
 Mengadvokasi kasus pekerjaan kontrak yang melanggar yang dialami oleh buruh PT TRC Industry dan PT Setia Guna Selaras, kemudian dalam perjalanan kasusnya, atas saran dari Solidaritas.net, para buruh memutuskan mendirikan dan bernaung di bawah Persaudaraan Pekerja Muslim Indonesia (PPMI).
 Mengadvokasi kasus buruh kontrak PT Nanbu Indonesia, bernama Wimo. Kasus sudah sampai diadukan ke Dinas Tenaga Kerja (Disnaker) Kabupaten Bekasi, namun buruhnya tidak pernah muncul lagi dan memutuskan pulang kampung.
