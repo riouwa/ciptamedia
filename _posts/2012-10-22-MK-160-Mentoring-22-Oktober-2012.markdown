@@ -1,5 +1,5 @@
 ---
-title: AJI Banda Aceh - Mentoring 22 Oktober 2012
+title: MK-160 - Mentoring 22 Oktober 2012
 date: 2012-10-22
 categories:
 - laporan
