@@ -27,21 +27,29 @@ Berdasarkan pranala YouTube kelompok 6211 ditemukan lima video yang diunggah [3]
 **Rujukan**
 
 [1] http://wikimedia.or.id/wiki/Tabel_penerima_hibah#Ford_Foundation
+
 [2] Contoh laporan aktivitas Next Generation
 http://ciptamedia.org/wiki/Next_Generation_%E2%80%93_Media_Watch_%26_Literacy/Laporan_Aktivitas
 VS Laporan aktivitas Video Perdamaian
 http://ciptamedia.org/wiki/Video_untuk_Perdamaian/Laporan_Aktifitas
+
 [3] THE OPPRESSED (Balada Masjid Tua di Kota Bertuah) diunggah tanggal
 31 Agustus 2012
 http://www.youtube.com/watch?v=8ZvGpBtYMcY&feature=plcp
+
 [4] HKBP Filadelfia 6 Maret 2012 : Ancaman pada Jurnalis  diunggah
 tanggal 8 Mei 2012
 http://www.youtube.com/watch?v=bJX4Cv7I80E&feature=plcp
+
 [5] HKBP Filadelfia 25 Maret 2012 diunggah tanggal 20 April 2012
 http://www.youtube.com/watch?v=sm_m2_4BuYA&feature=plcp
+
 [6] HKBP Filadelfia 15 April 2012 diunggah tanggal 21 April 2012
 http://www.youtube.com/watch?v=-7zqlKlBcB0&feature=plcp
+
 [7] Ancaman terhadap Pendeta Palti Panjaitan diunggah tanggal 21 April
 2012 http://www.youtube.com/watch?v=ol8bBJTfxoU&feature=plcp
+
 [8] http://www.ciptamedia.org/2011/11/08/video-untuk-perdamaian-4/
+
 [9] http://wikimedia.or.id/wiki/Video_untuk_Perdamaian
