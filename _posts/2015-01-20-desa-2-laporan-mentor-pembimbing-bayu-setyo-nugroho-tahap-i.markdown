@@ -1,6 +1,6 @@
 ---
 title: Desa 2.0: Sistem Tata Kelola Sumber Daya Desa - Laporan mentor pembimbing Bayu Setyo Nugroho tahap I
-date: 2015-01-01
+date: 2015-01-20
 categories:
 - laporan
 - mentoring
@@ -8,7 +8,9 @@ categories:
 ---
 
 Date: 2015-01-20 
+
 Subject: Laporan Pertama 
+
 To: Siska, Yanuar, Yoss, Budi Satrio
 
 Sampai bulan Desember, aktivitas Program Desa 2.0 (Sistem Tata Kelola Sumberdaya Desa) telah memasuki tahap lokakarya dan in house training di masing-masing kabupaten dengan peserta desa-desa yang menjadi sasaran program. Ada beberapa catatan dari proses yang sudah dilakukan:
