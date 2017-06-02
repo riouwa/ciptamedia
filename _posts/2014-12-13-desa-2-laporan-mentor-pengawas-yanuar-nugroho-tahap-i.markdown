@@ -1,6 +1,6 @@
 ---
 title: Desa 2.0: Sistem Tata Kelola Sumber Daya Desa - Laporan mentor pengawas Yanuar Nugroho tahap I
-date: 2014-12-01
+date: 2014-12-13
 categories:
 - laporan
 - mentoring
@@ -8,7 +8,9 @@ categories:
 ---
 
 Date: 2014-12-13 16:32 GMT+07:00 
+
 Subject: Laporan Mentoring Program Desa 2.0 
+
 To: info@ciptamedia.org
 
 Disiapkan bersama oleh Tim Desa2.0 dan YN berdasarkan diskusi online.
