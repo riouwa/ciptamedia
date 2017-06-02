@@ -1,6 +1,6 @@
 ---
 title: Desa 2.0: Sistem Tata Kelola Sumber Daya Desa - Laporan mentor khusus Idaman Andarmosoko
-date: 2015-11-01
+date: 2015-11-11
 categories:
 - laporan
 - mentoring
@@ -8,11 +8,17 @@ categories:
 ---
 
 From: idaman andarmosoko
+
 Date: 2015-11-13 15:10 GMT+11:00
+
 Subject: Pertemuan khusus Proyek Desa 2.0
+
 To: Heru Tjatur, Siska Doviana, Biyanto Rebin
+
 Pertemuan khusus Proyek Desa 2.0
+
 Tgl 11 november 2015
+
 Jalan Pati, Jakarta
 
 
