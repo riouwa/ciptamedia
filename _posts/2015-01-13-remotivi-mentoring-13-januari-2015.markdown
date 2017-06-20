@@ -1,5 +1,5 @@
 ---
-title: Remotivi - Mentoring 13 Januari 2014
+title: Remotivi - Mentoring 13 Januari 2015
 date: 2015-01-13
 categories:
 - laporan
