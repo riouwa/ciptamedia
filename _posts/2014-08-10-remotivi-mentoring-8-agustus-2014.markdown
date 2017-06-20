@@ -1,5 +1,5 @@
 ---
-title: Remotivi - Mentoring Agustus 2014
+title: Remotivi - Mentoring 10 Agustus 2014
 date: 2014-08-10
 categories:
 - laporan
