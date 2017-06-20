@@ -31,3 +31,16 @@ Tanggal diberikan: 31 Agustus 2015
 Besaran: Rp 92.000.000 
 
 Hal lain, tempo hari Roy sudah menyampaikan bahwa kami fix memutuskan bahwa proyek aplikasi ini diberi nama "Lapor KPI", di Wikimedia masih saya lihat nama proyeknya "Kampanye Frekuensi Milik Publik". Bolehkah diganti agar tak terjadi kebingungan? Terima Kasih :-) Semoga tidak ada masalah dengan usulan ini.
+
+
+**Revisi anggaran**
+
+From: Roy Thaniago 
+
+Date: 2014-09-12 17:06 GMT+07:00 
+
+To: Nurvina Alifa Dharmawan, Biyanto Rebin, Siska Doviana, Heru Tjatur, Maman Suherman 
+
+Mba Siska dan rekan-rekan, 
+
+Setelah rapat lebih detail, ternyata kami butuh merevisi anggaran (dengan total tetap Rp. 700 juta). Apakah ini dibolehkan oleh CMS? Intinya ada bagian yang dihilangkan (seperti buku saku), dan ada yang ditambahkan (seperti untuk keperluan pemasaran).
