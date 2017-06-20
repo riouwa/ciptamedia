@@ -8,8 +8,11 @@ categories:
 ---
 
 From: Siska Doviana 
+
 2014-08-16 11:41 GMT+07 
+
 To: Maman Suherman, Heru Tjatur 
+
 Subjek: [CMS - Pertemuan Mentor] Roy Thaniago - Kampanye Frekuensi Milik Publik
 
 Pak Maman dan Pak Tjatur yang baik, Terlampir adalah anggaran dan proposal dari Remotivi yang sudah disesuaikan berdasarkan hasil rapat. Apabila dirasa sudah cocok dan tidak ada pertanyaan lagi, maka tim CMS akan memproses dananya setelah mendapat persetujuan dari kedua mentor.
