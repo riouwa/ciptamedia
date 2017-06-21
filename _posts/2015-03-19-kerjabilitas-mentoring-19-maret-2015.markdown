@@ -36,4 +36,15 @@ ini review kerjabilitas.com
 ![Maret 13 2015 Hasil pertemuan dengan mentor Akhmad Nasir Kerjabilitas.com 10.png](/uploads/Maret 13 2015 Hasil pertemuan dengan mentor Akhmad Nasir Kerjabilitas.com 10.png){: .img-responsive .center-block }
 
 
+From: rubby emir 
+
+Date: 2015-03-19 18:10 GMT+11:00 
+
+To: Akhmad Nasir
+
+Mas Nasir yang baik,
+
+Terima kasih atas ulasan untuk Kerjabilitas. Sementara saya teruskan ke tim programmer dulu untuk nanti kami diskusikan, lalu menanggapi mas.
+
+Salam, rubby
 
