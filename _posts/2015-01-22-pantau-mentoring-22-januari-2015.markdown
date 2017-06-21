@@ -1,6 +1,6 @@
 ---
 title: M-Pantau Kebebasan Beragama dan Berkeyakinan - Mentoring 22 Januari 2015
-date: 22015-01-22
+date: 2015-01-22
 categories:
 - laporan
 - mentoring
