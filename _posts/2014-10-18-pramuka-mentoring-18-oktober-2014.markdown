@@ -9,9 +9,9 @@ categories:
 
 **Artikel**
 
-1. Sosialisasi PanduApp, Seperti Apa Ya? (Bagian I)
+1. [Sosialisasi PanduApp, Seperti Apa Ya? (Bagian I)](http://ciptamedia.org/sosialisasi-panduapp-seperti-apa-ya-bagian-i/)
 
-2. Bagaimana Membuat Aplikasi Pramuka Seluler Menarik Untuk Penggunanya?
+2. [Bagaimana Membuat Aplikasi Pramuka Seluler Menarik Untuk Penggunanya?](http://ciptamedia.org/bagaimana-membuat-aplikasi-pramuka-seluler-menarik-untuk-penggunanya/)
 
 **Laporan mentor pembimbing Yantisa Akhadi tahap I**
 
@@ -32,7 +32,7 @@ Berdasarkan pertimbangan harga dan banyaknya target pengguna awal, sebuah platfo
 Dianjurkan untuk menerapkan beberapa konsep dasar gamifikasi, yaitu penerapan konsep2 game ke dalam sistem, untuk meningkatkan motivasi penggunaan sistem. Hal ini akan diujicobakan dengan pembuatan Lencana Digital. Konsep lencana (badge) sudah lazim digunakan dalam Pramuka, dengan adanya digitalisasi maka akan lebih mudah diterima oleh pengguna sistem.
 Pada kunjungan pertama mentor (10-11 Oktober 2014) beberapa masukan dari kedua mentor telah disampaikan untuk menjadi pertimbangan dan akan coba diimplementasikan apabila sesuai dengan kebutuhan pengguna sistem.
 Saat ini desain awal tampilan sistem telah diselesaikan [1] dan mulai masuk ke tahap pemrograman. Diharapkan aplikasi dapat diselesaikan pada bulan Desember 2014.
-[1] https://twitter.com/MulyanaSukabumi/status/521626284820934656
+[1] [https://twitter.com/MulyanaSukabumi/status/521626284820934656](https://twitter.com/MulyanaSukabumi/status/521626284820934656)
 
 Terima kasih dan salam,
 
