@@ -5,7 +5,8 @@ categories:
 - laporan
 - Situs Laporan JUBI
 ---
-![200px-Februari_02_2012_ALDP_Liputan_Khusus_Tapol_Biak.JPG](/uploads/200px-Februari_02_2012_ALDP_Liputan_Khusus_Tapol_Biak.JPG){: .img-responsive .center-block }
+![300px-September_16_2014_Jubi_Pelatihan_Wiki_Tahap_2-1.jpg](/uploads/300px-September_16_2014_Jubi_Pelatihan_Wiki_Tahap_2-1.jpg){: .img-responsive .center-block }
+![300px-September_16_2014_JUBI_Pelatihan_Wiki2.jpg](/uploads/300px-September_16_2014_JUBI_Pelatihan_Wiki2.jpg){: .img-responsive .center-block }
 
 **Tujuan** : Pelatihan Penulisan Laporan CMS Tahap 2
 
