@@ -16,8 +16,8 @@ categories:
 **Jam** : 
 
 **Hadir** : 
-* Rina Oktarianti Maizier
-* Victor Mambor
+* [Rina Oktarianti Maizier](http://wiki.ciptamedia.org/wiki/Rina_Oktarianti_Maizier0
+* [Victor Mambor](http://wiki.ciptamedia.org/wiki/Victor_Mambor)
 * Anthon Herman
 * Kepas Matuan
 
